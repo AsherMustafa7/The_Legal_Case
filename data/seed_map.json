@@ -1,0 +1,272 @@
+{
+  "murder": {
+    "triggers": ["murder", "murdered", "killed", "kill", "homicide", "section 302", "s.302", "302 ipc", "302"],
+    "ipc_sections": ["302"],
+    "acts": []
+  },
+  "culpable_homicide_not_amounting_to_murder": {
+    "triggers": ["culpable homicide", "culpable homicide not amounting to murder", "section 304", "s.304", "304 ipc"],
+    "ipc_sections": ["304"],
+    "acts": []
+  },
+  "dowry_death": {
+    "triggers": ["dowry death", "dowry-related death", "section 304B", "304B", "304b"],
+    "ipc_sections": ["304B"],
+    "acts": []
+  },
+  "attempt_to_murder": {
+    "triggers": ["attempt to murder", "attempted murder", "section 307", "s.307", "307 ipc"],
+    "ipc_sections": ["307"],
+    "acts": []
+  },
+  "grievous_hurt": {
+    "triggers": ["grievous hurt", "grievously hurt", "section 320", "s.320", "320 ipc"],
+    "ipc_sections": ["320"],
+    "acts": []
+  },
+  "hurt_and_assault": {
+    "triggers": ["assault", "simple hurt", "hurt", "section 323", "323 ipc", "section 352", "352 ipc"],
+    "ipc_sections": ["323","352"],
+    "acts": []
+  },
+  "rape_adult": {
+    "triggers": ["rape", "sexual assault", "section 376", "376 ipc", "sexual intercourse without consent"],
+    "ipc_sections": ["376"],
+    "acts": []
+  },
+  "pocso_child_sexual_offence": {
+    "triggers": ["pocso", "protection of children from sexual offences", "penetrative sexual assault", "sexual offence against child", "child sexual", "POCSO"],
+    "ipc_sections": [],
+    "acts": ["POCSO"]
+  },
+  "sexual_harassment_outraging_modesty": {
+    "triggers": ["outraging modesty", "sexual harassment", "molestation", "section 354", "354 ipc", "eve-teasing"],
+    "ipc_sections": ["354"],
+    "acts": []
+  },
+  "kidnapping_abduction": {
+    "triggers": ["kidnap", "kidnapping", "abduction", "abducted", "section 363", "s.363", "362 ipc", "359"],
+    "ipc_sections": ["359","362","363"],
+    "acts": []
+  },
+  "human_trafficking": {
+    "triggers": ["trafficking", "human trafficking", "trafficked", "traffick", "trafficking in persons", "section 370", "370"],
+    "ipc_sections": ["370"],
+    "acts": []
+  },
+  "robbery": {
+    "triggers": ["robbery", "robbed", "robbery under arms", "section 392", "392 ipc", "robbery with violence"],
+    "ipc_sections": ["392"],
+    "acts": []
+  },
+  "dacoity": {
+    "triggers": ["dacoity", "dacoits", "gang dacoity", "section 391", "395", "396"],
+    "ipc_sections": ["391","395","396"],
+    "acts": []
+  },
+  "theft": {
+    "triggers": ["theft", "stolen", "stealing", "section 379", "379 ipc", "petty theft", "grand theft"],
+    "ipc_sections": ["379"],
+    "acts": []
+  },
+  "burglary_house_trespass": {
+    "triggers": ["burglary", "housebreaking", "house trespass", "section 380", "380 ipc", "457", "trespass"],
+    "ipc_sections": ["380","457"],
+    "acts": []
+  },
+  "criminal_breach_of_trust": {
+    "triggers": ["criminal breach of trust", "cheque dishonor trust", "section 405", "405 ipc", "section 406", "406 ipc", "criminal breach"],
+    "ipc_sections": ["405","406","409"],
+    "acts": []
+  },
+  "cheating_and_fraud": {
+    "triggers": ["cheating", "fraud", "scam", "cheated", "section 420", "420 ipc", "dishonestly inducing delivery", "confidence trick"],
+    "ipc_sections": ["420","415"],
+    "acts": []
+  },
+  "forgery": {
+    "triggers": ["forgery", "forged", "fabricated document", "section 463", "463 ipc", "forgery of signature"],
+    "ipc_sections": ["463","464","465"],
+    "acts": []
+  },
+  "extortion_blackmail": {
+    "triggers": ["extortion", "blackmail", "section 383", "383 ipc", "threaten", "demand money", "extort"],
+    "ipc_sections": ["383","384"],
+    "acts": []
+  },
+  "criminal_conspiracy_abetment": {
+    "triggers": ["conspiracy", "criminal conspiracy", "abetment", "abetted", "section 120B", "120b", "conspired"],
+    "ipc_sections": ["120B"],
+    "acts": []
+  },
+  "cheque_bounce_ni_act": {
+    "triggers": ["cheque bounce", "section 138", "138", "ni act", "negotiable instruments", "dishonour of cheque"],
+    "ipc_sections": [],
+    "acts": ["Negotiable Instruments Act (Section 138)"]
+  },
+  "money_laundering_pmla": {
+    "triggers": ["money laundering", "launder", "pmla", "prevention of money laundering", "proceeds of crime"],
+    "ipc_sections": [],
+    "acts": ["PMLA"]
+  },
+  "bank_and_corporate_fraud": {
+    "triggers": ["bank fraud", "loan fraud", "financial fraud", "forgery in bank", "embezzlement", "fudged accounts", "corporate fraud"],
+    "ipc_sections": [],
+    "acts": []
+  },
+  "cybercrime": {
+    "triggers": ["cyber", "hacking", "phishing", "ddos", "malware", "ransomware", "unauthorised access", "it act", "data breach", "online fraud"],
+    "ipc_sections": [],
+    "acts": ["Information Technology Act"]
+  },
+  "sexual_exploitation_and_prostitution": {
+    "triggers": ["procuring a minor", "prostitution", "commercial sexual exploitation", "section 372", "372", "section 373", "373"],
+    "ipc_sections": ["372","373"],
+    "acts": []
+  },
+  "ndps_drug_offences": {
+    "triggers": ["ndps", "narcotic", "narcotics", "possession of narcotic", "possession of drugs", "drug trafficking", "heroin", "cocaine", "ganja", "charas", "cannabis"],
+    "ipc_sections": [],
+    "acts": ["NDPS Act"]
+  },
+  "arms_and_weapon_offences": {
+    "triggers": ["illegal arms", "firearm", "gun", "arms act", "ammunition", "possession of weapon", "arms trafficking"],
+    "ipc_sections": [],
+    "acts": ["Arms Act"]
+  },
+  "terrorism_and_uapa": {
+    "triggers": ["terrorism", "uapa", "unlawful activities", "terrorist", "terror act", "bomb blast", "sedition", "section 121A", "124A"],
+    "ipc_sections": ["121A","124A"],
+    "acts": ["UAPA"]
+  },
+  "corruption_and_bribery": {
+    "triggers": ["bribe", "bribery", "corruption", "prevention of corruption", "public servant", "kickback"],
+    "ipc_sections": [],
+    "acts": ["Prevention of Corruption Act"]
+  },
+  "public_servant_offences": {
+    "triggers": ["misconduct by public servant", "public servant corruption", "dereliction of duty", "official misconduct"],
+    "ipc_sections": [],
+    "acts": []
+  },
+  "counterfeit_currency_and_forgery_of_notes": {
+    "triggers": ["fake currency", "counterfeit", "counterfeit currency", "section 489C", "489C", "fake note"],
+    "ipc_sections": ["489C","489D"],
+    "acts": []
+  },
+  "smuggling_and_customs_offences": {
+    "triggers": ["smuggling", "customs", "import contraband", "illegal import", "customs duty evasion"],
+    "ipc_sections": [],
+    "acts": ["Customs Act"]
+  },
+  "tax_evasion_and_gst_fraud": {
+    "triggers": ["tax evasion", "income tax evasion", "gst fraud", "tax fraud", "tax evaded"],
+    "ipc_sections": [],
+    "acts": ["Income Tax Act","GST"]
+  },
+  "wildlife_and_forest_offences": {
+    "triggers": ["poaching", "wildlife", "tiger poaching", "illegal wildlife trade", "forest offence", "wildlife protection act"],
+    "ipc_sections": [],
+    "acts": ["Wildlife Protection Act"]
+  },
+  "environmental_offences": {
+    "triggers": ["pollution", "environment", "environmental violation", "industrial effluent", "epa", "environment protection act"],
+    "ipc_sections": [],
+    "acts": ["Environment (Protection) Act"]
+  },
+  "road_and_motor_vehicle_offences": {
+    "triggers": ["rash driving", "negligent driving", "hit and run", "motor vehicle act", "section 304A", "304A", "causing death by negligence"],
+    "ipc_sections": ["304A"],
+    "acts": ["Motor Vehicles Act"]
+  },
+  "medical_negligence_and_death_by_negligence": {
+    "triggers": ["medical negligence", "death by negligence", "professional negligence", "medical error", "malpractice"],
+    "ipc_sections": ["304A"],
+    "acts": []
+  },
+  "poisoning": {
+    "triggers": ["poisoning", "poisoned", "poison", "administered poison", "poisonous substance", "poison intent"],
+    "ipc_sections": [],
+    "acts": []
+  },
+  "perjury_false_evidence": {
+    "triggers": ["perjury", "false evidence", "false affidavit", "false statement", "section 191", "section 193"],
+    "ipc_sections": ["191","193"],
+    "acts": []
+  },
+  "contempt_of_court": {
+    "triggers": ["contempt of court", "scandalizing the court", "willful disobedience", "contempt"],
+    "ipc_sections": [],
+    "acts": ["Contempt of Courts Act"]
+  },
+  "riots_public_order": {
+    "triggers": ["riots", "public unrest", "rioting", "section 147", "section 149", "mob violence"],
+    "ipc_sections": ["147","149"],
+    "acts": []
+  },
+  "arson": {
+    "triggers": ["arson", "set fire", "burnt", "fire", "section 435", "435 ipc"],
+    "ipc_sections": ["435"],
+    "acts": []
+  },
+  "property_disputes_and_title_suits": {
+    "triggers": ["property dispute", "title", "deed", "sale deed", "possession", "land dispute", "ejectment", "suit for possession", "tortious dispossession"],
+    "ipc_sections": [],
+    "acts": []
+  },
+  "civil_contract_and_commercial_disputes": {
+    "triggers": ["contract dispute", "breach of contract", "suit for breach", "commercial dispute", "agreement dispute"],
+    "ipc_sections": [],
+    "acts": []
+  },
+  "consumer_protection_violations": {
+    "triggers": ["consumer complaint", "consumer forum", "consumer protection", "defective product", "service deficiency"],
+    "ipc_sections": [],
+    "acts": ["Consumer Protection Act"]
+  },
+  "electoral_offences": {
+    "triggers": ["election offence", "booth capturing", "electoral malpractice", "vote buying", "Representation of the People Act"],
+    "ipc_sections": [],
+    "acts": ["Representation of the People Act"]
+  },
+  "juvenile_offences": {
+    "triggers": ["juvenile", "juvenile justice", "child offender", "juvenile delinquent", "juvenile justice act"],
+    "ipc_sections": [],
+    "acts": ["Juvenile Justice Act","POCSO"]
+  },
+  "domestic_violence": {
+    "triggers": ["domestic violence", "domestic abuse", "household violence", "Protection of Women from Domestic Violence Act", "PWDVA"],
+    "ipc_sections": [],
+    "acts": ["Protection of Women from Domestic Violence Act"]
+  },
+  "dowry_harassment_498A": {
+    "triggers": ["498a", "section 498A", "cruelty by husband", "dowry harassment", "harassment for dowry"],
+    "ipc_sections": ["498A"],
+    "acts": []
+  },
+  "organized_crime_and_racket": {
+    "triggers": ["organized crime", "racket", "syndicate", "mafia", "criminal organization", "gang"],
+    "ipc_sections": [],
+    "acts": []
+  },
+  "illegal_land_grab_and_encroachment": {
+    "triggers": ["land grab", "encroachment", "illegal possession of land", "eviction dispute", "land mafia"],
+    "ipc_sections": [],
+    "acts": []
+  },
+  "market_and_trade_regulations": {
+    "triggers": ["adulteration", "food adulteration", "FSSAI violation", "market malpractice", "trader fraud"],
+    "ipc_sections": [],
+    "acts": []
+  },
+  "sexual_offences_secondary": {
+    "triggers": ["sexual exploitation", "sexual assault non-penetrative", "sexual coercion", "indecent assault"],
+    "ipc_sections": ["354","354A"],
+    "acts": []
+  },
+  "miscellaneous": {
+    "triggers": ["miscellaneous", "other offence", "suo motu", "petition", "writ", "misc"],
+    "ipc_sections": [],
+    "acts": []
+  }
+}

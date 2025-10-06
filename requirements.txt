@@ -1,0 +1,16 @@
+pdfplumber
+pdf2image
+pytesseract
+pillow
+spacy
+sentence-transformers
+umap-learn
+hdbscan
+bertopic
+matplotlib
+scikit-learn
+pandas
+openpyxl
+nltk
+torch                # sentence-transformers will depend on torch; may be heavy on install
+tqdm
