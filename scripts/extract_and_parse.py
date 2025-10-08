@@ -161,17 +161,40 @@ def parse_case(text, filename, seed_map, places):
     out["entities"]["persons"] = list(dict.fromkeys(persons))
     out["entities"]["gpes"] = list(dict.fromkeys(gpes))
 
-    # --- Seed Labeling ---
+    # --- Seed Labeling (fixed for nested seed_map) ---
     lower = text.lower()
     labels, keywords = set(), set()
-    for label, triggers in seed_map.items():
-        for t in triggers:
+
+    for label, entry in seed_map.items():
+        # each entry is a dict with keys: triggers, ipc_sections, acts
+        trigger_list = entry.get("triggers", [])
+        ipc_list = entry.get("ipc_sections", [])
+        act_list = entry.get("acts", [])
+
+        # 1️⃣ Match trigger words
+        for t in trigger_list:
             if t.lower() in lower:
                 labels.add(label)
                 keywords.add(t)
                 break
+
+        # 2️⃣ Match IPC sections if text includes them (e.g. "Section 420")
+        for sec in ipc_list:
+            if re.search(rf"\b{sec}\b", lower):
+                labels.add(label)
+                keywords.add(f"section {sec}")
+                break
+
+        # 3️⃣ Match Acts by name
+        for act in act_list:
+            if act.lower() in lower:
+                labels.add(label)
+                keywords.add(act)
+                break
+
     out["crime_labels"] = sorted(list(labels))
     out["keywords"] = sorted(list(keywords))
+
 
     # --- Location Detection (dual-layer) ---
     loc = detect_location(text, places)

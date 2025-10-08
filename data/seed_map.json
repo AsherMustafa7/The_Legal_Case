@@ -265,7 +265,7 @@
     "acts": []
   },
   "miscellaneous": {
-    "triggers": ["miscellaneous", "other offence", "suo motu", "petition", "writ", "misc"],
+    "triggers": [ "other offence", "suo motu"],
     "ipc_sections": [],
     "acts": []
   }

@@ -69,6 +69,6 @@ if __name__ == "__main__":
     parser.add_argument("--input", required=True, help="cases.jsonl file")
     parser.add_argument("--output", required=True, help="Base output file name")
     parser.add_argument("--seed", default="data/seed_map.json", help="Path to seed_map.json")
-    parser.add_argument("--k", type=int, default=12, help="Number of clusters (from tuning)")
+    parser.add_argument("--k", type=int, default=25, help="Number of clusters (from tuning)")
     args = parser.parse_args()
     main(args)

@@ -57,6 +57,6 @@ if __name__ == "__main__":
     parser.add_argument("--input", required=True)
     parser.add_argument("--output", required=True)
     parser.add_argument("--seed", default="data/seed_map.json")
-    parser.add_argument("--k", type=int, default=5)
+    parser.add_argument("--k", type=int, default=10)
     args = parser.parse_args()
     main(args)
