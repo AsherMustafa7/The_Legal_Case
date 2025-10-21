@@ -108,20 +108,64 @@ def normalize_act(a):
     return re.sub(r"[\\\s]+", " ", a.lower()).strip()
 
 def flatten_seed(seed_map):
+    """Return set of known tokens and a normalized seed_map dict"""
     known = set()
-    for _, entry in seed_map.items():
+    normalized = {}
+
+    if isinstance(seed_map, list):
+        for i, item in enumerate(seed_map):
+            key = f"seed_{i}"
+            if isinstance(item, dict):
+                entry = item
+            elif isinstance(item, str):
+                entry = {"triggers": [item], "ipc_sections": [], "acts": []}
+            else:
+                entry = {"triggers": [], "ipc_sections": [], "acts": []}
+            normalized[key] = entry
+    elif isinstance(seed_map, dict):
+        for key, entry in seed_map.items():
+            if isinstance(entry, dict):
+                triggers = entry.get("triggers") or entry.get("trigger") or []
+                ipc_sections = entry.get("ipc_sections") or entry.get("sections") or []
+                acts = entry.get("acts") or entry.get("act") or []
+                if isinstance(triggers, str):
+                    triggers = [triggers]
+                if isinstance(ipc_sections, str):
+                    ipc_sections = [ipc_sections]
+                if isinstance(acts, str):
+                    acts = [acts]
+                normalized[key] = {
+                    "triggers": list(triggers),
+                    "ipc_sections": list(ipc_sections),
+                    "acts": list(acts)
+                }
+            elif isinstance(entry, str):
+                normalized[key] = {"triggers": [entry], "ipc_sections": [], "acts": []}
+            else:
+                normalized[key] = {"triggers": [], "ipc_sections": [], "acts": []}
+    else:
+        normalized = {}
+
+    for key, entry in normalized.items():
         for t in entry.get("triggers", []):
-            known.add(t.lower())
+            if isinstance(t, str) and t.strip():
+                known.add(t.lower().strip())
         for s in entry.get("ipc_sections", []):
-            known.add(str(s).lower())
+            try:
+                known.add(str(s).lower().strip())
+            except Exception:
+                pass
         for a in entry.get("acts", []):
-            known.add(a.lower())
-    return known
+            if isinstance(a, str) and a.strip():
+                known.add(a.lower().strip())
+
+    return known, normalized
 
 # ----------------------------------------------
 # MAIN
 # ----------------------------------------------
 def main(args):
+    # --- load dataframe ---
     df = pd.read_excel(args.input)
     for col in ["ipc_sections", "acts", "crime_labels"]:
         if col in df.columns:
@@ -136,15 +180,39 @@ def main(args):
                 if isinstance(val, str):
                     LEGAL_STOPWORDS.add(val.lower())
 
+    # --- load seed_map (normalized) ---
     seed_path = Path(args.seed)
     if seed_path.exists():
         with open(seed_path, "r", encoding="utf-8") as f:
-            seed_map = json.load(f)
+            try:
+                raw_seed = json.load(f)
+            except Exception as e:
+                print(f"❌ Failed to parse {seed_path}: {e}")
+                raw_seed = {}
     else:
         print("⚠️ No seed_map.json found; starting fresh.")
-        seed_map = {}
+        raw_seed = {}
 
-    known_terms = flatten_seed(seed_map)
+    known_terms, seed_map = flatten_seed(raw_seed)
+
+    # --- load blacklist if provided ---
+    blacklist = set()
+    if args.blacklist:
+        bl_path = Path(args.blacklist)
+        if bl_path.exists():
+            try:
+                with open(bl_path, "r", encoding="utf-8") as f:
+                    bl_list = json.load(f)
+                # normalize
+                blacklist = set([str(x).lower().strip() for x in bl_list if isinstance(x, str) and x.strip()])
+                LEGAL_STOPWORDS.update(blacklist)
+                print(f"🧹 Loaded {len(blacklist)} blacklist terms from {bl_path}")
+            except Exception as e:
+                print(f"⚠️ Failed to load blacklist: {e}")
+
+    # update known_terms with blacklist so they won't be proposed
+    known_terms = known_terms.union(blacklist)
+
     unlabeled_df = df[df["Cluster_Label"].isin(["unlabeled", "miscellaneous"])]
 
     suggestions = {}
@@ -157,6 +225,9 @@ def main(args):
             continue
 
         cleaned_texts = [extract_meaningful_tokens(remove_named_entities(t)) for t in texts]
+        if not any(cleaned_texts):
+            # fallback to raw summaries if cleaning removes too much
+            cleaned_texts = texts
 
         # --- Choose extraction method ---
         if args.method == "keybert":
@@ -168,7 +239,20 @@ def main(args):
         else:
             keywords = top_terms_tfidf(cleaned_texts)
 
-        filtered = [kw for kw in keywords if kw.lower() not in LEGAL_STOPWORDS and len(kw) > 3]
+        # normalize keywords to strings
+        keywords = [str(k).strip() for k in keywords if k]
+
+        # filter out short/generic/blacklist/stopwords
+        filtered = []
+        for kw in keywords:
+            low = kw.lower().strip()
+            if low in LEGAL_STOPWORDS:
+                continue
+            if low in blacklist:
+                continue
+            if len(kw) <= 3:
+                continue
+            filtered.append(kw)
 
         all_ipc = [sec for lst in subset["ipc_sections"] for sec in lst]
         all_acts = [act for lst in subset["acts"] for act in lst]
@@ -178,7 +262,7 @@ def main(args):
         new_keywords = [kw for kw in filtered if kw.lower() not in known_terms]
         existing = [kw for kw in filtered if kw.lower() in known_terms]
 
-        # Detect procedural clusters
+        # Detect procedural clusters (based on acts being generic)
         acts_clean = [normalize_act(a) for a in all_acts]
         acts_generic = all(a in GENERIC_ACTS for a in acts_clean if a)
         if acts_generic and len(new_keywords) < 3:
@@ -199,9 +283,12 @@ def main(args):
     # --- Interactive Review ---
     print("\n🧠 Interactive review: Approve or skip new categories.")
     approved = {}
+    blacklist_updates = set()
+
     for cid, data in suggestions.items():
         if not data["new_keywords"]:
             continue
+
         if data["common_ipc_sections"]:
             cat_name = f"ipc_{data['common_ipc_sections'][0]}_related"
         elif data["common_acts"]:
@@ -214,32 +301,66 @@ def main(args):
         print(f"Cluster {cid} → Proposed Category: {cat_name}")
         print("Common IPC:", data["common_ipc_sections"])
         print("Common Acts:", data["common_acts"])
-        print("New Keywords:", ", ".join(data["new_keywords"][:10]))
+        print("New Keywords:", ", ".join(data["new_keywords"][:20]))
+
         resp = input("Add this category to seed_map.json? (y/n): ").strip().lower()
         if resp == "y":
+            # ensure triggers don't include blacklisted items
+            triggers = [t for t in data["new_keywords"][:10] if t.lower().strip() not in blacklist]
             approved[cat_name] = {
-                "triggers": data["new_keywords"][:10],
+                "triggers": triggers,
                 "ipc_sections": data["common_ipc_sections"],
                 "acts": data["common_acts"]
             }
+            print(f"✅ Will add {len(triggers)} triggers for {cat_name}")
+        else:
+            # offer to add these new_keywords to blacklist
+            if data["new_keywords"]:
+                add_bl = input("Would you like to add these keywords to the blacklist so they won't be suggested again? (y/n): ").strip().lower()
+                if add_bl == "y":
+                    for t in data["new_keywords"]:
+                        if isinstance(t, str) and t.strip():
+                            blacklist_updates.add(t.lower().strip())
+                    print(f"🔒 {len(blacklist_updates)} keywords queued for blacklist update.")
 
+    # write approved to seed_map if any
     if approved:
         backup_path = seed_path.with_suffix(".backup.json")
         if seed_path.exists():
             shutil.copy(seed_path, backup_path)
             print(f"\n🗄️ Backup created: {backup_path}")
+        # merge approved into existing seed_map (seed_map may be normalized dictionary)
         seed_map.update(approved)
         with open(seed_path, "w", encoding="utf-8") as f:
             json.dump(seed_map, f, indent=2, ensure_ascii=False)
         print(f"✅ Added {len(approved)} new categories to {seed_path}")
     else:
-        print("\n⚠️ No new categories approved. Seed map unchanged.")
+        print("\n⚠️ No new categories approved. IPC label map unchanged.")
 
+    # write/update blacklist file if provided
+    if blacklist_updates and args.blacklist:
+        bl_path = Path(args.blacklist)
+        existing_bl = set()
+        if bl_path.exists():
+            try:
+                with open(bl_path, "r", encoding="utf-8") as f:
+                    existing = json.load(f)
+                    existing_bl = set([str(x).lower().strip() for x in existing if isinstance(x, str)])
+            except Exception:
+                existing_bl = set()
+        new_bl = sorted(list(existing_bl.union(blacklist_updates)))
+        with open(bl_path, "w", encoding="utf-8") as f:
+            json.dump(new_bl, f, indent=2, ensure_ascii=False)
+        print(f"✅ Blacklist updated ({len(new_bl)} terms) at {bl_path}")
+
+    if not approved and not blacklist_updates:
+        print("\n⚠️ No changes made to seed_map or blacklist.")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--input", required=True, help="Excel file with seed-labeled clusters")
-    parser.add_argument("--seed", default="data/seed_map.json", help="Path to seed map JSON")
+    parser.add_argument("--seed", default="data/seed_map.json", help="Path to IPC label map JSON")
+    parser.add_argument("--blacklist", default=None, help="Path to blacklist JSON (list of strings)")
     parser.add_argument("--method", default="tfidf", choices=["tfidf", "keybert"], help="Keyword extraction method")
     args = parser.parse_args()
     main(args)
