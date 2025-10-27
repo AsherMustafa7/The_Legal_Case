@@ -1,0 +1,150 @@
+The Commissioner Of Income-Tax vs M/S Banjara Developers And ... on 8 July, 2020
+The Commissioner Of Income-Tax vs M/S Banjara Developers
+And ... on 8 July, 2020
+Equivalent citations: AIRONLINE 2020 KAR 1524
+Bench: Alok Aradhe, Hemant Chandangoudar
+1
+IN THE HIGH COURT OF KARNATAKA AT BENGALURU
+DATED THIS THE 8TH DAY OF JULY 2020
+PRESENT
+THE HON'BLE MR. JUSTICE ALOK ARADHE
+AND
+THE HON'BLE MR. JUSTICE HEMANT CHANDANGOUDAR
+I.T.A. NO.153 OF 2012
+BETWEEN:
+1. THE COMMISSIONER OF INCOIME-TAX
+C.R. BUILDING, QUEENS ROAD
+BANGALORE.
+2. THE INCOME-TAX OFFICER
+WARD-11(1), C.R. BUILDING
+QUEENS ROAD, BANGALORE.
+... APPELLANTS
+(BY SRI. K.V. ARAVIND, ADV.,)
+AND:
+M/S. BANJARA DEVELOPERS AND
+CONSTRUCTIONS PVT., LTD.,
+NO.418, I MAIN, I BLOCK
+R.T. NAGAR
+BANGALORE-560032.
+... RESPONDENT
+(BY SRI. PUKALE MANOJ DEVINDER, ADV.)
+---
+THIS ITA IS FILED UNDER SECTION 260-A OF I.T. ACT,
+1961 ARISING OUT F ORDER DATED 13.01.2012 PASSED IN ITA
+NO.472/BANG/2003 FOR THE ASSESSMENT YEAR 2004-05,
+Indian Kanoon - http://indiankanoon.org/doc/98679793/ 1
+The Commissioner Of Income-Tax vs M/S Banjara Developers And ... on 8 July, 2020
+PRAYING THAT THIS HON'BLE COURT MAY BE PLEASED TO:
+2
+(I) FORMULATE THE SUBSTANTIAL QUESTIONS OF LAW
+STATED THEREIN.
+(I) SET ASIDE THE ORDER OF THE TRIBUNAL IN ITA
+NO.472/BANG/2003 DATED 13/1/2012, CONFIRMING THE ORDER
+OF THE APPELLATE COMMISSIONER AND CONFIRM THE ORDER
+PASSED BY THE INCOME TAX OFFICER, WARD -11(1),
+BANGALORE.
+THIS ITA COMING ON FOR HEARING, THIS DAY,
+ALOK ARADHE J., DELIVERED THE FOLLOWING:
+JUDGMENT
+This appeal has under Section 260A of the Income Tax Act, 1961 (hereinafter referred to as the Act
+for short) has been preferred by the assessee. The subject matter of the appeal pertains to
+Assessment year 1997-
+98. The appeal was admitted by a bench of this Court by order dated 17.09.2012 on following
+substantial question of law:
+(i) Whether the tribunal was correct in holding that the assessee could adopt
+completed contract method of accounts without appreciating the amendment to
+Section 145 of the Act w.e.f.
+01.04.1997 and applicable to the current assessment year?
+2. Facts leading to filing of this appeal briefly stated are that assessee is a company carrying on the
+business of development of plots and construction of flats. Admittedly, the assessee company
+follows mercantile system of accounting and completed contract method of accounting for contracts.
+The assessee filed its return of income for assessment year 1997-98 on 27.11.1998 declaring the
+income of Rs.7,59,730/-. The aforesaid return of income was processed under Section 143(ia) and
+the income returned, was accepted. Subsequently, the case was selected for scrutiny and assessment
+was completed under Section 143(3) on 10.02.2000 by which the income was determined at
+Rs.7,59,730/-. Subsequently, it was noticed that assessee had received Rs.1,52,42,380/- as advance
+from customers pending transfer to income accounts. Thereupon a notice under Section 148 was
+issued. The assessing officer by an order dated 28.03.2002 inter alia held that current profit cannot
+be decided by the method of book of accounting followed by the assessee and estimated the income
+of the assessee by applying 8% rate on the advances received by the assessee on a sum of
+Rs.1,52,42,380/-. Accordingly, addition was made by the assessing officer.
+Indian Kanoon - http://indiankanoon.org/doc/98679793/ 2
+The Commissioner Of Income-Tax vs M/S Banjara Developers And ... on 8 July, 2020
+3. Being aggrieved, the assessee filed an appeal before the Commissioner of Income Tax (Appeals).
+The Commissioner of Income Tax (Appeals) by an order dated 04.02.2003 inter alia held that
+advance of Rs.1,53,42,380/- is in fact accumulated balance of number of years (advance as on
+31.03.1996 being Rs.1,44,14,067/-) that completed income for completed contracts being declared in
+subsequent assessment years. Accordingly, it was held that assessing officer was not justified in
+making an addition of 8% on total advances as on 31.03.1997 and assessing officer was directed to
+delete an addition of Rs.12,19,390/-. In the result, the appeal was allowed. Being aggrieved, the
+revenue preferred an appeal. The appeal which was dismissed by the Income Tax Appellate Tribunal
+by an order dated 13.07.2005.
+4. The aforesaid order passed by the tribunal was challenged in appeal before this court by the
+revenue. The said appeal viz., I.T.A.No.36/2006 was decided by a bench of this court vide order
+dated 23.09.2010. It was inter alia held that the assessment year pertains to 1997-98 i.e.,
+subsequent to amendment to Section 145(1) of the act and the tribunal ought to have looked into the
+matter to ascertain whether the assessee could adopt completed contract method which is not
+contemplated under Section 145(1) of the Act as it refers to cash or mercantile system of accounting.
+The order of the tribunal was set aside and the matter was remitted to the tribunal for decision of
+the appeal afresh in the light of observations made in the order.
+5. The tribunal by an order dated 13.01.2012 by taking note of decision of the Supreme Court in 'CIT
+VS. BILAHARI INVESTMENTS PVT. LTD.,', (2008) 299 ITR 1 (SC) held that in the instant case the
+assessee was following the completed contract method consistently and the aforesaid method was
+accepted by the department in the past as well and therefore, there was no justification on the part
+of the assessing officer to change the earlier method adopted by the assessee and to determine the
+income on the estimate basis. Accordingly, the appeal was dismissed. Being aggrieved, the revenue
+is in appeal before us.
+6. Learned counsel for the revenue while inviting the attention of this court to order dated
+23.09.2010 passed in I.T.A No.36/2006, by a bench of this court submitted that the directions
+contained in the order have not been complied with. It is further submitted that assessee is in
+construction business and is bound to follow the percentage completion method instead of project
+completion method. It is also pointed out that the aforesaid issue is covered by a decision by a bench
+of this court dated 09.09.2014 in favour of the revenue in case of 'COMMISSIONER OF INCOME
+TAX AND ANOTHER VS. THUMBAY HOLDINGS (P) LTD'. On the other hand, learned counsel for
+the assessee submitted that charge of tax in the instant case pertains to previous year and not the
+current year and therefore, the decision rendered in the case of THUMBAY HOLDINGS (P) LTD
+supra has no application to the fact situation of the case. It is also urged that method of accounting
+once adopted can be followed. In support of aforesaid submission, reference has been made to
+decision of this court dated 10.08.2011 in I.T.A.No.29/2006.
+7. We have considered the submissions made on both the sides and have perused the record. Section
+145 of the Act deals with method of accounting. Section 145(1) provides that income chargeable
+under the head 'profits and gains of business or profession' or 'income from other sources' shall
+subject to provisions of sub- Section (2) be computed in accordance with either cash or mercantile
+Indian Kanoon - http://indiankanoon.org/doc/98679793/ 3
+The Commissioner Of Income-Tax vs M/S Banjara Developers And ... on 8 July, 2020
+system of accounting regularly employed by the assessee. It is noteworthy that Section 145 came to
+be amended w.e.f. 01.04.1987 and has not been given retrospective operation. The supreme court in
+the case of BILAHARI INVESTMENTS PVT. LTD. supra has held as under:
+"Every assessee is entitled to arrange its affairs and follows the method of accounting
+which the department has earlier accepted. It is only in those cases where the
+department records a finding that the method adopted by the assessee results in
+distortion a profits that the department can insist on substitution of the existing
+method."
+8. In the instant case, admittedly the assessee is following mercantile system of accounting and as
+per notes to the accounts, the assessee is following completed contract method of accounting for
+contracts. The aforesaid method of assessment has been accepted by the department in the past and
+therefore, in view of law laid down by the Supreme Court in BILAHARI INVESTMENTS PVT. LTD.,
+the Commissioner of Income Tax (Appeals) as well as the tribunal has rightly held that there was no
+justification on the part of the assessing officer to change the earlier method adopted by the assessee
+and to determine the income on estimate basis.
+9. The submission made on behalf of the revenue that the directions issued by a bench of this court
+vide order dated 23.09.2010 in I.T.A.No.36/2006 appears to be attractive at the first blush but on
+careful scrutiny of the order it is evident that the tribunal has referred to the decision of this court in
+the case of 'CIT VS. M/S SKYTOP BUILDERS PVT. LTD., AND OTHERS' rendered in
+I.T.A.No.29/2006 vide order dated 10.08.2011 as well as the decision of the supreme court in
+BILAHARI INVESTMENTS PVT. LTD., supra and has held that the assessee was following
+completed contract method which was accepted by the department in the past as well and therefore,
+there is no justification for the assessing officer to change the same. For the aforementioned reasons
+the submission made on behalf of the revenue cannot be accepted. Similarly, the contention that the
+controversy involved in this case is covered by decision of this court dated 09.09.2014 rendered in
+I.T.A.No.835-837/2008 is concerned, suffice it to say that substantial questions of law involved in
+the aforesaid appeals were entirely different. By reading the order of the tribunal as a whole, it is
+evident that the tribunal has taken note of the effect of Section 145 of the Act. Therefore, the
+aforesaid submission made on behalf of the revenue also does not deserve acceptance.
+In view of preceding analysis, the substantial question of law framed by this court is answered
+against the revenue and in favour of the assessee. In the result, we do not find any merit in this
+appeal, the same fails and is hereby dismissed.
+Sd/-
+JUDGE Sd/-
+JUDGE ss
+Indian Kanoon - http://indiankanoon.org/doc/98679793/ 4

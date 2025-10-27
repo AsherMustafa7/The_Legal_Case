@@ -1,0 +1,7707 @@
+{
+  
+  "Goa": {
+    "centroid": [
+      15.347,
+      74.083
+    ],
+    "districts": {
+      "North Goa": {
+        "coordinates": [
+          15.5121,
+          73.985
+        ],
+        "major_cities": {
+          "Panaji": [
+            15.4909,
+            73.8278
+          ],
+          "Mapusa": [
+            15.5915,
+            73.8087
+          ],
+          "Bicholim": [
+            15.6,
+            73.95
+          ]
+        }
+      },
+      "South Goa": {
+        "coordinates": [
+          15.1588,
+          74.0243
+        ],
+        "major_cities": {
+          "Margao": [
+            15.272,
+            73.958
+          ],
+          "Vasco da Gama": [
+            15.3984,
+            73.8117
+          ],
+          "Curchorem": [
+            15.25,
+            74.1
+          ]
+        }
+      }
+    },
+    "major_cities": {
+      "Panaji": [
+        15.4909,
+        73.8278
+      ],
+      "Margao": [
+        15.272,
+        73.958
+      ],
+      "Vasco da Gama": [
+        15.3984,
+        73.8117
+      ],
+      "Mapusa": [
+        15.5915,
+        73.8087
+      ],
+      "Curchorem": [
+        15.25,
+        74.1
+      ]
+    }
+  },
+  "Kerala": {
+    "centroid": [
+      10.8505,
+      76.2711
+    ],
+    "districts": {
+      "Thiruvananthapuram": {
+        "coordinates": [
+          8.524139,
+          76.936638
+        ],
+        "major_cities": {
+          "Thiruvananthapuram": [
+            8.524139,
+            76.936638
+          ],
+          "Attingal": [
+            8.77,
+            76.7833
+          ],
+          "Neyyattinkara": [
+            8.36,
+            77.084
+          ]
+        }
+      },
+      "Kozhikode": {
+        "coordinates": [
+          11.258806,
+          75.780389
+        ],
+        "major_cities": {
+          "Kozhikode": [
+            11.258806,
+            75.780389
+          ],
+          "Koyilandy": [
+            11.4444,
+            75.6611
+          ]
+        }
+      },
+      "Kollam": {
+        "coordinates": [
+          8.893194,
+          76.614111
+        ],
+        "major_cities": {
+          "Kollam": [
+            8.893194,
+            76.614111
+          ],
+          "Punalur": [
+            9.0036,
+            76.9069
+          ]
+        }
+      },
+      "Thrissur": {
+        "coordinates": [
+          10.52,
+          76.21
+        ],
+        "major_cities": {
+          "Thrissur": [
+            10.52,
+            76.21
+          ],
+          "Guruvayur": [
+            10.5949,
+            76.04
+          ]
+        }
+      },
+      "Alappuzha": {
+        "coordinates": [9.4981, 76.3388],
+        "major_cities": {
+          "Alappuzha": [9.4981, 76.3388],
+          "Cherthala": [9.6858, 76.3355]
+        }
+      },
+      "Pathanamthitta": {
+        "coordinates": [9.2647, 76.7873],
+        "major_cities": {
+          "Pathanamthitta": [9.2647, 76.7873],
+          "Adoor": [9.1589, 76.7274]
+        }
+      },
+      "Kottayam": {
+        "coordinates": [9.5946, 76.5200],
+        "major_cities": {
+          "Kottayam": [9.5946, 76.5200],
+          "Changanassery": [9.4421, 76.5378],
+          "Pala": [9.7167, 76.6833]
+        }
+      },
+      "Idukki": {
+        "coordinates": [9.8500, 76.9667],
+        "major_cities": {
+          "Painavu": [9.8500, 76.9667],
+          "Thodupuzha": [9.8906, 76.7185],
+          "Munnar": [10.0889, 77.0623]
+        }
+      },
+      "Palakkad": {
+        "coordinates": [10.7750, 76.6537],
+        "major_cities": {
+          "Palakkad": [10.7750, 76.6537],
+          "Chittur": [10.7000, 76.7500]
+        }
+      },
+      "Malappuram": {
+        "coordinates": [11.0737, 76.0740],
+        "major_cities": {
+          "Malappuram": [11.0737, 76.0740],
+          "Perinthalmanna": [10.9773, 76.2224],
+          "Manjeri": [11.1193, 76.1195]
+        }
+      },
+      "Wayanad": {
+        "coordinates": [11.6100, 76.0833],
+        "major_cities": {
+          "Kalpetta": [11.6100, 76.0833],
+          "Sulthan Bathery": [11.6643, 76.2555],
+          "Mananthavady": [11.8080, 76.0025]
+        }
+      },
+      "Kannur": {
+        "coordinates": [11.8745, 75.3704],
+        "major_cities": {
+          "Kannur": [11.8745, 75.3704],
+          "Thalassery": [11.75, 75.49],
+          "Payyanur": [12.1, 75.2]
+        }
+      },
+      "Kasaragod": {
+        "coordinates": [12.4996, 74.9869],
+        "major_cities": {
+          "Kasaragod": [12.4996, 74.9869],
+          "Kanhangad": [12.3319, 75.0934]
+        }
+      },"Ernakulam": {
+        "coordinates": [
+          9.9816,
+          76.2999
+        ],
+        "major_cities": {
+          "Kochi": [
+            9.931233,
+            76.267303
+          ],
+          "Aluva": [
+            10.1076,
+            76.3516
+          ],
+          "Perumbavoor": [
+            10.129,
+            76.4442
+          ]
+        }
+      }
+    },
+    "major_cities": {
+      "Thiruvananthapuram": [
+        8.524139,
+        76.936638
+      ],
+      "Kochi": [
+        9.931233,
+        76.267303
+      ],
+      "Kozhikode": [
+        11.258806,
+        75.780389
+      ],
+      "Kollam": [
+        8.893194,
+        76.614111
+      ],
+      "Thrissur": [
+        10.52,
+        76.21
+      ],
+      "Alappuzha": [9.4981, 76.3388],
+      "Kottayam": [9.5946, 76.5200],
+      "Palakkad": [10.7750, 76.6537],
+      "Kannur": [11.8745, 75.3704],
+      "Malappuram": [11.0737, 76.0740]
+    }
+    
+  },
+  "Karnataka": {
+    "centroid": [
+      15.3173,
+      75.7139
+    ],
+    "districts": {
+      "Mysuru": {
+        "coordinates": [
+          12.29581,
+          76.639381
+        ],
+        "major_cities": {
+          "Mysuru": [
+            12.29581,
+            76.639381
+          ]
+        }
+      },
+      "Dakshina Kannada": {
+        "coordinates": [
+          12.915605,
+          74.855965
+        ],
+        "major_cities": {
+          "Mangaluru": [
+            12.915605,
+            74.855965
+          ],
+          "Udupi": [
+            13.3409,
+            74.7421
+          ]
+        }
+      },
+      "Hubli-Dharwad": {
+        "coordinates": [
+          15.3647,
+          75.1238
+        ],
+        "major_cities": {
+          "Hubballi": [
+            15.3647,
+            75.1238
+          ],
+          "Dharwad": [
+            15.4589,
+            75.0078
+          ]
+        }
+      },
+      "Belagavi": {
+        "coordinates": [
+          15.8497,
+          74.4977
+        ],
+        "major_cities": {
+          "Belagavi": [
+            15.849699,
+            74.4977
+          ],
+          "Gadag (nearby)": [
+            15.432,
+            75.6296
+          ]
+        }
+      },
+      "Bagalkot": {"coordinates": [16.18, 75.7], "major_cities": {"Bagalkot": [16.18, 75.7]}},
+      "Ballari": {"coordinates": [15.15, 76.93], "major_cities": {"Ballari": [15.15, 76.93]}},
+      "Bengaluru Rural": {"coordinates": [13.0, 77.5], "major_cities": {"Devanahalli": [13.2472, 77.7111]}},
+      "Bidar": {"coordinates": [17.91, 77.52], "major_cities": {"Bidar": [17.91, 77.52]}},
+      "Vijayapura": {"coordinates": [16.83, 75.71], "major_cities": {"Vijayapura": [16.83, 75.71]}},
+      "Chamarajanagar": {"coordinates": [11.93, 76.95], "major_cities": {"Chamarajanagar": [11.93, 76.95]}},
+      "Chikkaballapur": {"coordinates": [13.43, 77.73], "major_cities": {"Chikkaballapur": [13.43, 77.73]}},
+      "Chikkamagaluru": {"coordinates": [13.32, 75.77], "major_cities": {"Chikkamagaluru": [13.32, 75.77]}},
+      "Chitradurga": {"coordinates": [14.23, 76.4], "major_cities": {"Chitradurga": [14.23, 76.4]}},
+      "Davanagere": {"coordinates": [14.46, 75.93], "major_cities": {"Davanagere": [14.46, 75.93]}},
+      "Dharwad": {"coordinates": [15.4589, 75.0078], "major_cities": {"Dharwad": [15.4589, 75.0078]}},
+      "Gadag": {"coordinates": [15.43, 75.63], "major_cities": {"Gadag": [15.43, 75.63]}},
+      "Kalaburagi": {"coordinates": [17.33, 76.83], "major_cities": {"Kalaburagi": [17.33, 76.83]}},
+      "Hassan": {"coordinates": [13.01, 76.08], "major_cities": {"Hassan": [13.01, 76.08]}},
+      "Haveri": {"coordinates": [14.8, 75.4], "major_cities": {"Haveri": [14.8, 75.4]}},
+      "Kodagu": {"coordinates": [12.42, 75.74], "major_cities": {"Madikeri": [12.42, 75.74]}},
+      "Kolar": {"coordinates": [13.13, 78.13], "major_cities": {"Kolar": [13.13, 78.13]}},
+      "Koppal": {"coordinates": [15.35, 76.15], "major_cities": {"Koppal": [15.35, 76.15]}},
+      "Mandya": {"coordinates": [12.52, 76.9], "major_cities": {"Mandya": [12.52, 76.9]}},
+      "Raichur": {"coordinates": [16.2, 77.36], "major_cities": {"Raichur": [16.2, 77.36]}},
+      "Ramanagara": {"coordinates": [12.72, 77.28], "major_cities": {"Ramanagara": [12.72, 77.28]}},
+      "Shivamogga": {"coordinates": [13.93, 75.57], "major_cities": {"Shivamogga": [13.93, 75.57]}},
+      "Tumakuru": {"coordinates": [13.34, 77.1], "major_cities": {"Tumakuru": [13.34, 77.1]}},
+      "Udupi": {"coordinates": [13.34, 74.75], "major_cities": {"Udupi": [13.34, 74.75]}},
+      "Uttara Kannada": {"coordinates": [14.8, 74.13], "major_cities": {"Karwar": [14.8, 74.13], "Dandeli": [15.26, 74.62]}},
+      "Yadgir": {"coordinates": [16.77, 77.13], "major_cities": {"Yadgir": [16.77, 77.13]}},
+      "Vijayanagara": {"coordinates": [15.28, 76.37], "major_cities": {"Hosapete": [15.28, 76.37]}},
+      "Bengaluru Urban": {
+        "coordinates": [
+          12.971599,
+          77.594566
+        ],
+        "major_cities": {
+          "Bengaluru": [
+            12.971599,
+            77.594566
+          ],
+          "Bengaluru Rural (HQ)": [
+            13.0,
+            77.5
+          ]
+        }
+      }
+    },
+    "major_cities": {
+      "Bengaluru": [
+        12.971599,
+        77.594566
+      ],
+      "Mysuru": [
+        12.29581,
+        76.639381
+      ],
+      "Mangaluru": [
+        12.915605,
+        74.855965
+      ],
+      "Hubballi": [
+        15.3647,
+        75.1238
+      ],
+      "Belagavi": [
+        15.849699,
+        74.4977
+      ],
+      "Davanagere": [14.46, 75.93],
+  "Tumakuru": [13.34, 77.1],
+  "Shivamogga": [13.93, 75.57],
+  "Kalaburagi": [17.33, 76.83],
+  "Vijayapura": [16.83, 75.71],
+  "Ballari": [15.15, 76.93],
+  "Raichur": [16.2, 77.36],
+  "Hassan": [13.01, 76.08],
+  "Udupi": [13.34, 74.75],
+  "Karwar": [14.8, 74.13]
+    }
+  },
+  "Maharashtra": {
+    "centroid": [
+      19.7515,
+      75.7139
+    ],
+    "districts": {
+      "Mumbai": {
+        "coordinates": [19.076, 72.8777],
+        "major_cities": {
+          "Mumbai": [19.076, 72.8777],
+          "Thane": [19.2183, 72.9781]
+        }
+      },
+      "Mumbai Suburban": {
+        "coordinates": [19.118, 72.847],
+        "major_cities": {
+          "Bandra": [19.0544, 72.8402],
+          "Andheri": [19.1197, 72.8468]
+        }
+      },
+      "Palghar": {
+        "coordinates": [19.6969, 72.7655],
+        "major_cities": {
+          "Palghar": [19.6969, 72.7655],
+          "Boisar": [19.8, 72.75]
+        }
+      },
+      "Thane": {
+        "coordinates": [19.2183, 72.9781],
+        "major_cities": {
+          "Thane": [19.2183, 72.9781],
+          "Kalyan-Dombivli": [19.2403, 73.1305]
+        }
+      },
+      "Raigad": {
+        "coordinates": [18.5236, 73.326],
+        "major_cities": {
+          "Alibag": [18.6414, 72.8722],
+          "Panvel": [18.9894, 73.1275]
+        }
+      },
+      "Ratnagiri": {
+        "coordinates": [16.99, 73.31],
+        "major_cities": {
+          "Ratnagiri": [16.99, 73.31],
+          "Chiplun": [17.5333, 73.5167]
+        }
+      },
+      "Sindhudurg": {
+        "coordinates": [16.1667, 73.7],
+        "major_cities": {
+          "Oros": [16.0833, 73.6833],
+          "Malvan": [16.0667, 73.4667]
+        }
+      },
+      "Pune": {
+        "coordinates": [18.5204, 73.8567],
+        "major_cities": {
+          "Pune": [18.5204, 73.8567],
+          "Pimpri-Chinchwad": [18.6298, 73.7997]
+        }
+      },
+      "Kolhapur": {
+        "coordinates": [16.705, 74.2433],
+        "major_cities": {
+          "Kolhapur": [16.705, 74.2433],
+          "Ichalkaranji": [16.691, 74.457]
+        }
+      },
+      "Sangli": {
+        "coordinates": [16.8524, 74.5815],
+        "major_cities": {
+          "Sangli": [16.8524, 74.5815],
+          "Miraj": [16.8333, 74.65]
+        }
+      },
+      "Satara": {
+        "coordinates": [17.68, 73.98],
+        "major_cities": {
+          "Satara": [17.68, 73.98],
+          "Karad": [17.2833, 74.2]
+        }
+      },
+      "Solapur": {
+        "coordinates": [17.6599, 75.9064],
+        "major_cities": {
+          "Solapur": [17.6599, 75.9064],
+          "Pandharpur": [17.68, 75.33]
+        }
+      },
+      "Nashik": {
+        "coordinates": [19.9975, 73.7898],
+        "major_cities": {
+          "Nashik": [19.9975, 73.7898],
+          "Malegaon": [20.55, 74.53]
+        }
+      },
+      "Dhule": {
+        "coordinates": [20.901, 74.777],
+        "major_cities": {
+          "Dhule": [20.901, 74.777],
+          "Shirpur": [21.35, 74.88]
+        }
+      },
+      "Nandurbar": {
+        "coordinates": [21.3667, 74.25],
+        "major_cities": {
+          "Nandurbar": [21.3667, 74.25],
+          "Shahada": [21.55, 74.4667]
+        }
+      },
+      "Jalgaon": {
+        "coordinates": [21.0167, 75.5667],
+        "major_cities": {
+          "Jalgaon": [21.0167, 75.5667],
+          "Bhusawal": [21.05, 75.78]
+        }
+      },
+      "Aurangabad": {
+        "coordinates": [19.8762, 75.3433],
+        "major_cities": {
+          "Aurangabad": [19.8762, 75.3433],
+          "Chhatrapati Sambhajinagar": [19.8833, 75.3333]
+        }
+      },
+      "Beed": {
+        "coordinates": [18.99, 75.76],
+        "major_cities": {
+          "Beed": [18.99, 75.76],
+          "Ashti": [18.8167, 76.2167]
+        }
+      },
+      "Jalna": {
+        "coordinates": [19.8333, 75.8833],
+        "major_cities": {
+          "Jalna": [19.8333, 75.8833]
+        }
+      },
+      "Parbhani": {
+        "coordinates": [19.27, 76.77],
+        "major_cities": {
+          "Parbhani": [19.27, 76.77],
+          "Gangakhed": [18.95, 76.75]
+        }
+      },
+      "Hingoli": {
+        "coordinates": [19.72, 77.15],
+        "major_cities": {
+          "Hingoli": [19.72, 77.15]
+        }
+      },
+      "Nanded": {
+        "coordinates": [19.15, 77.3333],
+        "major_cities": {
+          "Nanded": [19.15, 77.3333],
+          "Mukhed": [18.7, 77.3667]
+        }
+      },
+      "Latur": {
+        "coordinates": [18.4, 76.5833],
+        "major_cities": {
+          "Latur": [18.4, 76.5833],
+          "Udgir": [18.39, 77.12]
+        }
+      },
+      "Osmanabad": {
+        "coordinates": [18.17, 76.03],
+        "major_cities": {
+          "Dharashiv": [18.17, 76.03]
+        }
+      },
+      "Akola": {
+        "coordinates": [20.7, 77.0],
+        "major_cities": {
+          "Akola": [20.7, 77.0],
+          "Akot": [21.1, 77.05]
+        }
+      },
+      "Amravati": {
+        "coordinates": [20.9333, 77.75],
+        "major_cities": {
+          "Amravati": [20.9333, 77.75],
+          "Achalpur": [21.26, 77.5]
+        }
+      },
+      "Yavatmal": {
+        "coordinates": [20.4, 78.1333],
+        "major_cities": {
+          "Yavatmal": [20.4, 78.1333],
+          "Pandharkawada": [20.2833, 78.5167]
+        }
+      },
+      "Wardha": {
+        "coordinates": [20.75, 78.6],
+        "major_cities": {
+          "Wardha": [20.75, 78.6],
+          "Hinganghat": [20.55, 78.83]
+        }
+      },
+      "Chandrapur": {
+        "coordinates": [19.95, 79.3],
+        "major_cities": {
+          "Chandrapur": [19.95, 79.3],
+          "Ballarpur": [19.85, 79.35]
+        }
+      },
+      "Gadchiroli": {
+        "coordinates": [20.1833, 80.0],
+        "major_cities": {
+          "Gadchiroli": [20.1833, 80.0]
+        }
+      },
+      "Bhandara": {
+        "coordinates": [21.17, 79.65],
+        "major_cities": {
+          "Bhandara": [21.17, 79.65],
+          "Tumsar": [21.3833, 79.7333]
+        }
+      },
+      "Gondia": {
+        "coordinates": [21.46, 80.22],
+        "major_cities": {
+          "Gondia": [21.46, 80.22],
+          "Amgaon": [21.15, 80.05]
+        }
+      },
+      "Washim": {
+        "coordinates": [20.1, 77.15],
+        "major_cities": {
+          "Washim": [20.1, 77.15],
+          "Malegaon": [20.55, 74.53]
+        }
+      },
+      "Buldhana": {
+        "coordinates": [20.53, 76.18],
+        "major_cities": {
+          "Buldhana": [20.53, 76.18],
+          "Khamgaon": [20.7, 76.57]
+        }
+      }
+    },
+    "major_cities": {
+      "Mumbai": [
+        19.076,
+        72.8777
+      ],
+      "Pune": [
+        18.5204,
+        73.8567
+      ],
+      "Nagpur": [
+        21.1458,
+        79.0882
+      ],
+      "Nashik": [
+        19.9975,
+        73.7898
+      ],
+      "Aurangabad": [
+        19.8762,
+        75.3433
+      ],
+      "Thane": [19.2183, 72.9781],
+  "Kolhapur": [16.705, 74.2433],
+  "Solapur": [17.6599, 75.9064],
+  "Amravati": [20.9333, 77.75],
+  "Nanded": [19.15, 77.3333],
+  "Latur": [18.4, 76.5833],
+  "Jalgaon": [21.0167, 75.5667],
+  "Satara": [17.68, 73.98],
+  "Ratnagiri": [16.99, 73.31],
+  "Chandrapur": [19.95, 79.3]
+    }
+  },
+  "Manipur": {
+    "centroid": [
+      24.6637,
+      93.9063
+    ],
+    "districts": {
+      "Bishnupur": {
+        "coordinates": [
+          24.4833,
+          93.9833
+        ],
+        "major_cities": {
+          "Nambol": [
+            24.5667,
+            93.9167
+          ],
+          "Moirang": [
+            24.4833,
+            93.9167
+          ]
+        }
+      },
+      "Chandel": {
+        "coordinates": [
+          24.1833,
+          93.6167
+        ],
+        "major_cities": {
+          "Lamka": [
+            24.3333,
+            93.9833
+          ],
+          "Chandel": [
+            24.1167,
+            94.0167
+          ]
+        }
+      },
+      "Churachandpur": {
+        "coordinates": [
+          24.3333,
+          93.9833
+        ],
+        "major_cities": {
+          "Churachandpur": [
+            24.3333,
+            93.9833
+          ]
+        }
+      },
+      "Jiribam": {
+        "coordinates": [
+          24.5761,
+          93.0453
+        ],
+        "major_cities": {
+          "Jiribam": [
+            24.5761,
+            93.0453
+          ]
+        }
+      },
+      "Kakching": {
+        "coordinates": [
+          24.5,
+          93.9167
+        ],
+        "major_cities": {
+          "Kakching": [
+            24.5,
+            93.9167
+          ]
+        }
+      },
+      "Kamjong": {
+        "coordinates": [
+          24.9667,
+          94.2167
+        ],
+        "major_cities": {
+          "Kamjong": [
+            24.9667,
+            94.2167
+          ]
+        }
+      },
+      "Kangpokpi": {
+        "coordinates": [
+          24.7,
+          93.8
+        ],
+        "major_cities": {
+          "Kangpokpi": [
+            24.7,
+            93.8
+          ]
+        }
+      },
+      "Noney": {
+        "coordinates": [
+          24.6167,
+          93.9
+        ],
+        "major_cities": {
+          "Noney": [
+            24.6167,
+            93.9
+          ]
+        }
+      },
+      "Pherzawl": {
+        "coordinates": [
+          24.2,
+          93.9
+        ],
+        "major_cities": {
+          "Pherzawl": [
+            24.2,
+            93.9
+          ]
+        }
+      },
+      "Senapati": {
+        "coordinates": [
+          25.1167,
+          93.85
+        ],
+        "major_cities": {
+          "Tamenglong": [
+            24.8667,
+            93.95
+          ],
+          "Senapati": [
+            25.1167,
+            93.85
+          ]
+        }
+      },
+      "Tamenglong": {
+        "coordinates": [
+          24.8667,
+          93.95
+        ],
+        "major_cities": {
+          "Tamenglong": [
+            24.8667,
+            93.95
+          ]
+        }
+      },
+      "Tengnoupal": {
+        "coordinates": [
+          24.85,
+          94.0
+        ],
+        "major_cities": {
+          "Tengnoupal": [
+            24.85,
+            94.0
+          ]
+        }
+      },
+      "Thoubal": {
+        "coordinates": [
+          24.5833,
+          93.9333
+        ],
+        "major_cities": {
+          "Thoubal": [
+            24.5833,
+            93.9333
+          ],
+          "Moirang": [
+            24.4833,
+            93.9167
+          ]
+        }
+      },
+      "Ukhrul": {
+        "coordinates": [
+          25.1167,
+          94.35
+        ],
+        "major_cities": {
+          "Ukhrul": [
+            25.1167,
+            94.35
+          ]
+        }
+      },
+      "Imphal East": {
+        "coordinates": [
+          24.8167,
+          93.95
+        ],
+        "major_cities": {
+          "Porompat": [
+            24.8167,
+            93.9667
+          ],
+          "Lilong": [
+            24.6167,
+            93.8833
+          ]
+        }
+      },
+      "Imphal West": {
+        "coordinates": [
+          24.8167,
+          93.95
+        ],
+        "major_cities": {
+          "Imphal": [
+            24.817,
+            93.9368
+          ],
+          "Thoubal": [
+            24.5833,
+            93.9333
+          ]
+        }
+      }
+    },
+    "major_cities": {
+      "Imphal": [
+        24.817,
+        93.9368
+      ],
+      "Churachandpur": [
+        24.3333,
+        93.9833
+      ],
+      "Moirang": [
+        24.4833,
+        93.9167
+      ]
+    }
+  },
+  "Meghalaya": {
+    "centroid": [
+      25.467,
+      91.3662
+    ],
+    "districts": {
+      "East Garo Hills": {
+        "coordinates": [
+          25.4333,
+          91.7333
+        ],
+        "major_cities": {
+          "Williamnagar": [
+            25.45,
+            91.867
+          ],
+          "Resubelpara": [
+            25.6667,
+            91.8333
+          ]
+        }
+      },
+      "East Khasi Hills": {
+        "coordinates": [
+          25.5726,
+          91.8784
+        ],
+        "major_cities": {
+          "Shillong": [
+            25.5788,
+            91.8933
+          ],
+          "Mawryngkneng": [25.57, 91.91]
+        }
+      },
+      "North Garo Hills": {
+        "coordinates": [
+          25.6667,
+          91.8333
+        ],
+        "major_cities": {
+          "Resubelpara": [
+            25.6667,
+            91.8333
+          ]
+        }
+      },
+      "Ri Bhoi": {
+        "coordinates": [
+          25.6,
+          91.9
+        ],
+        "major_cities": {
+          "Nongpoh": [
+            25.7713,
+            91.9138
+          ]
+        }
+      },
+      "South Garo Hills": {
+        "coordinates": [
+          25.1,
+          90.8
+        ],
+        "major_cities": {
+          "Baghmara": [
+            25.367,
+            90.354
+          ]
+        }
+      },
+      "South West Garo Hills": {
+        "coordinates": [
+          25.25,
+          90.1
+        ],
+        "major_cities": {
+          "Ampati": [
+            25.25,
+            90.1
+          ]
+        }
+      },
+      "South West Khasi Hills": {
+        "coordinates": [
+          25.3,
+          91.4
+        ],
+        "major_cities": {
+          "Mawkyrwat": [
+            25.25,
+            91.4
+          ]
+        }
+      },
+      "West Garo Hills": {
+        "coordinates": [
+          25.5,
+          90.2
+        ],
+        "major_cities": {
+          "Tura": [
+            25.5167,
+            90.2167
+          ]
+        }
+      },
+      "West Jaintia Hills": {
+        "coordinates": [
+          25.3333,
+          92.1167
+        ],
+        "major_cities": {
+          "Jowai": [
+            25.4482,
+            92.1886
+          ]
+        }
+      },
+      "West Khasi Hills": {
+        "coordinates": [
+          25.4,
+          91.4
+        ],
+        "major_cities": {
+          "Nongstoin": [
+            25.4646,
+            91.4867
+          ]
+        }
+      },
+      "East Jaintia Hills": {
+    "coordinates": [25.1936, 92.0478],
+    "major_cities": {
+      "Khliehriat": [25.1936, 92.0478]
+    }
+  },
+  "Eastern West Khasi Hills": {
+    "coordinates": [25.4275, 91.8297],
+    "major_cities": {
+      "Mairang": [25.4275, 91.8297]
+    }
+  }
+      
+    },
+    "major_cities": {
+      "Shillong": [
+        25.5788,
+        91.8933
+      ],
+      "Tura": [
+        25.5167,
+        90.2167
+      ],
+      "Jowai": [
+        25.4482,
+        92.1886
+      ]
+    }
+  },
+
+
+   "Mizoram": {
+    "centroid": [23.1645, 92.9376],
+    "districts": {
+      "Aizawl": {
+        "coordinates": [23.7408, 92.718],
+        "major_cities": {
+          "Aizawl": [23.7271, 92.7176],
+          "Bawngkawn": [23.76, 92.73]
+        }
+      },
+      "Champhai": {
+        "coordinates": [23.9167, 93.2667],
+        "major_cities": {
+          "Champhai": [23.9167, 93.2667]
+        }
+      },
+      "Kolasib": {
+        "coordinates": [23.6, 92.9],
+        "major_cities": {
+          "Kolasib": [23.6, 92.9]
+        }
+      },
+      "Lawngtlai": {
+        "coordinates": [22.5, 92.9],
+        "major_cities": {
+          "Lawngtlai": [22.5, 92.9]
+        }
+      },
+      "Lunglei": {
+        "coordinates": [22.8856, 92.7226],
+        "major_cities": {
+          "Lunglei": [22.8856, 92.7226]
+        }
+      },
+      "Mamit": {
+        "coordinates": [23.4, 92.6],
+        "major_cities": {
+          "Mamit": [23.4, 92.6]
+        }
+      },
+      "Siaha": {
+        "coordinates": [22.467, 93.033],
+        "major_cities": {
+          "Siaha": [22.467, 93.033]
+        }
+      },
+      "Serchhip": {
+        "coordinates": [23.3, 92.8333],
+        "major_cities": {
+          "Serchhip": [23.3, 92.8333]
+        }
+      },
+      "Hnahthial": {
+        "coordinates": [22.9833, 92.8833],
+        "major_cities": {
+          "Hnahthial": [22.9833, 92.8833]
+        }
+      },
+      "Khawzawl": {
+        "coordinates": [23.3167, 93.1167],
+        "major_cities": {
+          "Khawzawl": [23.3167, 93.1167]
+        }
+      },
+      "Saitual": {
+        "coordinates": [23.3814, 93.0387],
+        "major_cities": {
+          "Saitual": [23.3814, 93.0387]
+        }
+      }
+    },
+    "major_cities": {
+      "Aizawl": [23.7271, 92.7176],
+      "Lunglei": [22.8856, 92.7226],
+      "Champhai": [23.9167, 93.2667],
+      "Siaha": [22.467, 93.033],
+      "Kolasib": [23.6, 92.9]
+    }
+  },
+  "Odisha": {
+    "centroid": [
+      20.9517,
+      85.0985
+    ],
+    "districts": {
+      "Angul": {
+        "coordinates": [
+          20.8498,
+          85.1399
+        ],
+        "major_cities": {
+          "Angul": [
+            20.8498,
+            85.1399
+          ],
+          "Talcher": [
+            20.7627,
+            85.1016
+          ]
+        }
+      },
+      "Balangir": {
+        "coordinates": [
+          20.7065,
+          83.4918
+        ],
+        "major_cities": {
+          "Balangir": [
+            20.7065,
+            83.4918
+          ],
+          "Titlagarh": [
+            20.85,
+            83.2
+          ]
+        }
+      },
+      "Bargarh": {
+        "coordinates": [
+          21.3333,
+          83.6167
+        ],
+        "major_cities": {
+          "Bargarh": [
+            21.3333,
+            83.6167
+          ]
+        }
+      },
+      "Bhadrak": {
+        "coordinates": [
+          20.648,
+          86.2464
+        ],
+        "major_cities": {
+          "Bhadrak": [
+            20.648,
+            86.2464
+          ]
+        }
+      },
+      "Boudh": {
+        "coordinates": [
+          20.8278,
+          84.3778
+        ],
+        "major_cities": {
+          "Boudh": [
+            20.8278,
+            84.3778
+          ]
+        }
+      },
+      "Deogarh": {
+        "coordinates": [
+          21.4797,
+          85.4758
+        ],
+        "major_cities": {
+          "Deogarh": [
+            21.4797,
+            85.4758
+          ]
+        }
+      },
+      "Dhenkanal": {
+        "coordinates": [
+          20.6597,
+          85.5726
+        ],
+        "major_cities": {
+          "Dhenkanal": [
+            20.6597,
+            85.5726
+          ]
+        }
+      },
+      "Gajapati": {
+        "coordinates": [
+          19.0736,
+          84.8287
+        ],
+        "major_cities": {
+          "Paralakhemundi": [
+            19.074,
+            84.822
+          ]
+        }
+      },
+      "Ganjam": {
+        "coordinates": [
+          19.3146,
+          84.7942
+        ],
+        "major_cities": {
+          "Berhampur": [
+            19.3146,
+            84.7942
+          ],
+          "Chatrapur": [
+            19.354,
+            84.983
+          ]
+        }
+      },
+      "Jagatsinghpur": {
+        "coordinates": [
+          20.27,
+          86.17
+        ],
+        "major_cities": {
+          "Jagatsinghpur": [
+            20.27,
+            86.17
+          ]
+        }
+      },
+      "Jajpur": {
+        "coordinates": [
+          20.8565,
+          86.3503
+        ],
+        "major_cities": {
+          "Jajpur": [
+            20.8565,
+            86.3503
+          ]
+        }
+      },
+      "Jharsuguda": {
+        "coordinates": [
+          21.8622,
+          84.0104
+        ],
+        "major_cities": {
+          "Jharsuguda": [
+            21.8622,
+            84.0104
+          ]
+        }
+      },
+      "Kalahandi": {
+        "coordinates": [
+          19.9167,
+          83.3
+        ],
+        "major_cities": {
+          "Bhawanipatna": [
+            19.9067,
+            83.17
+          ]
+        }
+      },
+      "Kandhamal": {
+        "coordinates": [
+          20.4833,
+          84.2167
+        ],
+        "major_cities": {
+          "Phulbani": [
+            20.47,
+            84.23
+          ]
+        }
+      },
+      "Kendrapara": {
+        "coordinates": [
+          20.4991,
+          86.4428
+        ],
+        "major_cities": {
+          "Kendrapara": [
+            20.4991,
+            86.4428
+          ]
+        }
+      },
+      "Kendujhar": {
+        "coordinates": [
+          22.1086,
+          85.3756
+        ],
+        "major_cities": {
+          "Kendujhar": [
+            22.1086,
+            85.3756
+          ]
+        }
+      },
+      "Khordha": {
+        "coordinates": [
+          20.2961,
+          85.8245
+        ],
+        "major_cities": {
+          "Bhubaneswar": [
+            20.2961,
+            85.8245
+          ]
+        }
+      },
+      "Koraput": {
+        "coordinates": [
+          18.8165,
+          82.7123
+        ],
+        "major_cities": {
+          "Koraput": [
+            18.8165,
+            82.7123
+          ]
+        }
+      },
+      "Malkangiri": {
+        "coordinates": [
+          18.3571,
+          81.8567
+        ],
+        "major_cities": {
+          "Malkangiri": [
+            18.3571,
+            81.8567
+          ]
+        }
+      },
+      "Mayurbhanj": {
+        "coordinates": [
+          21.9333,
+          86.75
+        ],
+        "major_cities": {
+          "Baripada": [
+            21.93,
+            86.73
+          ]
+        }
+      },
+      "Nabarangpur": {
+        "coordinates": [
+          19.25,
+          82.55
+        ],
+        "major_cities": {
+          "Nabarangpur": [
+            19.25,
+            82.55
+          ]
+        }
+      },
+      "Nayagarh": {
+        "coordinates": [
+          20.1239,
+          84.8444
+        ],
+        "major_cities": {
+          "Nayagarh": [
+            20.1239,
+            84.8444
+          ]
+        }
+      },
+      "Nuapada": {
+        "coordinates": [
+          20.8083,
+          82.4333
+        ],
+        "major_cities": {
+          "Nuapada": [
+            20.8083,
+            82.4333
+          ]
+        }
+      },
+      "Puri": {
+        "coordinates": [
+          19.8135,
+          85.8312
+        ],
+        "major_cities": {
+          "Puri": [
+            19.8135,
+            85.8312
+          ]
+        }
+      },
+      "Rayagada": {
+        "coordinates": [
+          19.17,
+          83.42
+        ],
+        "major_cities": {
+          "Rayagada": [
+            19.17,
+            83.42
+          ]
+        }
+      },
+      "Sambalpur": {
+        "coordinates": [
+          21.458,
+          83.981
+        ],
+        "major_cities": {
+          "Sambalpur": [
+            21.458,
+            83.981
+          ],
+          "Jharsuguda": [
+            21.8622,
+            84.0104
+          ]
+        }
+      },
+      "Subarnapur": {
+        "coordinates": [
+          21.41,
+          83.92
+        ],
+        "major_cities": {
+          "Sonepur": [
+            21.41,
+            83.92
+          ]
+        }
+      },
+      "Sundargarh": {
+        "coordinates": [
+          22.1167,
+          84.0333
+        ],
+        "major_cities": {
+          "Rourkela": [
+            22.2587,
+            84.8536
+          ],
+          "Sundargarh": [
+            22.1167,
+            84.0333
+          ]
+        }
+      },
+      "Bolangir": {
+        "coordinates": [
+          20.7065,
+          83.4918
+        ],
+        "major_cities": {
+          "Balangir": [
+            20.7065,
+            83.4918
+          ]
+        }
+      },
+      "Cuttack": {
+        "coordinates": [
+          20.4625,
+          85.8828
+        ],
+        "major_cities": {
+          "Cuttack": [
+            20.4625,
+            85.8828
+          ],
+          "Jagatsinghpur": [
+            20.29,
+            86.03
+          ]
+        }
+      }
+    },
+    "major_cities": {
+      "Bhubaneswar": [
+        20.2961,
+        85.8245
+      ],
+      "Cuttack": [
+        20.4625,
+        85.8828
+      ],
+      "Rourkela": [
+        22.2587,
+        84.8536
+      ],
+      "Berhampur": [
+        19.3146,
+        84.7942
+      ],
+      "Sambalpur": [
+        21.458,
+        83.981
+      ]
+    }
+  },
+  
+  "Punjab": {
+    "centroid": [31.1471, 75.3412],
+    "districts": {
+      "Amritsar": {
+        "coordinates": [31.634, 74.8723],
+        "major_cities": {
+          "Amritsar": [31.634, 74.8723],
+          "Batala": [31.8221, 75.205],
+          "Ajnala": [31.7088, 74.8228]
+        }
+      },
+      "Barnala": {
+        "coordinates": [30.3745, 75.5486],
+        "major_cities": {
+          "Barnala": [30.3745, 75.5486],
+          "Tapa": [30.3, 75.3667]
+        }
+      },
+      "Bathinda": {
+        "coordinates": [30.211, 74.9455],
+        "major_cities": {
+          "Bathinda": [30.211, 74.9455],
+          "Rampura Phul": [30.2833, 75.0833]
+        }
+      },
+      "Faridkot": {
+        "coordinates": [30.6736, 74.7551],
+        "major_cities": {
+          "Faridkot": [30.6736, 74.7551],
+          "Jaitu": [30.4667, 74.8833]
+        }
+      },
+      "Fatehgarh Sahib": {
+        "coordinates": [30.6425, 76.3923],
+        "major_cities": {
+          "Fatehgarh Sahib": [30.6425, 76.3923],
+          "Sirhind": [30.643, 76.385]
+        }
+      },
+      "Fazilka": {
+        "coordinates": [30.4036, 74.025],
+        "major_cities": {
+          "Fazilka": [30.4036, 74.025],
+          "Abohar": [30.145, 74.2]
+        }
+      },
+      "Ferozepur": {
+        "coordinates": [30.9333, 74.6],
+        "major_cities": {
+          "Ferozepur": [30.9333, 74.6],
+          "Zira": [30.9686, 74.9919]
+        }
+      },
+      "Gurdaspur": {
+        "coordinates": [32.033, 75.405],
+        "major_cities": {
+          "Gurdaspur": [32.033, 75.405],
+          "Batala": [31.8221, 75.205]
+        }
+      },
+      "Hoshiarpur": {
+        "coordinates": [31.532, 75.9114],
+        "major_cities": {
+          "Hoshiarpur": [31.532, 75.9114],
+          "Garhshankar": [31.2167, 76.1333]
+        }
+      },
+      "Jalandhar": {
+        "coordinates": [31.326, 75.5762],
+        "major_cities": {
+          "Jalandhar": [31.326, 75.5762],
+          "Phagwara": [31.2242, 75.771],
+          "Nakodar": [31.1259, 75.4667]
+        }
+      },
+      "Kapurthala": {
+        "coordinates": [31.3801, 75.3811],
+        "major_cities": {
+          "Kapurthala": [31.3801, 75.3811],
+          "Phagwara": [31.2242, 75.771]
+        }
+      },
+      "Ludhiana": {
+        "coordinates": [30.901, 75.8573],
+        "major_cities": {
+          "Ludhiana": [30.901, 75.8573],
+          "Jagraon": [30.9042, 75.4691],
+          "Raikot": [30.804, 75.3478]
+        }
+      },
+      "Mansa": {
+        "coordinates": [29.9833, 75.4],
+        "major_cities": {
+          "Mansa": [29.9833, 75.4],
+          "Sardulgarh": [29.7, 75.2333]
+        }
+      },
+      "Moga": {
+        "coordinates": [30.8165, 75.1717],
+        "major_cities": {
+          "Moga": [30.8165, 75.1717],
+          "Bagha Purana": [30.6833, 75.1]
+        }
+      },
+      "Pathankot": {
+        "coordinates": [32.2668, 75.6],
+        "major_cities": {
+          "Pathankot": [32.2668, 75.6],
+          "Sujanpur": [32.3, 75.6]
+        }
+      },
+      "Patiala": {
+        "coordinates": [30.3398, 76.3869],
+        "major_cities": {
+          "Patiala": [30.3398, 76.3869],
+          "Rajpura": [30.529, 76.5312]
+        }
+      },
+      "Rupnagar": {
+        "coordinates": [30.9685, 76.5333],
+        "major_cities": {
+          "Rupnagar": [30.9685, 76.5333],
+          "Nangal": [31.3667, 76.3833]
+        }
+      },
+      "Sangrur": {
+        "coordinates": [30.245, 75.8427],
+        "major_cities": {
+          "Sangrur": [30.245, 75.8427],
+          "Barnala": [30.3769, 75.5521]
+        }
+      },
+      "SAS Nagar": {
+        "coordinates": [30.7046, 76.7179],
+        "major_cities": {
+          "Mohali": [30.7046, 76.7179],
+          "Zirakpur": [30.6429, 76.817]
+        }
+      },
+      "Shaheed Bhagat Singh Nagar": {
+        "coordinates": [31.124, 76.131],
+        "major_cities": {
+          "Nawanshahr": [31.124, 76.131],
+          "Banga": [31.1833, 75.9944]
+        }
+      },
+      "Sri Muktsar Sahib": {
+        "coordinates": [30.476, 74.516],
+        "major_cities": {
+          "Muktsar": [30.476, 74.516],
+          "Gidderbaha": [30.2, 74.65]
+        }
+      },
+      "Tarn Taran": {
+        "coordinates": [31.45, 74.93],
+        "major_cities": {
+          "Tarn Taran": [31.45, 74.93],
+          "Khem Karan": [31.14, 74.93]
+        }
+      },
+      "Malerkotla": {
+        "coordinates": [30.5167, 75.8833],
+        "major_cities": {
+          "Malerkotla": [30.5167, 75.8833]
+        }
+      }
+    },
+    "major_cities": {
+      "Chandigarh": [30.7333, 76.7794],
+      "Ludhiana": [30.901, 75.8573],
+      "Amritsar": [31.634, 74.8723],
+      "Jalandhar": [31.326, 75.5762],
+      "Patiala": [30.3398, 76.3869],
+      "Bathinda": [30.211, 74.9455],
+      "Mohali": [30.7046, 76.7179]
+    }
+  },
+  "Rajasthan": {
+    "centroid": [
+      27.0238,
+      74.2179
+    ],
+    "districts": 
+    {
+          "Ajmer": {
+        "coordinates": [26.4499, 74.6399],
+        "major_cities": {
+          "Ajmer": [26.4499, 74.6399],
+          "Kishangarh": [26.5667, 74.8667]
+        }
+      },
+      "Jaipur": {
+        "coordinates": [
+          26.9124,
+          75.7873
+        ],
+        "major_cities": {
+          "Jaipur": [
+            26.9124,
+            75.7873
+          ],
+          "Tonk": [
+            26.15,
+            75.7833
+          ],
+          "Dausa": [
+            26.8829,
+            76.3036
+          ]
+        }
+      },
+      "Jodhpur": {
+        "coordinates": [
+          26.2389,
+          73.0243
+        ],
+        "major_cities": {
+          "Jodhpur": [
+            26.2389,
+            73.0243
+          ],
+          "Phalodi": [
+            27.1278,
+            72.3542
+          ]
+        }
+      },
+      "Udaipur": {
+        "coordinates": [
+          24.5854,
+          73.7125
+        ],
+        "major_cities": {
+          "Udaipur": [
+            24.5854,
+            73.7125
+          ],
+          "Chittorgarh": [
+            24.888,
+            74.6266
+          ]
+        }
+      },
+      "Jaisalmer": {
+        "coordinates": [
+          26.9157,
+          70.9083
+        ],
+        "major_cities": {
+          "Jaisalmer": [
+            26.9157,
+            70.9083
+          ]
+        }
+      },
+      "Bikaner": {
+        "coordinates": [
+          28.0229,
+          73.3119
+        ],
+        "major_cities": {
+          "Bikaner": [
+            28.0229,
+            73.3119
+          ],
+          "Ratangarh": [
+            28.1229,
+            74.0196
+          ]
+        }
+      },
+      "Alwar": {
+        "coordinates": [27.553, 76.6346],
+        "major_cities": {
+          "Alwar": [27.553, 76.6346],
+          "Bhiwadi": [28.2105, 76.8606]
+        }
+      },
+      "Baran": {
+        "coordinates": [25.1, 76.5167],
+        "major_cities": {
+          "Baran": [25.1, 76.5167],
+          "Chhabra": [24.6667, 76.8333]
+        }
+      },
+      "Barmer": {
+        "coordinates": [25.75, 71.3833],
+        "major_cities": {
+          "Barmer": [25.75, 71.3833],
+          "Balotra": [25.8333, 72.2333]
+        }
+      },
+      
+      "Bhilwara": {
+        "coordinates": [25.35, 74.6333],
+        "major_cities": {
+          "Bhilwara": [25.35, 74.6333],
+          "Shahpura": [25.6333, 74.9333]
+        }
+      },
+      
+      "Chittorgarh": {
+        "coordinates": [24.888, 74.6266],
+        "major_cities": {
+          "Chittorgarh": [24.888, 74.6266],
+          "Nimbahera": [24.6214, 74.68]
+        }
+      },
+      
+      "Dausa": {
+        "coordinates": [26.8829, 76.3333],
+        "major_cities": {
+          "Dausa": [26.8829, 76.3333],
+          "Lalsot": [26.5667, 76.3333]
+        }
+      },
+      "Dholpur": {
+        "coordinates": [26.7025, 77.893],
+        "major_cities": {
+          "Dholpur": [26.7025, 77.893],
+          "Bari": [26.6461, 77.6167]
+        }
+      },
+      "Dungarpur": {
+        "coordinates": [23.843, 73.7147],
+        "major_cities": {
+          "Dungarpur": [23.843, 73.7147],
+          "Aspur": [23.9833, 74.1333]
+        }
+      },
+      "Hanumangarh": {
+        "coordinates": [29.5814, 74.3294],
+        "major_cities": {
+          "Hanumangarh": [29.5814, 74.3294],
+          "Pilibanga": [29.45, 74.1]
+        }
+      },
+      "Jhunjhunu": {
+        "coordinates": [28.1256, 75.3979],
+        "major_cities": {
+          "Jhunjhunu": [28.1256, 75.3979],
+          "Nawalgarh": [27.851, 75.273]
+        }
+      },
+      "Jalore": {
+        "coordinates": [25.35, 72.6167],
+        "major_cities": {
+          "Jalore": [25.35, 72.6167],
+          "Bhinmal": [25, 72.25]
+        }
+      },
+      "Karauli": {
+        "coordinates": [26.4983, 77.0167],
+        "major_cities": {
+          "Karauli": [26.4983, 77.0167],
+          "Hindaun": [26.7333, 77.0333]
+        }
+      },
+      "Kota": {
+        "coordinates": [25.1825, 75.8391],
+        "major_cities": {
+          "Kota": [25.1825, 75.8391],
+          "Ramganj Mandi": [24.65, 75.95]
+        }
+      },
+      "Nagaur": {
+        "coordinates": [27.2, 73.7333],
+        "major_cities": {
+          "Nagaur": [27.2, 73.7333],
+          "Didwana": [27.4, 74.5667]
+        }
+      },
+      "Pali": {
+        "coordinates": [25.7725, 73.3234],
+        "major_cities": {
+          "Pali": [25.7725, 73.3234],
+          "Sojat": [25.9167, 73.6667]
+        }
+      },
+      "Pratapgarh": {
+        "coordinates": [24.0322, 74.7795],
+        "major_cities": {
+          "Pratapgarh": [24.0322, 74.7795],
+          "Arnod": [23.9833, 74.8167]
+        }
+      },
+      "Rajsamand": {
+        "coordinates": [25.0667, 73.8833],
+        "major_cities": {
+          "Rajsamand": [25.0667, 73.8833],
+          "Amet": [25.3, 73.9333]
+        }
+      },
+      "Sikar": {
+        "coordinates": [27.6094, 75.1399],
+        "major_cities": {
+          "Sikar": [27.6094, 75.1399],
+          "Fatehpur Shekhawati": [27.9833, 74.95]
+        }
+      },
+      "Sirohi": {
+        "coordinates": [24.8833, 72.8667],
+        "major_cities": {
+          "Sirohi": [24.8833, 72.8667],
+          "Mount Abu": [24.5925, 72.7083]
+        }
+      },
+      "Sawai Madhopur": {
+        "coordinates": [26.023, 76.344],
+        "major_cities": {
+          "Sawai Madhopur": [26.023, 76.344],
+          "Gangapur City": [26.4725, 76.7275]
+        }
+      },
+      "Sri Ganganagar": {
+        "coordinates": [29.9038, 73.8772],
+        "major_cities": {
+          "Sri Ganganagar": [29.9038, 73.8772],
+          "Raisinghnagar": [29.5358, 73.45]
+        }
+      },
+      "Banswara": {
+        "coordinates": [23.55, 74.45],
+        "major_cities": {
+          "Banswara": [23.55, 74.45],
+          "Kushalgarh": [23.2, 74.45]
+        }
+      },
+      "Tonk": {
+        "coordinates": [26.1667, 75.7833],
+        "major_cities": {
+          "Tonk": [26.1667, 75.7833],
+          "Malpura": [26.2833, 75.3667]
+        }
+      },
+      "Bundi": {
+        "coordinates": [25.4413, 75.6408],
+        "major_cities": {
+          "Bundi": [25.4413, 75.6408],
+          "Nainwa": [25.7833, 75.85]
+        }
+      },
+      "Churu": {
+        "coordinates": [28.3, 74.95],
+        "major_cities": {
+          "Churu": [28.3, 74.95],
+          "Sujangarh": [27.7, 74.4667]
+        }
+      },
+      "Bharatpur": {
+        "coordinates": [27.2167, 77.4833],
+        "major_cities": {
+          "Bharatpur": [27.2167, 77.4833],
+          "Deeg": [27.4833, 77.3333]
+        }
+      },
+      "Balotra": {
+        "coordinates": [25.8329, 72.2345],
+        "major_cities": {
+          "Balotra": [25.8329, 72.2345],
+          "Siwana": [25.6333, 72.4167]
+        }
+      },
+      "Beawar": {
+        "coordinates": [26.1, 74.3167],
+        "major_cities": {
+          "Beawar": [26.1, 74.3167],
+          "Masuda": [26.15, 74.7]
+        }
+      },
+      "Anupgarh": {
+        "coordinates": [29.1911, 73.2089],
+        "major_cities": {
+          "Anupgarh": [29.1911, 73.2089],
+          "Gharsana": [29.15, 73.15]
+        }
+      },
+      "Deeg": {
+        "coordinates": [27.4833, 77.3333],
+        "major_cities": {
+          "Deeg": [27.4833, 77.3333],
+          "Kaman": [27.65, 77.3]
+        }
+      },
+      "Didwana-Kuchaman": {
+        "coordinates": [27.4, 74.5667],
+        "major_cities": {
+          "Didwana": [27.4, 74.5667],
+          "Kuchaman": [27.147, 74.856]
+        }
+      },
+      "Gangapur City": {
+        "coordinates": [26.4725, 76.7275],
+        "major_cities": {
+          "Gangapur City": [26.4725, 76.7275],
+          "Malarna Dungar": [26.4833, 76.75]
+        }
+      },
+      "Jaipur Rural": {
+        "coordinates": [27.0, 75.7],
+        "major_cities": {
+          "Kotputli": [27.7167, 76.2],
+          "Viratnagar": [27.4667, 76.1667]
+        }
+      },
+      "Jodhpur Rural": {
+        "coordinates": [26.3, 73.1],
+        "major_cities": {
+          "Osian": [26.7167, 72.9167],
+          "Bilara": [26.18, 73.7]
+        }
+      },
+      "Neem Ka Thana": {
+        "coordinates": [27.73, 75.77],
+        "major_cities": {
+          "Neem Ka Thana": [27.73, 75.77],
+          "Khandela": [27.6, 75.5]
+        }
+      },
+      "Shahpura": {
+        "coordinates": [27.38, 75.97],
+        "major_cities": {
+          "Shahpura": [27.38, 75.97],
+          "Chomu": [27.17, 75.72]
+        }
+      }
+
+    },
+    "major_cities": {
+      "Jaipur": [
+        26.9124,
+        75.7873
+      ],
+      "Jodhpur": [
+        26.2389,
+        73.0243
+      ],
+      "Udaipur": [
+        24.5854,
+        73.7125
+      ],
+      "Bikaner": [
+        28.0229,
+        73.3119
+      ],
+      "Ajmer": [
+        26.4499,
+        74.6399
+      ],
+      "Kota": [25.1825, 75.8391],
+      "Alwar": [27.553, 76.6346]
+      
+    }
+  },
+
+ "Sikkim": {
+  "centroid": [27.533, 88.5122],
+  "districts": {
+    "Gangtok (East Sikkim)": {
+      "coordinates": [27.3389, 88.6065],
+      "major_cities": {
+        "Gangtok": [27.3389, 88.6065]
+      }
+    },
+    "Pakyong": {
+      "coordinates": [27.2078, 88.6065],
+      "major_cities": {
+        "Pakyong": [27.2078, 88.6065],
+        "Rangpo": [27.1828, 88.5332]
+      }
+    },
+    "Gyalshing (West Sikkim)": {
+      "coordinates": [27.2833, 88.2667],
+      "major_cities": {
+        "Gyalshing": [27.2833, 88.2667],
+        "Yuksom": [27.3833, 88.2333]
+      }
+    },
+    "Soreng": {
+      "coordinates": [27.2388, 88.2145],
+      "major_cities": {
+        "Soreng": [27.2388, 88.2145]
+      }
+    },
+    "Namchi (South Sikkim)": {
+      "coordinates": [27.1667, 88.3833],
+      "major_cities": {
+        "Namchi": [27.1667, 88.3833],
+        "Ravangla": [27.3167, 88.3833]
+      }
+    },
+    "Mangan (North Sikkim)": {
+      "coordinates": [27.5167, 88.6167],
+      "major_cities": {
+        "Mangan": [27.5167, 88.6167],
+        "Chungthang": [27.6167, 88.65]
+      }
+    }
+  },
+  "major_cities": {
+    "Gangtok": [27.3389, 88.6065],
+    "Namchi": [27.1667, 88.3833],
+    "Gyalshing": [27.2833, 88.2667],
+    "Pakyong": [27.2078, 88.6065],
+    "Mangan": [27.5167, 88.6167],
+    "Soreng": [27.2388, 88.2145]
+  }
+},
+  "Tamil Nadu": {
+  "centroid": [11.1271, 78.6569],
+  "districts": {
+    "Coimbatore": {
+      "coordinates": [11.0168, 76.9558],
+      "major_cities": {
+        "Coimbatore": [11.0168, 76.9558],
+        "Pollachi": [10.6583, 77.008],
+        "Mettupalayam": [11.3, 76.95]
+      }
+    },
+    "Madurai": {
+      "coordinates": [9.9252, 78.1198],
+      "major_cities": {
+        "Madurai": [9.9252, 78.1198],
+        "Melur": [10.05, 78.3333]
+      }
+    },
+    "Tiruchirappalli": {
+      "coordinates": [10.7905, 78.7047],
+      "major_cities": {
+        "Tiruchirappalli": [10.7905, 78.7047],
+        "Srirangam": [10.8647, 78.6936],
+        "Manapparai": [10.6, 78.4333]
+      }
+    },
+    "Tirunelveli": {
+      "coordinates": [8.7139, 77.756],
+      "major_cities": {
+        "Tirunelveli": [8.7139, 77.756],
+        "Valliyur": [8.3667, 77.6333]
+      }
+    },
+    "Kanniyakumari": {
+      "coordinates": [8.0883, 77.5385],
+      "major_cities": {
+        "Nagercoil": [8.1781, 77.4285],
+        "Kuzhithurai": [8.3167, 77.2]
+      }
+    },
+    "Thanjavur": {
+    "coordinates": [10.787, 79.1378],
+    "major_cities": {
+      "Thanjavur": [10.787, 79.1378],
+      "Pattukkottai": [10.43, 79.32]
+    }
+  },
+  "Tiruvannamalai": {
+    "coordinates": [12.23, 79.07],
+    "major_cities": {
+      "Tiruvannamalai": [12.23, 79.07],
+      "Arani": [12.68, 79.28]
+    }
+  },
+  "Villupuram": {
+    "coordinates": [11.94, 79.48],
+    "major_cities": {
+      "Villupuram": [11.94, 79.48],
+      "Tindivanam": [12.23, 79.65]
+    }
+  },
+  "Cuddalore": {
+    "coordinates": [11.75, 79.75],
+    "major_cities": {
+      "Cuddalore": [11.75, 79.75],
+      "Panruti": [11.77, 79.55]
+    }
+  },
+  "Thiruvarur": {
+    "coordinates": [10.767, 79.636],
+    "major_cities": {
+      "Thiruvarur": [10.767, 79.636],
+      "Mannargudi": [10.6667, 79.45]
+    }
+  },
+  "Nagapattinam": {
+    "coordinates": [10.7667, 79.8333],
+    "major_cities": {
+      "Nagapattinam": [10.7667, 79.8333],
+      "Vedaranyam": [10.37, 79.85]
+    }
+  },
+  "Dindigul": {
+    "coordinates": [10.35, 77.95],
+    "major_cities": {
+      "Dindigul": [10.35, 77.95],
+      "Palani": [10.45, 77.52]
+    }
+  },
+  "Krishnagiri": {
+    "coordinates": [12.53, 78.23],
+    "major_cities": {
+      "Krishnagiri": [12.53, 78.23],
+      "Hosur": [12.74, 77.83]
+    }
+  },
+  "Dharmapuri": {
+    "coordinates": [12.13, 78.16],
+    "major_cities": {
+      "Dharmapuri": [12.13, 78.16],
+      "Harur": [12.05, 78.48]
+    }
+  },
+  "Karur": {
+    "coordinates": [10.96, 78.08],
+    "major_cities": {
+      "Karur": [10.96, 78.08],
+      "Kulithalai": [10.93, 78.42]
+    }
+  },
+   "Namakkal": {
+    "coordinates": [11.2213, 78.1652],
+    "major_cities": {
+      "Namakkal": [11.2213, 78.1652],
+      "Rasipuram": [11.4603, 78.1867]
+    }
+  },
+  "Perambalur": {
+    "coordinates": [11.23, 78.88],
+    "major_cities": {
+      "Perambalur": [11.23, 78.88],
+      "Arumbavur": [11.35, 78.8]
+    }
+  },
+  "Ariyalur": {
+    "coordinates": [11.138, 79.075],
+    "major_cities": {
+      "Ariyalur": [11.138, 79.075],
+      "Sendurai": [11.24, 79.18]
+    }
+  },
+  "Tirupattur": {
+    "coordinates": [12.4967, 78.5667],
+    "major_cities": {
+      "Tirupattur": [12.4967, 78.5667],
+      "Ambur": [12.7913, 78.7167]
+    }
+  },
+  "Ranipet": {
+    "coordinates": [12.93, 79.33],
+    "major_cities": {
+      "Ranipet": [12.93, 79.33],
+      "Arakkonam": [13.1, 79.6667]
+    }
+  },
+  "Chengalpattu": {
+    "coordinates": [12.6936, 79.9754],
+    "major_cities": {
+      "Chengalpattu": [12.6936, 79.9754],
+      "Tambaram": [12.925, 80.1275]
+    }
+  },
+  "Kancheepuram": {
+    "coordinates": [12.8373, 79.7036],
+    "major_cities": {
+      "Kancheepuram": [12.8373, 79.7036],
+      "Sriperumbudur": [12.9675, 79.9425]
+    }
+  },
+  "Theni": {
+    "coordinates": [10.0111, 77.4777],
+    "major_cities": {
+      "Theni": [10.0111, 77.4777],
+      "Bodinayakkanur": [10.0167, 77.35]
+    }
+  },
+  "Tenkasi": {
+    "coordinates": [8.96, 77.31],
+    "major_cities": {
+      "Tenkasi": [8.96, 77.31],
+      "Sankarankovil": [9.17, 77.55]
+    }
+  },
+  "Nilgiris": {
+    "coordinates": [11.4064, 76.6932],
+    "major_cities": {
+      "Udhagamandalam (Ooty)": [11.4064, 76.6932],
+      "Coonoor": [11.3533, 76.7955]
+    }
+  },
+  "Mayiladuthurai": {
+    "coordinates": [11.1, 79.65],
+    "major_cities": {
+      "Mayiladuthurai": [11.1, 79.65],
+      "Sirkazhi": [11.2333, 79.7333]
+    }
+  },
+  "Tiruvallur": {
+    "coordinates": [13.143, 79.908],
+    "major_cities": {
+      "Tiruvallur": [13.143, 79.908],
+      "Avadi": [13.115, 80.101]
+    }
+  },
+  "Pudukkottai": {
+    "coordinates": [10.3833, 78.8167],
+    "major_cities": {
+      "Pudukkottai": [10.3833, 78.8167],
+      "Aranthangi": [10.1667, 78.9833]
+    }
+  },
+  "Sivaganga": {
+    "coordinates": [9.8667, 78.4833],
+    "major_cities": {
+      "Sivaganga": [9.8667, 78.4833],
+      "Manamadurai": [9.7, 78.4667]
+    }
+  },
+  "Ramanathapuram": {
+    "coordinates": [9.3833, 78.8333],
+    "major_cities": {
+      "Ramanathapuram": [9.3833, 78.8333],
+      "Rameswaram": [9.288, 79.3129]
+    }
+  },
+  "Nagapattinam Expansion": {
+    "coordinates": [10.7667, 79.8333],
+    "major_cities": {
+      "Nagapattinam": [10.7667, 79.8333],
+      "Vedaranyam": [10.37, 79.85],
+      "Thiruthuraipoondi": [10.5333, 79.6333]
+    }
+  },
+  "Karur Expansion": {
+    "coordinates": [10.96, 78.08],
+    "major_cities": {
+      "Karur": [10.96, 78.08],
+      "Kulithalai": [10.93, 78.42],
+      "Aravakurichi": [10.7333, 77.9167]
+    }
+  },
+  "Thiruvarur Expansion": {
+    "coordinates": [10.767, 79.636],
+    "major_cities": {
+      "Thiruvarur": [10.767, 79.636],
+      "Mannargudi": [10.6667, 79.45],
+      "Kodavasal": [10.7833, 79.5333]
+    }
+  },
+  "Cuddalore Expansion": {
+    "coordinates": [11.75, 79.75],
+    "major_cities": {
+      "Cuddalore": [11.75, 79.75],
+      "Panruti": [11.77, 79.55],
+      "Bhuvanagiri": [11.5667, 79.6333]
+    }
+  },
+  "Perambalur Expansion": {
+    "coordinates": [11.23, 78.88],
+    "major_cities": {
+      "Perambalur": [11.23, 78.88],
+      "Arumbavur": [11.35, 78.8],
+      "Veppanthattai": [11.35, 78.83]
+    }
+  },
+   "Virudhunagar": {
+    "coordinates": [9.5851, 77.9578],
+    "major_cities": {
+      "Virudhunagar": [9.5851, 77.9578],
+      "Sivakasi": [9.45, 77.8],
+      "Aruppukkottai": [9.5167, 78.1]
+    }
+  },
+  "Thoothukudi": {
+    "coordinates": [8.7642, 78.1348],
+    "major_cities": {
+      "Thoothukudi": [8.7642, 78.1348],
+      "Kovilpatti": [9.172, 77.873],
+      "Tiruchendur": [8.5, 78.1167]
+    }
+  },
+  "Erode": {
+    "coordinates": [11.341, 77.7172],
+    "major_cities": {
+      "Erode": [11.341, 77.7172],
+      "Gobichettipalayam": [11.455, 77.43],
+      "Bhavani": [11.45, 77.6833]
+    }
+  },
+  "Salem": {
+    "coordinates": [11.6643, 78.146],
+    "major_cities": {
+      "Salem": [11.6643, 78.146],
+      "Attur": [11.6, 78.6],
+      "Mettur": [11.8, 77.8]
+    }
+  },
+  "Tiruppur": {
+    "coordinates": [11.1085, 77.3411],
+    "major_cities": {
+      "Tiruppur": [11.1085, 77.3411],
+      "Avinashi": [11.188, 77.268],
+      "Palladam": [10.99, 77.29]
+    }
+  },
+  "Vellore": {
+    "coordinates": [12.9165, 79.1325],
+    "major_cities": {
+      "Vellore": [12.9165, 79.1325],
+      "Gudiyatham": [12.95, 78.867],
+      "Katpadi": [12.95, 79.15]
+    }
+  },
+  "Tirunelveli Expansion": {
+    "coordinates": [8.7139, 77.756],
+    "major_cities": {
+      "Tirunelveli": [8.7139, 77.756],
+      "Valliyur": [8.38, 77.65],
+      "Ambasamudram": [8.707, 77.451]
+    }
+  },
+  "Tiruchirappalli Expansion": {
+    "coordinates": [10.7905, 78.7047],
+    "major_cities": {
+      "Tiruchirappalli": [10.7905, 78.7047],
+      "Manapparai": [10.6, 78.43],
+      "Lalgudi": [10.87, 78.82]
+    }
+  },
+  "Ariyalur Update": {
+    "coordinates": [11.138, 79.075],
+    "major_cities": {
+      "Ariyalur": [11.138, 79.075],
+      "Jayankondam": [11.21, 79.37],
+      "Sendurai": [11.24, 79.18]
+    }
+  },
+  "Periyakulam Region (Theni)": {
+    "coordinates": [10.12, 77.55],
+    "major_cities": {
+      "Periyakulam": [10.12, 77.55],
+      "Theni": [10.0111, 77.4777],
+      "Andipatti": [9.9833, 77.6167]
+    }
+  },
+  "Chennai": {
+      "coordinates": [13.0827, 80.2707],
+      "major_cities": {
+        "Chennai": [13.0827, 80.2707],
+        "Ambattur": [13.098, 80.165],
+        "Avadi": [13.115, 80.101]
+      }
+    }
+  },
+  "major_cities": {
+    "Chennai": [13.0827, 80.2707],
+    "Coimbatore": [11.0168, 76.9558],
+    "Madurai": [9.9252, 78.1198],
+    "Tiruchirappalli": [10.7905, 78.7047],
+    "Salem": [11.6643, 78.146],
+    "Erode": [11.341, 77.7172],
+    "Tiruppur": [11.1085, 77.3411],
+    "Vellore": [12.9165, 79.1325],
+    "Tirunelveli": [8.7139, 77.756],
+    "Nagercoil": [8.1781, 77.4285]
+  }
+},
+  "Telangana": {
+    "centroid": [
+      18.1124,
+      79.0193
+    ],
+    "districts": {
+      "Hyderabad": {
+        "coordinates": [
+          17.385,
+          78.4867
+        ],
+        "major_cities": {
+          "Hyderabad": [
+            17.385,
+            78.4867
+          ],
+          "Secunderabad": [
+            17.4399,
+            78.4983
+          ],
+          "Sangareddy": [
+            17.6237,
+            78.0984
+          ]
+        }
+      },
+      "Warangal Urban": {
+        "coordinates": [
+          17.9689,
+          79.5941
+        ],
+        "major_cities": {
+          "Warangal": [
+            17.9689,
+            79.5941
+          ],
+          "Hanamkonda": [
+            17.9787,
+            79.5762
+          ]
+        }
+      },
+      "Nizamabad": {
+        "coordinates": [
+          18.6736,
+          78.0946
+        ],
+        "major_cities": {
+          "Nizamabad": [
+            18.6736,
+            78.0946
+          ]
+        }
+      },
+      
+      
+      "Adilabad": {
+    "coordinates": [19.6667, 78.5333],
+    "major_cities": {
+      "Adilabad": [19.6667, 78.5333],
+      "Nirmal": [19.1, 78.35],
+      "Utnoor": [19.3333, 78.7]
+    }
+  },
+  "Nirmal": {
+    "coordinates": [19.1, 78.35],
+    "major_cities": {
+      "Nirmal": [19.1, 78.35],
+      "Bhainsa": [19.1, 77.9667]
+    }
+  },
+  "Mancherial": {
+    "coordinates": [18.8667, 79.45],
+    "major_cities": {
+      "Mancherial": [18.8667, 79.45],
+      "Bellampalli": [19.05, 79.4833],
+      "Mandamarri": [18.9833, 79.4667]
+    }
+  },
+  "Kumuram Bheem": {
+    "coordinates": [19.3667, 79.2833],
+    "major_cities": {
+      "Asifabad": [19.3667, 79.2833],
+      "Kagaznagar": [19.3333, 79.4667]
+    }
+  },
+  "Jagtial": {
+    "coordinates": [18.8, 78.9333],
+    "major_cities": {
+      "Jagtial": [18.8, 78.9333],
+      "Korutla": [18.8333, 78.7167],
+      "Metpalli": [18.85, 78.6]
+    }
+  },
+  "Peddapalli": {
+    "coordinates": [18.6167, 79.3667],
+    "major_cities": {
+      "Peddapalli": [18.6167, 79.3667],
+      "Ramagundam": [18.7667, 79.4667],
+      "Godavarikhani": [18.8333, 79.4667]
+    }
+  },
+  "Rajanna Sircilla": {
+    "coordinates": [18.3833, 78.8],
+    "major_cities": {
+      "Sircilla": [18.3833, 78.8],
+      "Vemulawada": [18.4667, 78.8667]
+    }
+  },
+  
+  "Warangal Rural": {
+    "coordinates": [17.9833, 79.6333],
+    "major_cities": {
+      "Geesugonda": [17.9833, 79.6333],
+      "Parkal": [18.2167, 79.4667]
+    }
+  },
+   "Mahabubabad": {
+    "coordinates": [17.6, 79.9833],
+    "major_cities": {
+      "Mahabubabad": [17.6, 79.9833],
+      "Dornakal": [17.45, 80.15]
+    }
+  },
+  "Bhadradri Kothagudem": {
+    "coordinates": [17.55, 80.6333],
+    "major_cities": {
+      "Kothagudem": [17.55, 80.6333],
+      "Palvancha": [17.6, 80.6833],
+      "Bhadrachalam": [17.6683, 80.8883]
+    }
+  },
+  "Medak": {
+    "coordinates": [18.0333, 78.2667],
+    "major_cities": {
+      "Medak": [18.0333, 78.2667],
+      "Narsapur": [17.7511, 78.2658]
+    }
+  },
+  "Siddipet": {
+    "coordinates": [18.1, 78.85],
+    "major_cities": {
+      "Siddipet": [18.1, 78.85],
+      "Gajwel": [17.851, 78.682],
+      "Husnabad": [18.153, 79.131]
+    }
+  },
+  "Kamareddy": {
+    "coordinates": [18.3258, 78.341],
+    "major_cities": {
+      "Kamareddy": [18.3258, 78.341],
+      "Banswada": [18.3833, 77.8833]
+    }
+  },
+  "Sangareddy": {
+    "coordinates": [17.6237, 78.0984],
+    "major_cities": {
+      "Sangareddy": [17.6237, 78.0984],
+      "Zaheerabad": [17.6814, 77.6128],
+      "Patancheru": [17.533, 78.267]
+    }
+  },
+  "Vikarabad": {
+    "coordinates": [17.3333, 77.9],
+    "major_cities": {
+      "Vikarabad": [17.3333, 77.9],
+      "Tandur": [17.25, 77.5833]
+    }
+  },
+  "Rangareddy": {
+    "coordinates": [17.25, 78.5],
+    "major_cities": {
+      "Shamshabad": [17.255, 78.438],
+      "Shadnagar": [17.0667, 78.2],
+      "Ibrahimpatnam": [17.28, 78.67]
+    }
+  },
+  "Medchal–Malkajgiri": {
+    "coordinates": [17.4989, 78.5247],
+    "major_cities": {
+      "Keesara": [17.497, 78.639],
+      "Malkajgiri": [17.4477, 78.5263],
+      "Alwal": [17.4944, 78.54],
+      "Kapra": [17.4787, 78.5821]
+    }
+  },
+  "Yadadri Bhuvanagiri": {
+    "coordinates": [17.517, 78.89],
+    "major_cities": {
+      "Bhongir": [17.517, 78.89],
+      "Aler": [17.6167, 79.0167],
+      "Yadagirigutta": [17.567, 78.95]
+    }
+  },
+   "Jangaon": {
+    "coordinates": [17.726, 79.152],
+    "major_cities": {
+      "Jangaon": [17.726, 79.152],
+      "Ghanpur": [17.785, 79.091]
+    }
+  },
+  "Suryapet": {
+    "coordinates": [17.140, 79.623],
+    "major_cities": {
+      "Suryapet": [17.140, 79.623],
+      "Kodad": [16.998, 79.963]
+    }
+  },
+  "Nalgonda": {
+    "coordinates": [17.05, 79.27],
+    "major_cities": {
+      "Nalgonda": [17.05, 79.27],
+      "Miryalaguda": [16.872, 79.562],
+      "Devarakonda": [16.691, 78.932]
+    }
+  },
+  "Mahabubnagar": {
+    "coordinates": [16.748, 78.004],
+    "major_cities": {
+      "Mahabubnagar": [16.748, 78.004],
+      "Jadcherla": [16.756, 78.158],
+      "Makthal": [16.483, 77.733]
+    }
+  },
+  "Nagarkurnool": {
+    "coordinates": [16.483, 78.315],
+    "major_cities": {
+      "Nagarkurnool": [16.483, 78.315],
+      "Kalwakurthy": [16.667, 78.517]
+    }
+  },
+  "Wanaparthy": {
+    "coordinates": [16.366, 78.068],
+    "major_cities": {
+      "Wanaparthy": [16.366, 78.068],
+      "Pebbair": [16.267, 77.967]
+    }
+  },
+  "Narayanpet": {
+    "coordinates": [16.735, 77.495],
+    "major_cities": {
+      "Narayanpet": [16.735, 77.495],
+      "Makthal": [16.483, 77.733]
+    }
+  },
+  "Jogulamba Gadwal": {
+    "coordinates": [16.233, 77.8],
+    "major_cities": {
+      "Gadwal": [16.233, 77.8],
+      "Alampur": [15.877, 78.143]
+    }
+  },
+  "Khammam": {
+    "coordinates": [17.247, 80.1507],
+    "major_cities": {
+      "Khammam": [17.247, 80.1507],
+      "Madhira": [17.58, 79.73]
+    }
+  },
+  "Karimnagar": {
+    "coordinates": [18.4386, 79.1288],
+    "major_cities": {
+      "Karimnagar": [18.4386, 79.1288],
+      "Huzurabad": [18.2, 79.4]
+    }
+  },
+  "Mulugu": {
+    "coordinates": [18.2, 80.0333],
+    "major_cities": {
+      "Mulugu": [18.2, 80.0333],
+      "Eturnagaram": [18.3333, 80.4333]
+    }
+  },
+  "Jayashankar Bhupalpally": {
+    "coordinates": [18.4333, 80.0333],
+    "major_cities": {
+      "Bhupalpally": [18.4333, 80.0333],
+      "Kataram": [18.4167, 80.0667]
+    }
+  },
+  "Hanamkonda": {
+    "coordinates": [17.974, 79.595],
+    "major_cities": {
+      "Hanamkonda": [17.974, 79.595],
+      "Warangal": [17.9689, 79.5941]
+    }
+  }
+  
+    },
+    "major_cities": {
+      "Hyderabad": [17.385, 78.4867],
+    "Warangal": [17.9689, 79.5941],
+    "Nizamabad": [18.6736, 78.0946],
+    "Karimnagar": [18.4386, 79.1288],
+    "Khammam": [17.2473, 80.1507],
+    "Ramagundam": [18.7667, 79.4667],
+    "Siddipet": [18.1, 78.85],
+    "Mahabubnagar": [16.748, 78.004],
+    "Sangareddy": [17.6237, 78.0984],
+    "Adilabad": [19.6667, 78.5333]
+    }
+  },
+  "Arunachal Pradesh": {
+    "centroid": [
+      28.218,
+      94.7278
+    ],
+    "districts": {
+      "Tawang": {
+        "coordinates": [
+          27.5866,
+          91.8668
+        ],
+        "major_cities": {
+          "Tawang": [
+            27.5866,
+            91.8668
+          ]
+        }
+      },
+      "West Kameng": {
+        "coordinates": [
+          27.2536,
+          92.3
+        ],
+        "major_cities": {
+          "Bomdila": [
+            27.3291,
+            92.4153
+          ]
+        }
+      },
+      "East Kameng": {
+        "coordinates": [
+          27.6,
+          93.15
+        ],
+        "major_cities": {
+          "Seppa": [
+            27.37,
+            93.8333
+          ]
+        }
+      },
+
+      "Lohit": {
+        "coordinates": [
+          27.0,
+          95.1667
+        ],
+        "major_cities": {
+          "Tezu": [
+            27.9167,
+            96.1667
+          ]
+        }
+      },
+      "Lower Subansiri": {
+    "coordinates": [27.5667, 93.8333],
+    "major_cities": {
+      "Ziro": [27.5667, 93.8333],
+      "Hapoli": [27.55, 93.8167]
+    }
+  },
+  "Upper Subansiri": {
+    "coordinates": [27.986, 94.222],
+    "major_cities": {
+      "Daporijo": [27.986, 94.222],
+      "Dumporijo": [28.0167, 94.2667]
+    }
+  },
+  "West Siang": {
+    "coordinates": [28.1667, 94.7667],
+    "major_cities": {
+      "Aalo (Along)": [28.1667, 94.7667],
+      "Likabali": [28.1667, 94.6167]
+    }
+  },
+  "East Siang": {
+    "coordinates": [28.0667, 95.3333],
+    "major_cities": {
+      "Pasighat": [28.0667, 95.3333],
+      "Ruksin": [27.9833, 95.3333]
+    }
+  },
+  "Lower Dibang Valley": {
+    "coordinates": [28.15, 95.8333],
+    "major_cities": {
+      "Roing": [28.15, 95.8333],
+      "Mayudia": [28.3, 95.8667]
+    }
+  },
+  "Dibang Valley": {
+    "coordinates": [28.8, 95.9167],
+    "major_cities": {
+      "Anini": [28.8, 95.9167],
+      "Mipi": [28.8833, 96.0]
+    }
+  },
+  "Changlang": {
+    "coordinates": [27.4667, 96.0],
+    "major_cities": {
+      "Changlang": [27.4667, 96.0],
+      "Jairampur": [27.3, 96.0167],
+      "Bordumsa": [27.4833, 95.8]
+    }
+  },
+  "Tirap": {
+    "coordinates": [27.0167, 95.5667],
+    "major_cities": {
+      "Khonsa": [27.0167, 95.5667],
+      "Deomali": [27.1667, 95.5167]
+    }
+  },
+  "Longding": {
+    "coordinates": [27.2833, 95.8333],
+    "major_cities": {
+      "Longding": [27.2833, 95.8333],
+      "Pumao": [27.2333, 95.8167]
+    }
+  },
+  "Namsai": {
+    "coordinates": [27.9167, 95.9667],
+    "major_cities": {
+      "Namsai": [27.9167, 95.9667],
+      "Chongkham": [27.8833, 95.9]
+    }
+  },
+  
+  "Shi Yomi": {
+    "coordinates": [28.6167, 94.5],
+    "major_cities": {
+      "Tato": [28.6167, 94.5],
+      "Mechuka": [28.6, 94.25]
+    }
+  },
+  "Leparada": {
+    "coordinates": [27.9667, 94.7],
+    "major_cities": {
+      "Basar": [27.9667, 94.7],
+      "Bame": [28.0167, 94.7]
+    }
+  },
+  "Anjaw": {
+    "coordinates": [28.0667, 96.8333],
+    "major_cities": {
+      "Hawai": [28.0667, 96.8333],
+      "Hayuliang": [28.0667, 96.5333]
+    }
+  },
+  "Itanagar Capital Complex": {
+    "coordinates": [27.1, 93.62],
+    "major_cities": {
+      "Itanagar": [27.0844, 93.6053],
+      "Naharlagun": [27.1236, 93.6056],
+      "Doimukh": [27.0833, 93.7333]
+    }
+  },
+  "Lepa-Rada": {
+    "coordinates": [28.0667, 94.65],
+    "major_cities": {
+      "Basar": [27.9667, 94.7],
+      "Kamba": [28.05, 94.6333]
+    }
+  },
+  "Lower Siang": {
+    "coordinates": [28.1833, 94.65],
+    "major_cities": {
+      "Likabali": [28.1667, 94.6167],
+      "Nari": [28.1, 94.8333],
+      "Silli": [28.2167, 94.6667]
+    }
+  },
+  "Upper Siang": {
+    "coordinates": [28.6167, 95.3333],
+    "major_cities": {
+      "Yingkiong": [28.6167, 95.3333],
+      "Mariyang": [28.45, 95.2],
+      "Geku": [28.5333, 95.3167]
+    }
+  },
+  "Kurung Kumey": {
+    "coordinates": [27.9833, 93.4167],
+    "major_cities": {
+      "Koloriang": [27.9833, 93.4167],
+      "Sangram": [27.9667, 93.4],
+      "Parsi-Parlo": [27.9, 93.3667]
+    }
+  },
+  "Papum Pare": {
+    "coordinates": [27.1, 93.6167],
+    "major_cities": {
+      "Yupia": [27.1333, 93.7],
+      "Itanagar": [27.0844, 93.6053],
+      "Naharlagun": [27.1236, 93.6056]
+    }
+  },
+  "Kra Daadi": {
+    "coordinates": [27.9, 93.6],
+    "major_cities": {
+      "Palin": [27.9, 93.6],
+      "Yangte": [27.8667, 93.5667],
+      "Tarak-Lengdi": [27.8833, 93.55]
+    }
+  },
+  "Kamle": {
+    "coordinates": [27.9333, 93.95],
+    "major_cities": {
+      "Raga": [27.9333, 93.95],
+      "Boasimla": [27.9333, 93.8667],
+      "Puchi-Geko": [27.9167, 93.8833]
+    }
+  },
+  "Pakke-Kessang": {
+    "coordinates": [27.25, 93.1667],
+    "major_cities": {
+      "Lemmi": [27.25, 93.1667],
+      "Pakke-Kessang": [27.2667, 93.1667],
+      "Pijerang": [27.2167, 93.1333]
+    }
+  },
+  "Siang": {
+    "coordinates": [28.2, 94.9],
+    "major_cities": {
+      "Pangin": [28.2, 94.9],
+      "Boleng": [28.1667, 94.95],
+      "Riew": [28.1833, 94.8833]
+    }
+  }
+    },
+    "major_cities": {
+      "Itanagar": [27.0844, 93.6053],
+  "Naharlagun": [27.1236, 93.6056],
+  "Tawang": [27.5866, 91.8668],
+  "Bomdila": [27.3291, 92.4153],
+  "Ziro": [27.5942, 93.8193],
+  "Pasighat": [28.0667, 95.3333],
+  "Tezu": [27.9167, 96.1667],
+  "Aalo": [28.1667, 94.7667],
+  "Roing": [28.15, 95.8333]
+    }
+  },
+  "Assam": {
+    "centroid": [
+      26.2006,
+      92.9376
+    ],
+    "districts": {
+      "Kamrup Metropolitan": {
+        "coordinates": [
+          26.1445,
+          91.7362
+        ],
+        "major_cities": {
+          "Guwahati": [
+            26.1445,
+            91.7362
+          ],
+          "North Guwahati": [
+            26.1999,
+            91.7331
+          ]
+        }
+      },
+      "Dibrugarh": {
+        "coordinates": [
+          27.4728,
+          94.9116
+        ],
+        "major_cities": {
+          "Dibrugarh": [
+            27.4728,
+            94.9116
+          ],
+          "Tinsukia": [
+            27.4926,
+            95.3758
+          ]
+        }
+      },
+      "Jorhat": {
+        "coordinates": [
+          26.7461,
+          94.201
+        ],
+        "major_cities": {
+          "Jorhat": [
+            26.7461,
+            94.201
+          ],
+          "Golaghat": [
+            26.5225,
+            93.96
+          ]
+        }
+      },
+      "Silchar (Cachar)": {
+        "coordinates": [
+          24.8333,
+          92.7833
+        ],
+        "major_cities": {
+          "Silchar": [
+            24.8333,
+            92.7833
+          ]
+        }
+      },
+      "Nagaon": {
+        "coordinates": [
+          26.346,
+          92.6836
+        ],
+        "major_cities": {
+          "Nagaon": [
+            26.346,
+            92.6836
+          ]
+        }
+      },
+      "Baksa": {
+    "coordinates": [26.7, 91.1],
+    "major_cities": {
+      "Mushalpur": [26.698, 91.107],
+      "Barama": [26.55, 91.1167]
+    }
+  },
+  "Barpeta": {
+    "coordinates": [26.3167, 91.0],
+    "major_cities": {
+      "Barpeta": [26.3167, 91.0],
+      "Barpeta Road": [26.4833, 90.9667]
+    }
+  },
+  "Biswanath": {
+    "coordinates": [26.7167, 93.15],
+    "major_cities": {
+      "Biswanath Chariali": [26.7167, 93.15]
+    }
+  },
+  "Bongaigaon": {
+    "coordinates": [26.482, 90.547],
+    "major_cities": {
+      "Bongaigaon": [26.482, 90.547],
+      "Abhayapuri": [26.35, 90.685]
+    }
+  },
+  "Chirang": {
+    "coordinates": [26.55, 90.65],
+    "major_cities": {
+      "Kajalgaon": [26.55, 90.65],
+      "Basugaon": [26.4833, 90.5167]
+    }
+  },
+  "Darrang": {
+    "coordinates": [26.45, 92.033],
+    "major_cities": {
+      "Mangaldoi": [26.4333, 92.0333],
+      "Dalgaon": [26.45, 92.25]
+    }
+  },
+  "Dhemaji": {
+    "coordinates": [27.4833, 94.5667],
+    "major_cities": {
+      "Dhemaji": [27.4833, 94.5667],
+      "Jonai": [27.8333, 95.0833]
+    }
+  },
+  "Dhubri": {
+    "coordinates": [26.0333, 89.9833],
+    "major_cities": {
+      "Dhubri": [26.0333, 89.9833],
+      "Gauripur": [26.0833, 89.9667]
+    }
+  },
+  "Dima Hasao": {
+    "coordinates": [25.3, 93.0],
+    "major_cities": {
+      "Haflong": [25.1667, 93.0167],
+      "Maibang": [25.3, 93.15]
+    }
+  },"Goalpara": {
+    "coordinates": [26.1667, 90.6167],
+    "major_cities": {
+      "Goalpara": [26.1667, 90.6167],
+      "Dudhnoi": [26.1667, 90.5667]
+    }
+  },
+  "Golaghat": {
+    "coordinates": [26.5225, 93.96],
+    "major_cities": {
+      "Golaghat": [26.5225, 93.96],
+      "Dergaon": [26.7, 93.9667]
+    }
+  },
+  "Hailakandi": {
+    "coordinates": [24.6833, 92.5667],
+    "major_cities": {
+      "Hailakandi": [24.6833, 92.5667],
+      "Lala": [24.55, 92.6]
+    }
+  },
+
+  "Karbi Anglong": {
+    "coordinates": [25.8333, 93.5],
+    "major_cities": {
+      "Diphu": [25.8333, 93.4333],
+      "Bokajan": [26.0, 93.7833]
+    }
+  },
+  "Karimganj": {
+    "coordinates": [24.8667, 92.35],
+    "major_cities": {
+      "Karimganj": [24.8667, 92.35],
+      "Badarpur": [24.8833, 92.6]
+    }
+  },
+  "Kokrajhar": {
+    "coordinates": [26.4, 90.2667],
+    "major_cities": {
+      "Kokrajhar": [26.4, 90.2667],
+      "Gossaigaon": [26.45, 89.95]
+    }
+  },
+  "Lakhimpur": {
+    "coordinates": [27.2333, 94.1],
+    "major_cities": {
+      "North Lakhimpur": [27.2333, 94.1],
+      "Bihpuria": [27.0333, 93.95]
+    }
+  },
+  "Majuli": {
+    "coordinates": [26.95, 94.17],
+    "major_cities": {
+      "Garamur": [26.95, 94.17]
+    }
+  },
+  "Morigaon": {
+    "coordinates": [26.25, 92.3333],
+    "major_cities": {
+      "Morigaon": [26.25, 92.3333],
+      "Jagiroad": [26.0833, 92.3333]
+    }
+  },
+  "Nalbari": {
+    "coordinates": [26.45, 91.45],
+    "major_cities": {
+      "Nalbari": [26.45, 91.45],
+      "Tihu": [26.3667, 91.25]
+    }
+  },
+  "Sivasagar": {
+    "coordinates": [26.9833, 94.6333],
+    "major_cities": {
+      "Sivasagar": [26.9833, 94.6333],
+      "Nazira": [26.9167, 94.7333]
+    }
+  },
+  "Sonitpur": {
+    "coordinates": [26.6333, 92.8],
+    "major_cities": {
+      "Tezpur": [26.6333, 92.8],
+      "Dhekiajuli": [26.7, 92.5]
+    }
+  },
+
+  "Tinsukia": {
+    "coordinates": [27.4926, 95.3758],
+    "major_cities": {
+      "Tinsukia": [27.4926, 95.3758],
+      "Digboi": [27.3932, 95.6302],
+      "Margherita": [27.2833, 95.6833]
+    }
+  },
+  "Udalguri": {
+    "coordinates": [26.75, 92.1],
+    "major_cities": {
+      "Udalguri": [26.75, 92.1],
+      "Tangla": [26.6833, 91.9833]
+    }
+  },
+
+  "Kamrup (Rural)": {
+    "coordinates": [26.1833, 91.6667],
+    "major_cities": {
+      "Amingaon": [26.1833, 91.6667],
+      "Rangia": [26.45, 91.6167]
+    }
+  },
+  "West Karbi Anglong": {
+    "coordinates": [25.9333, 92.7],
+    "major_cities": {
+      "Hamren": [25.9333, 92.7]
+    }
+  },
+  "Hojai": {
+    "coordinates": [26.0, 92.8667],
+    "major_cities": {
+      "Hojai": [26.0, 92.8667],
+      "Doboka": [26.1333, 92.8667]
+    }
+  },
+  "Charaideo": {
+    "coordinates": [27.024, 95.017],
+    "major_cities": {
+      "Sonari": [27.024, 95.017],
+      "Sapekhati": [27.0833, 95.0833]
+    }
+  },
+  "Bajali": {
+    "coordinates": [26.5, 91.1833],
+    "major_cities": {
+      "Pathsala": [26.5, 91.1833],
+      "Bhawanipur": [26.4333, 91.25]
+    }
+  },
+  "Tamulpur": {
+    "coordinates": [26.7, 91.2],
+    "major_cities": {
+      "Tamulpur": [26.7, 91.2],
+      "Nagrijuli": [26.7833, 91.3667]
+    }
+  },
+  "South Salmara-Mankachar": {
+    "coordinates": [25.7833, 89.8667],
+    "major_cities": {
+      "Hatsingimari": [25.7833, 89.8667],
+      "Mankachar": [25.5333, 89.8833]
+    }
+  },
+  "major_cities": {
+    "Guwahati": [26.1445, 91.7362],
+    "Silchar": [24.8333, 92.7833],
+    "Dibrugarh": [27.4728, 94.9116],
+    "Jorhat": [26.7461, 94.201],
+    "Nagaon": [26.346, 92.6836],
+    "Tinsukia": [27.4926, 95.3758],
+    "Tezpur": [26.6333, 92.8],
+    "Bongaigaon": [26.482, 90.547],
+    "Sivasagar": [26.9833, 94.6333],
+    "Goalpara": [26.1667, 90.6167]
+  }
+    },
+    "major_cities": {
+      "Guwahati": [
+        26.1445,
+        91.7362
+      ],
+      "Dibrugarh": [
+        27.4728,
+        94.9116
+      ],
+      "Silchar": [
+        24.8333,
+        92.7833
+      ],
+      "Jorhat": [
+        26.7461,
+        94.201
+      ]
+    }
+  },
+  "Bihar": {
+    "centroid": [
+      25.0961,
+      85.3131
+    ],
+    "districts": {
+      "Gaya": {
+        "coordinates": [
+          24.795,
+          85.0047
+        ],
+        "major_cities": {
+          "Gaya": [
+            24.795,
+            85.0047
+          ],
+          "Bodh Gaya": [
+            24.6956,
+            84.9912
+          ]
+        }
+      },
+      "Muzaffarpur": {
+        "coordinates": [
+          26.12,
+          85.3833
+        ],
+        "major_cities": {
+          "Muzaffarpur": [
+            26.12,
+            85.3833
+          ]
+        }
+      },
+      "Darbhanga": {
+        "coordinates": [
+          26.1525,
+          85.892
+        ],
+        "major_cities": {
+          "Darbhanga": [
+            26.1525,
+            85.892
+          ]
+        }
+      },
+      "Bhagalpur": {
+        "coordinates": [
+          25.2411,
+          87.0196
+        ],
+        "major_cities": {
+          "Bhagalpur": [
+            25.2411,
+            87.0196
+          ]
+        }
+      },
+      "Araria": {
+    "coordinates": [26.134, 87.464],
+    "major_cities": {
+      "Araria": [26.134, 87.464],
+      "Forbesganj": [26.3, 87.2667]
+    }
+  },
+  "Arwal": {
+    "coordinates": [25.25, 84.6667],
+    "major_cities": {
+      "Arwal": [25.25, 84.6667],
+      "Kaler": [25.05, 84.5]
+    }
+  },
+  "Aurangabad": {
+    "coordinates": [24.75, 84.37],
+    "major_cities": {
+      "Aurangabad": [24.75, 84.37],
+      "Daudnagar": [25.04, 84.4]
+    }
+  },
+  "Banka": {
+    "coordinates": [24.88, 86.92],
+    "major_cities": {
+      "Banka": [24.88, 86.92],
+      "Amarpur": [25.04, 86.9]
+    }
+  },
+  "Begusarai": {
+    "coordinates": [25.42, 86.13],
+    "major_cities": {
+      "Begusarai": [25.42, 86.13],
+      "Bakhri": [25.47, 86.22]
+    }
+  },
+  "Bhabua (Kaimur)": {
+    "coordinates": [25.05, 83.62],
+    "major_cities": {
+      "Bhabua": [25.05, 83.62],
+      "Mohania": [25.17, 83.62]
+    }
+  },
+  "Bhojpur": {
+    "coordinates": [25.56, 84.66],
+    "major_cities": {
+      "Arrah": [25.56, 84.66],
+      "Jagdishpur": [25.47, 84.42]
+    }
+  },
+  "Buxar": {
+    "coordinates": [25.56, 83.98],
+    "major_cities": {
+      "Buxar": [25.56, 83.98],
+      "Dumraon": [25.55, 84.15]
+    }
+  },
+  "East Champaran": {
+    "coordinates": [26.65, 84.9],
+    "major_cities": {
+      "Motihari": [26.65, 84.9],
+      "Raxaul": [26.97, 84.85]
+    }
+  },
+  "West Champaran": {
+    "coordinates": [26.83, 84.5],
+    "major_cities": {
+      "Bettiah": [26.8, 84.5],
+      "Narkatiaganj": [27.1, 84.45]
+    }
+  },
+  "Gopalganj": {
+    "coordinates": [26.4686, 84.4453],
+    "major_cities": {
+      "Gopalganj": [26.4686, 84.4453],
+      "Barauli": [26.3667, 84.3833]
+    }
+  },
+  "Jamui": {
+    "coordinates": [24.9216, 86.2245],
+    "major_cities": {
+      "Jamui": [24.9216, 86.2245],
+      "Jhajha": [24.665, 86.24]
+    }
+  },
+  "Jehanabad": {
+    "coordinates": [25.1976, 85.0168],
+    "major_cities": {
+      "Jehanabad": [25.1976, 85.0168],
+      "Kako": [25.2167, 84.9333]
+    }
+  },
+  "Katihar": {
+    "coordinates": [25.5436, 87.5695],
+    "major_cities": {
+      "Katihar": [25.5436, 87.5695],
+      "Manihari": [26.134, 87.762]
+    }
+  },
+  "Khagaria": {
+    "coordinates": [25.4879, 86.4688],
+    "major_cities": {
+      "Khagaria": [25.4879, 86.4688],
+      "Begusarai (nearby)": [25.4200, 86.1300]
+    }
+  },
+  "Kishanganj": {
+    "coordinates": [26.0976, 87.9346],
+    "major_cities": {
+      "Kishanganj": [26.0976, 87.9346],
+      "Bahadurganj": [26.198, 87.735]
+    }
+  },
+  "Lakhisarai": {
+    "coordinates": [25.1851, 86.0145],
+    "major_cities": {
+      "Lakhisarai": [25.1851, 86.0145],
+      "Barahiya": [25.125, 85.78]
+    }
+  },
+  "Madhepura": {
+    "coordinates": [25.9246, 86.7644],
+    "major_cities": {
+      "Madhepura": [25.9246, 86.7644],
+      "Uda-Kishunganj": [25.95, 86.78]
+    }
+  },
+  "Madhubani": {
+    "coordinates": [26.3536, 86.0713],
+    "major_cities": {
+      "Madhubani": [26.3536, 86.0713],
+      "Jhanjharpur": [26.557, 85.878]
+    }
+  },
+  "Munger": {
+    "coordinates": [25.3740, 86.4736],
+    "major_cities": {
+      "Munger": [25.3740, 86.4736],
+      "Jamalpur": [25.312, 86.499]
+    }
+  },
+  "Nalanda": {
+    "coordinates": [25.198, 85.523],
+    "major_cities": {
+      "Bihar Sharif": [25.198, 85.523],
+      "Rajgir": [25.03, 85.42]
+    }
+  },
+  "Nawada": {
+    "coordinates": [24.8867, 85.5383],
+    "major_cities": {
+      "Nawada": [24.8867, 85.5383],
+      "Rajauli": [24.653, 85.516]
+    }
+  },
+  "Purnia": {
+    "coordinates": [25.7771, 87.4753],
+    "major_cities": {
+      "Purnia": [25.7771, 87.4753],
+      "Banmankhi": [25.885, 87.23]
+    }
+  },
+  "Rohtas": {
+    "coordinates": [24.953, 84.011],
+    "major_cities": {
+      "Sasaram": [24.953, 84.011],
+      "Dehri-on-Sone": [24.866, 84.184]
+    }
+  },
+  "Saharsa": {
+    "coordinates": [25.884, 86.6],
+    "major_cities": {
+      "Saharsa": [25.884, 86.6],
+      "Simri Bakhtiyarpur": [25.853, 86.65]
+    }
+  },
+  "Samastipur": {
+    "coordinates": [25.862, 85.785],
+    "major_cities": {
+      "Samastipur": [25.862, 85.785],
+      "Rosera": [25.75, 86.03]
+    }
+  },
+  "Saran": {
+    "coordinates": [25.781, 84.727],
+    "major_cities": {
+      "Chhapra": [25.781, 84.727],
+      "Dighwara": [25.744, 85.0]
+    }
+  },
+  "Sheikhpura": {
+    "coordinates": [25.14, 85.85],
+    "major_cities": {
+      "Sheikhpura": [25.14, 85.85],
+      "Barbigha": [25.1, 85.9]
+    }
+  },
+  "Sheohar": {
+    "coordinates": [26.515, 85.295],
+    "major_cities": {
+      "Sheohar": [26.515, 85.295]
+    }
+  },
+  "Sitamarhi": {
+    "coordinates": [26.598, 85.481],
+    "major_cities": {
+      "Sitamarhi": [26.598, 85.481],
+      "Bairgania": [26.75, 85.28]
+    }
+  },
+  "Siwan": {
+    "coordinates": [26.218, 84.356],
+    "major_cities": {
+      "Siwan": [26.218, 84.356],
+      "Mairwa": [26.233, 84.167]
+    }
+  },
+  "Supaul": {
+    "coordinates": [26.123, 86.606],
+    "major_cities": {
+      "Supaul": [26.123, 86.606],
+      "Birpur": [26.514, 86.896]
+    }
+  },
+  "Vaishali": {
+    "coordinates": [25.688, 85.214],
+    "major_cities": {
+      "Hajipur": [25.6858, 85.2095],
+      "Mahnar": [25.68, 85.37]
+    }
+  },
+  "Gopalganj (duplicate-safe)": {
+    "coordinates": [26.4686, 84.4453],
+    "major_cities": {
+      "Gopalganj": [26.4686, 84.4453]
+    }
+  },
+  "Kaimur (Bhabua)": {
+    "coordinates": [25.05, 83.62],
+    "major_cities": {
+      "Bhabua": [25.05, 83.62],
+      "Mohania": [25.17, 83.62]
+    }
+  },
+  "Saran (Chhapra)": {
+    "coordinates": [25.781, 84.727],
+    "major_cities": {
+      "Chhapra": [25.781, 84.727],
+      "Dighwara": [25.744, 85.0]
+    }
+  },
+  "Katihar (Urban)": {
+    "coordinates": [25.5436, 87.5695],
+    "major_cities": {
+      "Katihar": [25.5436, 87.5695],
+      "Manihari": [26.134, 87.762]
+    }
+  },
+  "Purnea (Urban)": {
+    "coordinates": [25.7771, 87.4753],
+    "major_cities": {
+      "Purnia": [25.7771, 87.4753],
+      "Banmankhi": [25.885, 87.23]
+    }
+  },
+   "Patna": {
+        "coordinates": [
+          25.5941,
+          85.1376
+        ],
+        "major_cities": {
+          "Patna": [
+            25.5941,
+            85.1376
+          ],
+          "Hajipur": [
+            25.6858,
+            85.2095
+          ]
+        }
+      }
+    },
+    "major_cities": {
+      "Patna": [
+        25.5941,
+        85.1376
+      ],
+      "Gaya": [
+        24.795,
+        85.0047
+      ],
+      "Bhagalpur": [
+        25.2411,
+        87.0196
+      ],
+      "Muzaffarpur": [
+        26.12,
+        85.3833
+      ],
+      "Darbhanga": [26.1525, 85.892],
+"Purnia": [25.7771, 87.4753],
+"Ara": [25.563, 84.671]
+    }
+  },
+  "Chhattisgarh": {
+    "centroid": [
+      21.2787,
+      81.8661
+    ],
+    "districts": {
+      "Raipur": {
+        "coordinates": [
+          21.2514,
+          81.6296
+        ],
+        "major_cities": {
+          "Raipur": [
+            21.2514,
+            81.6296
+          ],
+          "Naya Raipur (Nava Raipur)": [
+            21.2079,
+            81.6325
+          ]
+        }
+      },
+      "Bhilai (Durg)": {
+        "coordinates": [
+          21.1832,
+          81.2843
+        ],
+        "major_cities": {
+          "Bhilai": [
+            21.1832,
+            81.2843
+          ],
+          "Durg": [
+            21.1908,
+            81.2846
+          ]
+        }
+      },
+      "Bilaspur": {
+        "coordinates": [
+          22.0797,
+          82.1391
+        ],
+        "major_cities": {
+          "Bilaspur": [
+            22.0797,
+            82.1391
+          ]
+        }
+      },
+      "Korba": {
+        "coordinates": [
+          22.3569,
+          82.7508
+        ],
+        "major_cities": {
+          "Korba": [
+            22.3569,
+            82.7508
+          ]
+        }
+      },
+      "Jagdalpur (Bastar)": {
+        "coordinates": [
+          19.0748,
+          82.0198
+        ],
+        "major_cities": {
+          "Jagdalpur": [
+            19.0748,
+            82.0198
+          ]
+        }
+      },
+      "Balod": {
+    "coordinates": [20.7333, 81.2],
+    "major_cities": {
+      "Balod": [20.7333, 81.2],
+      "Dondi": [20.65, 81.05]
+    }
+  },
+  "Baloda Bazar": {
+    "coordinates": [21.657, 82.165],
+    "major_cities": {
+      "Baloda Bazar": [21.657, 82.165],
+      "Bhatapara": [21.7333, 81.95]
+    }
+  },
+  "Balrampur": {
+    "coordinates": [23.108, 83.011],
+    "major_cities": {
+      "Balrampur": [23.108, 83.011],
+      "Rajpur": [23.2667, 83.15]
+    }
+  },
+  "Bemetara": {
+    "coordinates": [21.715, 81.534],
+    "major_cities": {
+      "Bemetara": [21.715, 81.534],
+      "Saja": [21.9167, 81.5167]
+    }
+  },
+  "Dantewada (South Bastar)": {
+    "coordinates": [18.9, 81.35],
+    "major_cities": {
+      "Dantewada": [18.9, 81.35],
+      "Kirandul": [18.62, 81.25]
+    }
+  },
+  "Gariaband": {
+    "coordinates": [20.6333, 82.0667],
+    "major_cities": {
+      "Gariaband": [20.6333, 82.0667],
+      "Rajim": [20.98, 81.88]
+    }
+  },
+  "Janjgir-Champa": {
+    "coordinates": [22.009, 82.568],
+    "major_cities": {
+      "Janjgir": [22.009, 82.568],
+      "Champa": [22.039, 82.653]
+    }
+  },
+  "Jashpur": {
+    "coordinates": [22.9, 84.15],
+    "major_cities": {
+      "Jashpur Nagar": [22.9, 84.15],
+      "Pathalgaon": [22.5667, 83.4667]
+    }
+  },
+  "Kanker (North Bastar)": {
+    "coordinates": [20.27, 81.49],
+    "major_cities": {
+      "Kanker": [20.27, 81.49],
+      "Antagarh": [20.033, 81.1]
+    }
+  },
+  "Kawardha (Kabirdham)": {
+    "coordinates": [22.0167, 81.25],
+    "major_cities": {
+      "Kawardha": [22.0167, 81.25],
+      "Bodla": [22.2333, 81.0333]
+    }
+  },
+  "Kondagaon": {
+    "coordinates": [19.59, 81.66],
+    "major_cities": {
+      "Kondagaon": [19.59, 81.66],
+      "Makdi": [19.73, 81.85]
+    }
+  },
+  "Mahasamund": {
+    "coordinates": [21.107, 82.098],
+    "major_cities": {
+      "Mahasamund": [21.107, 82.098],
+      "Bagbahra": [21.033, 82.3]
+    }
+  },
+  "Mungeli": {
+    "coordinates": [22.065, 81.686],
+    "major_cities": {
+      "Mungeli": [22.065, 81.686],
+      "Lormi": [22.28, 81.73]
+    }
+  },
+  "Narayanpur": {
+    "coordinates": [19.591, 81.244],
+    "major_cities": {
+      "Narayanpur": [19.591, 81.244]
+    }
+  },
+  "Raigarh": {
+    "coordinates": [21.897, 83.396],
+    "major_cities": {
+      "Raigarh": [21.897, 83.396],
+      "Kharsia": [21.98, 83.12]
+    }
+  },
+  "Rajnandgaon": {
+    "coordinates": [21.1, 81.03],
+    "major_cities": {
+      "Rajnandgaon": [21.1, 81.03],
+      "Dongargarh": [21.188, 80.755]
+    }
+  },
+  "Sukma": {
+    "coordinates": [18.396, 81.66],
+    "major_cities": {
+      "Sukma": [18.396, 81.66],
+      "Konta": [18.8, 81.9]
+    }
+  },
+  "Surajpur": {
+    "coordinates": [23.216, 82.867],
+    "major_cities": {
+      "Surajpur": [23.216, 82.867],
+      "Pratappur": [23.367, 82.833]
+    }
+  },
+  "Surguja": {
+    "coordinates": [23.145, 83.196],
+    "major_cities": {
+      "Ambikapur": [23.145, 83.196],
+      "Lakhanpur": [23.167, 83.3]
+    }
+  },
+  "Gaurela–Pendra–Marwahi": {
+    "coordinates": [22.77, 81.92],
+    "major_cities": {
+      "Gaurela": [22.77, 81.92],
+      "Pendra": [22.77, 81.95],
+      "Marwahi": [22.85, 82.02]
+    }
+  }
+    },
+    "major_cities": {
+      "Raipur": [
+        21.2514,
+        81.6296
+      ],
+      "Bhilai": [
+        21.1832,
+        81.2843
+      ],
+      "Bilaspur": [
+        22.0797,
+        82.1391
+      ],
+      "Korba": [
+        22.3569,
+        82.7508
+      ],
+      "Rajnandgaon": [21.1, 81.03],
+  "Durg": [21.1908, 81.2846],
+  "Jagdalpur": [19.0748, 82.0198],
+  "Raigarh": [21.897, 83.396],
+  "Ambikapur": [23.145, 83.196],
+  "Mahasamund": [21.107, 82.098]
+    }
+  },
+  "Gujarat": {
+    "centroid": [
+      22.2587,
+      71.1924
+    ],
+    "districts": {
+      "Ahmedabad": {
+        "coordinates": [
+          23.0225,
+          72.5714
+        ],
+        "major_cities": {
+          "Ahmedabad": [
+            23.0225,
+            72.5714
+          ],
+          "Gandhinagar": [
+            23.2156,
+            72.6369
+          ]
+        }
+      },
+      "Surat": {
+        "coordinates": [
+          21.1702,
+          72.8311
+        ],
+        "major_cities": {
+          "Surat": [
+            21.1702,
+            72.8311
+          ],
+          "Navsari": [
+            20.9467,
+            72.9526
+          ]
+        }
+      },
+      "Vadodara": {
+        "coordinates": [
+          22.3072,
+          73.1812
+        ],
+        "major_cities": {
+          "Vadodara": [
+            22.3072,
+            73.1812
+          ],
+          "Anand": [
+            22.5646,
+            72.9289
+          ]
+        }
+      },
+      "Rajkot": {
+        "coordinates": [
+          22.3039,
+          70.8022
+        ],
+        "major_cities": {
+          "Rajkot": [
+            22.3039,
+            70.8022
+          ]
+        }
+      },
+      "Kutch": {
+        "coordinates": [
+          23.241,
+          69.6667
+        ],
+        "major_cities": {
+          "Bhuj": [
+            23.248,
+            69.6667
+          ]
+        }
+      },
+      "Gandhinagar": {
+    "coordinates": [23.2156, 72.6369],
+    "major_cities": {
+      "Gandhinagar": [23.2156, 72.6369],
+      "Kalol": [23.25, 72.5]
+    }
+  },
+  "Mehsana": {
+    "coordinates": [23.6, 72.4],
+    "major_cities": {
+      "Mehsana": [23.6, 72.4],
+      "Kadi": [23.2993, 72.3335]
+    }
+  },
+  "Patan": {
+    "coordinates": [23.85, 72.1333],
+    "major_cities": {
+      "Patan": [23.85, 72.1333],
+      "Siddhpur": [23.9167, 72.3833]
+    }
+  },
+  "Banaskantha": {
+    "coordinates": [24.2, 72.5],
+    "major_cities": {
+      "Palanpur": [24.171, 72.438],
+      "Deesa": [24.25, 72.1667]
+    }
+  },
+  "Sabarkantha": {
+    "coordinates": [23.7167, 73.0],
+    "major_cities": {
+      "Himmatnagar": [23.6, 72.9667],
+      "Idar": [23.8333, 73.0]
+    }
+  },
+  "Aravalli": {
+    "coordinates": [23.55, 73.0],
+    "major_cities": {
+      "Modasa": [23.4667, 73.3]
+    }
+  },
+  "Kheda": {
+    "coordinates": [22.75, 72.68],
+    "major_cities": {
+      "Nadiad": [22.6939, 72.8616],
+      "Kheda": [22.75, 72.68]
+    }
+  },
+  "Anand": {
+    "coordinates": [22.5646, 72.9289],
+    "major_cities": {
+      "Anand": [22.5646, 72.9289],
+      "Umreth": [22.7, 73.1167]
+    }
+  },
+  "Panchmahal": {
+    "coordinates": [22.7667, 73.6167],
+    "major_cities": {
+      "Godhra": [22.8333, 73.6167],
+      "Kalol (Panchmahal)": [22.6, 73.45]
+    }
+  },
+  "Dahod": {
+    "coordinates": [22.8333, 74.2667],
+    "major_cities": {
+      "Dahod": [22.8333, 74.2667],
+      "Jhalod": [23.1, 74.15]
+    }
+  },
+  "Bharuch": {
+    "coordinates": [21.7051, 72.9959],
+    "major_cities": {
+      "Bharuch": [21.7051, 72.9959],
+      "Ankleshwar": [21.6333, 73.0]
+    }
+  },
+  "Narmada": {
+    "coordinates": [21.8667, 73.5],
+    "major_cities": {
+      "Rajpipla": [21.8667, 73.5]
+    }
+  },
+  "Navsari": {
+    "coordinates": [20.9467, 72.9526],
+    "major_cities": {
+      "Navsari": [20.9467, 72.9526],
+      "Vijalpor": [20.9333, 72.9333]
+    }
+  },
+  "Valsad": {
+    "coordinates": [20.6, 72.9333],
+    "major_cities": {
+      "Valsad": [20.6, 72.9333],
+      "Vapi": [20.3667, 72.9]
+    }
+  },
+  "Tapi": {
+    "coordinates": [21.15, 73.6],
+    "major_cities": {
+      "Vyara": [21.1, 73.4]
+    }
+  },
+  "Dang": {
+    "coordinates": [20.75, 73.5],
+    "major_cities": {
+      "Ahwa": [20.75, 73.5]
+    }
+  },
+  "Bhavnagar": {
+    "coordinates": [21.7645, 72.1519],
+    "major_cities": {
+      "Bhavnagar": [21.7645, 72.1519],
+      "Sihor": [21.7167, 71.9667]
+    }
+  },
+  "Amreli": {
+    "coordinates": [21.6, 71.2167],
+    "major_cities": {
+      "Amreli": [21.6, 71.2167],
+      "Savarkundla": [21.3333, 71.3167]
+    }
+  },
+  "Gir Somnath": {
+    "coordinates": [20.9, 70.4],
+    "major_cities": {
+      "Veraval": [20.9, 70.37],
+      "Somnath": [20.888, 70.401]
+    }
+  },
+  "Junagadh": {
+    "coordinates": [21.5167, 70.4667],
+    "major_cities": {
+      "Junagadh": [21.5167, 70.4667],
+      "Keshod": [21.3, 70.25]
+    }
+  },
+   "Jamnagar": {
+    "coordinates": [22.4707, 70.0577],
+    "major_cities": {
+      "Jamnagar": [22.4707, 70.0577],
+      "Khambhalia": [22.207, 69.65]
+    }
+  },
+  "Porbandar": {
+    "coordinates": [21.6417, 69.6293],
+    "major_cities": {
+      "Porbandar": [21.6417, 69.6293],
+      "Ranavav": [21.68, 69.73]
+    }
+  },
+  "Devbhoomi Dwarka": {
+    "coordinates": [22.24, 69.05],
+    "major_cities": {
+      "Dwarka": [22.24, 69.05],
+      "Khambhalia": [22.207, 69.65]
+    }
+  },
+  "Morbi": {
+    "coordinates": [22.8167, 70.8333],
+    "major_cities": {
+      "Morbi": [22.8167, 70.8333],
+      "Wankaner": [22.6167, 70.9333]
+    }
+  },
+  "Surendranagar": {
+    "coordinates": [22.7167, 71.6667],
+    "major_cities": {
+      "Surendranagar": [22.7167, 71.6667],
+      "Wadhwan": [22.7167, 71.6833]
+    }
+  },
+  "Bhuj (Kutch)": {
+    "coordinates": [23.248, 69.6667],
+    "major_cities": {
+      "Bhuj": [23.248, 69.6667],
+      "Gandhidham": [23.0833, 70.1333],
+      "Mandvi": [22.8333, 69.3667]
+    }
+  },
+  "Palanpur (Banaskantha)": {
+    "coordinates": [24.171, 72.438],
+    "major_cities": {
+      "Palanpur": [24.171, 72.438],
+      "Deesa": [24.25, 72.1667]
+    }
+  },
+  "Mahisagar": {
+    "coordinates": [23.15, 73.6],
+    "major_cities": {
+      "Lunawada": [23.1333, 73.6167],
+      "Balasinor": [22.95, 73.3333]
+    }
+  },
+  "Chhota Udaipur": {
+    "coordinates": [22.3167, 74.0167],
+    "major_cities": {
+      "Chhota Udaipur": [22.3167, 74.0167],
+      "Bodeli": [22.3, 73.75]
+    }
+  },
+  "Botad": {
+    "coordinates": [22.1667, 71.6667],
+    "major_cities": {
+      "Botad": [22.1667, 71.6667],
+      "Barwala": [22.2833, 71.9333]
+    }
+  }
+    },
+    "major_cities": {
+      "Ahmedabad": [
+        23.0225,
+        72.5714
+      ],
+      "Surat": [
+        21.1702,
+        72.8311
+      ],
+      "Vadodara": [
+        22.3072,
+        73.1812
+      ],
+      "Rajkot": [
+        22.3039,
+        70.8022
+      ],
+      "Bhuj": [
+        23.248,
+        69.6667
+      ],
+      "Gandhinagar": [23.2156, 72.6369],
+  "Bhavnagar": [21.7645, 72.1519],
+  "Jamnagar": [22.4707, 70.0577],
+  "Junagadh": [21.5167, 70.4667],
+  "Anand": [22.5646, 72.9289]
+    }
+  },
+  "Haryana": {
+    "centroid": [
+      29.0588,
+      76.0856
+    ],
+    "districts": {
+      "Ambala": {
+        "coordinates": [
+          30.3782,
+          76.7767
+        ],
+        "major_cities": {
+          "Ambala": [
+            30.3782,
+            76.7767
+          ],
+          "Naraingarh": [
+            30.5646,
+            76.6383
+          ]
+        }
+      },
+      "Bhiwani": {
+        "coordinates": [
+          28.797,
+          76.1396
+        ],
+        "major_cities": {
+          "Bhiwani": [
+            28.797,
+            76.1396
+          ],
+          "Loharu": [
+            28.5667,
+            75.8667
+          ]
+        }
+      },
+      "Faridabad": {
+        "coordinates": [
+          28.4089,
+          77.3178
+        ],
+        "major_cities": {
+          "Faridabad": [
+            28.4089,
+            77.3178
+          ],
+          "Ballabgarh": [
+            28.3899,
+            77.3345
+          ]
+        }
+      },
+      "Gurugram": {
+        "coordinates": [
+          28.4595,
+          77.0266
+        ],
+        "major_cities": {
+          "Gurugram": [
+            28.4595,
+            77.0266
+          ],
+          "Manesar": [
+            28.3445,
+            76.9279
+          ]
+        }
+      },
+      "Hisar": {
+        "coordinates": [
+          29.1492,
+          75.7229
+        ],
+        "major_cities": {
+          "Hisar": [
+            29.1492,
+            75.7229
+          ],
+          "Hansi": [
+            29.0869,
+            75.9589
+          ]
+        }
+      },
+       "Jhajjar": {
+    "coordinates": [28.6063, 76.6564],
+    "major_cities": {
+      "Jhajjar": [28.6063, 76.6564],
+      "Bahadurgarh": [28.6833, 76.9333]
+    }
+  },
+  "Karnal": {
+    "coordinates": [29.6857, 76.9905],
+    "major_cities": {
+      "Karnal": [29.6857, 76.9905],
+      "Taraori": [29.8, 76.9167]
+    }
+  },
+  "Kurukshetra": {
+    "coordinates": [29.9695, 76.8783],
+    "major_cities": {
+      "Kurukshetra": [29.9695, 76.8783],
+      "Thanesar": [29.9833, 76.8333]
+    }
+  },
+  "Panipat": {
+    "coordinates": [29.39, 76.97],
+    "major_cities": {
+      "Panipat": [29.39, 76.97],
+      "Samalkha": [29.2333, 77.0167]
+    }
+  },
+  "Rewari": {
+    "coordinates": [28.197, 76.617],
+    "major_cities": {
+      "Rewari": [28.197, 76.617],
+      "Bawal": [28.0833, 76.5833]
+    }
+  },
+  "Mahendragarh": {
+    "coordinates": [28.28, 76.15],
+    "major_cities": {
+      "Mahendragarh": [28.28, 76.15],
+      "Narnaul": [28.0444, 76.1083]
+    }
+  },
+  "Rohtak": {
+    "coordinates": [28.9, 76.5667],
+    "major_cities": {
+      "Rohtak": [28.9, 76.5667]
+    }
+  },
+  "Sonipat": {
+    "coordinates": [28.995, 77.011],
+    "major_cities": {
+      "Sonipat": [28.995, 77.011],
+      "Gohana": [29.1333, 76.7]
+    }
+  },
+  "Yamunanagar": {
+    "coordinates": [30.129, 77.282],
+    "major_cities": {
+      "Yamunanagar": [30.129, 77.282],
+      "Jagadhri": [30.1667, 77.2833]
+    }
+  },
+  "Palwal": {
+    "coordinates": [28.15, 77.33],
+    "major_cities": {
+      "Palwal": [28.15, 77.33],
+      "Hodal": [27.9, 77.37]
+    }
+  },
+  "Kaithal": {
+    "coordinates": [29.801, 76.396],
+    "major_cities": {
+      "Kaithal": [29.801, 76.396],
+      "Cheeka": [29.75, 76.85]
+    }
+  },
+  "Fatehabad": {
+    "coordinates": [29.515, 75.455],
+    "major_cities": {
+      "Fatehabad": [29.515, 75.455],
+      "Tohana": [29.7, 75.9]
+    }
+  },
+  "Sirsa": {
+    "coordinates": [29.5349, 75.028],
+    "major_cities": {
+      "Sirsa": [29.5349, 75.028],
+      "Dabwali": [29.95, 74.7333]
+    }
+  },
+  "Jind": {
+    "coordinates": [29.3167, 76.3],
+    "major_cities": {
+      "Jind": [29.3167, 76.3],
+      "Narwana": [29.6, 76.1167]
+    }
+  },
+  "Panchkula": {
+    "coordinates": [30.6915, 76.8537],
+    "major_cities": {
+      "Panchkula": [30.6915, 76.8537],
+      "Pinjore": [30.79, 76.91]
+    }
+  },
+  "Charkhi Dadri": {
+    "coordinates": [28.5933, 76.2673],
+    "major_cities": {
+      "Charkhi Dadri": [28.5933, 76.2673],
+      "Bond Kalan": [28.6167, 76.2833]
+    }
+  },
+  "Nuh": {
+    "coordinates": [28.1167, 77.0167],
+    "major_cities": {
+      "Nuh": [28.1167, 77.0167],
+      "Ferozepur Jhirka": [27.7833, 76.95]
+    }
+  }
+    },
+    "major_cities": {
+     "Gurugram": [28.4595, 77.0266],
+  "Faridabad": [28.4089, 77.3178],
+  "Hisar": [29.1492, 75.7229],
+  "Panipat": [29.39, 76.97],
+  "Karnal": [29.6857, 76.9905],
+  "Ambala": [30.3782, 76.7767],
+  "Yamunanagar": [30.129, 77.282],
+  "Rohtak": [28.9, 76.5667],
+  "Sonipat": [28.995, 77.011],
+  "Panchkula": [30.6915, 76.8537]
+    }
+  },
+  "Himachal Pradesh": {
+    "centroid": [
+      31.1048,
+      77.1734
+    ],
+    "districts": {
+      "Shimla": {
+        "coordinates": [
+          31.1048,
+          77.1734
+        ],
+        "major_cities": {
+          "Shimla": [
+            31.1048,
+            77.1734
+          ],
+          "Theog": [
+            31.0919,
+            77.2403
+          ]
+        }
+      },
+      "Mandi": {
+        "coordinates": [
+          31.7036,
+          76.9395
+        ],
+        "major_cities": {
+          "Mandi": [
+            31.7036,
+            76.9395
+          ],
+          "Sundernagar": [
+            31.5167,
+            76.8667
+          ]
+        }
+      },
+      "Kangra": {
+        "coordinates": [
+          32.1034,
+          76.2638
+        ],
+        "major_cities": {
+          "Dharamshala": [
+            32.2169,
+            76.3234
+          ],
+          "Kangra": [
+            32.0966,
+            76.2729
+          ]
+        }
+      },
+      "Kullu": {
+        "coordinates": [
+          31.9768,
+          77.1086
+        ],
+        "major_cities": {
+          "Kullu": [
+            31.9768,
+            77.1086
+          ],
+          "Manali": [
+            32.2396,
+            77.1887
+          ]
+        }
+      },
+      "Solan": {
+        "coordinates": [
+          30.886,
+          77.098
+        ],
+        "major_cities": {
+          "Solan": [
+            30.886,
+            77.098
+          ],
+          "Kasauli": [
+            30.8564,
+            76.9589
+          ]
+        }
+      },
+      "Bilaspur": {
+    "coordinates": [31.3456, 76.7188],
+    "major_cities": {
+      "Bilaspur": [31.3456, 76.7188],
+      "Ghumarwin": [31.45, 76.7167]
+    }
+  },
+  "Chamba": {
+    "coordinates": [32.553, 76.125],
+    "major_cities": {
+      "Chamba": [32.553, 76.125],
+      "Dalhousie": [32.5333, 75.9833]
+    }
+  },
+  "Hamirpur": {
+    "coordinates": [31.6833, 76.5167],
+    "major_cities": {
+      "Hamirpur": [31.6833, 76.5167],
+      "Nadaun": [31.7833, 76.3333]
+    }
+  },
+  "Kinnaur": {
+    "coordinates": [31.55, 78.25],
+    "major_cities": {
+      "Reckong Peo": [31.5333, 78.2667],
+      "Kalpa": [31.54, 78.26]
+    }
+  },
+  "Lahaul and Spiti": {
+    "coordinates": [32.5, 77.8],
+    "major_cities": {
+      "Keylong": [32.5719, 77.0245],
+      "Kaza": [32.223, 78.075]
+    }
+  },
+  "Sirmaur": {
+    "coordinates": [30.55, 77.2833],
+    "major_cities": {
+      "Nahan": [30.55, 77.2833],
+      "Paonta Sahib": [30.45, 77.63]
+    }
+  },
+  "Una": {
+    "coordinates": [31.4667, 76.2833],
+    "major_cities": {
+      "Una": [31.4667, 76.2833],
+      "Mehatpur Basdehra": [31.678, 76.5]
+    }
+  }
+    },
+    "major_cities": {
+     "Shimla": [31.1048, 77.1734],
+  "Dharamshala": [32.2169, 76.3234],
+  "Mandi": [31.7036, 76.9395],
+  "Solan": [30.886, 77.098],
+  "Bilaspur": [31.3456, 76.7188],
+  "Kullu": [31.9768, 77.1086],
+  "Chamba": [32.553, 76.125],
+  "Hamirpur": [31.6833, 76.5167],
+  "Nahan": [30.55, 77.2833],
+  "Keylong": [32.5719, 77.0245]
+    }
+  },
+
+
+  "Jharkhand": {
+    "centroid": [
+      23.6102,
+      85.2799
+    ],
+    "districts": {
+      "Dhanbad": {
+        "coordinates": [
+          23.7957,
+          86.4304
+        ],
+        "major_cities": {
+          "Dhanbad": [
+            23.7957,
+            86.4304
+          ],
+          "Jharia": [
+            23.8,
+            86.45
+          ]
+        }
+      },
+      "Jamshedpur (East Singhbhum)": {
+        "coordinates": [
+          22.8046,
+          86.2029
+        ],
+        "major_cities": {
+          "Jamshedpur": [
+            22.8046,
+            86.2029
+          ],
+          "Ghatshila": [
+            22.57,
+            86.4
+          ]
+        }
+      },
+      "Bokaro": {
+        "coordinates": [
+          23.6693,
+          86.1511
+        ],
+        "major_cities": {
+          "Bokaro Steel City": [
+            23.6693,
+            86.1511
+          ]
+        }
+      },
+      "Hazaribagh": {
+        "coordinates": [
+          23.9952,
+          85.3595
+        ],
+        "major_cities": {
+          "Hazaribagh": [
+            23.9952,
+            85.3595
+          ]
+        }
+      },
+      "Chatra": {
+    "coordinates": [24.206, 84.870],
+    "major_cities": {
+      "Chatra": [24.206, 84.870],
+      "Simaria": [24.2833, 84.9167]
+    }
+  },
+  "Deoghar": {
+    "coordinates": [24.485, 86.693],
+    "major_cities": {
+      "Deoghar": [24.485, 86.693],
+      "Jasidih": [24.513, 86.64]
+    }
+  },
+  "Dumka": {
+    "coordinates": [24.267, 87.25],
+    "major_cities": {
+      "Dumka": [24.267, 87.25],
+      "Jama": [24.5, 87.15]
+    }
+  },
+  "Garhwa": {
+    "coordinates": [24.164, 83.81],
+    "major_cities": {
+      "Garhwa": [24.164, 83.81],
+      "Nagar Untari": [24.2833, 83.8]
+    }
+  },
+  "Giridih": {
+    "coordinates": [24.184, 86.308],
+    "major_cities": {
+      "Giridih": [24.184, 86.308],
+      "Isri": [24.25, 86.33]
+    }
+  },
+  "Godda": {
+    "coordinates": [24.83, 87.2],
+    "major_cities": {
+      "Godda": [24.83, 87.2],
+      "Mahagama": [25.0333, 87.2667]
+    }
+  },
+  "Gumla": {
+    "coordinates": [23.043, 84.54],
+    "major_cities": {
+      "Gumla": [23.043, 84.54],
+      "Sisai": [23.15, 84.55]
+    }
+  },
+  "Khunti": {
+    "coordinates": [23.083, 85.283],
+    "major_cities": {
+      "Khunti": [23.083, 85.283],
+      "Torpa": [22.9333, 85.2667]
+    }
+  },
+  "Koderma": {
+    "coordinates": [24.467, 85.6],
+    "major_cities": {
+      "Koderma": [24.467, 85.6],
+      "Jhumri Telaiya": [24.4333, 85.5333]
+    }
+  },
+  "Latehar": {
+    "coordinates": [23.75, 84.5],
+    "major_cities": {
+      "Latehar": [23.75, 84.5],
+      "Barwadih": [23.8333, 84.2167]
+    }
+  },
+  "Lohardaga": {
+    "coordinates": [23.4333, 84.6833],
+    "major_cities": {
+      "Lohardaga": [23.4333, 84.6833],
+      "Kuru": [23.5667, 84.6333]
+    }
+  },
+  "Pakur": {
+    "coordinates": [24.6333, 87.85],
+    "major_cities": {
+      "Pakur": [24.6333, 87.85],
+      "Hiranpur": [24.7, 87.8333]
+    }
+  },
+  "Palamu": {
+    "coordinates": [24.0833, 84.0833],
+    "major_cities": {
+      "Daltonganj": [24.0333, 84.0667],
+      "Hussainabad": [24.5, 84.0]
+    }
+  },
+  "Ramgarh": {
+    "coordinates": [23.63, 85.52],
+    "major_cities": {
+      "Ramgarh": [23.63, 85.52],
+      "Patratu": [23.6667, 85.3]
+    }
+  },
+  "Sahebganj": {
+    "coordinates": [25.25, 87.65],
+    "major_cities": {
+      "Sahebganj": [25.25, 87.65],
+      "Rajmahal": [25.05, 87.83]
+    }
+  },
+  "Seraikela-Kharsawan": {
+    "coordinates": [22.7, 85.8],
+    "major_cities": {
+      "Seraikela": [22.7, 85.8],
+      "Kharsawan": [22.8, 85.85]
+    }
+  },
+  "Simdega": {
+    "coordinates": [22.615, 84.502],
+    "major_cities": {
+      "Simdega": [22.615, 84.502],
+      "Kolebira": [22.65, 84.7]
+    }
+  },
+  "West Singhbhum": {
+    "coordinates": [22.5667, 85.8],
+    "major_cities": {
+      "Chaibasa": [22.55, 85.82],
+      "Jhinkpani": [22.4, 85.9]
+    }
+  },
+  "Saraikela": {
+    "coordinates": [22.7, 85.93],
+    "major_cities": {
+      "Saraikela": [22.7, 85.93],
+      "Adityapur": [22.8, 86.05]
+    }
+  },"Ranchi": {
+        "coordinates": [
+          23.3441,
+          85.3096
+        ],
+        "major_cities": {
+          "Ranchi": [
+            23.3441,
+            85.3096
+          ],
+          "Ormanjhi": [
+            23.369,
+            85.2334
+          ]
+        }
+      }
+    },
+    "major_cities": {
+      "Ranchi": [23.3441, 85.3096],
+  "Jamshedpur": [22.8046, 86.2029],
+  "Dhanbad": [23.7957, 86.4304],
+  "Bokaro": [23.6693, 86.1511],
+  "Hazaribagh": [23.9952, 85.3595],
+  "Giridih": [24.184, 86.308],
+  "Deoghar": [24.485, 86.693],
+  "Dumka": [24.267, 87.25],
+  "Chaibasa": [22.55, 85.82],
+  "Simdega": [22.615, 84.502]
+    }
+  },
+
+
+  "Madhya Pradesh": {
+    "centroid": [
+      22.9734,
+      78.6569
+    ],
+    "districts": {
+      "Bhopal": {
+        "coordinates": [
+          23.2599,
+          77.4126
+        ],
+        "major_cities": {
+          "Bhopal": [
+            23.2599,
+            77.4126
+          ],
+          "Berasia": [
+            23.53,
+            77.63
+          ]
+        }
+      },
+      "Ujjain": {
+        "coordinates": [
+          23.1793,
+          75.7849
+        ],
+        "major_cities": {
+          "Ujjain": [
+            23.1793,
+            75.7849
+          ],
+          "Mahidpur": [
+            23.2,
+            75.5
+          ]
+        }
+      },
+      
+  "Sagar": {
+    "coordinates": [23.8333, 78.75],
+    "major_cities": {
+      "Sagar": [23.8333, 78.75],
+      "Khurai": [24.0433, 78.3333]
+    }
+  },
+ 
+  "Chhindwara": {
+    "coordinates": [22.0667, 78.9333],
+    "major_cities": {
+      "Chhindwara": [22.0667, 78.9333],
+      "Parasia": [22.2, 78.7667]
+    }
+  },
+ 
+  "Ratlam": {
+    "coordinates": [23.3167, 75.0667],
+    "major_cities": {
+      "Ratlam": [23.3167, 75.0667],
+      "Jaora": [23.65, 75.1333]
+    }
+  },
+  "Dhar": {
+    "coordinates": [22.6, 75.3],
+    "major_cities": {
+      "Dhar": [22.6, 75.3],
+      "Manawar": [22.25, 75.0833]
+    }
+  },
+  "Sehore": {
+    "coordinates": [23.2, 77.0833],
+    "major_cities": {
+      "Sehore": [23.2, 77.0833],
+      "Ashta": [23.0167, 76.7167]
+    }
+  },
+  "Betul": {
+    "coordinates": [21.9, 77.9],
+    "major_cities": {
+      "Betul": [21.9, 77.9],
+      "Multai": [21.77, 78.25]
+    }
+  },
+  "Chhatarpur": {
+    "coordinates": [24.9, 79.6],
+    "major_cities": {
+      "Chhatarpur": [24.9, 79.6],
+      "Nowgaon": [25.0667, 79.4333]
+    }
+  },
+  "Damoh": {
+    "coordinates": [23.8333, 79.4333],
+    "major_cities": {
+      "Damoh": [23.8333, 79.4333],
+      "Patharia": [23.9, 79.2]
+    }
+  },
+  "Mandsaur": {
+    "coordinates": [24.0667, 75.0667],
+    "major_cities": {
+      "Mandsaur": [24.0667, 75.0667],
+      "Shamgarh": [24.1833, 75.6333]
+    }
+  },
+  "Neemuch": {
+    "coordinates": [24.4667, 74.8667],
+    "major_cities": {
+      "Neemuch": [24.4667, 74.8667],
+      "Manasa": [24.4833, 75.1333]
+    }
+  },
+  "Sidhi": {
+    "coordinates": [24.4167, 81.8833],
+    "major_cities": {
+      "Sidhi": [24.4167, 81.8833],
+      "Churhat": [24.65, 81.6667]
+    }
+  },
+  "Singrauli": {
+    "coordinates": [24.2, 82.6667],
+    "major_cities": {
+      "Waidhan": [24.2, 82.6667],
+      "Morwa": [24.2333, 82.4833]
+    }
+  },
+  "Raisen": {
+    "coordinates": [23.3333, 77.8],
+    "major_cities": {
+      "Raisen": [23.3333, 77.8],
+      "Begumganj": [23.6, 78.05]
+    }
+  },
+  "Seoni": {
+    "coordinates": [22.0833, 79.55],
+    "major_cities": {
+      "Seoni": [22.0833, 79.55],
+      "Lakhnadon": [22.6, 79.6]
+    }
+  },
+  "Narsinghpur": {
+    "coordinates": [22.95, 79.2],
+    "major_cities": {
+      "Narsinghpur": [22.95, 79.2],
+      "Gadarwara": [22.9333, 78.7833]
+    }
+  },
+  "Khandwa": {
+    "coordinates": [21.8333, 76.35],
+    "major_cities": {
+      "Khandwa": [21.8333, 76.35],
+      "Pandhana": [21.7, 76.2]
+    }
+  },
+  "Khargone": {
+    "coordinates": [21.8333, 75.6167],
+    "major_cities": {
+      "Khargone": [21.8333, 75.6167],
+      "Barwaha": [22.25, 76.05]
+    }
+  },
+  "Barwani": {
+    "coordinates": [22.0333, 74.9],
+    "major_cities": {
+      "Barwani": [22.0333, 74.9],
+      "Sendhwa": [21.6833, 75.1]
+    }
+  },
+  "Burhanpur": {
+    "coordinates": [21.3, 76.23],
+    "major_cities": {
+      "Burhanpur": [21.3, 76.23],
+      "Nepanagar": [21.4667, 76.4]
+    }
+  },
+  "Alirajpur": {
+    "coordinates": [22.3, 74.35],
+    "major_cities": {
+      "Alirajpur": [22.3, 74.35],
+      "Jobat": [22.4167, 74.5667]
+    }
+  },
+  "Jhabua": {
+    "coordinates": [22.75, 74.6],
+    "major_cities": {
+      "Jhabua": [22.75, 74.6],
+      "Petlawad": [23.0, 74.8]
+    }
+  },
+  "Dindori": {
+    "coordinates": [22.9333, 81.0833],
+    "major_cities": {
+      "Dindori": [22.9333, 81.0833],
+      "Shahpura": [23.1333, 80.8833]
+    }
+  },
+  "Anuppur": {
+    "coordinates": [23.1, 81.7],
+    "major_cities": {
+      "Anuppur": [23.1, 81.7],
+      "Amarkantak": [22.675, 81.75]
+    }
+  },
+  "Panna": {
+    "coordinates": [24.7167, 80.1833],
+    "major_cities": {
+      "Panna": [24.7167, 80.1833],
+      "Ajaigarh": [24.9, 80.25]
+    }
+  },
+  "Tikamgarh": {
+    "coordinates": [24.75, 78.83],
+    "major_cities": {
+      "Tikamgarh": [24.75, 78.83],
+      "Jatara": [25.0333, 79.05]
+    }
+  },
+  "Datia": {
+    "coordinates": [25.67, 78.47],
+    "major_cities": {
+      "Datia": [25.67, 78.47],
+      "Seondha": [26.03, 78.78]
+    }
+  },
+  "Ashoknagar": {
+    "coordinates": [24.57, 77.73],
+    "major_cities": {
+      "Ashoknagar": [24.57, 77.73],
+      "Chanderi": [24.72, 78.13]
+    }
+  },
+  "Sheopur": {
+    "coordinates": [25.67, 76.7],
+    "major_cities": {
+      "Sheopur": [25.67, 76.7],
+      "Baroda": [25.6, 76.82]
+    }
+  },
+  "Shajapur": {
+    "coordinates": [23.43, 76.27],
+    "major_cities": {
+      "Shajapur": [23.43, 76.27],
+      "Shujalpur": [23.4, 76.72]
+    }
+  },
+  "Rajgarh": {
+    "coordinates": [23.87, 76.73],
+    "major_cities": {
+      "Rajgarh": [23.87, 76.73],
+      "Biaora": [23.85, 76.92]
+    }
+  },
+  "Vidisha": {
+    "coordinates": [23.53, 77.81],
+    "major_cities": {
+      "Vidisha": [23.53, 77.81],
+      "Sironj": [24.1, 77.68]
+    }
+  },
+  "Umaria": {
+    "coordinates": [23.53, 80.83],
+    "major_cities": {
+      "Umaria": [23.53, 80.83],
+      "Nowrozabad": [23.37, 80.98]
+    }
+  },
+  "Niwari": {
+    "coordinates": [25.0, 78.8],
+    "major_cities": {
+      "Niwari": [25.0, 78.8],
+      "Orchha": [25.35, 78.64]
+    }
+  },
+  "Agar Malwa": {
+    "coordinates": [23.71, 76.0],
+    "major_cities": {
+      "Agar": [23.71, 76.0],
+      "Susner": [23.95, 75.73]
+    }
+  },
+  "Harda": {
+    "coordinates": [22.33, 77.1],
+    "major_cities": {
+      "Harda": [22.33, 77.1],
+      "Timarni": [22.37, 77.23]
+    }
+  },
+  "Hoshangabad (Narmadapuram)": {
+    "coordinates": [22.75, 77.72],
+    "major_cities": {
+      "Hoshangabad": [22.75, 77.72],
+      "Itarsi": [22.62, 77.75]
+    }
+  },
+  "Katni": {
+    "coordinates": [23.83, 80.4],
+    "major_cities": {
+      "Katni": [23.83, 80.4],
+      "Barhi": [23.9, 80.83]
+    }
+  },
+  "Rewa": {
+    "coordinates": [24.53, 81.3],
+    "major_cities": {
+      "Rewa": [24.53, 81.3],
+      "Govindgarh": [24.5, 81.35]
+    }
+  },
+  "Satna": {
+    "coordinates": [24.58, 80.83],
+    "major_cities": {
+      "Satna": [24.58, 80.83],
+      "Maihar": [24.27, 80.75]
+    }
+  },
+  "Shahdol": {
+    "coordinates": [23.3, 81.35],
+    "major_cities": {
+      "Shahdol": [23.3, 81.35],
+      "Beohari": [24.05, 81.38]
+    }
+  },
+  "Shivpuri": {
+    "coordinates": [25.43, 77.65],
+    "major_cities": {
+      "Shivpuri": [25.43, 77.65],
+      "Karera": [25.47, 78.13]
+    }
+  },
+  "Morena": {
+    "coordinates": [26.5, 78.0],
+    "major_cities": {
+      "Morena": [26.5, 78.0],
+      "Ambah": [26.71, 78.23]
+    }
+  },
+  "Bhind": {
+    "coordinates": [26.56, 78.79],
+    "major_cities": {
+      "Bhind": [26.56, 78.79],
+      "Mehgaon": [26.5, 78.58]
+    }
+  },
+  "Pipariya (Hoshangabad region)": {
+    "coordinates": [22.75, 78.35],
+    "major_cities": {
+      "Pipariya": [22.75, 78.35],
+      "Sohagpur": [22.9, 78.2]
+    }
+  },"Indore": {
+        "coordinates": [
+          22.7196,
+          75.8577
+        ],
+        "major_cities": {
+          "Indore": [
+            22.7196,
+            75.8577
+          ],
+          "Dewas": [
+            22.9676,
+            76.0536
+          ]
+        }
+      },
+      "Gwalior": {
+        "coordinates": [
+          26.2183,
+          78.1828
+        ],
+        "major_cities": {
+          "Gwalior": [
+            26.2183,
+            78.1828
+          ],
+          "Bhitarwar": [
+            26.15,
+            77.9333
+          ]
+        }
+      },
+      "Jabalpur": {
+        "coordinates": [
+          23.1815,
+          79.9864
+        ],
+        "major_cities": {
+          "Jabalpur": [
+            23.1815,
+            79.9864
+          ]
+        }
+      }
+    },
+    "major_cities": {
+      "Bhopal": [23.2599, 77.4126],
+  "Indore": [22.7196, 75.8577],
+  "Gwalior": [26.2183, 78.1828],
+  "Jabalpur": [23.1815, 79.9864],
+  "Ujjain": [23.1793, 75.7849],
+  "Sagar": [23.8388, 78.7384],
+  "Satna": [24.58, 80.83],
+  "Rewa": [24.53, 81.3],
+  "Ratlam": [23.33, 75.04],
+  "Chhindwara": [22.056, 78.939],
+  "Katni": [23.83, 80.4],
+  "Hoshangabad (Narmadapuram)": [22.75, 77.72],
+  "Dewas": [22.9676, 76.0536],
+  "Shivpuri": [25.43, 77.65],
+  "Bhind": [26.56, 78.79],
+  "Morena": [26.5, 78.0],
+  "Khandwa": [21.83, 76.35],
+  "Chhatarpur": [24.92, 79.6],
+  "Seoni": [22.08, 79.55],
+  "Burhanpur": [21.31, 76.23]
+    }
+  },
+
+
+  "West Bengal": {
+    "centroid": [
+      22.9868,
+      87.855
+    ],
+    "districts": {
+      "Howrah": {
+        "coordinates": [
+          22.5996,
+          88.2636
+        ],
+        "major_cities": {
+          "Howrah": [
+            22.5996,
+            88.2636
+          ],
+          "Bally": [
+            22.6411,
+            88.3365
+          ]
+        }
+      },
+      "North 24 Parganas": {
+        "coordinates": [
+          22.8,
+          88.45
+        ],
+        "major_cities": {
+          "Barasat": [
+            22.709,
+            88.486
+          ],
+          "Bongaon": [
+            23.07,
+            88.82
+          ]
+        }
+      },
+      "South 24 Parganas": {
+        "coordinates": [
+          22.191,
+          88.4064
+        ],
+        "major_cities": {
+          "Alipore": [
+            22.522,
+            88.325
+          ],
+          "Baruipur": [
+            22.4,
+            88.43
+          ]
+        }
+      },
+      "Hooghly": {
+        "coordinates": [
+          22.907,
+          88.3898
+        ],
+        "major_cities": {
+          "Chinsura": [
+            22.897,
+            88.39
+          ],
+          "Serampore": [
+            22.75,
+            88.3499
+          ]
+        }
+      },
+      "Darjeeling": {
+    "coordinates": [27.0333, 88.2667],
+    "major_cities": {
+      "Darjeeling": [27.0333, 88.2667],
+      "Kurseong": [26.8825, 88.2773]
+    }
+  },
+  "Jalpaiguri": {
+    "coordinates": [26.5167, 88.7333],
+    "major_cities": {
+      "Jalpaiguri": [26.5167, 88.7333],
+      "Malbazar": [26.8695, 88.7336]
+    }
+  },
+  "Alipurduar": {
+    "coordinates": [26.4833, 89.5333],
+    "major_cities": {
+      "Alipurduar": [26.4833, 89.5333],
+      "Falakata": [26.5206, 89.2056]
+    }
+  },
+  "Cooch Behar": {
+    "coordinates": [26.3167, 89.45],
+    "major_cities": {
+      "Cooch Behar": [26.3167, 89.45],
+      "Dinhata": [26.135, 89.463]
+    }
+  },
+  "Murshidabad": {
+    "coordinates": [24.1833, 88.2667],
+    "major_cities": {
+      "Berhampore": [24.1, 88.25],
+      "Jangipur": [24.4667, 88.0833]
+    }
+  },
+  "Nadia": {
+    "coordinates": [23.47, 88.55],
+    "major_cities": {
+      "Krishnanagar": [23.4, 88.5],
+      "Kalyani": [22.975, 88.4344]
+    }
+  },
+  "Purba Bardhaman": {
+    "coordinates": [23.25, 87.85],
+    "major_cities": {
+      "Bardhaman": [23.2324, 87.8614],
+      "Katwa": [23.65, 88.13]
+    }
+  },
+  "Paschim Bardhaman": {
+    "coordinates": [23.67, 87.07],
+    "major_cities": {
+      "Asansol": [23.687, 86.97],
+      "Durgapur": [23.55, 87.32]
+    }
+  },
+  "Bankura": {
+    "coordinates": [23.25, 87.0667],
+    "major_cities": {
+      "Bankura": [23.25, 87.0667],
+      "Bishnupur": [23.0833, 87.3167]
+    }
+  },
+  "Purulia": {
+    "coordinates": [23.33, 86.36],
+    "major_cities": {
+      "Purulia": [23.33, 86.36],
+      "Raghunathpur": [23.55, 86.67]
+    }
+  },
+  "Birbhum": {
+    "coordinates": [23.9167, 87.5],
+    "major_cities": {
+      "Suri": [23.9, 87.5333],
+      "Bolpur (Santiniketan)": [23.67, 87.68]
+    }
+  },
+  "Malda": {
+    "coordinates": [25.0333, 88.1333],
+    "major_cities": {
+      "English Bazar (Malda)": [25.0333, 88.1333],
+      "Old Malda": [25.05, 88.15]
+    }
+  },
+  "East Medinipur (Purba Medinipur)": {
+    "coordinates": [21.94, 87.78],
+    "major_cities": {
+      "Tamluk": [22.3, 87.9167],
+      "Haldia": [22.0667, 88.0833]
+    }
+  },
+  "West Medinipur (Paschim Medinipur)": {
+    "coordinates": [22.43, 87.32],
+    "major_cities": {
+      "Medinipur": [22.43, 87.32],
+      "Kharagpur": [22.3397, 87.325]
+    }
+  },
+  "Kalimpong": {
+    "coordinates": [27.0667, 88.4667],
+    "major_cities": {
+      "Kalimpong": [27.0667, 88.4667]
+    }
+  },
+  "Murarai (Birbhum North)": {
+    "coordinates": [24.1, 87.9],
+    "major_cities": {
+      "Murarai": [24.1, 87.9]
+    }
+  },
+  "Jhargram": {
+    "coordinates": [22.45, 86.98],
+    "major_cities": {
+      "Jhargram": [22.45, 86.98],
+      "Gidhni": [22.47, 86.95]
+    }
+  },
+  "Uttar Dinajpur": {
+    "coordinates": [25.6, 88.12],
+    "major_cities": {
+      "Raiganj": [25.6167, 88.1167],
+      "Islampur": [26.2667, 88.2]
+    }
+  },
+  "Dakshin Dinajpur": {
+    "coordinates": [25.4, 88.8],
+    "major_cities": {
+      "Balurghat": [25.2333, 88.7667],
+      "Gangarampur": [25.4, 88.5167]
+    }
+  },
+  "Murarai II (South Birbhum)": {
+    "coordinates": [24.02, 87.78],
+    "major_cities": {
+      "Nalhati": [24.32, 87.83],
+      "Rampurhat": [24.17, 87.78]
+    }
+  },"Kolkata": {
+        "coordinates": [
+          22.5726,
+          88.3639
+        ],
+        "major_cities": {
+          "Kolkata": [
+            22.5726,
+            88.3639
+          ],
+          "Dumdum": [
+            22.63,
+            88.41
+          ]
+        }
+      }
+    },
+    "major_cities": {
+      "Kolkata": [22.5726, 88.3639],
+  "Howrah": [22.5996, 88.2636],
+  "Siliguri": [26.7167, 88.4167],
+  "Bardhaman": [23.2324, 87.8614],
+  "Asansol": [23.687, 86.97],
+  "Durgapur": [23.55, 87.32],
+  "Kharagpur": [22.3397, 87.325],
+  "Haldia": [22.0667, 88.0833],
+  "Malda": [25.0333, 88.1333],
+  "Berhampore": [24.1, 88.25]
+    }
+  },
+
+  "Andaman and Nicobar Islands": {
+  "centroid": [11.7401, 92.6586],
+  "districts": {
+    "North and Middle Andaman": {
+      "coordinates": [12.6, 92.9],
+      "major_cities": {
+        "Mayabunder": [12.9333, 92.9],
+        "Rangat": [12.5, 92.9],
+        "Diglipur": [13.25, 93.0]
+      }
+    },
+    "South Andaman": {
+      "coordinates": [11.6, 92.7],
+      "major_cities": {
+        "Port Blair": [11.6234, 92.7265],
+        "Bambooflat": [11.6667, 92.7167],
+        "Hut Bay (Little Andaman)": [10.7, 92.5]
+      }
+    },
+    "Nicobar": {
+      "coordinates": [9.1667, 92.75],
+      "major_cities": {
+        "Car Nicobar": [9.1667, 92.75],
+        "Campbell Bay": [7.0, 93.7]
+      }
+    }
+  },
+  "major_cities": {
+    "Port Blair": [11.6234, 92.7265],
+    "Car Nicobar": [9.1667, 92.75],
+    "Mayabunder": [12.9333, 92.9],
+    "Diglipur": [13.25, 93.0],
+    "Hut Bay": [10.7, 92.5],
+    "Campbell Bay": [7.0, 93.7]
+  }
+},
+
+  "Chandigarh": {
+    "centroid": [
+      30.7333,
+      76.7794
+    ],
+    "districts": {
+      "Chandigarh": {
+        "coordinates": [
+          30.7333,
+          76.7794
+        ],
+        "major_cities": {
+          "Chandigarh": [
+            30.7333,
+            76.7794
+          ]
+        }
+      }
+    },
+    "major_cities": {
+      "Chandigarh": [
+        30.7333,
+        76.7794
+      ]
+    }
+  },
+
+
+  "Dadra and Nagar Haveli and Daman and Diu": {
+    "centroid": [
+      20.4283,
+      72.8397
+    ],
+    "districts": {
+      "Dadra and Nagar Haveli": {
+      "coordinates": [20.2666, 73.0169],
+      "major_cities": {
+        "Silvassa": [20.2666, 73.0169],
+        "Naroli": [20.28, 73.05],
+        "Khanvel": [20.18, 73.02]
+      }
+    },
+    "Daman": {
+      "coordinates": [20.4143, 72.8328],
+      "major_cities": {
+        "Daman": [20.4143, 72.8328],
+        "Dunetha": [20.42, 72.84],
+        "Kachigam": [20.39, 72.86]
+      }
+    },
+    "Diu": {
+      "coordinates": [20.714, 70.9826],
+      "major_cities": {
+        "Diu": [20.714, 70.9826],
+        "Vanakbara": [20.71, 70.9]
+      }
+    }
+    },
+    "major_cities": {
+      "Silvassa": [20.2666, 73.0169],
+    "Daman": [20.4143, 72.8328],
+    "Diu": [20.714, 70.9826],
+    "Naroli": [20.28, 73.05],
+    "Vanakbara": [20.71, 70.9]
+    }
+  },
+
+  "Delhi": {
+    "centroid": [
+      28.7041,
+      77.1025
+    ],
+    "districts": {
+      "Central Delhi": {
+        "coordinates": [
+          28.643,
+          77.2197
+        ],
+        "major_cities": {
+          "Connaught Place": [
+            28.6315,
+            77.2167
+          ]
+        }
+      },
+      "South Delhi": {
+        "coordinates": [
+          28.53,
+          77.22
+        ],
+        "major_cities": {
+          "Saket": [
+            28.5276,
+            77.2195
+          ],
+          "Hauz Khas": [
+            28.5494,
+            77.2001
+          ]
+        }
+      },
+      "North Delhi": {
+        "coordinates": [
+          28.7,
+          77.2
+        ],
+        "major_cities": {
+          "Civil Lines": [
+            28.6833,
+            77.2167
+          ]
+        }
+      },
+      "East Delhi": {
+        "coordinates": [
+          28.62,
+          77.31
+        ],
+        "major_cities": {
+          "Preet Vihar": [
+            28.6393,
+            77.29
+          ],
+          "Mayur Vihar": [
+            28.6043,
+            77.3026
+          ]
+        }
+      },
+      "West Delhi": {
+        "coordinates": [
+          28.646,
+          77.086
+        ],
+        "major_cities": {
+          "Janakpuri": [
+            28.6217,
+            77.0872
+          ],
+          "Punjabi Bagh": [
+            28.6667,
+            77.1333
+          ]
+        }
+      },
+      "New Delhi": {
+  "coordinates": [28.6139, 77.209],
+  "major_cities": {
+    "Chanakyapuri": [28.592, 77.188],
+    "Connaught Place": [28.6315, 77.2167]
+  }
+},
+"North West Delhi": {
+  "coordinates": [28.75, 77.05],
+  "major_cities": {
+    "Rohini": [28.743, 77.067],
+    "Narela": [28.85, 77.08]
+  }
+},
+"South West Delhi": {
+  "coordinates": [28.55, 77.07],
+  "major_cities": {
+    "Dwarka": [28.5921, 77.046],
+    "Najafgarh": [28.609, 76.979]
+  }
+},
+"North East Delhi": {
+  "coordinates": [28.7, 77.27],
+  "major_cities": {
+    "Yamuna Vihar": [28.7, 77.27],
+    "Seelampur": [28.67, 77.27]
+  }
+},
+"Shahdara": {
+  "coordinates": [28.68, 77.29],
+  "major_cities": {
+    "Shahdara": [28.68, 77.29],
+    "Vivek Vihar": [28.67, 77.31]
+  }
+},
+"South East Delhi": {
+  "coordinates": [28.54, 77.27],
+  "major_cities": {
+    "Kalkaji": [28.548, 77.257],
+    "Lajpat Nagar": [28.568, 77.243]
+  }
+}
+    },
+    "major_cities": {
+      "New Delhi": [28.6139, 77.209],
+  "Dwarka": [28.5921, 77.046],
+  "Rohini": [28.743, 77.067],
+  "Saket": [28.5276, 77.2195],
+  "Lajpat Nagar": [28.568, 77.243],
+  "Connaught Place": [28.6315, 77.2167],
+  "Karol Bagh": [28.655, 77.19],
+  "Mayur Vihar": [28.6043, 77.3026],
+  "Shahdara": [28.68, 77.29],
+  "Najafgarh": [28.609, 76.979]
+    }
+  },
+
+  "Jammu and Kashmir": {
+    "centroid": [
+      33.7782,
+      76.5762
+    ],
+    "districts": {
+      "Anantnag": {
+        "coordinates": [
+          33.731,
+          75.1487
+        ],
+        "major_cities": {
+          "Anantnag": [
+            33.731,
+            75.1487
+          ]
+        }
+      },
+      "Baramulla": {
+        "coordinates": [
+          34.2021,
+          74.343
+        ],
+        "major_cities": {
+          "Baramulla": [
+            34.2021,
+            74.343
+          ]
+        }
+      },
+      "Udhampur": {
+        "coordinates": [
+          32.9248,
+          75.135
+        ],
+        "major_cities": {
+          "Udhampur": [
+            32.9248,
+            75.135
+          ]
+        }
+      },
+      "Budgam": {
+  "coordinates": [34.0167, 74.7167],
+  "major_cities": {
+    "Budgam": [34.0167, 74.7167],
+    "Charar-e-Sharief": [33.88, 74.78]
+  }
+},
+"Bandipora": {
+  "coordinates": [34.417, 74.65],
+  "major_cities": {
+    "Bandipora": [34.417, 74.65],
+    "Sumbal": [34.233, 74.7]
+  }
+},
+"Kupwara": {
+  "coordinates": [34.5268, 74.25],
+  "major_cities": {
+    "Kupwara": [34.5268, 74.25],
+    "Handwara": [34.4, 74.28]
+  }
+},
+"Ganderbal": {
+  "coordinates": [34.23, 74.78],
+  "major_cities": {
+    "Ganderbal": [34.23, 74.78],
+    "Kangan": [34.2, 75.18]
+  }
+},
+"Pulwama": {
+  "coordinates": [33.8833, 74.9167],
+  "major_cities": {
+    "Pulwama": [33.8833, 74.9167],
+    "Awantipora": [33.9183, 75.0169]
+  }
+},
+"Kulgam": {
+  "coordinates": [33.644, 75.02],
+  "major_cities": {
+    "Kulgam": [33.644, 75.02],
+    "Qazigund": [33.59, 75.16]
+  }
+},
+"Shopian": {
+  "coordinates": [33.72, 74.83],
+  "major_cities": {
+    "Shopian": [33.72, 74.83],
+    "Zainapora": [33.75, 74.9]
+  }
+},
+"Kathua": {
+  "coordinates": [32.37, 75.52],
+  "major_cities": {
+    "Kathua": [32.37, 75.52],
+    "Hiranagar": [32.45, 75.26]
+  }
+},
+"Samba": {
+  "coordinates": [32.56, 75.12],
+  "major_cities": {
+    "Samba": [32.56, 75.12]
+  }
+},
+"Reasi": {
+  "coordinates": [33.08, 74.83],
+  "major_cities": {
+    "Reasi": [33.08, 74.83],
+    "Katra": [32.99, 74.93]
+  }
+}, "Srinagar": {
+        "coordinates": [
+          34.0837,
+          74.7973
+        ],
+        "major_cities": {
+          "Srinagar": [
+            34.0837,
+            74.7973
+          ]
+        }
+      },
+      "Jammu": {
+        "coordinates": [
+          32.7266,
+          74.857
+        ],
+        "major_cities": {
+          "Jammu": [
+            32.7266,
+            74.857
+          ],
+          "Akhnoor": [
+            32.8667,
+            74.7333
+          ]
+        }
+      }
+
+    },
+    "major_cities": {
+      "Srinagar": [34.0837, 74.7973],
+  "Jammu": [32.7266, 74.857],
+  "Anantnag": [33.731, 75.1487],
+  "Baramulla": [34.2021, 74.343],
+  "Udhampur": [32.9248, 75.135],
+  "Kupwara": [34.5268, 74.25],
+  "Pulwama": [33.8833, 74.9167],
+  "Kathua": [32.37, 75.52],
+  "Rajouri": [33.38, 74.31],
+  "Poonch": [33.77, 74.1]
+    }
+  },
+
+  "Ladakh": {
+    "centroid": [
+      34.226,
+      77.5619
+    ],
+    "districts": {
+      "Leh": {
+        "coordinates": [
+          34.1642,
+          77.5848
+        ],
+        "major_cities": {
+          "Leh": [
+            34.1642,
+            77.5848
+          ]
+        }
+      },
+      "Kargil": {
+        "coordinates": [
+          34.5577,
+          76.1267
+        ],
+        "major_cities": {
+          "Kargil": [
+            34.5577,
+            76.1267
+          ]
+        }
+      }
+    },
+    "major_cities": {
+      "Leh": [34.1642, 77.5848],
+  "Kargil": [34.5577, 76.1267],
+  "Drass": [34.43, 75.75],
+  "Diskit": [34.543, 77.571],
+  "Padum": [33.466, 76.883]
+    }
+  },
+  "Lakshadweep": {
+    "centroid": [
+      10.328,
+      72.7846
+    ],
+    "districts": {
+      "Lakshadweep": {
+        "coordinates": [
+          10.5667,
+          72.6167
+        ],
+        "major_cities": {
+          "Kavaratti": [
+            10.5667,
+            72.6167
+          ],
+          "Agatti": [
+            10.85,
+            72.2
+          ],
+          "Minicoy": [
+            8.2833,
+            73.05
+          ]
+        }
+      }
+    },
+    "major_cities": {
+      "Kavaratti": [10.5667, 72.6167],
+  "Agatti": [10.85, 72.2],
+  "Minicoy": [8.2833, 73.05],
+  "Amini": [11.1167, 72.7333],
+  "Kadmat": [11.2167, 72.7833],
+  "Kiltan": [11.4833, 73.0],
+  "Chetlat": [11.7167, 72.7],
+  "Bitra": [11.6167, 72.1833],
+  "Kalpeni": [10.0667, 73.6333],
+  "Andrott": [10.8167, 73.6833]
+    }
+  },
+  "Puducherry": {
+    "centroid": [
+      11.9416,
+      79.8083
+    ],
+    "districts": {
+      "Puducherry": {
+        "coordinates": [
+          11.9416,
+          79.8083
+        ],
+        "major_cities": {
+          "Pondicherry": [
+            11.9416,
+            79.8083
+          ],
+          "Ozhukarai": [
+            11.9401,
+            79.7855
+          ]
+        }
+      },
+      "Karaikal": {
+        "coordinates": [
+          10.9254,
+          79.838
+        ],
+        "major_cities": {
+          "Karaikal": [
+            10.9254,
+            79.838
+          ]
+        }
+      },
+      "Mahe": {
+        "coordinates": [
+          11.7078,
+          75.5342
+        ],
+        "major_cities": {
+          "Mahe": [
+            11.7078,
+            75.5342
+          ]
+        }
+      },
+      "Yanam": {
+        "coordinates": [
+          16.7333,
+          82.2167
+        ],
+        "major_cities": {
+          "Yanam": [
+            16.7333,
+            82.2167
+          ]
+        }
+      }
+    },
+    "major_cities": {
+      "Pondicherry": [
+        11.9416,
+        79.8083
+      ],
+      "Karaikal": [
+        10.9254,
+        79.838
+      ],
+      "Mahe": [
+        11.7078,
+        75.5342
+      ],
+      "Yanam": [
+        16.7333,
+        82.2167
+      ]
+    }
+  },
+  "Uttar Pradesh": {
+    "centroid": [
+      26.8467,
+      80.9462
+    ],
+    "districts": {
+      
+      "Aligarh": {
+        "coordinates": [
+          27.900383,
+          78.072281
+        ],
+        "major_cities": {
+          "Aligarh": [
+            27.900383,
+            78.072281
+          ]
+        }
+      },
+      "Ambedkar Nagar": {
+        "coordinates": [
+          26.4833,
+          82.4333
+        ],
+        "major_cities": {
+          "Akbarpur": [
+            26.4833,
+            82.4333
+          ]
+        }
+      },
+      "Amethi": {
+        "coordinates": [
+          26.268,
+          81.5118
+        ],
+        "major_cities": {
+          "Gauriganj": [
+            26.268,
+            81.5118
+          ]
+        }
+      },
+      "Amroha": {
+        "coordinates": [
+          28.9127,
+          78.4704
+        ],
+        "major_cities": {
+          "Amroha": [
+            28.9127,
+            78.4704
+          ]
+        }
+      },
+      "Auraiya": {
+        "coordinates": [
+          26.7222,
+          79.4703
+        ],
+        "major_cities": {
+          "Auraiya": [
+            26.7222,
+            79.4703
+          ]
+        }
+      },
+      "Ayodhya": {
+        "coordinates": [
+          26.796,
+          82.1998
+        ],
+        "major_cities": {
+          "Ayodhya": [
+            26.796,
+            82.1998
+          ]
+        }
+      },
+      "Azamgarh": {
+        "coordinates": [
+          26.0706,
+          83.1859
+        ],
+        "major_cities": {
+          "Azamgarh": [
+            26.0706,
+            83.1859
+          ]
+        }
+      },
+      "Baghpat": {
+        "coordinates": [
+          28.9439,
+          77.253
+        ],
+        "major_cities": {
+          "Baghpat": [
+            28.9439,
+            77.253
+          ]
+        }
+      },
+      "Bahraich": {
+        "coordinates": [
+          27.5745,
+          81.6007
+        ],
+        "major_cities": {
+          "Bahraich": [
+            27.5745,
+            81.6007
+          ]
+        }
+      },
+      "Ballia": {
+        "coordinates": [
+          25.758,
+          84.1482
+        ],
+        "major_cities": {
+          "Ballia": [
+            25.758,
+            84.1482
+          ]
+        }
+      },
+      "Balrampur": {
+        "coordinates": [
+          27.5115,
+          82.201
+        ],
+        "major_cities": {
+          "Balrampur": [
+            27.5115,
+            82.201
+          ]
+        }
+      },
+      "Banda": {
+        "coordinates": [
+          25.4893,
+          80.3467
+        ],
+        "major_cities": {
+          "Banda": [
+            25.4893,
+            80.3467
+          ]
+        }
+      },
+      "Barabanki": {
+        "coordinates": [
+          26.9407,
+          81.1912
+        ],
+        "major_cities": {
+          "Barabanki": [
+            26.9407,
+            81.1912
+          ]
+        }
+      },
+      "Bareilly": {
+        "coordinates": [
+          28.36667,
+          79.43056
+        ],
+        "major_cities": {
+          "Bareilly": [
+            28.36667,
+            79.43056
+          ]
+        }
+      },
+      "Basti": {
+        "coordinates": [
+          26.8084,
+          82.779
+        ],
+        "major_cities": {
+          "Basti": [
+            26.8084,
+            82.779
+          ]
+        }
+      },
+      "Bhadohi": {
+        "coordinates": [
+          25.32,
+          82.57
+        ],
+        "major_cities": {
+          "Bhadohi": [
+            25.32,
+            82.57
+          ]
+        }
+      },
+      "Bijnor": {
+        "coordinates": [
+          29.37,
+          78.1369
+        ],
+        "major_cities": {
+          "Bijnor": [
+            29.37,
+            78.1369
+          ]
+        }
+      },
+      "Budaun": {
+        "coordinates": [
+          28.0355,
+          79.1282
+        ],
+        "major_cities": {
+          "Budaun": [
+            28.0355,
+            79.1282
+          ]
+        }
+      },
+      "Bulandshahr": {
+        "coordinates": [
+          28.4089,
+          77.849
+        ],
+        "major_cities": {
+          "Bulandshahr": [
+            28.4089,
+            77.849
+          ]
+        }
+      },
+      "Chandauli": {
+        "coordinates": [
+          25.266,
+          83.1546
+        ],
+        "major_cities": {
+          "Chandauli": [
+            25.266,
+            83.1546
+          ]
+        }
+      },
+      "Chitrakoot": {
+        "coordinates": [
+          25.2594,
+          80.9106
+        ],
+        "major_cities": {
+          "Chitrakoot": [
+            25.2594,
+            80.9106
+          ]
+        }
+      },
+      "Deoria": {
+        "coordinates": [
+          26.5,
+          83.78
+        ],
+        "major_cities": {
+          "Deoria": [
+            26.5,
+            83.78
+          ]
+        }
+      },
+      "Etah": {
+        "coordinates": [
+          27.5636,
+          78.6755
+        ],
+        "major_cities": {
+          "Etah": [
+            27.5636,
+            78.6755
+          ]
+        }
+      },
+      "Etawah": {
+        "coordinates": [
+          26.7876,
+          79.015
+        ],
+        "major_cities": {
+          "Etawah": [
+            26.7876,
+            79.015
+          ]
+        }
+      },
+      "Farrukhabad": {
+        "coordinates": [
+          27.3906,
+          79.5889
+        ],
+        "major_cities": {
+          "Farrukhabad": [
+            27.3906,
+            79.5889
+          ]
+        }
+      },
+      "Fatehpur": {
+        "coordinates": [
+          25.9167,
+          80.7833
+        ],
+        "major_cities": {
+          "Fatehpur": [
+            25.9167,
+            80.7833
+          ]
+        }
+      },
+      "Firozabad": {
+        "coordinates": [
+          27.15,
+          78.3947
+        ],
+        "major_cities": {
+          "Firozabad": [
+            27.15,
+            78.3947
+          ]
+        }
+      },
+      "Agra": {
+        "coordinates": [
+          27.18,
+          78.02
+        ],
+        "major_cities": {
+          "Agra": [
+            27.18,
+            78.02
+          ]
+        }
+      },
+      "Gautam Buddha Nagar": {
+  "coordinates": [28.4744, 77.50399],
+  "major_cities": {
+    "Noida": [28.5355, 77.3910],
+    "Greater Noida": [28.4744, 77.5030]
+  }
+},
+      "Ghaziabad": {
+        "coordinates": [
+          28.6653,
+          77.4391
+        ],
+        "major_cities": {
+          "Ghaziabad": [
+            28.6653,
+            77.4391
+          ]
+        }
+      },
+      "Ghazipur": {
+        "coordinates": [
+          25.5833,
+          83.5667
+        ],
+        "major_cities": {
+          "Ghazipur": [
+            25.5833,
+            83.5667
+          ]
+        }
+      },
+      "Gonda": {
+        "coordinates": [
+          27.1319,
+          81.9255
+        ],
+        "major_cities": {
+          "Gonda": [
+            27.1319,
+            81.9255
+          ]
+        }
+      },
+      "Gorakhpur": {
+        "coordinates": [
+          26.7606,
+          83.3732
+        ],
+        "major_cities": {
+          "Gorakhpur": [
+            26.7606,
+            83.3732
+          ]
+        }
+      },
+      "Hamirpur": {
+        "coordinates": [
+          25.9529,
+          80.1513
+        ],
+        "major_cities": {
+          "Hamirpur": [
+            25.9529,
+            80.1513
+          ]
+        }
+      },
+      "Hapur": {
+        "coordinates": [
+          28.7431,
+          77.7622
+        ],
+        "major_cities": {
+          "Hapur": [
+            28.7431,
+            77.7622
+          ]
+        }
+      },
+      "Hardoi": {
+        "coordinates": [
+          27.3959,
+          80.1316
+        ],
+        "major_cities": {
+          "Hardoi": [
+            27.3959,
+            80.1316
+          ]
+        }
+      },
+      "Hathras": {
+        "coordinates": [
+          27.6,
+          78.0
+        ],
+        "major_cities": {
+          "Hathras": [
+            27.6,
+            78.0
+          ]
+        }
+      },
+      "Jalaun": {
+        "coordinates": [
+          25.9119,
+          79.2638
+        ],
+        "major_cities": {
+          "Orai": [
+            25.9119,
+            79.2638
+          ]
+        }
+      },
+      "Jaunpur": {
+        "coordinates": [
+          25.7465,
+          82.6835
+        ],
+        "major_cities": {
+          "Jaunpur": [
+            25.7465,
+            82.6835
+          ]
+        }
+      },
+      "Jhansi": {
+        "coordinates": [
+          25.4486,
+          78.5696
+        ],
+        "major_cities": {
+          "Jhansi": [
+            25.4486,
+            78.5696
+          ]
+        }
+      },
+      "Kannauj": {
+        "coordinates": [
+          27.0647,
+          79.92
+        ],
+        "major_cities": {
+          "Kannauj": [
+            27.0647,
+            79.92
+          ]
+        }
+      },
+      "Kanpur Dehat": {
+        "coordinates": [
+          26.4833,
+          82.4333
+        ],
+        "major_cities": {
+          "Akbarpur": [
+            26.4833,
+            82.4333
+          ]
+        }
+      },
+      "Kanpur Nagar": {
+        "coordinates": [
+          26.449923,
+          80.331874
+        ],
+        "major_cities": {
+          "Kanpur": [
+            26.449923,
+            80.331874
+          ]
+        }
+      },
+      "Kasganj": {
+        "coordinates": [
+          27.8014,
+          78.6536
+        ],
+        "major_cities": {
+          "Kasganj": [
+            27.8014,
+            78.6536
+          ]
+        }
+      },
+      "Kaushambi": {
+        "coordinates": [
+          25.4353,
+          81.6026
+        ],
+        "major_cities": {
+          "Manjhanpur": [
+            25.4353,
+            81.6026
+          ]
+        }
+      },
+      "Kushinagar": {
+        "coordinates": [
+          26.7386,
+          83.8897
+        ],
+        "major_cities": {
+          "Padrauna": [
+            26.7386,
+            83.8897
+          ]
+        }
+      },
+      "Lakhimpur Kheri": {
+        "coordinates": [
+          27.9385,
+          80.8196
+        ],
+        "major_cities": {
+          "Lakhimpur": [
+            27.9385,
+            80.8196
+          ]
+        }
+      },
+      "Lucknow": {
+        "coordinates": [
+          26.85,
+          80.95
+        ],
+        "major_cities": {
+          "Lucknow": [
+            26.85,
+            80.95
+          ]
+        }
+      },
+      "Maharajganj": {
+        "coordinates": [
+          26.4712,
+          83.502
+        ],
+        "major_cities": {
+          "Maharajganj": [
+            26.4712,
+            83.502
+          ]
+        }
+      },
+      "Mahoba": {
+        "coordinates": [
+          25.2833,
+          79.8667
+        ],
+        "major_cities": {
+          "Mahoba": [
+            25.2833,
+            79.8667
+          ]
+        }
+      },
+      "Mainpuri": {
+        "coordinates": [
+          27.226,
+          79.019
+        ],
+        "major_cities": {
+          "Mainpuri": [
+            27.226,
+            79.019
+          ]
+        }
+      },
+      "Mathura": {
+        "coordinates": [
+          27.4924,
+          77.6737
+        ],
+        "major_cities": {
+          "Mathura": [
+            27.4924,
+            77.6737
+          ]
+        }
+      },
+      "Mau": {
+        "coordinates": [
+          25.938,
+          83.556
+        ],
+        "major_cities": {
+          "Mau": [
+            25.938,
+            83.556
+          ]
+        }
+      },
+      "Meerut": {
+        "coordinates": [
+          28.98,
+          77.71
+        ],
+        "major_cities": {
+          "Meerut": [
+            28.98,
+            77.71
+          ]
+        }
+      },
+      "Mirzapur": {
+        "coordinates": [
+          25.145,
+          82.569
+        ],
+        "major_cities": {
+          "Mirzapur": [
+            25.145,
+            82.569
+          ]
+        }
+      },
+      "Moradabad": {
+        "coordinates": [
+          28.8389,
+          78.7768
+        ],
+        "major_cities": {
+          "Moradabad": [
+            28.8389,
+            78.7768
+          ]
+        }
+      },
+      "Muzaffarnagar": {
+        "coordinates": [
+          29.4721,
+          77.7036
+        ],
+        "major_cities": {
+          "Muzaffarnagar": [
+            29.4721,
+            77.7036
+          ]
+        }
+      },
+      "Pilibhit": {
+        "coordinates": [
+          28.6333,
+          79.8167
+        ],
+        "major_cities": {
+          "Pilibhit": [
+            28.6333,
+            79.8167
+          ]
+        }
+      },
+      "Pratapgarh": {
+        "coordinates": [
+          25.9153,
+          81.9249
+        ],
+        "major_cities": {
+          "Pratapgarh": [
+            25.9153,
+            81.9249
+          ]
+        }
+      },
+      "Prayagraj": {
+        "coordinates": [
+          25.473034,
+          81.878357
+        ],
+        "major_cities": {
+          "Prayagraj": [
+            25.473034,
+            81.878357
+          ]
+        }
+      },
+      "Rae Bareli": {
+        "coordinates": [
+          26.23,
+          81.246
+        ],
+        "major_cities": {
+          "Rae Bareli": [
+            26.23,
+            81.246
+          ]
+        }
+      },
+      "Rampur": {
+        "coordinates": [
+          28.817,
+          79.0263
+        ],
+        "major_cities": {
+          "Rampur": [
+            28.817,
+            79.0263
+          ]
+        }
+      },
+      "Saharanpur": {
+        "coordinates": [
+          29.964,
+          77.5467
+        ],
+        "major_cities": {
+          "Saharanpur": [
+            29.964,
+            77.5467
+          ]
+        }
+      },
+      "Sambhal": {
+        "coordinates": [
+          28.5789,
+          78.5519
+        ],
+        "major_cities": {
+          "Sambhal": [
+            28.5789,
+            78.5519
+          ]
+        }
+      },
+      "Sant Kabir Nagar": {
+        "coordinates": [
+          26.74,
+          83.117
+        ],
+        "major_cities": {
+          "Khalilabad": [
+            26.74,
+            83.117
+          ]
+        }
+      },
+      "Shahjahanpur": {
+        "coordinates": [
+          27.8759,
+          79.9126
+        ],
+        "major_cities": {
+          "Shahjahanpur": [
+            27.8759,
+            79.9126
+          ]
+        }
+      },
+      "Shamli": {
+        "coordinates": [
+          29.449,
+          77.2764
+        ],
+        "major_cities": {
+          "Shamli": [
+            29.449,
+            77.2764
+          ]
+        }
+      },
+      "Shravasti": {
+        "coordinates": [
+          27.515,
+          82.139
+        ],
+        "major_cities": {
+          "Shravasti": [
+            27.515,
+            82.139
+          ]
+        }
+      },
+      "Siddharthnagar": {
+        "coordinates": [
+          27.523,
+          82.78
+        ],
+        "major_cities": {
+          "Naugarh": [
+            27.523,
+            82.78
+          ]
+        }
+      },
+      "Sitapur": {
+        "coordinates": [
+          27.5693,
+          80.691
+        ],
+        "major_cities": {
+          "Sitapur": [
+            27.5693,
+            80.691
+          ]
+        }
+      },
+      "Sonbhadra": {
+        "coordinates": [
+          24.2268,
+          83.0165
+        ],
+        "major_cities": {
+          "Robertsganj": [
+            24.2268,
+            83.0165
+          ]
+        }
+      },
+      "Sultanpur": {
+        "coordinates": [
+          26.2639,
+          82.0668
+        ],
+        "major_cities": {
+          "Sultanpur": [
+            26.2639,
+            82.0668
+          ]
+        }
+      },
+      "Unnao": {
+        "coordinates": [
+          26.5376,
+          80.4727
+        ],
+        "major_cities": {
+          "Unnao": [
+            26.5376,
+            80.4727
+          ]
+        }
+      },
+      "Varanasi": {
+        "coordinates": [
+          25.31889,
+          83.01278
+        ],
+        "major_cities": {
+          "Varanasi": [
+            25.31889,
+            83.01278
+          ]
+        }
+      }
+    },
+    "major_cities": {
+      "Lucknow": [
+        26.85,
+        80.95
+      ],
+      "Kanpur": [
+        26.449923,
+        80.331874
+      ],
+      "Ghaziabad": [
+        28.6653,
+        77.4391
+      ],
+      "Agra": [
+        27.18,
+        78.02
+      ],
+      "Varanasi": [
+        25.31889,
+        83.01278
+      ],
+      "Prayagraj": [
+        25.473034,
+        81.878357
+      ],
+      "Meerut": [
+        28.98,
+        77.71
+      ],
+      "Bareilly": [
+        28.36667,
+        79.43056
+      ],
+      "Aligarh": [
+        27.900383,
+        78.072281
+      ],
+      "Moradabad": [
+        28.8389,
+        78.7768
+      ]
+    }
+  },
+  "Uttarakhand": {
+    "centroid": [
+      30.0668,
+      79.0193
+    ],
+    "districts": {
+       "Almora": {
+      "coordinates": [29.594, 79.6576],
+      "major_cities": { "Almora": [29.594, 79.6576] }
+    },
+    "Bageshwar": {
+      "coordinates": [29.8606, 79.7812],
+      "major_cities": { "Bageshwar": [29.8606, 79.7812] }
+    },
+    "Chamoli": {
+      "coordinates": [30.2596, 79.3286],
+      "major_cities": {
+        "Gopeshwar": [30.2596, 79.3286],
+        "Chamoli": [30.2596, 79.3286]
+      }
+    },
+    "Champawat": {
+      "coordinates": [29.273, 80.127],
+      "major_cities": { "Champawat": [29.273, 80.127] }
+    },
+    "Dehradun": {
+      "coordinates": [30.316496, 78.032188],
+      "major_cities": {
+        "Dehradun": [30.316496, 78.032188],
+        "Rishikesh": [30.0869, 78.2676]
+      }
+    },
+    "Haridwar": {
+      "coordinates": [29.94569, 78.164246],
+      "major_cities": { "Haridwar": [29.94569, 78.164246] }
+    },
+    "Nainital": {
+      "coordinates": [29.3919, 79.4542],
+      "major_cities": { "Nainital": [29.3919, 79.4542] }
+    },
+    "Pauri Garhwal": {
+      "coordinates": [30.1413, 78.78],
+      "major_cities": { "Pauri": [30.1413, 78.78] }
+    },
+    "Pithoragarh": {
+      "coordinates": [29.5844, 80.3126],
+      "major_cities": { "Pithoragarh": [29.5844, 80.3126] }
+    },
+    "Rudraprayag": {
+      "coordinates": [30.2806, 78.9897],
+      "major_cities": { "Rudraprayag": [30.2806, 78.9897] }
+    },
+    "Tehri Garhwal": {
+      "coordinates": [30.3275, 78.444],
+      "major_cities": { "New Tehri": [30.3275, 78.444] }
+    },
+    "Udham Singh Nagar": {
+      "coordinates": [28.9814, 79.4],
+      "major_cities": {
+        "Rudrapur": [28.9814, 79.4],
+        "Kashipur": [29.2137, 78.9561]
+      }
+    },
+    "Uttarkashi": {
+      "coordinates": [30.7306, 78.4536],
+      "major_cities": { "Uttarkashi": [30.7306, 78.4536] }
+    }
+    },
+    "major_cities": {
+      "Dehradun": [30.316496, 78.032188],
+    "Haridwar": [29.94569, 78.164246],
+    "Nainital": [29.3919, 79.4542],
+    "Haldwani": [29.2183, 79.5125],
+    "Rishikesh": [30.0869, 78.2676],
+    "Rudrapur": [28.9814, 79.4],
+    "Kashipur": [29.2137, 78.9561],
+    "Pithoragarh": [29.5844, 80.3126],
+    "Tehri": [30.3275, 78.444]
+    }
+  },
+  "Andhra Pradesh": {
+    "centroid": [
+      15.9129,
+      79.74
+    ],
+    "districts": {
+      "Anantapur": {
+        "coordinates": [
+          14.681,
+          77.6
+        ],
+        "major_cities": {
+          "Anantapur": [
+            14.681,
+            77.6
+          ],
+          "Hindupur": [
+            13.8281,
+            77.4839
+          ],
+          "Dharmavaram": [
+            14.4116,
+            77.7249
+          ],
+          "Rayadurg": [
+            14.7667,
+            76.5333
+          ],
+          "Puttaparthi": [
+            14.1624,
+            77.8226
+          ]
+        }
+      },
+      "Chittoor": {
+        "coordinates": [
+          13.2171,
+          79.1
+        ],
+        "major_cities": {
+          "Chittoor": [
+            13.2171,
+            79.1
+          ],
+          "Tirupati": [
+            13.6288,
+            79.4192
+          ],
+          "Puttur": [
+            13.4833,
+            79.5833
+          ],
+          "Palamaner": [
+            13.1667,
+            78.75
+          ],
+          "Nagari": [
+            13.55,
+            79.3333
+          ]
+        }
+      },
+      "East Godavari": {
+        "coordinates": [
+          16.9891,
+          82.2475
+        ],
+        "major_cities": {
+          "Kakinada": [
+            16.9891,
+            82.2475
+          ],
+          "Rajahmundry": [
+            17.0004,
+            81.7936
+          ],
+          "Amalapuram": [
+            16.5833,
+            82.0167
+          ],
+          "Samalkot": [
+            17.0833,
+            82.1667
+          ],
+          "Rajanagaram": [
+            17.015,
+            81.835
+          ]
+        }
+      },
+      "Guntur": {
+        "coordinates": [
+          16.3067,
+          80.4365
+        ],
+        "major_cities": {
+          "Guntur": [
+            16.3067,
+            80.4365
+          ],
+          "Mangalagiri": [
+            16.4366,
+            80.552
+          ],
+          "Narasaraopet": [
+            16.2333,
+            79.5
+          ],
+          "Tenali": [
+            16.2431,
+            80.6408
+          ],
+          "Bapatla": [
+            15.9025,
+            80.474
+          ]
+        }
+      },
+      "Krishna": {
+        "coordinates": [
+          16.176,
+          81.1368
+        ],
+        "major_cities": {
+          "Machilipatnam": [
+            16.176,
+            81.1368
+          ],
+          "Vijayawada": [
+            16.5062,
+            80.648
+          ],
+          "Gudivada": [
+            16.4353,
+            80.9888
+          ],
+          "Nuzvid": [
+            16.8083,
+            80.8564
+          ]
+        }
+      },
+      "Kurnool": {
+        "coordinates": [
+          15.8281,
+          78.0373
+        ],
+        "major_cities": {
+          "Kurnool": [
+            15.8281,
+            78.0373
+          ],
+          "Adoni": [
+            15.6216,
+            77.2736
+          ],
+          "Nandyal": [
+            15.4803,
+            78.4837
+          ]
+        }
+      },
+      "Nellore": {
+        "coordinates": [
+          14.4426,
+          79.9865
+        ],
+        "major_cities": {
+          "Nellore": [
+            14.4426,
+            79.9865
+          ],
+          "Kavali": [
+            14.9167,
+            79.9833
+          ],
+          "Gudur": [
+            14.1523,
+            79.8484
+          ],
+          "Atmakur": [
+            14.6361,
+            79.9431
+          ]
+        }
+      },
+      "Prakasam": {
+        "coordinates": [
+          15.5038,
+          80.0499
+        ],
+        "major_cities": {
+          "Ongole": [
+            15.5038,
+            80.0499
+          ],
+          "Chirala": [
+            15.8121,
+            80.3554
+          ],
+          "Markapur": [
+            15.7645,
+            79.2595
+          ],
+          "Kandukur": [
+            15.2167,
+            79.9833
+          ]
+        }
+      },
+      "Srikakulam": {
+        "coordinates": [
+          18.2993,
+          83.8987
+        ],
+        "major_cities": {
+          "Srikakulam": [
+            18.2993,
+            83.8987
+          ],
+          "Palasa-Kasibugga": [
+            18.7667,
+            84.4167
+          ],
+          "Tekkali": [
+            18.5333,
+            84.1333
+          ]
+        }
+      },
+      "Visakhapatnam": {
+        "coordinates": [
+          17.6868,
+          83.2185
+        ],
+        "major_cities": {
+          "Visakhapatnam": [
+            17.6868,
+            83.2185
+          ],
+          "Anakapalle": [
+            17.68,
+            82.98
+          ],
+          "Bheemunipatnam": [
+            17.8189,
+            83.4426
+          ],
+          "Narsipatnam": [
+            17.65,
+            82.55
+          ]
+        }
+      },
+      "Vizianagaram": {
+        "coordinates": [
+          18.1048,
+          83.3958
+        ],
+        "major_cities": {
+          "Vizianagaram": [
+            18.1048,
+            83.3958
+          ],
+          "Bobbili": [
+            18.5667,
+            83.5
+          ],
+          "Salur": [
+            18.3167,
+            83.4167
+          ]
+        }
+      },
+      "West Godavari": {
+        "coordinates": [
+          16.7107,
+          81.0952
+        ],
+        "major_cities": {
+          "Eluru": [
+            16.7107,
+            81.0952
+          ],
+          "Bhimavaram": [
+            16.5449,
+            81.5212
+          ],
+          "Tadepalligudem": [
+            16.8523,
+            81.5339
+          ],
+          "Palakollu": [
+            16.5167,
+            81.7333
+          ]
+        }
+      },
+      "YSR Kadapa": {
+        "coordinates": [
+          14.4674,
+          78.8242
+        ],
+        "major_cities": {
+          "Kadapa": [
+            14.4674,
+            78.8242
+          ],
+          "Proddatur": [
+            14.7486,
+            78.5489
+          ],
+          "Jammalamadugu": [
+            14.8584,
+            78.5089
+          ]
+        }
+      },
+       "Anakapalli": {
+        "coordinates": [17.68, 82.98],
+        "major_cities": { "Anakapalli": [17.68, 82.98] }
+      },
+      "Alluri Sitharama Raju": {
+        "coordinates": [18.0833, 82.667],
+        "major_cities": { "Paderu": [18.0833, 82.667] }
+      },
+      "Bapatla": {
+        "coordinates": [15.9025, 80.474],
+        "major_cities": { "Bapatla": [15.9025, 80.474] }
+      },
+      "Eluru": {
+        "coordinates": [16.7107, 81.0952],
+        "major_cities": { "Eluru": [16.7107, 81.0952] }
+      },
+      "Konaseema": {
+        "coordinates": [16.55, 82.0167],
+        "major_cities": { "Amalapuram": [16.5833, 82.0167] }
+      },
+      "Nandyal": {
+        "coordinates": [15.4803, 78.4837],
+        "major_cities": { "Nandyal": [15.4803, 78.4837] }
+      },
+      "NTR": {
+        "coordinates": [16.5062, 80.648],
+        "major_cities": { "Vijayawada": [16.5062, 80.648] }
+      },
+      "Palnadu": {
+        "coordinates": [16.2333, 79.5],
+        "major_cities": { "Narasaraopet": [16.2333, 79.5] }
+      },
+      "Parvathipuram Manyam": {
+        "coordinates": [18.7833, 83.4167],
+        "major_cities": { "Parvathipuram": [18.7833, 83.4167] }
+      },
+      "Sri Sathya Sai": {
+        "coordinates": [14.1624, 77.8226],
+        "major_cities": { "Puttaparthi": [14.1624, 77.8226] }
+      },
+      "Tirupati": {
+        "coordinates": [13.6288, 79.4192],
+        "major_cities": { "Tirupati": [13.6288, 79.4192] }
+      },
+      "Annamayya": {
+        "coordinates": [14.0667, 78.75],
+        "major_cities": { "Rayachoti": [14.0667, 78.75] }
+      },
+      "Kakinada": {
+        "coordinates": [16.9891, 82.2475],
+        "major_cities": { "Kakinada": [16.9891, 82.2475] }
+      }
+    },
+    "major_cities": {
+      "Visakhapatnam": [
+        17.6868,
+        83.2185
+      ],
+      "Vijayawada": [
+        16.5062,
+        80.648
+      ],
+      "Guntur": [
+        16.3067,
+        80.4365
+      ],
+      "Nellore": [
+        14.4426,
+        79.9865
+      ],
+      "Kurnool": [
+        15.8281,
+        78.0373
+      ]
+    }
+  },
+  "Nagaland": {
+    "centroid": [
+      26.16,
+      94.5624
+    ],
+    "districts": {
+      "Dimapur": {
+      "coordinates": [25.9036, 93.7256],
+      "major_cities": {
+        "Dimapur": [25.9036, 93.7256]
+      }
+    },
+    "Kiphire": {
+      "coordinates": [25.817, 94.083],
+      "major_cities": {
+        "Kiphire": [25.817, 94.083]
+      }
+    },
+      "Kohima": {
+        "coordinates": [
+          25.6667,
+          94.1167
+        ],
+        "major_cities": {
+          "Kohima": [
+            25.6667,
+            94.1167
+          ],
+          "Mokokchung": [
+            26.3249,
+            94.5389
+          ]
+        }
+      },
+      "Longleng": {
+        "coordinates": [
+          26.0,
+          94.4
+        ],
+        "major_cities": {
+          "Longleng": [
+            26.0,
+            94.4
+          ]
+        }
+      },
+      "Mokokchung": {
+        "coordinates": [
+          26.3249,
+          94.5389
+        ],
+        "major_cities": {
+          "Mokokchung": [
+            26.3249,
+            94.5389
+          ]
+        }
+      },
+      "Mon": {
+        "coordinates": [
+          26.85,
+          95.0
+        ],
+        "major_cities": {
+          "Mon": [
+            26.85,
+            94.9167
+          ]
+        }
+      },
+      "Peren": {
+        "coordinates": [
+          25.7,
+          93.9
+        ],
+        "major_cities": {
+          "Peren": [
+            25.7,
+            93.9
+          ]
+        }
+      },
+      "Phek": {
+        "coordinates": [
+          25.65,
+          94.45
+        ],
+        "major_cities": {
+          "Phek": [
+            25.65,
+            94.45
+          ]
+        }
+      },
+      "Tuensang": {
+        "coordinates": [
+          26.2,
+          94.8
+        ],
+        "major_cities": {
+          "Tuensang": [
+            26.2,
+            94.8
+          ]
+        }
+      },
+      "Wokha": {
+        "coordinates": [
+          26.1167,
+          94.2167
+        ],
+        "major_cities": {
+          "Wokha": [
+            26.1167,
+            94.2167
+          ]
+        }
+      },
+      "Zunheboto": {
+        "coordinates": [
+          26.0667,
+          94.5333
+        ],
+        "major_cities": {
+          "Zunheboto": [
+            26.0667,
+            94.5333
+          ]
+        }
+      },
+       "Chümoukedima": {
+        "coordinates": [25.7916, 93.7818],
+        "major_cities": {
+          "Chümoukedima": [25.7916, 93.7818]
+        }
+      },
+      "Niuland": {
+        "coordinates": [25.9076, 93.9877],
+        "major_cities": {
+          "Niuland": [25.9076, 93.9877]
+        }
+      },
+      "Tseminyü": {
+        "coordinates": [25.92469, 94.21488],
+        "major_cities": {
+          "Tseminyü": [25.92469, 94.21488]
+        }
+      },
+      "Noklak": {
+        "coordinates": [26.2014, 95.0167],
+        "major_cities": {
+          "Noklak": [26.2014, 95.0167]
+        }
+      },
+      "Shamator": {
+        "coordinates": [26.1000, 94.9000],
+        "major_cities": {
+          "Shamator": [26.1000, 94.9000]
+        }
+      }
+    },
+    "major_cities": {
+      "Dimapur": [
+        25.9036,
+        93.7256
+      ],
+      "Kohima": [
+        25.6667,
+        94.1167
+      ],
+      "Mokokchung": [
+        26.3249,
+        94.5389
+      ],
+      "Chümoukedima": [25.7916, 93.7818],
+      "Niuland": [25.9076, 93.9877],
+      "Tseminyü": [25.92469, 94.21488],
+      "Noklak": [26.2014, 95.0167],
+      "Shamator": [26.1000, 94.9000]
+    }
+}
+}

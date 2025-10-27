@@ -1,0 +1,1791 @@
+X Corp vs Union Of India on 30 June, 2023
+X Corp vs Union Of India on 30 June, 2023
+Author: Krishna S Dixit
+Bench: Krishna S Dixit
+-1-
+WP No. 13710 of 2022
+IN THE HIGH COURT OF KARNATAKA AT BENGALURU
+DATED THIS THE 30TH DAY OF JUNE, 2023
+R
+BEFORE
+THE HON'BLE MR JUSTICE KRISHNA S DIXIT
+WRIT PETITION NO. 13710 OF 2022 (GM-RES)
+BETWEEN:
+X CORP.
+A COMPANY INCORPORATED UNDER THE LAWS
+OF THE UNITED STATES OF AMERICA,
+HAVING ITS REGISTERED OFFICE AT:
+1355, MARKET STREET, SUITE 900,
+CALIFORNIA 94103.
+UNITED STATES OF AMERICA
+AND HAVING ITS PHYSICAL
+CONTACT ADDRESS IN INDIA AT:
+121, 8TH FLOOR,
+THE ESTATE, DICKENSON ROAD,
+BENGALURU - 560 042.
+REPRESENTED BY ITS AUTHORISED SIGNATORY.
+(AMENDED AS PER ORDER DATED 19.04.2023)
+...PETITIONER
+(BY SRI.ARAVIND DATAR & SRI. ASHOK HARANAHALLI,
+SR. COUNSELS A/W
+SRI. MANU P. KULKARNI., SRI. ANKIT AGARWAL,
+SRI. SHARAN BALAKRISHNA, MS. SHLOKA NARAYANAN,
+MS. SHRISTI WIDGE, SRI. MANOJ RAIKAR AND
+SRI. ABHISHEK KUMAR, ADVOCATES)
+AND:
+1. UNION OF INDIA
+REPRESENTED BY THE
+MINISTRY OF ELECTRONICS AND
+INFORMATION TECHNOLOGY,
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 1
+X Corp vs Union Of India on 30 June, 2023
+ELECTRONICS NIKETAN, 6,
+CGO COMPLEX, LODHI ROAD,
+NEW DELHI-110 003.
+-2-
+WP No. 13710 of 2022
+2. THE DESIGNATED OFFICER,
+MINISTRY OF ELECTRONICS AND
+INFORMATION TECHNOLOGY,
+GOVERNMENT OF INDIA, ELECTRONICS, NIKETAN,
+6, CENTRAL GOVERNMENT OFFICES COMPLEX,
+NEW DELHI-110 003.
+...RESPONDENTS
+(BY SRI. SHANKARANARAYANAN, ASGI, SOUTHERN ZONE A/W
+SRI. KUMAR M.N., CGSPC)
+THIS WRIT PETITION IS FILED UNDER ARTICLES 226
+AND 227 OF THE CONSTITUTION OF INDIA, PRAYING TO
+QUASH THE BLOCKING ORDER DATED 02.02.2021 ISSUED BY
+RESPONDENTS VIDE ANNEXURE-A, BLOCKING ORDER DATED
+04.02.2021 ISSUED BY RESPONDENTS VIDE ANNEXURE-B,
+BLOCKING ORDER DATED 16.02.2021 ISSUED BY
+RESPONDENTS VIDE ANNEXURE-C, BLOCKING ORDER DATED
+05.06.2021 ISSUED BY RESPONDENTS, VIDE ANNEXURE-D,
+BLOCKING ORDER DATED 24.06.2021 ISSUED BY
+RESPONDENTS VIDE ANNEXURE-E, BLOCKING ORDER DATED
+19.07.2021 ISSUED BY RESPONDENTS VIDE ANNEXURE-F,
+BLOCKING ORDER DATED 12.08.2021 ISSUED BY
+RESPONDENTS VIDE ANNEXURE-G, BLOCKING ORDER DATED
+27.09.2021 ISSUED BY RESPONDENTS VIDE ANNEXURE-H,
+BLOCKING ORDER DATED 09.12.2021 ISSUED BY
+RESPONDENTS VIDE ANNEXURE-J, AND BLOCKING ORDER
+DATED 28.02.2021 ISSUED BY RESPONDENTS, VIDE
+ANNEXURE-K ALL MOREFULLY DESCRIBED IN THE SCHEDULE
+AND PRODUCED IN A SEALED COVER.
+THIS PETITION HAVING BEEN HEARD AND RESERVED
+FOR ORDER, THIS DAY, THE COURT PRONOUNCED THE
+FOLLOWING:
+ORDER
+Petitioner, claiming to be an Intermediary under the Information Technology Act, 2000 (hereafter
+'Act'), is knocking at the doors of Writ Court complaining against certain Blocking Orders issued by
+the respondents, whereby it is directed to bar access of certain information to the public, by effecting
+suspension of some accounts on Twitter i.e., www.twitter.com. In the alternative, petitioner seeks a
+direction at the hands of this court 'to modify the Blocking Orders to the extent of Table A of
+Annexure S to revoke the account level directions and instead identify specific tweets which are
+violative of Section 69A of the IT Act with reasons.' The respondents vide letter dated 27 June 2022
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 2
+X Corp vs Union Of India on 30 June, 2023
+have warned the petitioner of serious consequences such as withdrawal of protection availing under
+section 79(1) of the Act and initiation of criminal proceedings as well if these orders are not
+complied with.
+Particulars of the said orders are furnished by the petitioner in a tabular form as under:
+Blocking Order Accounts to be Tweets to be date blocked blocked
+02.02.2021 256 URLs and 1 hashtag "Of the above, only a total 39 URLs are being challenged by the
+petitioner in the present petition" avers the petitioner at the bottom of paragraph 4 of the petition.
+II. After service of notice, the respondent-Union of India and its designated officer from the
+Ministry of Electronics & Information Technology, have entered appearance through their learned
+Sr. Standing Counsel and resist the Petition, making submission in justification of the impugned
+orders and the reasons on which they have been constructed. The respondents have filed their
+Statement of Objections countering the petition averments. Both the parties have filed certain
+Write-Ups which may partake the character of additional pleadings supportive of each other's stand
+as taken up in the original pleadings.
+III. FOUNDATIONAL FACTS OF THE CASE:
+(i) Petitioner is a company incorporated under the
+laws of the United States of America, having its registered office at San Francisco, California. In the
+petition, it has shown the 'contact address' as Dickenson Road, Bangalore, India. Petitioner provides
+services on Twitter to users inter alia in India; Twitter is claimed to be a global platform for
+self-expression of its users to communicate and stay connected through messages of 280 characters
+or less (Tweets), at times with pictures/videos. Petitioner answers the description of "intermediary"
+as given in section 2(1)(w) of the Act since its functions are restricted to receiving, storing &
+transmitting 'records' or providing 'any service with respect to that record', on behalf of any user of
+Twitter platform.
+(ii) 1st Respondent-Union of India [hereafter 'UOI'] is the "appropriate government" as defined
+under Section 2(e) of the Act; 2nd Respondent happens to be the "Designated Officer" [hereafter
+'Designated Officer'] as defined under Rule 2(c) of the Information Technology (Procedures and
+Safeguards for Blocking for Access of Information by Public) Rules, 2009 [hereafter 'Website
+Blocking Rules']. The respondents in exercise of power availing under section 69A of the Act, have
+issued Blocking Orders on various dates. These Blocking Orders in all comprise of 1,474 Twitter
+accounts and 175 Tweets. A brief description of this is given in paragraph No.4. Petition also states
+'Of the above, only a total of 39 URLs are being challenged by the Petitioner...'
+(iii) Petitioner in June 2022, having received notice of the Blocking Orders, claims to have complied
+with the same 'under protest'. It sent a reply dated 9 June 2022 seeking a post-decisional personal
+hearing. The Designated Officer vide notice dated 27 June 2022 directed compliance with all
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 3
+X Corp vs Union Of India on 30 June, 2023
+directions issued under section 69A of the Act coupled with a warning of serious consequences such
+as withdrawal of the immunity availing under section 79(1) & penal actions, if the same are not
+complied. Petitioner sent its response dated 29 June 2022 to the effect that certain so-called
+objectionable content did not attract the grounds specified in section 69A.
+(iv) The Review Committee constituted under Rule 419-A of the Indian Telegraph Rules, 1951, held
+its meeting on 30 June 2022 and the petitioner having participated therein, requested for revocation
+of 11 account-level Blocking Orders, on certain grounds. Subsequent to the said meeting, the
+respondents enlisted 15 Twitter accounts and 12 URLs (Tweets) with a direction to block them. In
+terms of what was agreed upon in the Meeting, the respondents vide notice dated 1 July 2022
+revoked 10 of these 11 accounts that were blocked. Petitioner sent a letter dated 2 July 2022
+reporting compliance of the Blocking Orders under protest that were left non complied thitherto,
+while also pointing out certain discrepancies in the Blocking Orders. This compliance is
+acknowledged by the respondents vide e-mail dated 4 July 2022.
+IV. Aggrieved by both, the Blocking Orders and the action of respondents in not revoking the
+blocking of accounts/Tweets/URLs, this Writ Petition is presented.
+(A) BRIEF CONTENTIONS OF PETITIONER:
+This Petition has been structured essentially inter alia on the grounds that: substantive & procedural
+non- compliance of section 69A of the Act in the light of SHREYA SINGHAL vs. UNION OF INDIA1;
+power to issue Blocking Orders is information-specific; blocking of anticipatory information is not
+authorized; absence of prior notice to the originators of the so-called objectionable content, which is
+mandatory; failure to provide proper reasons in the Blocking Order itself; reasons cannot be
+outsourced from the file; the impugned order even otherwise is not a speaking order in true sense;
+non- communication of reasons renders the action void; (2015) 5 SCC 1 impugned action is grossly
+disproportionate as the respondents failed to use the least intrusive means; gross violation of
+Articles 14, 19 & 21 of the Constitution of India; no opportunity of hearing before the Review
+Committee and thus, violation of principles of natural justice. In support of its case, petitioner has
+relied upon certain Rulings.
+(B) BRIEF CONTENTIONS OF RESPONDENTS:
+The UOI and the Designated Officer repelled the above contentions of the petitioner,
+per contra contending that:
+petition by a foreign company complaining of violation of Fundamental Rights, is not
+maintainable; there is compliance of both substantive & procedural requirement
+inter alia under section 69A of the Act and the provisions of Rules 8 & 9 of Website
+Blocking Rules; in the decision making process, petitioner having participated,
+cannot complain of lack of reasonable opportunity; petitioner not being a citizen nor
+a company of the native soil, cannot invoke Articles 19 & 21 of the Constitution;
+petitioner has
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 4
+X Corp vs Union Of India on 30 June, 2023
+- 10 -
+given up invocation of these Articles during the hearing of petition; no case is made
+out for invocation of Article 14, either; Rule 8(1) of Website Blocking Rules does not
+avail to non-citizens; in the absence of statutory enablement, petitioner cannot
+espouse the arguable cause of account holders/Twitter users; the particulars of
+account holders are exclusively with the petitioner and therefore, authorities could
+not issue any notice to them; at no point of time, petitioner furnished particulars of
+the subject account holders nor otherwise insisted upon issuance of notice to them;
+the procedural & substantive fairness standards with which the Petitioner-Company
+has been treated, does not fall short of the standards that are obtaining in any other
+civilized jurisdictions; even otherwise, no relief in terms of petition prayer can be
+granted. In support of their stand, the respondents have pressed into service certain
+Rulings.
+V. Having extensively heard learned Advocates appearing for the parties and having
+perused the Petition Papers, in the light of relevant of the Rulings cited at the
+- 11 -
+Bar, the following questions have been broadly framed for consideration:
+1. Whether the petitioner-Company being a foreign entity can invoke the writ
+jurisdiction constitutionally vested in the court under Articles 226 & 227...?
+2. Whether section 69A of the Act read with the Website Blocking Rules does
+authorize issuance of a direction to block user accounts in their entirety or such
+power is tweet-specific...?
+3. Whether the impugned Blocking Orders are liable to be voided on the ground of
+non-communication of reasons on which they have been structured...?
+4. Whether the impugned Blocking Orders are bad since they have not been founded
+on discernible reasons relatable to objectionable content...?
+5. Whether notice to user of accounts i.e., originators of information in terms of Rule
+8(1) is mandatory and in the absence thereof, the impugned Blocking Orders suffer
+from legal infirmity...?
+6. Whether the impugned Blocking Orders are violative of the doctrine of
+proportionality and therefore, liable to be invalidated...?
+7. Whether the conduct of petitioner disentitles it to the grant of any discretionary
+relief at the hands of Writ Court...?
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 5
+X Corp vs Union Of India on 30 June, 2023
+8. Whether the culpable conduct of the petitioner renders it liable for the levy of
+exemplary costs...?
+- 12 -
+(I) AS TO LOCUS STANDI OF THE PETITIONER- A FOREIGN COMPANY TO INVOKE
+CONSTITUTIONAL JURISDICTION OF THE COURT:
+(a) It is a specific contention of respondents that the petitioner-company lacks locus
+standi and therefore, petition in its present form & substance cannot be entertained
+in constitutional jurisdiction vested under Articles 226 & 227. Learned ASG
+submitted that petitioner is a 'foreign commercial entity' and the same has neither
+been defined nor taken cognizance of by the Indian law;
+the rights that are guaranteed to the citizens in Part III of the Constitution do not avail to a juristic
+person and more particularly, to a foreign entity like the petitioner. Learned advocates appearing for
+the petitioner replied and this court agrees with the same that the invocation of writ jurisdiction is
+not confined to the examination of the complaint of violation of Fundamental Rights guaranteed
+under Part III of the Constitution. Invocation is permissible even in cases that involve infringement
+of statutory rights as distinguished from the constitutional rights.
+- 13 -
+(b) That, the constitutional guarantee of certain rights i.e., Articles 19, 21, etc., is citizen-centric,
+does not need much deliberation. Provisions in Part II of the Constitution relating to citizenship are
+clearly inapplicable to juristic persons. Article 19 as contrasted with certain other Articles like Arts.
+26, 29 & 30, guarantees rights to the citizens as such, and associations cannot lay claim to the
+fundamental rights guaranteed by that Article solely on the basis of their being an aggregation of
+citizens, that is to say, the right of the citizens composing the body. It is true that in
+K.S.PUTTASWAMY vs. UNION OF INDIA2, at paragraph 363, Chelameswar J., broadly observed:
+"...As it is now clearly held by this Court that the rights guaranteed under Articles 14
+and 21 are not confined only to citizens but available even to non-citizens, aliens or
+incorporated bodies even if they are incorporated in India, etc..."
+Admittedly, petitioner-company is an incorporated body. Therefore it cannot be disputed that it is
+entitled to protection under Article 14. In INDIAN SOCIAL ACTION (2017) 10 SCC 1
+- 14 -
+FORUM vs. UNION OF INDIA3 it is observed: "Appellant being an organization cannot be a citizen
+for the purpose of Article 19 of the Constitution". However, there are rights that avail even to
+non-citizens, and to juristic persons as distinguished from natural persons.
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 6
+X Corp vs Union Of India on 30 June, 2023
+(c) Mr.Manu Kulkarni is right in pointing out that Article 226 employs the term 'any person'; the
+word 'person' having not been defined in the Constitution, it assumes meaning given in the General
+Clauses Act, 1897, the same having been to an extent internalized vide Article 367(1). Section 3(42)
+of 1897 Act expansively defines 'person' to 'include any company or association or body of
+individuals, whether incorporated or not'; secondly, Article 226 also employs the expression 'for any
+other purpose' and therefore, even a complaint not involving violation of Fundamental Rights may
+lie to the Writ Court. In COMMON CAUSE vs. UNION OF INDIA4, it is observed:
+"Under Article 226 of the Constitution, the High Court has been given the power and
+2020 SCC Online SC 310 (1999) 6 SCC 667
+- 15 -
+jurisdiction to issue appropriate writs in the nature of mandamus, certiorari, prohibition, quo
+warranto and habeas corpus for the enforcement of fundamental rights or for any other purposes.
+Thus, the High Court has jurisdiction not only to grant relief for the enforcement of fundamental
+rights but also for "any other purpose" which would include the enforcement of public duties by
+public bodies..."
+(d) The related question whether a foreign company can invoke writ jurisdiction need not detain the
+court for long. In DWARKADAS SHRINIVAS vs. SHOLAPUR Spg. & Wvg. Co. Ltd5, it is observed:
+'...But what article 19(1)(f) means is that whereas a law can be passed to prevent
+persons who are not citizens of India from acquiring and holding property in this
+country no such restrictions can be placed on citizens. But in the absence of such a
+law non-citizens can also acquire property in India and if they do then they cannot be
+deprived of it any more than citizens, save by authority of law." It is pertinent to state
+what Mr.H.M.Seervai, a great jurist of the yester decades in "The Emergency, Future
+Safeguards And The Habeas Corpus Case: A Criticism"
+(N.M.Tripathi Publication, 1 January 1978) writes:
+AIR 1954 SC 119
+- 16 -
+"Article 19 confers well recognized fundamental rights on citizens alone. Thus every
+citizen has a fundamental right to "acquire, hold and dispose of property"
+("property rights"). Does it mean that foreigners in India have no property rights? It is a matter of
+common knowledge, which a glance at the Statute book would confirm, that foreigners have
+property rights in India. This is because, broadly speaking, various statutes confer property rights
+without reference to the citizenship of the person acquiring, holding and disposing of property, as
+for example, the Transfer of Property Act, the Contract Act, the Sale of Goods Act and the Succession
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 7
+X Corp vs Union Of India on 30 June, 2023
+Act. If the question were asked: "Where are the property rights of citizens and non-citizens to be
+found?"
+the answer must be in the relevant statutes..."
+In ERBIS ENGINEERING COMPANY LTD. vs. STATE OF WEST BENGAL6, Calcutta High Court
+has observed:
+"Now admittedly while the Supreme Court, under Article 32 has the power to issue
+writs for the enforcement of fundamental rights if infringed, however, High Court
+under Article 226 has been conferred power not only to issue writs for enforcement of
+fundamental rights but also "for any other purpose", meaning thereby for
+enforcement of any legal right. Now it is a settled proposition of law that the words
+"for any other purpose" in Article 226, which are absent in Article 32, make the
+jurisdiction of the High Court wide and more extensive than that of the Supreme
+Court. Therefore, High Court can exercise its power to issue writs under Article 226
+for two- fold purposes-for enforcement of (i) 2011 SCC OnLine Cal 835
+- 17 -
+fundamental rights and ii) for enforcement of legal rights."
+Similar view is echoed by a Division Bench of Gauhati High Court in W.A.No.268 of 2013 between
+OIL INDIA LIMITED vs. DRILLIMEC SPA, disposed off on 22 July 2014, wherein it observed:
+"in today's context when Foreign Direct Investment (FDI) in various sectors of our
+economy is a reality and is being pursued by the executive arm of the State, it will be
+wholly untenable and opposed to the constitutional mandate to tell the foreign
+companies that they can do business in India, but they will not be entitled to the
+guarantee of fair play and equality as enshrined in Article 14 of the Constitution of
+India... Thus, while agreeing with the views expressed by the learned Single Judge,
+we hold that a company, a juristic person, whether Indian or foreign, can maintain a
+legal action based on Article 14 of the Constitution of India alone..."
+Petition has been structured inter alia on the provisions of Article 14 of the Constitution, as
+extensively construed by the Apex Court, precedent by precedent. Paragraph 11, page 10 of
+petitioner's Rejoinder reads: "Petitioner is canvassing rights under Articles 14, 19, 21 only to limited
+extent. Petitioner is mainly urging violation of statutory
+- 18 -
+rights". Even otherwise, it cannot claim protection of Article 19(1)(a) because it is not a citizen
+[Bishwananth Tea Company Ltd.7], and Article 21 because it is not a natural person; it also cannot
+espouse the arguable cause of twitter account holders in the absence of enabling provision of law
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 8
+X Corp vs Union Of India on 30 June, 2023
+unlike trade unions espousing the cause of workmen under the provisions of The Trade Unions Act,
+1926 & The Industrial Disputes Act, 1947.
+(e) The above being said, Rule 8(1)(iii) of Information Technology (Certifying Authorities) Rules,
+2000 defines "foreign company" by adopting the meaning assigned to it in section 2(23) of the
+Income Tax Act, 1961. It is also pertinent to note that Rule 8(3) of the Website Blocking Rules in so
+many words mentions about the mode of service of notice on a 'foreign entity or body corporate'. It
+also recognizes the right of such an entity to reply. Notice was sent to petitioner-Company by the
+respondents and the same was replied to by it. In SHREYA SINGHAL supra, what the Apex Court
+observed also lends AIR 1981 SC 1368
+- 19 -
+credence to the case of petitioner as to locus standi. At paragraph 114, it observed: "...reasons have
+to be recorded in writing in such blocking order so that they may be assailed in a writ petition under
+Article 226 of the Constitution..." At paragraph 115, it stated: "...It is only an intermediary who
+finally fails to comply with the directions issued who is punishable under sub-section (3) of Section
+69A...". Learned counsel for the petitioner is justified in submitting that section 83 of the Code of
+Civil Procedure, 1908 recognizes right of an alien to sue and his liability to be sued, as if he is a
+citizen of India. The said section reads as under:
+"When aliens may sue: Alien enemies residing in India with the permission of the
+Central Government, and alien friends, may sue in any Court otherwise competent to
+try the suit, as if they were citizens of India, but alien enemies residing in India
+without such permission, or residing in a foreign country, shall not sue in any such
+court.
+Explanation-Every person residing in a foreign country, the Government of which is
+at war with India and carrying on business in that country without a licence in that
+behalf granted by the Central Government, shall, for the purpose of
+- 20 -
+this section, be deemed to be an alien enemy residing in a foreign country."
+However, when it comes to an 'alien enemy', conditions do apply. Mr.Manu Kulkarni is right in
+submitting that Rule 39 of the Writ Proceedings Rules, 1977 broadly adopts inter alia the provisions
+of CPC. If right to sue is recognized, whether it is prosecuted in an ordinary Civil Court or in Writ
+Court, in the fact matrix of the case, pales into insignificance. Where the cause of action is animated
+with abundant public law elements like the State action, writ jurisdiction is invocable. It cannot be
+said that the action of respondents does not have such elements, when the same has been taken
+under a special statute. Therefore, contention of learned ASG that Indian law does not take
+cognizance of a foreign entity/company being too farfetched an argument, cannot be agreed to.
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 9
+X Corp vs Union Of India on 30 June, 2023
+(f) It hardly needs to be stated that many civilized jurisdictions across the globe allow foreign
+nationals & foreign entities to vindicate statutory rights in the domestic courts, even against the
+government & its
+- 21 -
+authorities. Article III of the U.S. Constitution recognizes the right of foreign citizens/entities to sue
+and their liability for being sued vide SERVICIOS AZUCAREROS DE VENEZUELA, C.A. vs. JOHN
+DEERE THIBODE, INC8 and TRANSNOR (BERMUDA) LTD vs. BP NORTH AMERICA
+PETROLEUM9. The U.S. Supreme Court has repeatedly stated that the 'equality clause' and the 'due
+process clause' do apply to all persons including the aliens vide ZADVYDAS vs. DAVIS10. English
+Law is not much different, in this regard. The London Court of Appeal in DOMINIC LISWANISO
+LUNGOWE & OTHERS vs. VEDANTA RESOURCES Plc & ANOTHER11, has confirmed that foreign
+citizens can pursue in England legal claims against English based multinationals. The realm of
+Cyber Law spurns at traditional concept of territoriality and repels the idea of geographical
+boundaries. Globe is becoming small. It is not impertinent to mention what our vedic scriptures say.
+Mahopanishad 6.71-75 has the following verse (shloka):
+702 F.3d 794 (5th Cir.2012) 666 F. Supp. 581 (S.D.N.Y. 1987) 533 U.S. 678, 693
+(2001) [2017] EWCA Civ 1528
+- 22 -
+Near English translation:
+This is mine, that is his, say the small minded, The wise believe that the entire world
+is a family.
+The Petitioner-Company is not only threatened of losing its protection available u/s
+79(1) but also penal action for violation of the mandatory provisions of the Act and
+the Website Blocking Rules.
+In view of the above discussion, this court is of the considered view that petitioner
+has locus standi to tap the writ jurisdiction of this Court for the redressal of its
+arguable grievance.
+(II) AS TO INHERENT APPREHENSIONS OF UNFETTERED CYBERSPACE AND
+THE OMINOUS PERVASION OF SOCIAL MEDIA IN A DEMOCRATIC SETUP:
+- 23 -
+(a) Social media has reshaped the way in which masses consume information.
+Emergence of social media has changed the way in which people participate in the
+democratic process. Compared to traditional media, it has a far larger reach & easy
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 10
+X Corp vs Union Of India on 30 June, 2023
+accessibility; it enables mass participation and provides instant updates/effects.
+Social media enables the users to interact and communicate while simultaneously
+creating & sharing content digitally.
+This main characteristic allows regular users to create media hypes comparable to news waves.
+Today, social media functions as the meeting place for participants to exchange information and
+also propagate views about such information. People increasingly rely on social media than on their
+traditional counterparts, to become aware of their surroundings and participate in
+discussions-political, economic or otherwise which may strengthen democracy. However, on the
+flipside, the abuse of social media is, at times, antithetical to the democratic process. This has led to
+manipulation & fragmentation of society on the tainted lines of political ideologies.
+- 24 -
+(b) Social media has also been used to manipulate political choices of voters & opinion generators.
+This perniciously affects amongst other, the democratic setup of even constitutional institutions.
+Social media is highly susceptible to exploitation at the hands of organizations/entities. Mass level
+psychological and intellectual manipulations are also perpetrated. Social networks have evolved into
+platforms for the generation & huge propaganda of fake news; this in turn empowers disruptive
+voices & ideologies with cascading effect. These platforms hold the potential to alter civic
+engagement that may eventually hijack democracy, by influencing the masses toward a particular
+way of thinking. Social media has enabled a style of populist politics, which if left unregulated allows
+hate speech & virulent expressions to thrive in digital spaces,. The rise of polarizing & divisive
+content has been a defining moment of modern politics, which is fed by dissemination of fake news,
+and such dissemination through social media among populations with low-to-no levels of critical
+digital literacy, is a big
+- 25 -
+challenge. To this is added, another dangerous component namely, the labeling and trolling of
+disruptive voices.
+(c) What the Apex Court observed in AJIT MOHAN & ORS. vs. LEGISLATIVE ASSEMBLY
+NATIONAL CAPITAL TERRITORY OF DELHI12 as to the abuse of social media and its effect on the
+democratic process is profitably reproduced:
+"The technological age has produced digital platforms...can be imminently
+uncontrollable at times and carry their own challenges. One form of digital platforms
+are the intermediaries that claim to be providing a platform for exchange of ideas
+without any contribution of their own...on complaints being made, they do remove
+offensive content based on their internal guidelines. The power and potentiality of
+these intermediaries is vast, running across borders. These are multinational
+corporations with large wealth and influence at their command. By the very reason of
+the platform they provide, their influence extends over populations across borders.
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 11
+X Corp vs Union Of India on 30 June, 2023
+...we cannot lose sight of the fact that it has simultaneously become a platform for
+disruptive messages, voices, and ideologies. The successful functioning of a liberal
+democracy can only be ensured when citizens are able to make informed decisions.....
+The information explosion in the digital age is capable of creating (2022) 3 SCC 529
+- 26 -
+new challenges that are insidiously modulating the debate on issues where opinions can be vastly
+divided...social media...has become a tool in the hands of various interest groups who have
+recognised its disruptive potential...
+extremist views are peddled into the mainstream, thereby spreading misinformation. Established
+independent democracies are seeing the effect of such ripples across the globe and are concerned.
+Election and voting processes, the very foundation of a democratic government, stand threatened by
+social media manipulation....The effect on a stable society can be cataclysmic with citizens being
+'polarized and parlayzed' by such "debates", dividing the society vertically. Less informed
+individuals might have a tendency to not verify information sourced from friends, or to treat
+information received from populist leaders as the gospel truth.
+...The immense power that platforms wield has stirred a debate not only in our country but across
+the world. The endeavour has been to draw a line between tackling hate speech and fake news on the
+one hand and suppressing legitimate speech which may make those in power uncomfortable, on the
+other. The significance of this is all the more in a democracy which itself rests on certain core values.
+This unprecedented degree of influence necessitates safeguards and caution in consonance with
+democratic values.... ...Debate in the free world has shown the concern expressed by Governments
+across the board and the necessity of greater accountability by these intermediaries which have
+become big business corporations with influence across borders and over millions of
+- 27 -
+people...... The width of such access cannot be without responsibility as these platforms have
+become power centres themselves, having the ability to influence vast sections of opinions....it has to
+be noted that their platform has also hosted disruptive voices replete with misinformation. These
+have had a direct impact on vast areas of subject matter which ultimately affect the governance of
+States. It is this role which has been persuading independent democracies to ensure that these
+mediums do not become tools of manipulative power structures. These platforms are by no means
+altruistic in character but rather employ business models that can be highly privacy intrusive and
+have the potential to polarize public debates. For them to say that they can sidestep this criticism is
+a fallacy as they are right in the centre of these debates...."
+(d) It is pertinent to note that more or less similar concerns were addressed in the recently
+conducted Global Dialogue on 'Internet for Trust: Towards Guidelines for Regulating Digital
+Platforms' held in February 2023, by the UNESCO. The Third Draft Guidelines titled, "Safeguarding
+freedom of Expression and access to information:
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 12
+X Corp vs Union Of India on 30 June, 2023
+Guidelines for a multistakeholder approach in the context of regulating digital
+platforms", were shared for public consultation. These Guidelines, which encompass
+social intermediaries, focus inter alia on responsibilities of digital platforms with
+respect to human rights especially in the context of media literacy and intermediary
+accountability:
+- 28 -
+".....Digital platforms have empowered societies with enormous opportunities for
+people to communicate, engage, and learn. They offer great potential for
+communities in social or cultural vulnerability and/or with specific needs,
+democratizing spaces for communication and opportunities to have diverse voices
+engage with one another, be heard, and be seen. But due to the fact that key risks
+were not taken into account earlier, this potential has been gradually eroded over
+recent years...
+...The aim of the Guidelines is to safeguard freedom of expression, access to
+information and, other human rights in the context of the development and
+implementation of digital platform regulatory processes. They establish a
+rights-respecting regulatory processes while promoting risk and system-based
+processes for managing content. They aim to enrich and support a global
+multistakeholder shared space to debate and share good practices about digital
+platform regulation; serve as a tool for all relevant stakeholders to advocate for
+human rights-respecting regulation and to hold government and digital platforms
+accountable...
+...Platforms make available information and tools for users to understand and make
+informed decisions about the digital services they use, helping them assess the
+information on the platform as well as understanding the means of complain and
+redress. They have in place Media and Information Literacy programs and provide
+information and enable users actions in different languages....Platforms are
+accountable to relevant stakeholders, to users, the public, advertisers and the
+regulatory system in implementing their terms of service
+- 29 -
+and content policies, they give users ability to seek redress against content-related
+decisions, including both users whose content was taken down and users who have
+made complaints about content that violates international human rights law"
+(III) AS TO A BRIEF & SELECTIVE ASPECTS OF COMPARATIVE LAW RELATING
+TO TAKEDOWN OF OBJECTIONABLE CYBER CONTENT:
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 13
+X Corp vs Union Of India on 30 June, 2023
+Cyber space is trans-national. That warrants advertence to some aspects of law on the
+subject as obtaining in a few prominent jurisdictions. The following discussion under
+this paragraph is structured on the basis of the material furnished by petitioner's
+counsel Mr.Manu Kulkarni and learned Sr. CGC Mr.Kumar M.N, appearing for the
+respondents. Mr.Manu Kulkarni and the learned ASG made their submission
+assisting the court. A brief reference to foreign law is not out of place:
+(i) In USA, there does not appear to be a law approximating to the regulatory
+provisions of our Information Technology Act, 2000 in general and section 69A
+thereof in particular. This is because of the First Amendment as expansively
+construed by the U.S.
+- 30 -
+Supreme Court in a catena of decisions beginning with Justice Thurgood Marshall's observation in
+POLICE DEPARTMENT OF THE CITY OF CHICAGO vs. MOSLEY13:
+"...the First Amendment above all else means that the government may not restrict
+expression because of its message, ideas, subject matter or content..." However, now
+there is The Communications Decency Act, 1996;
+section 230(c)(1) enacts a 'safe harbor provision' whereby intermediaries are not
+treated as the publisher or speakers of third party generated content; section
+230(c)(2) enacts 'Good Samaritan clause' which provides that the intermediaries &
+users may not be held liable for voluntarily acting in 'good faith' to restrict access to
+objectionable material; section 230(e) outlines a few exemptions where immunity
+will not be available i.e., federal criminal statutes, intellectual property law & sex
+trafficking prevention laws. A content-based restriction, as opposed to a
+content-neutral one, is a key differentiation under First Amendment jurisprudence
+because the former 408 US 92 (1972) 95
+- 31 -
+is subject to 'strict scrutiny' analysis, which requires government to show that it has a
+compelling public interest for its regulation and that the regulation is the least
+speech-restrictive way to further such interest.
+Protection under the First Amendment is not available where the speech is directed
+or likely to incite or produce imminent lawless action14. Similarly, there is no
+protection to speech 'used as an integral part of conduct in violation of a valid
+criminal statute'15.
+(ii) In U.K, principally there are two statutes viz., Terrorism Act, 2006 and The
+Digital Economy Act, 2017.
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 14
+X Corp vs Union Of India on 30 June, 2023
+The former prohibits the glorification, encouragement & promotion of commission or preparation of
+acts of terrorism (section 3). It enables the constable to issue notice for the removal of objectionable
+content. Whether such content is objectionable would be assessed on the basis of the contents of the
+statement as a whole and the circumstances & manner of its publication. The offence is punishable
+with an imprisonment for a term which may Brandenburg vs. Ohio 395 US 444 Giboney vs. Empire
+Storage and Ice Co. 336 US 490
+- 32 -
+extend to 15 years 'or/and' with fine. Section 23 of the 2017 Act provides for issuance of Blocking
+Orders in respect of public access to offending material using the services of the internet service
+provider. Sub-section (2) provides for taking steps for securing compliance of such notices. The
+statute essentially focuses the prevention of 'extreme-pornography' and provides for prosecution &
+penalty.
+(iii) In AUSTRALIA, The Online Safety Act, 2021, a Federal statute of nascent origin promotes
+online safety and administration of complaints relating to cyber abuse. It enacts provisions inter alia
+regulating the issuance of warning notice, 'removal notice', removal request, remedial notice, etc., in
+respect of objectionable content of cyber posts, and revocation of these notices. Commissioner is the
+designated authority who does process the same. By a notice in writing, he may request or require
+intermediary amongst others, to take all reasonable steps in 24 hours or within specified time to
+ensure the removal of 'cyber abuse material' from the
+- 33 -
+service. Section 91 prescribes a penalty of 500 units for non-compliance (the value of one unit is
+currently 275 Australian Dollars). Section 95 provides for issuance of blocking requests to the
+intermediaries to take steps to disable access to the objectionable material. Sub-section (2) of this
+section provides for taking steps to block URLs or to block IP address itself. It is more than blocking
+of an account in its entirety. What is notable is the text of sub- section (3): "The Commissioner is not
+required to observe any requirements of procedural fairness in relation to the giving of the blocking
+request". Section 96 provides that the period of blocking request is three months and it may be
+extended in the form of renewal. Section 97 provides for revocation of blocking request. Similarly,
+section 99 provides for issuance of 'blocking notice' which may also cover blocking of accounts in
+their entirety. This statute also provides for the issuance of warning notices, link deletion notices
+and remedial notices. It also provides for what the Commissioner should consider in assessing
+- 34 -
+whether online material is likely to cause significant harm to the community.
+(IV) AS TO CERTAIN ASPECTS OF NATIVE LAW & PROCEDURE RELATING TO BLOCKING OF
+ACCOUNTS, URLS & TWEETS:
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 15
+X Corp vs Union Of India on 30 June, 2023
+(a) The United Nations Commission on International Trade Law (UNCITRAL) in the year 2001
+adopted the Model Law on the subject; the UN Resolution No.56/80 dated 12.12.2001
+recommended that all Nation States should accord favourable consideration to the same. The
+Information Technology Act, 2000 is a Parliamentary statute enacted with a view to give fillip to the
+growth of electronic based transaction, to provide legal recognition for e-commerce &
+e-transactions, to facilitate e-governance, to prevent computer based crimes and ensure security
+practices & procedures in the context of widest possible use of information technology worldwide. A
+rapid increase in the use of electronic devices has given rise to new forms of crimes of several kind
+and therefore, penal provisions, subsequently, have been enacted. The Act applies to the whole of
+country and also to offences or
+- 35 -
+contravention committed outside. In terms of section 3, the Act came into force w.e.f. 17 October
+2000.
+(b) Section 2 of the Act is the Dictionary Clause of the Act; some of the definitions are relevant to the
+adjudication of this petition. Section 2(t) defines 'electronic record' to mean data, record or data
+generated, image or sound stored, received or sent in an electronic form or micro film or computer
+generated micro fiche. Section 2(v) defines 'information' to include data, message, text, images,
+sound, voice, codes, computer programmes, software and databases or micro film or computer
+generated micro fiche. Section 2(w) defines 'intermediary' to mean any person who on behalf of
+another receives, stores or transmits electronic record or provides any service with respect to that
+record, etc. Section 2(za) defines 'originator' to mean a person who sends, generates, stores or
+transmits the electronic message; however, it does not include an intermediary. A set of Rules for
+effective working of the Act has been promulgated by the Central Government. This petition in
+- 36 -
+substance relates to section 69A of the Act and Rule 8 of the Website Blocking Rules.
+(c) The Act as originally made, did not have certain essential regulatory provisions and therefore,
+section 66A & section 69A amongst other came to be introduced by the Parliament vide Amendment
+Act No.10 of 2009 w.e.f. 5 February 2009. Section 66A criminalized the act of sending offensive
+messages through communication service and prescribed a penalty of three year imprisonment
+coupled with fine. Section 69A inter alia provides for issuance of Blocking Orders. Earlier, there was
+no such provision. Section 69A has the following text:
+"69A. Power to issue directions for blocking for public access of any information
+through any computer resource.-
+(1) Where the Central Government or any of its officers specially authorised by it in
+this behalf is satisfied that it is necessary or expedient so to do, in the interest of
+sovereignty and integrity of India, defence of India, security of the State, friendly
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 16
+X Corp vs Union Of India on 30 June, 2023
+relations with foreign States or public order or for preventing incitement to the
+commission of any cognizable offence relating to above, it may subject to the
+provisions of sub-
+section (2), for reasons to be recorded in writing, by order, direct any agency of the Government
+- 37 -
+or intermediary to block for access by the public or cause to be blocked for access by the public any
+information generated, transmitted, received, stored or hosted in any computer resource.
+(2) The procedure and safeguards subject to which such blocking for access by the public may be
+carried out, shall be such as may be prescribed.
+(3) The intermediary who fails to comply with the direction issued under sub-section (1) shall be
+punished with an imprisonment for a term which may extend to seven years and also be liable to
+fine."
+(d) Section 69A is couched in a restrictive language since free speech concerns are inherent to such
+blocking. Keeping this in mind the Parliament has structured the same, providing for the issuance of
+directions to block public access of information through any computer resource only when, (i) the
+Central Government or the officer specifically designated by it; (ii) is satisfied that it is necessary or
+expedient so to do; either (a) in the interest of sovereignty and integrity of India; (b) defence of
+India;
+(c) security of the State; (d) friendly relations with foreign States; (e) public order; or (f) for
+preventing incitement to the commission of any cognizable offence. Section 69A(1)
+- 38 -
+further states that all such orders shall be in writing. Non- compliance with such direction, may
+entail the intermediary with an imprisonment for a term which may extend to seven years coupled
+with fine. Any Website Blocking involves inherent tensions between the competing interests of free
+speech/expression on the one hand and the restriction on its exercise, on the other. Section 69A(2)
+provides for normative prescription of procedure & safeguards for effecting Website Blocking, so
+that the abuse of this power is minimized. Pursuant to Section 69A(2), the Central Government has
+promulgated the Website Blocking Rules which inter alia provide for the appointment of a
+Designated Officer who should be of the rank of Joint Secretary; he will be responsible for issuing
+the Website Blocking Orders under Rule 3. Rule 6 enables any aggrieved person to lodge a
+complaint against any web content and seek its blocking. Such blocking requests will be examined
+by a 'Committee for the examination of request' under Rule 7; this Committee is constituted under
+Rule 419-A of the Indian Telegraph Rules, 1951.
+- 39 -
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 17
+X Corp vs Union Of India on 30 June, 2023
+(e) The provisions of Rules 8 & 9 of Website Blocking Rules being relevant, are reproduced below:
+"8: Examination of request (1) On receipt of request under rule 6, the Designated
+Officer shall make all reasonable efforts to identify the person or intermediary who
+has hosted the information or part thereof as well as the computer resource on which
+such information or part thereof is being hosted and where he is able to identify such
+person or intermediary and the computer resource hosting the information or part
+thereof which have been requested to be blocked for public access, he shall issue a
+notice by way of letters or fax or e-
+mail signed with electronic signatures to such person or intermediary in control of such computer
+resource to appear and submit their reply and clarifications if any, before the committee referred to
+in rule 7, at a specified date and time, which shall not be less than forty- eight hours from the time of
+receipt of such notice by such person or intermediary.
+(2) In case of non-appearance of such person or intermediary, who has been served with the notice
+under sub-rule (1), before the committee on such specified date and time the committee shall give
+specific recommendation in writing with respect to the request received from the Nodal Officer,
+based on the Information available with the committee.
+(3) In case, such a person or intermediary, who has been served with the notice under sub-rule (1), is
+a foreign entity or body corporate as identified by the Designated Officer, notice shall be sent by way
+of letters or fax or e-mail signed
+- 40 -
+with electronic signatures to such foreign entity or body corporate and any such foreign entity or
+body corporate shall respond to such a notice within the time specified therein, failing which the
+committee shall give specific recommendation in writing with respect to the request received from
+the Nodal Officer, based on the information available with the committee. (4) The committee
+referred to in rule 7 shall examine the request and printed sample information and consider whether
+the request is covered within the scope of sub-section (1) of section 69A of the Act and that it is
+justifiable to block such information or part thereof and shall give specific recommendation in
+writing with respect to the request received from the Nodal Officer.
+(5) The Designated Officer shall submit the recommendation of the committee, in respect of the
+request for blocking of information along with the details sent by the Nodal Officer to the Secretary
+in the department of Information Technology under Ministry of Communication and Information
+Technology, Government of India (hereinafter referred to as the "Secretary, Department of
+Information Technology"). (6) The Designated Officer, on approval of the request by the Secretary,
+Department of Information Technology, shall direct any agency of the Government or the
+intermediary to block the offending information generated, transmitted, received, stored or hosted
+in their computer resource for public access within the time limit specified in the direction: Provided
+that in case the request of the Nodal Officer is not approved by the Secretary, Department of
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 18
+X Corp vs Union Of India on 30 June, 2023
+Information Technology, the Designated Officer shall convey the same to such Nodal Officer.
+- 41 -
+9. Blocking of information in cases of emergency. --
+(1) Notwithstanding anything contained in rules 7 and 8, the Designated Officer, in any case of
+emergency nature, for which no delay is acceptable, shall examine the request and printed sample
+information and consider whether the request is within the scope of sub-section (1) of section 69A of
+the Act and it is necessary or expedient and justifiable to block such information or part thereof and
+submit the request with specific recommendations in writing to Secretary, Department of
+Information Technology.
+(2) In a case of emergency nature, the Secretary, Department of Information Technology may, if he
+is satisfied that it is necessary or expedient and justifiable for blocking for public access of any
+information or part thereof through any computer resource and after recording reasons in writing,
+as an interim measure issue such directions as he may consider necessary to such identified or
+identifiable persons or intermediary in control of such computer resource hosting such information
+or part thereof without giving him an opportunity of hearing.
+(3) The Designated Officer, at the earliest but not later than forty-eight hours of issue of direction
+under sub-rule (2), shall bring the request before the committee referred to in rule 7 for its
+consideration and recommendation.
+(4) On receipt of recommendations of
+committee, Secretary, Department of
+Information Technology, shall pass the final order as regard to approval of such request and in case
+the request for blocking is not approved
+- 42 -
+by the Secretary, Department of Information Technology in his final order, the interim direction
+issued under sub-rule (2) shall be revoked and the person or intermediary in control of such
+information shall be accordingly directed to unblock the information for public access."
+(f) The Central Government in its Memo dated 18 April 2023 has stated about the broad procedure
+that is normally followed in processing blocking requests. Concisely stated, it is as under:
+Designated Officer (Rule 3) receives blocking requests from Nodal Officers (Rule 4).
+The Nodal Officers have to provide for justification/reasons and the grounds enacted
+in section 69A against each URL in respect of which the request for blocking is made
+(Rule 6). The Designated Officer shares with the intermediaries (including twitter)
+the list of URLs having information regarding the content level blocking (for a single
+content posted), and URLs for account level blocking; this is done in the pre-meeting
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 19
+X Corp vs Union Of India on 30 June, 2023
+notices and he ensures that such information/notices are issued 48 hours prior to the
+scheduled meeting (Rule 8). Based on the detailed justifications/reason provided in
+Excel Sheet, the intermediary (including twitter) takes action of blocking/suspension
+of URL-account if it agrees with the complaint. Where it does not agree, the
+deliberation takes place in the Inter Ministerial Committee which examines the
+- 43 -
+evidentiary material, with the participation of all stakeholders including the
+intermediary's representative, Nodal Officers, Law Enforcement Agencies, etc. If the
+Committee is convinced of the allegation on the basis of evidentiary material, it
+recommends for the content or account-level blocking of URLs. Accordingly, minutes
+of proceedings are drawn. The same are submitted along with all records for approval
+of the Competent Authority (Secretary, MeitY).
+These records, if involving security concerns, will not be shared with the users or
+intermediaries. At para 10 of the Memo, a format of the Blocking Order is given as
+under:
+"As per the provisions of 69A of IT Act 2000 and rules there under namely Rule 7 of
+Information Technology (Procedure and Safeguards for blocking for Access of
+Information for Public) rules 2009, some Twitter URLs that have been found
+propagating objectionable contents which attract the provisions of section 69A of the
+IT Act, 2000 for blocking, were shared in our 48 hours advance notice(s) to you prior
+to the meeting of 'Committee for examination of requests for blocking of access of
+information by public' which was held on meeting date. Based on the
+recommendations of the Committee and subsequent approval of the Competent
+Authority, Twitter Inc. is hereby directed to block xx Twitter Accounts/URLs as
+provided in enclosed Annexure, expeditiously under the provisions of section 69A of
+the IT Act."
+The Website Blocking Rules also provide for ensuring compliance with the Blocking Orders that are
+made by
+- 44 -
+courts too. This apart, the provisions of Rule 9 empower issuance of interim orders of blocking in
+specific circumstances. Such orders are followed by the final orders, as has happened in the case at
+hand. In SHREYA SINGHAL, supra the challenge in a social action litigation (u/a 32 of the
+Constitution), to the validity inter alia of section 69A of the Act & the Website Blocking Rules came
+to be repelled by the Apex Court on the ground that Rule 8 provides for sufficient substantive &
+procedural safeguards.
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 20
+X Corp vs Union Of India on 30 June, 2023
+(V) AS TO COMPETENCE OF CENTRAL GOVERNMENT/DESIGNATED OFFICER TO DIRECT
+BLOCKING OF USER ACCOUNTS U/S 69A OF THE ACT:
+(a) Learned Sr. Advocates Mr.Arvind Datar & Mr.Ashok Haranahalli, argued that the
+impugned orders suffer from the lack of jurisdiction inasmuch as section 69A does
+not authorize the government to direct the intermediary to block the entire account.
+According to them, this provision is tweet-specific. There is a marked difference
+between blocking of a user account and blocking
+- 45 -
+of a tweet; in the former, blocking is ex post facto in the sense that the information is already
+available on the portal, whereas in the latter, the blocking constitutes an absolute embargo not only
+against the existing information but also against all future information that is yet to be generated &
+posted; this future information could be innocuous. In support of this submission, they drew
+attention of the court to the language employed in the section. This provision obviously empowers
+the Central Government 'to block for access by the public...any information generated, transmitted,
+received, stored or hosted in any computer resource'. They hasten to add that if Parliament intended
+the expanse of the power to include blocking of entire account, the language of the section would
+have been much different. Learned ASG repelled this submission contending that there are no
+restrictive elements in the language employed in the section; a statute enacted for giving effect to
+International Conventions needs to be construed with the principles of
+- 46 -
+purposive interpretation. Let me examine these rival contentions.
+(b) In dealing with codified & statutory law, courts across the civilized jurisdictions have the
+experience that the words of an enactment more often than not reflect the intentions and aims of its
+framers incompletely or inaccurately. When legislators endeavor to express their thoughts in concise
+yet general terms, situations are almost invariably omitted that otherwise were within the overall
+intention of the measure. It is not desirable to bind the Judges to the words of a statute even when a
+literal interpretation might result in an unfair decision which the legislature itself would not have
+sanctioned, had it been mindful of the same. Purposive interpretation gives attention to the true
+intention of text's author, and not just to his linguistically expressed intention or which is there but
+left unexpressed. If the provisions of section 69A(1) are literally construed, as suggested by the
+petitioner's side, that would fail to effectuate the spirit & larger intent of the Parliament.
+- 47 -
+(c) The Central Legislation in question has been enacted in the light of the 1997 Resolution passed
+by the General Assembly of the United Nations that had suggested adoption/revision of UNCITRAL
+Model Law on Electronic Commerce. In the original statute, there was no provision which
+empowered blocking of websites & tweets. A Ministerial Order dated 7 July 2003 of Government of
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 21
+X Corp vs Union Of India on 30 June, 2023
+India relating to Website Blocking stated: "...as already noted there is no explicit provision in the
+I.T. Act, 2000 for blocking of websites. In fact, blocking is taken to amount to censorship...[after
+listing cases where freedom of speech may not extend]... websites may not claim constitutional right
+of free speech...Blocking of such websites may be equated to 'balanced flow of information' and not
+censorship." Section 69A has been brought on the statute book by way of Amendment w.e.f. 5
+February 2009, because of the felt need of the time. This significant provision has been introduced
+by the Parliament with the accumulated wisdom gained from years of experience of working of the
+statute. "...the life of the law has not been
+- 48 -
+logic: it has been experience"16 said Justice Holmes. This Act employing a terminology of rules is
+apparently interwoven with the science & technology of electronic communication. The fact that this
+field is rapidly evolving, hardly needs substantiation. The Apex Court in Transfer Petition
+Nos.1943-1946/2019 in FACEBOOK INC vs. UNION OF INDIA vide order dated 24 September 2019
+observed about the law relating to information technology:
+"We find that the law in this regard is still at a nascent stage and technology keeps
+changing every day, if not every hour. There are various creases which need to be
+ironed out..." The pace of such rapidity repels the invocation of literal interpretation
+since language has marked elements of statics. There are many technical legal terms
+employed in the statute as its dictionary clause shows; they are not fully
+self-explanatory and therefore, warrant construction.
+(d) That the Language of a statute limits its interpretation. In matters involving
+construction of biotic The Common Law , Oliver Wendell Holmes Jr., DOVER
+PUBLICATIONS, INC., NEWYORK
+- 49 -
+legislations of enormous significance, especially in the dynamic cyber space as the one at hand,
+courts cannot be swayed away by litera legis. They have to keep in mind what the law as textually
+expressed is and what it tends to become to meet the challenges that otherwise were within the
+contemplation of the law maker. It is pertinent to advert to what Judge Aharon Barak17 said about
+the relevance of purposive interpretation:
+'...Sometimes, it is difficult to know the intent of the legislature; sometimes, the
+information about intent is not reliable; sometimes, there is no credible intent that
+can help the interpretative process; sometimes, a statute reflects (intentionally or
+unintentionally) conflicting intentions...' Prof. Frederick F. Schauer18, of the
+University of Virginia School of Law writes:
+"...When the literal interpretation yields an outcome inconsistent with common
+sense, or inconsistent with probable legislative intention, or inconsistent with the
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 22
+X Corp vs Union Of India on 30 June, 2023
+statute's purpose, the Judge may depart from literal meaning in order to produce the
+most reasonable result..."
+PURPOSIVE INTERPRETATION IN LAW, 2ND Edition, Princeton University Press, USA, (2007) at
+p.285 THINKING LIKE A LAWYER, Harvard University Press, (2009), p.166
+- 50 -
+Maxwell on Interpretation of Statutes (12th Edn., page
+228), under the caption 'Modification of the language to meet the intention' in the chapter dealing
+with 'Exceptional Construction' states the position succinctly:
+"Where the language of a statute, in its ordinary meaning and grammatical
+construction, leads to a manifest contradiction of the apparent purpose of the
+enactment, or to some inconvenience or absurdity, hardship or injustice, which can
+hardly have been intended, a construction may be put upon it which modifies the
+meaning of the words, and even the structure of the sentence. This may be done by
+departing from the rules of grammar, by giving an unusual meaning to particular
+words, or by rejecting them altogether, on the ground that the legislature could not
+possibly have intended what its words signify, and that the modifications made are
+mere corrections of careless language and really give the true meaning..."
+What Friedrich Bodmer, a Swiss Philologist writes19 in this regard has gained approval of a Nine
+Judge Bench of our Apex Court in SUPREME COURT ADVOCATES ON RECORD ASSOCIATION &
+ORS., vs. UNION OF INDIA20:
+"Words are not passive agents meaning the same thing and carrying the same value
+at all "The Loom of Language" W W Norton Co Inc; p.720.
+(1993) 4 SCC 441
+- 51 -
+times and in all contexts. They do not come in standard shapes and sizes like coins from the mint,
+nor do they go forth with a degree to all the world that they shall mean only so much, no more and
+no less. Through its own particular personality each word has a penumbra of meaning which no
+draftsman can entirely cut away. It refuses to be used as a mathematical symbol."
+(e) The English Courts have the same view of the matter. Lord Diplock in JONES vs. WROTHAM
+PARK SETTLED ESTATES21 opined as under:
+"I am not reluctant to adopt a purposive construction where to apply the literal
+meaning of the legislative language used would lead to results which would clearly
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 23
+X Corp vs Union Of India on 30 June, 2023
+defeat the purposes of the Act. But in doing so the task on which a court of justice is
+engaged remains one of construction, even where this involves reading into the Act
+words which are not expressly included in it."
+Justice Michael Kirby of Australian High Court (highest Arbitral Tribunal of the country) in NEW
+SOUTH WALES vs. COMMONWEALTH22 took issue with the majority's manner of interpretation
+(literal) arguing that the language of the corporation's power was not to be read in isolation from
+[1978] UKHL J1213-1 (2006) 231 ALR 1 at 127 [470]
+- 52 -
+the preceding paragraphs of a provision of the statutes concerned. He said:
+"...context is critical to the understanding of communication by the use of human
+language. This is nowhere more so than in deriving the meaning of a constitutional
+text, typically expressed (as in the Australian instance) in sparse language designed to
+apply for an indefinite time and to address a vast range of predictable and
+unpredictable circumstances..."
+(f) It is pertinent to mention again that the petitioner-Company is not a native entity; admittedly, it
+happens to be of American origin. Keeping this in mind, let me examine a few cases which
+unmistakably show the U.S. Supreme Court moving in the direction of a purpose oriented policy of
+statutory interpretation i.e., setting legislative intent above the black letter of law.
+(i) CHURCH OF THE HOLY TRINITY vs. UNITED STATES23: Congress in 1885 forbade the
+encouragement of the importation of aliens by means of contract for labor and services entered into
+prior to immigration. A proviso excluded professional artists, lecturers, singers, and domestic
+servants, but made no mention of ministers of 143 U.S.457 (1892)
+- 53 -
+the gospel. A church made a contract with an English clergy man to come over and serve as rector
+and pastor of the church. After he had arrived in this country and assumed his duties, the
+government sought to recover the penalty provided by the Act. The court refused to interpret the
+statute literally.
+(ii) UNITED STATES vs. AMERICAN TRUCKING ASSOCIATION24: The American Trucking
+Associations (ATA) had filed suit to compel the Interstate Commerce Commission (ICC) to regulate
+all employees of trucking industries, rather than only those whose job had affected safety. The Fair
+Labor Standards Act (FLSA) included an exemption to employees regulated by the ICC under the
+Motor Carrier Act of 1935. The ATA sought a ruling compelling the ICC to recognize all trucking
+employees as being within its power to regulate, as such employees would then be exempt from the
+minimum wage and overtime requirements of the FLSA. The District Court of Columbia had granted
+a decree in favour of the plaintiff. In appeal, the same came to be reversed with a direction to
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 24
+X Corp vs Union Of India on 30 June, 2023
+dismiss the suit. The court launched an attack on the plain-meaning rule in its orthodox form,
+observing:
+"When the plain meaning has led to absurd or futile results...this Court has looked
+beyond the words to the purpose of the Act. Frequently, however, even when the
+plain meaning did not 310 US 534 (1940) at p.543-544
+- 54 -
+produce absurd results but merely an unreasonable one "plainly at variance with the
+policy of the legislation as a whole" this Court has followed that purpose, rather than
+the literal words. When aid to construction of the meaning of words, as used in the
+statute, is available, there can certainly be no "rule of law" which forbids its use,
+however clear the words may be on "superficial examination."
+(g) Petitioner's counsel Mr.Manu Kulkarni placing reliance on MUNICIPAL CORPORATION,
+GREATER BOMBAY vs. NAGPAL PRINTING MILLS25 and GIRIDHAR G YADALAM vs. CWT26
+contended that the past tense of the words namely 'generated, transmitted, received, stored or
+hosted' occurring in section 69A(1) excludes power to block all future information and therefore,
+blocking of accounts in their entirety, is impermissible. This is too farfetched an argument, which is
+essentially grounded in the linguistic interpretation of statutes. These words appear to have been
+used in past perfect tense, is true. However, their 'verbal form' remain the same even when
+employed in present perfect tense & future perfect tense. The text & context of the provision lend
+support to this (1988) 2 SCC 466 (2015) 17 SCC 664
+- 55 -
+view. After all, the rules of grammar cannot jettison the rules of law. Let me examine the Rulings
+cited on behalf of the petitioner:
+(i) Nagpal case involved a challenge to the levy of charges on the water supply, in
+terms of sections 169, 276 & 277 of The Bombay Municipal Corporation Act, 1888
+read with Water Charges and Sewerage and Waste Removal Rules, 1976. By the very
+structure of the statutory scheme, levy was permissible on the basis of ascertainable
+'quantity of water supplied'. There was no scope for the levy of charges on the water
+yet to be supplied. In ascertaining this intent of the Law Maker, the Bombay High
+Court stressed on the past tense of the word 'supply' and the Apex Court affirmed the
+same. The municipal subject matter of the Bombay statute being as simple as can be,
+eminently admitted literal interpretation and therefore, ordinary rules of English
+grammar & usage were inarticulately called in aid in construing its provisions.
+(ii) In GIRIDHAR supra, the Apex Court was construing the meaning of the word
+'building' in light of the expression 'which has been constructed' as occurring in the
+Explanation to section 2(ea)(v) of the Wealth Tax Act, 1957. It observed:
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 25
+X Corp vs Union Of India on 30 June, 2023
+"We have already pointed out that on the plain language of the provision in question,
+the
+- 56 -
+benefit of the said clause would be applicable only in respect of the building 'which
+has been constructed'. The expression 'has been constructed' obviously cannot
+include within its sweep a building which is not fully constructed or in the process of
+construction. The opening words of clause (ii) also become important in this behalf,
+where it is stated that 'the land occupied by any building'. The land cannot be treated
+to be occupied by a building where it is still under construction."
+The above decisions have been rendered in the context of statutes providing for levy of charges and
+taxes. The setting in which the above decisions were rendered is totally different. In Mehboob
+Dawood Shaikh v. State of Maharashtra [2004] 2 SCC 362, the Supreme Court in paragraph 12, has
+held as follows:
+"...A decision is available as a precedent only if it decides a question of law. A
+judgment should be understood in the lights of facts of that case and no more should
+be read into it than what it actually says. It is neither desirable nor permissible to
+pick out a word or a sentence from the judgment of this court divorced from the
+context of the question under consideration and treat it to be complete law decided
+by this court. The judgment must be read as a whole and the observations from the
+judgment have to be considered in the light of the questions which were before this
+court..."
+What is being interpreted in the case at hand is not an ordinary law relating to municipal
+administration nor a statute concerning taxation. It is an important provision of a Central
+Legislation; the said legislation is of immense
+- 57 -
+significance since it has been enacted by the Parliament in light of an International Convention. It
+has unique complexities & ramifications; inter alia, it deals with right to free speech & expression
+and its regulation on the grounds of interest of the sovereignty & integrity of the nation, amongst
+other. Therefore, one cannot readily go for the rules of literal interpretation, which would not
+effectuate the full intent of the law maker. The Rulings on statutes of lesser significance which
+obviously admit techniques of literal interpretation do not come to much aid in construing the
+statutes of greater significance & implications. Therefore, the approach to the provisions of such a
+statute as of necessity has to be different from that to a municipal law or to a tax law.
+(h) The term 'any information' employed in section 69A(1) of the Act is in the nature of genus, and
+the words 'generated, transmitted, received, stored or hosted' that follow it, are its species. The
+numerosity & variety of these words reflect the expansive intent of the Law Maker. Past tense verb
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 26
+X Corp vs Union Of India on 30 June, 2023
+forms can also refer to present and future tense. This diversity of species does not admit the
+'restrictive argument' of the petitioner that section 69A(1) does not envisage account blocking and
+the power is
+- 58 -
+tweet-specific. In any circumstance, the tense of a text per se cannot restrict effectuation of the
+complete intent of the statute. That when such power is exercised, the future information that may
+be arguably innocuous will also be blocked, is true. If that is the lurking intent of Law Maker, an
+interpretation that would not give effect to the same, is liable to be discouraged. The legislative logic
+& purpose coupled with the realities of cyber world repel a contention to the contrary. A statute has
+to be construed as a living law of the people. It hardly needs to be stated that law is not a slave of the
+dictionary, nor a captive of grammar. The restrictive interpretation that the ban is tweet specific
+may make the provision otiose. Considering the detailed procedure to be adopted before imposing a
+ban which inter-alia includes clear 48 hour notice, the very purpose of ban may be unfulfilled as the
+subject tweet would have spread like wild fire by then. A tweet specific ban may encourage the
+tweeter to get into 'better luck next time' approach. Instead, a ban that extends to account could
+- 59 -
+serve a deterrent effect and thus subserve the objective of the Statute.
+(i) The intent of section 69A of the Act is not merely penal & curative but also preventive. This
+becomes clear by the provisions of the statute which criminalize certain acts by prescribing the
+severe punishment i.e., upto seven years imprisonment and also fine (limit not specified). When a
+statute proscribes certain acts, one cannot gainfully argue that it has not enacted the preventive
+measures but only remedial ones in the sense that the authority has to wait till such proscribed acts
+are committed and only thereafter, it can punish the offender. A contra argument amounts to saying
+that The Indian Penal Code, 1860, does not prohibit commission of crimes howsoever heinous they
+may be but it only provides for punishing of the offender, post commission. In Colonial Countries,
+codification of criminal law is linguistically paternalistic; at times, intent is left unsaid because of
+paternalistic usage of language. The benign State Policy to minimize occurrence of crime (by
+deterrence or
+- 60 -
+otherwise), underlies all such codes; the punitive & preventive intents are invariably amalgamated.
+What two eminent Professors of Oxford University namely Mr.Andrew Ashworth & Ms.Lucia Zedner
+write27, merits advertence:
+"...preventive and punitive rationales are intertwined. It makes no sense to suggest
+that the criminal law's purpose is simply to declare the most serious wrongs and to
+provide for the conviction and punishment of those who commit them, as if the
+prevention of such wrongs is not also part of the rationale. Surely it is because these
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 27
+X Corp vs Union Of India on 30 June, 2023
+wrongs are so serious that it is important to reduce the frequency of their occurrence:
+the 'backward-looking' justification for making these wrongs punishable must imply
+a 'forward-looking' concern that fewer such wrongs should occur in the future. Thus,
+even the purest retributivists must recognize that a concomitant of the decision to
+declare certain conduct to be a serious wrong and therefore criminal is a commitment
+to reduce the frequency of that conduct..."
+The restrictive literal interpretation sought to be placed by the petitioner's counsel on this
+significant provision of the statute cannot be countenanced without mutilating the true intent of the
+law maker. As of necessity, this provision has to be construed as empowering the Central Chapter 13
+titled, 'Preventive Rationales and the Limits of the Criminal Law' in Philosophical Foundation of
+Criminal Law (RA DUFF AND STUART P GREEN) Oxford University Press
+- 61 -
+Government to direct blocking of any information which may include an individual
+post/tweet/message or foreclosing of user accounts in their entirety, both of which are identified
+through a specific URL (address on the internet). Information may already be in existence or is yet
+to be generated, is true. The text, context & expanse of this provision give abundant scope for the
+argument that there is a lurking norm enacted to avert imminent harm to the societal interest at
+large. State need not await the arrival of an avalanche of mishaps; it can take all preventive
+measures, in anticipation of the danger, more particularly when undoing of the damage is difficult,
+regard being had to its enormity. To put it metaphorically, a surgeon does not wait till gangrene is
+developed. A stitch in time saves nine. The impugned action could be both preventive and curative.
+(j) Petitioner's submission that power to block information is akin to the power of forfeiture under
+Sections 95 & 96 of The Code of Criminal Procedure, 1973, whereas blocking an entire account
+amounts to preventing
+- 62 -
+all future publications, at the first blush, appears to be attractive. A deeper examination would show
+its hollowness. There is a vast difference between the electronic medium and the print medium; in
+the former, the transmission of voluminous information happens with a lightning speed unlike in
+the latter; added, the audio- visual impact of electronic medium is instant in time and enormous in
+coverage. There is a marked difference between print media and electronic media. In SHREYA
+SINGHAL, at paragraph 102, it is observed: "...The learned Additional Solicitor General has
+correctly said that something posted on a site or website travels like lightning and can reach millions
+of persons all over the world..." The respondents have offered a plausible explanation as to why they
+resorted to an extreme measure of blocking accounts in respect of a few users/originators; there
+were repetitive posts and some originators had behavioural antecedents of repetitive posting or
+potential and their highly objectionable tweets had a great propensity to incite anti-national
+feelings. Added, it is not that the
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 28
+X Corp vs Union Of India on 30 June, 2023
+- 63 -
+decision to block the accounts has been recklessly taken. Fairness is exhibited by removing the
+blockage of 10 accounts out of 11, in the Committee meeting held on 30 June 2022 which is
+admitted by the petitioner at paragraph 80 of its Written Submissions filed on 28 April 2022. There
+is no allegation of malafide or the like against the members of Committee or qua the Designated
+Officer. In view of the above discussion, I am of the considered opinion that the power to block
+under section 69A(1) of the Act read with Website Blocking Rules is not tweet- specific but extends
+to user accounts in their entirety. (VI) AS TO SOME ASPECTS OF LAW RELATING TO
+COMMUNICATION OF REASONS ON WHICH STATUTORY ORDERS ARE FOUNDED:
+(a) It was argued on behalf of the petitioner that section 69A(1) empowers the Central
+Government to issue Blocking Order subject to complying with certain procedure &
+safeguards and one of them is 'for reasons to be recorded in writing, by order'. The
+Apex Court in SHREYA SINGHAL at paragraph 114 states: "...reasons have to be
+recorded in writing in such blocking order so that they may be assailed in a writ
+petition under Article
+- 64 -
+226 of the Constitution...". Manu Kulkarni, learned counsel appearing for the petitioner submitted
+that a challenge to statutory order has to be adjudged on the basis of reasons assigned in its body
+and that reasons cannot be outsourced from the file or otherwise vide MOHINDER SINGH GILL vs.
+CHIEF ELECTION COMMISSIONER28. He hastened to add that unless the reasons for the
+decisions are at leasts otherwise made available, challenge becomes difficult; in any event, at least
+on solicitation dated 29 June 2022, the authorities ought to have disclosed the reasons; this having
+not happened, the impugned orders are liable to be voided. In support of this submission, he banks
+upon certain Rulings. Learned ASG appearing for the respondents per contra contended that the
+ratio in MOHINDER SINGH is not of universal application; it all depends upon the text & context of
+the provisions of statute concerned and its subject matter; reasons to be recorded in writing does
+not mean that they should invariably be part of the order or that they should be AIR 1978 SC 851
+- 65 -
+invariably communicated to the concerned, whatever be the circumstance. He also stated that sans
+formal conveyance, if reasons are otherwise made known, there can be no grievance; the
+representatives of petitioner who participated in the Committee meeting held on 30 June 2022,
+were apprised of the reasons; the authorities being as fair as can be, agreed to revoke ten of the
+eleven accounts that were directed to be blocked, after hearing the said representatives.
+(b) Every decision of the authority should be reasoned is the requirement of the principles of natural
+justice. Reasons are the living links between the material available on record and the conclusions
+drawn on that basis. When reasons are given for a decision, application of mind by the decision
+maker, is demonstrated. They disclose how the mind is applied to the subject matter in the decision
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 29
+X Corp vs Union Of India on 30 June, 2023
+making process. Only in this way, can opinions or decisions recorded be shown to be just &
+reasonable. It is on the basis of reasons, an aggrieved person decides whether to launch the legal
+battle against
+- 66 -
+the decision; reasons also become handy for the Court/Tribunal to adjudge the issue of validity of
+decisions. In MOHINDER SINGH supra, it is insisted that, reasons be part of the statutory order
+and that, reasons cannot be outsourced by way of pleadings & affidavits; of course there are some
+exceptions to this general rule.
+(c) Good governance warrants giving of reasons for decisions when such decisions have civil
+implications. Ordinarily, when the statute employs the expression 'for reasons to be recorded in
+writing', such reasons should be part of the order, is true; when reasons are recorded separately,
+there being some justification therefor, the same should be furnished to the person concerned. This
+broad view gains support from the observations in C.B.GAUTAM vs. UNION OF INDIA29. It is
+pertinent to note that it was a case that arose under the provisions of Income Tax Act, 1961, wherein
+there was no issue relating to grounds of the kind specified in section 69A(1) of the Act such as
+interest of sovereignty & integrity of India, (1993) 1 SCC 78, para 32
+- 67 -
+Defence of India, security of the State, etc. In HAJI MD. VAKIL vs. COMMISSIONER OF
+POLICE30, the issue related to cancellation of a citizen's gun licence u/s 18 of the erstwhile Indian
+Arms Act, 1878. This section had also employed the expression 'for reasons to be recorded in
+writing'. At paragraph 12, the Calcutta High Court observed as under:
+"I would not go to the extent of saying that the reasons must necessarily be
+communicated, but I think that the licence-holder whose licence has been cancelled
+or suspended has a right to know the reasons and if the order is challenged the Court
+has a right to look into it. Otherwise, I do not see the point in making it essential that
+reasons should be recorded in writing. If it is to be so recorded and kept back from
+the whole world, there is no point in recording it at all. The object in recording the
+reasons is obviously to give the licence-holder an opportunity of knowing why such
+an extreme step had been taken. It is not necessary to give reasons with the minutest
+details if such a course is not in the public interest. But the licence-holder is entitled
+to know broadly why his licence has been cancelled. If the reasons are entirely
+withheld, the licence-holder would never be able to establish a case of mala fides..."
+AIR 1954 Cal 157
+- 68 -
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 30
+X Corp vs Union Of India on 30 June, 2023
+(d) In RATILAL BHOGILAL SHAH vs. STATE OF GUJARAT31, paragraph 11 of the Gujarat High
+Court judgment runs as under:
+"...Even though as provided in Rule 41-B a copy of the reasons may not be furnished
+unless the person affected requests for the same and the authority considers the
+disclosure of such reasons not to be prejudicial to public Interest, the said rule in
+terms requires that the reasons must be recorded in writing and even if the authority
+considers disclosure of such reasons prejudicial to public interest, those recorded
+reasons have got to be communicated to the appellate authority on demand if the
+person affected had preferred an appeal against the order. These reasons would,
+therefore, be always placed for scrutiny before the appellate authority... If this
+necessary safeguard is ignored, the very object for which this provision is inserted
+would be wholly defeated..."
+This again was a case arising under a fiscal legislation and the aggrieved was an Indian citizen.
+Obviously, the statute and the Rules promulgated thereunder did not mention anything of the kind
+unlike section 69A(1) of the Act which specifies certain significant grounds for the making of the
+Blocking Orders, as indicated above. In MANEKA GANDHI AIR 1966 Guj 244
+- 69 -
+vs. UNION OF INDIA32, the requirement of furnishing the reasons for impounding of a passport of
+a 'citizen of India' was discussed as under:
+"The power to refuse to disclose the reasons for impounding a passport is of an
+exceptional nature and it ought to be exercised fairly, sparingly and only when fully
+justified by the exigencies of an uncommon situation. The reasons, if disclosed being
+open to judicial scrutiny for ascertaining their nexus with the order impounding the
+passport, the refusal to disclose the reasons would equally be open to the scrutiny of
+the court; or else, the wholesome power of a dispassionate judicial examination of
+executive orders could with impunity be set at naught by an obdurate determination
+to suppress the reasons. Law cannot permit the exercise of a power to keep the
+reasons undisclosed if the sole reason for doing so is to keep the reasons away from
+judicial scrutiny..."
+(e) On the basis of a brief survey of the law relating to 'communication of reasons', it can be broadly
+summarized, subject to all just exceptions: Furnishing of reasons for the decision is a mandate of
+principles of natural justice. It is open to legislature to trim, tone down or expand these principles.
+Broadly, there are two categories of statutes namely, those which merely employ AIR 1978 SC 597
+- 70 -
+the expression 'for reasons to be recorded in writing' and those which specifically employ a different
+expression such as 'for reasons to be recorded and communicated'. There have been more than 700
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 31
+X Corp vs Union Of India on 30 June, 2023
+central legislations that belong to the former category, whereas only a frugal three fall into the latter.
+These three are, The Indian Statistical Institute Act, 1959 (section 11), The Asiatic Society Act, 1984
+(section 12) and The Kalakshetra Foundation Act, 1993 (section 27). Where the statute mandates
+recording of reasons and their communication as well, the authorities have no discretion to disobey
+the same. Where the statute requires only recording of reasons in writing, whether reasons have to
+be communicated to the concerned, depends upon a host of factors such as the text & context of the
+provision of statute, the principle & policy content of the statute, the subject matter of statute, the
+stature of the decision making authority, the status of persons who seek reasons i.e., whether they
+are citizens, aliens or alien enemies, etc., & the like.
+- 71 -
+(f) It is relevant to see what a Five Judge Bench of the Apex Court in UNION OF INDIA vs.
+TULSIRAM PATEL33, observed:
+"It was vehemently contended that if reasons are not recorded in the final order, they
+must be communicated to the concerned government servant to enable him to
+challenge the validity of that reasons in a departmental appeal or before a court of
+law and the failure to communicate the reasons would invalidate the order. This
+contention too cannot be accepted. The constitutional requirement in clause (b) is
+that the reason for dispensing with the inquiry should be recorded in writing. There
+is no obligation to communicate the reason to the government servant..."
+Of course, this again was in the context of a departmental enquiry held against a civil servant and
+thus, obviously matter was not significant, unlike the case at hand. When the statute employs the
+expression 'for the reasons to be recorded in writing', ordinarily, the reasons should be part of the
+order so that when a copy of the order is served on the person, there is communication of reasons
+too. However, where the order does not contain the reasons in its womb but are separately recorded
+in a file, such (1985) 3 SCC 398
+- 72 -
+reasons need to be communicated to the aggrieved at least on demand. Where the statute empowers
+withholding of recorded reasons, even then the authority has to assign the reason for not sharing the
+reasons on which the order is founded. Almost invariably, it is open to the Court or the Appellate
+Authority to call for the records and look into the reasons even when the statute provides for
+withholding of the same. The extreme cases where file may be withheld 'for reasons of the State'
+even from the eyes of court, are marked by their rarity.
+(VII) AS TO NON-COMMUNICAITON OF REASONS ON WHICH BLOCKING ORDERS ARE
+FOUNDED AND ABSENCE OF NEXUS BETWEEN THE REASONS AND THE OBJECTIONABLE
+TWEETS:
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 32
+X Corp vs Union Of India on 30 June, 2023
+(a) In the light of discussion on the law relating to communication of reasons, let me
+now examine the contention of petitioner that the impugned orders are bad since the
+reasons on which they are founded, have not been communicated despite request.
+This is stoutly denied by the learned ASG who took me through the contents of sealed
+cover furnished to the court on 31 August 2022.
+- 73 -
+The cover was opened with the consent of all stakeholders. These papers run into 455 pages, in toto.
+They comprise of interim order dated 31 January 2021, final order dated 2 February 2021 at
+Annexure-R5 (pages 115, 116, 125 & 126), notice dated 27 June 2022 directing compliance at
+Annexure-R6 (pages 135 & 136), list dated 1 July 2022 containing particulars of URLs recommended
+for unblocking at Annexure-R7 (page 137), compliance of platform for the period between January
+2021-June 2022 at Annexure-R8 (page 138), a consolidated copy of notice particulars and copies of
+Show Cause Notices issued to the petitioner and two Hearing Notices at Annexure-R9 (pages
+139-275), a consolidated copy of meetings held between 1 January 2021 and July 2022 at
+Annexure-R10 (pages 276-277), consolidated copy containing details of 39 URLs/accounts and the
+corresponding justification conveyed to petitioner at Annexure-R11 (pages 278-289), objectionable
+content at Annexure-R12 (pages 290-455).
+(b) The Blocking Orders are found at Exhibit R5 at Pages 115 & 125 of the sealed cover documents.
+The
+- 74 -
+interim order dated 31 January 2021 comprises of 256 twitter URLs and 1 hashtag. Its
+Un-numbered paragraphs 3 & 5 read:
+"...the evidence as shared by the LEA indicate that said Twitter URLs and Hashtag
+are spreading fake news and misinformation about ongoing farmer protest and is
+promoting farmers protest against the proposed farm bill. The contents have the
+potential to imminent violence affecting Public Order in the prevailing situation in
+the country...The information posted on the social media platforms will have
+provocative contents. The contents being shared by the social media entity has the
+potential to disturb the public order in the country and also has threat to security of
+the State."
+The final order dated 2 February 2021 apart from reiterating what was said in the above order adds:
+"Committee also agreed that the use of terminology "Genocide" was wilfully
+misleading, mischievous and was likely to lead the agitating farmers to wrong
+conclusions about the government's intentions. Accordingly Committee
+recommended to continue blocking the above said URLs and hashtag."
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 33
+X Corp vs Union Of India on 30 June, 2023
+The extract from Exhibit R11 at page 278 mentions about the details of the objectionable
+information/material shared with the twitter as a part of meeting notice.
+- 75 -
+Learned ASG is right in contending that these details provided in a tabulation are clear indicators of
+application of mind by the Committee and the respondents. Apart from the translation of tweets and
+the grounds under section 69A, Exhibit R12 contains the details of evidentiary material with the
+extract of the objectionable tweets and details of URLs, that were shared with the petitioner. It is not
+the case of petitioner that these details were not furnished. Pages 290-297 relate to only one account
+and similarly, pages 303-309 relate to one account holder. Evidence available on record indicated
+that these accounts users were the repeat offenders and they had propensity to repost the
+objectionable content. The discussion in this subparagraph is in respect of sample material although
+every page of the sealed cover documents has been read & analysed. Consistent with the policy of the
+statute and the Rules promulgated thereunder, the full particulars of objectionable content have not
+been reproduced.
+(c) This court is convinced of the contention of learned ASG that the Blocking Orders are reasoned
+- 76 -
+decisions and they are founded on stronger footings of law, facts & evidentiary material. The
+objectionable content comprises of tweets, pictures & audios/videos (screenshots). Many of them
+have outrageous content; many are treacherous & anti-national; many have abundant propensity to
+incite commission of cognizable offences relating to sovereignty & integrity of India, security of the
+State and public order. No reasonable person in the trade would agree with the contention of
+petitioner that, reasons for the impugned orders are lacking. Sufficiency of evidence or reasons
+again belongs to the domain of the authority. The reasons have a thick nexus with the statutory
+grounds. It is not that one single official functionary of the government in the fit of anger or anxiety
+has made these orders. The statutory committee comprises of high functionaries of the government
+and there is no allegation of malafide or the like leveled against them. True it is legalistically
+speaking, in the language of Rules 8 & 9, it is one single officer of the high rank, who considers
+recommendations of the Committee
+- 77 -
+and passes orders either agreeing or disagreeing with such recommendations. When the Designated
+Officer agrees with the recommendation, his decision partakes the character of an institutional
+decision. When he does not agree, it can be his individual decision, and that is not the case here. The
+impugned orders are a product of institutional deliberation in which the representatives of
+petitioner with prior notice had participated,. The decision whether certain information is
+objectionable in the teeth of provisions of the Act and the Website Blocking Rules, does essentially
+belong to the domain of Executive. In matters like this, Writ Court cannot run a race of opinions
+with the statutory functionaries.
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 34
+X Corp vs Union Of India on 30 June, 2023
+(d) The vehement submission of Sr. Advocates appearing for the petitioner that even if the entire
+sealed cover material is perused, no reasonable person can opine that the petitioner had sufficient
+opportunity of representation, is liable to be rejected. Petitioner is not a poor farmer, a menial
+labourer, a villager or a novice, who could have pleaded of his inability to understand the
+- 78 -
+objectionability of the tweets and evidentiary material vouching such objection. It is a multinational
+IT company whose annual revenue generation is about 5 Billion USD, as submitted by learned ASG.
+It has technical teams having expertise in the matter relating to law & procedure of Website
+Blocking not only in India but in other parts of the globe too. Its representatives who admittedly
+participated in several meetings of the Committee, never indicated to the authorities the grievances
+that are being now aired. Learned counsel for the petitioner in all fairness admitted during the
+course of hearing, that the respondents being convinced of the submission of these representatives,
+agreed to unblock 10 of the 11 user accounts; this they did vide order dated 1 July 2022 at
+Annexure-P. After all, giving reasons is an aspect of fairness. If processual fairness in the
+governmental action is otherwise exhibited, the procedural infirmity of not communicating the
+reasons in a formal way, would not assume significance. That being the position, the contention of
+absence of communication of reasons, falls
+- 79 -
+to the ground. For the same reason, the contention as to non-application of mind and frugality of
+opportunity of hearing would also fail.
+In view of the above, I am of the considered opinion that the impugned orders are speaking orders
+and there is a thick nexus between the orders and reasons assigned, and further that these reasons
+were disclosed to and discussed with the petitioner in the Committee meetings. (VIII) AS TO
+PETITIONER'S INVOCATION OF RATIO IN SHREYA SINGHAL AND "FAILURE TO PROVIDE
+USER NOTICE":
+(a) Learned Sr. Advocates Mr.Arvind Datar & Mr.Ashok Haranahalli appearing for
+the petitioner, vehemently submitted that where law prescribes a certain procedure
+for accomplishing certain things, what all is prescribed has to be meticulously
+observed as a sine qua non. In support of that they pressed into service HUKUM
+CHAND SHYAM LAL vs. UNION OF INDIA34. According to them, no Blocking
+Order can be made without notice to the user whose account is sought to be blocked
+inasmuch as the Apex Court in SHREYA SINGHAL, supra, has prescribed hearing of
+the 'originator' as defined u/s 2(za) (1976) 2 SCC 128, para 18
+- 80 -
+of the Act. Per contra, learned ASG contended that the provisions of section 69A of the Act have to
+be read with the working provisions of Website Blocking Rules namely Rules 8 & 9. The question of
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 35
+X Corp vs Union Of India on 30 June, 2023
+issuing notice to user of account would arise only where he is identifiable, all his particulars
+exclusively lying with the intermediary; at no point of time, such particulars were furnished nor
+issuance of notice was sought for; even otherwise, in the guise of faltering the procedure adopted,
+petitioner cannot espouse the cause of account users who have not aired any grievance. In support
+of his contention, he too banked upon certain observations in SHREYA SINGHAL.
+(b) Section 69A of the Act provides that Blocking Orders can be made in the interest of sovereignty
+& integrity of India, Defence of India, security of State, friendly relations with foreign countries or
+public order. It can also be made for preventing incitement to commission of any cognizable offence
+relating to these specified grounds. Rule 8(1) of the Website Blocking Rules which is reproduced
+above prescribes issuance of notice to the user
+- 81 -
+of account where he is identified or to the intermediary. Learned ASG is right in emphasizing that
+the text of this Rule employs the word 'or' occurring between 'such person' and 'intermediary' and
+therefore, rule maker's intent is disjunctive and not conjunctive. The Apex Court at paragraph 113 of
+SHREYA SINGHAL noted "...According to the learned counsel, there is no pre-decisional hearing
+afforded by the Rules particulars to the "originator" of information...". At paragraph 114, it observed:
+"It is also clear from an examination of Rule 8 that it is not merely the intermediary who may be
+heard. If the "person" i.e. the originator is identified he is also to be heard before a blocking order is
+passed..." Mr.Manu Kulkarni's submission that the observations in SHREYA SINGHAL at
+paragraphs 115 & 121 lend credence to the view that 'or' should be read as 'and' appears to be too
+farfetched an argument. It is not that the court was employing the doctrine of reading down or
+reading up of Rule 8, to sustain its validity. The subject observation cannot be construed as
+metamorphosing the disjunctive i.e., 'or' into a
+- 82 -
+conjunctive i.e., 'and'. In SHREYA SINGHAL, the Apex Court was enlisting the reasons from the text
+& context of section 69A and Rules 8 & 9 of the Website Blocking Rules. It hardly needs to be stated
+that the observations in a judgment cannot be construed as the provisions of a statute. What is said
+in UNION OF INDIA vs. MAJOR BAHADUR SINGH35, runs as follows:
+"Courts should not place reliance on decisions without discussing as to how the
+factual situation fits in with the fact situation of the decision on which reliance is
+placed. Observations of Courts are neither to be read as Euclid's theorems nor as
+provisions of the statute and that too taken out of their context. These observations
+must be read in the context in which they appear to have been stated. Judgments of
+Courts are not to be construed as statutes. To interpret words, phrases and provisions
+of a statute, it may become necessary for judges to embark into lengthy discussions
+but the discussion is meant to explain and not to define. Judges interpret statutes,
+they do not interpret judgments."
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 36
+X Corp vs Union Of India on 30 June, 2023
+(c) The submission of petitioner's counsel that Rule 8(1) of the Website Blocking Rules imposes a
+duty on the Designated Officer to make all reasonable efforts to (2006) 1 SCC 368
+- 83 -
+identify the user of account, is only a half truth inasmuch as even there, the expression employed is
+'to identify the person or intermediary'. The disjunctive 'or' is used, giving an option to the authority
+to identify either the user of account or the intermediary. The word 'both' is conspicuously absent in
+the Rule. It is not as though the petitioner had furnished particulars of users of the accounts and
+even then the respondents chose not to notify them. Sections 69A(2) & 87 of the Act, amongst other,
+confer Rule making power on the Central Government; sub-section (3) of section 87 prescribes
+laying procedure. After being laid, the Parliament has not altered their text, particularly of Rules 8 &
+9, to accord with petitioner's argument. If Parliament intended that both the intermediary and the
+user of the account should be entailed with notice, it would have simply substituted the word 'and'
+for 'or', such a power apparently availing from the very text of section 87(3). Mr.Manu Kulkarni's
+reliance on J.JAYALALITHA vs. UNION OF INDIA36 does not (1995) 5 SCC 138
+- 84 -
+come to his aid. It was a case relating to appointment of Special Judges for the trial of cases or class
+of cases; the government had the power to make appointment; it was in that context that the
+following observations were made:
+"...The word `or', which is a conjunction, is normally used for the purpose of joining
+alternatives and also to join rephrasing of the same thing but at times to mean `and'
+also. Alternatives need not always be mutually exclusive. Moreover, the word "or'
+does not stand in isolation and, therefore, it will not be proper to ascribe to it the
+meaning which is not consistent with the context of Section 3. It is a matter of
+common knowledge that the word `or' is at times used to join terms when either one
+or the other or both are indicated. Section 3 is an empowering section and depending
+upon the necessity the Government has to appoint Special Judges for an area or areas
+or case or group of cases. Even in the same area where a Special Judge has already
+been appointed, a necessity may arise for appointing one more Special Judge for
+dealing with a particular case or group of cases because of some special features of
+that case or cases or for some other special reasons. We see no good reason to restrict
+the power of the Government in this behalf by giving a restricted meaning to the
+Word `or'. In our opinion, the word `or' as used in Section 3 would mean that the
+Government has the power to do either or both the things....."
+(emphasis supplied)
+- 85 -
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 37
+X Corp vs Union Of India on 30 June, 2023
+(d) The emphasised portion in the above observations gives discretion to the government to do
+either or both, as rightly contended by learned ASG. At paragraph 64 of the Statement of Objections
+of the Respondents. It is plausibly explained as to why no notice was issued to the users of accounts:
+the objectionable contents posted by them were anti-India & seditious. They had religious contents
+that were designed to incite violence and affect communal harmony in the country. A section of
+originators of the information comprised of terrorists, sedition seekers or their sympathisers,
+foreign adversaries who intend to discredit & destabilize India and jeopardize national security on
+communal lines. 'In a way such users are anti-India campaigners. It is not desirable to issue notice
+to such users about the proposed action. Informing the user by notice will only cause more harm.
+The user will get alert of the same and get more aggressive, change his identity and will try to do
+more harm by either getting himself anonymous and spread more severe content through multiple
+accounts from the
+- 86 -
+same platform or from other online platforms.' This considered view of the respondents supported
+by the observations of the English Court in CARTIER INTERNATIONAL AG AND ORS. vs.
+BRITISH SKY BROADCASTING LIMITED & ORS.,37, whilst considering defendants' argument of
+availability of alternative measures to try & combat the infringements of trade marks. One such
+measure was 'notice & takedown'. At paragraph 198, it is observed:
+"...the registrants may not be the actual operators of the Target Websites. Experience
+in the copyright context shows that it is frequently difficult to identify the real
+operators of offending websites and that attempts to bring proceedings against the
+oeprattors are rarely effective..."
+(e) Assuming, petitioner is right in saying that Rule 8 of the Website Blocking Rules prescribes a
+duty to issue notice to the user of account, that requirement is because of the constitutional
+guarantee enacted in Article 19(1)(a) and that any regulation of the right to free speech & expression
+has to be both substantively & procedurally (2015) All ER 949
+- 87 -
+reasonable. Since Blocking Orders do have implications on the exercise of that right to whom it
+avails, the government may in its discretion hear the users of account. However, none of them has
+come forward to complain the infringement of their right. It is not that they are all downtrodden
+members of society or otherwise suffer from some handicap and therefore, they are disabled from
+working out the remedies on their own. Apparently, they are literate; presumably have more
+exposure to the outer world, as the very objectionable content of their posts would indicate. It is not
+that petitioner is espousing their cause, such espousal obviously not being legally sanctioned. It is
+also not that they have authorized the petitioner to launch this legal battle on their behalf.
+(f) Petitioner being an intermediary, cannot invoke Rule 8(1) as a launchpad of its tirade, when
+apparently the said Rule is promulgated to protect the interests of only users of account and not
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 38
+X Corp vs Union Of India on 30 June, 2023
+others. Such a view finds
+- 88 -
+sustenance from GORRIS vs. SCOTT38. Facts very briefly stated are: Plaintiff's sheep were washed
+overboard while being transported by sea. He sued the defendant for damages. He unsuccessfully
+attempted to establish carrier's negligence by showing that it had violated a regulation that required
+animals on shipboard being kept in pens of a certain size. Had the defendant complied with the
+statutory requirement, the plaintiff argued, the sheep would not have been washed overboard. The
+court refused to find negligence on the basis of this violation holding that the Rule was not meant to
+protect animals from being washed overboard, but rather to prevent spread of disease. This decision
+has been approvingly cited by the U.S. Supreme Court in LEXMARK INT'L vs. STATIC CONTROL
+COMPONENTS, INC39. Scalia J., observed:
+"...the common-law rule that a plaintiff may not recover under the law of negligence
+for injuries caused by violation of a statute unless the statute "is interpreted as
+designed to protect the class of persons in which the plaintiff is included, against the
+risk of the type
+9 L.R.Ex. 125 (1874) 572 U.S. 118 (2014), 134 S.Ct. 1377(2014) at 1389, fn
+- 89 -
+of harm which has in fact occurred as a result of its violation."
+In view of the above discussion, I am of the considered opinion that notice to users of account in
+terms of Rule 8(1) of the Website Blocking Rules is not mandatory and that in any event, the
+absence of such notice does not avail to the intermediary as a ground for assailing the Blocking
+Orders.
+(IX) AS TO DOCTRINE OF PROPORTIONALITY & ITS INVOCABILITY FOR THE INVALIDATION
+OF IMPUGNED ORDERS:
+(a) Learned Sr. Advocates appearing for the petitioner vehemently submitted that the
+impugned orders at least to the extent of blocking the accounts in their entirety, fall
+foul of the doctrine of proportionality and therefore, are liable to be invalidated. They
+submitted that there is difference between the power to block individual tweets and
+the power to block an account in a wholesale way. They hasten to add that while
+taking the decision to block the information or accounts, the authorities have not
+kept in view the principle 'thus far and no further'. They pressed into service the
+decision of Apex Court in AKSHAY
+- 90 -
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 39
+X Corp vs Union Of India on 30 June, 2023
+N PATEL vs. RBI40. Learned ASG appearing for the respondents repels these submissions
+contending that the doctrine of proportionality itself is of varying import and of restrictive
+invocation. He also highlights the circumstances that resulted into blocking of 11 accounts and 9 of
+them being revoked after considering the version of petitioner's representatives in the Committee
+meetings.
+(b) The proportionality as a doctrine essentially in modern constitutional law is of varying import,
+and it serves various functions. The Apex Court in K.S.PUTTASWAMY vs. UNION OF INDIA41,
+observed as under:
+"The fundamental precepts of proportionality, as they emerge from decided cases can be formulated
+thus:
+1. A law interfering with fundamental rights must be in pursuance of a legitimate
+state aim;
+2. The justification for rights-infringing measures that interfere with or limit the
+exercise of fundamental rights and liberties must be based on the existence of a
+rational connection between those measures, the situation in fact and the object
+sought to be achieved; 3. The (2022) 3 SCC 694 (2017) 10 SCC 1
+- 91 -
+measures must be necessary to achieve the object and must not infringe rights to an extent greater
+than is necessary to fulfil the aim; 4. Restrictions must not only serve a legitimate purposes; they
+must also be necessary to protect them.5..."
+In ANURADHA BHASIN vs. UNION OF INDIA42, the above postulates having reproduced, it is
+observed:
+"In view of the aforesaid discussion, we may summarize the requirements of the
+doctrine of proportionality which must be followed by the authorities before passing
+any order intending on restricting fundamental rights of individuals. In the first stage
+itself, the possible goal of such a measure intended at imposing restrictions must be
+determined. It ought to be noted that such goal must be legitimate. However, before
+settling on the aforesaid measure, the authorities must assess the existence of any
+alternative mechanism in furtherance of the aforesaid goal. The appropriateness of
+such a measure depends on its implication upon the fundamental rights and the
+necessity of such measure. It is undeniable from the aforesaid holding that only the
+least restrictive measure can be resorted to by the State, taking into consideration the
+facts and circumstances. Lastly, since the order has serious implications on the
+fundamental rights of the affected parties, the same should be supported by sufficient
+material and should be amenable to judicial review..."
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 40
+X Corp vs Union Of India on 30 June, 2023
+(2020) 3 SCC 637
+- 92 -
+It is unmistakable that the doctrine was employed while adjudging the reasonableness of restrictive
+action in the light of constitutional guarantee of speech & expression and liberty & privacy of
+persons and not the juristic entity of a foreign country like the petitioner herein, who cannot claim
+such a protection. The said doctrine may be invoked to adjudge the pleaded 'statutory excess', also.
+The phrases 'thus far and no further' and 'least intrusive measure' are used in cases that involve
+complaint of violation of Fundamental Rights guaranteed under Article 19(1). As already observed,
+this guarantee cannot be claimed by the petitioner which is a juristic person and a foreign entity.
+(c) Learned ASG is right in pointing out that even from the view of 'proportionality principle', the
+impugned orders cannot be faltered, the same having come into being after adhering to due process
+of law, both substantive & procedural. Complaint against tweets & accounts were made by a high
+functionary of the Union Government; the same having been examined by a
+- 93 -
+statutory committee comprising again of high functionaries, recommended the action, and
+accordingly, the Designated Officer who is not below the rank of a Joint Secretary in the Central
+Government, took the action in challenge. Representatives of the petitioner have participated in the
+Committee deliberation. On their submission, 10 of the 11 accounts have been cleared from
+blocking. Petitioner's contention that the respondents ought to have segregated objectionable
+content at the tweet level and thereafter, resorted to tweet level blocking, is liable to be rejected
+since such an exercise is impracticable inasmuch as the mischievous originators of the information
+would designedly mix provocative tweets/illegal contents with the so called innocuous ones. That
+apart, segregation would not achieve the intended goal especially after the subject tweets are shared
+thousands of times before any action can be taken against them. The URLs in question have been
+identified & curated based on the use of specific hashtag in question and also on tweets that related
+to such hashtags. An exercise to
+- 94 -
+differentiate amongst the individual tweets in an account and segregate the offending ones from the
+innocuous, is impracticable and would not serve the statutory purpose. This apart, the scope of
+Blocking Orders is limited to Indian jurisdiction. Therefore, petitioner's argument that the blocking
+orders ought to have been confined to individual tweets and not extended to entire handle, and
+therefore, the impugned orders suffer from the vice of disproportionality, cannot be agreed to.
+(d) Learned ASG stoutly asserted that petitioner has permanently suspended @realDonaldTrump,
+the twitter account of a former U.S. President and thereby, has completely deplatformed the account
+holder citing public interest framework. A specific plea as to this has been taken at paragraph 36 of
+the respondents convenience compilation dated 10 April 2023. This assertion is not denied from the
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 41
+X Corp vs Union Of India on 30 June, 2023
+side of petitioner either in writing or otherwise. The official blog of the petitioner dated 8 January
+2021 reads as under:
+- 95 -
+"After close review of recent Tweets from the @realDonaldTrump account and the
+context around them -- specifically how they are being received and interpreted on
+and off Twitter -- we have permanently suspended the account due to the risk of
+further incitement of violence.
+In the context of horrific events this week, we made it clear on Wednesday that
+additional violations of the Twitter Rules would potentially result in this very course
+of action. Our public interest framework exists to enable the public to hear from
+elected officials and world leaders directly. It is built on a principle that the people
+have a right to hold power to account in the open.
+However, we made it clear going back years that these accounts are not above our
+rules entirely and cannot use Twitter to incite violence, among other things. We will
+continue to be transparent around our policies and their enforcement."43 The above
+action of the petitioner and the reasons on which it is founded supports the case of
+respondents that a direction or blocking of accounts as an extreme measure can be
+given and there is nothing unusual in that.
+Petitioner has taken such a decision on its own and in terms of Twitter User
+Agreement, does not diminish its citation value.
+https://blog.twitter.com/en_us/topics/company/2020/suspension
+- 96 -
+(e) Learned ASG is justified in placing reliance on CARTIER INTERNATIONAL
+supra in support of his contention that an extreme measure of blocking the accounts
+can also be resorted to effectuate the object of the statute. The England and Wales
+High Court in treating a case involving Trade Mark violation had discussed the
+doctrine of proportionality qua blocking of user accounts, keeping in view the
+availability of alternate measures to try & combat the infringement of Trade Marks by
+the defendant in the teeth of provisions of the Copyright, Designs and Patents Act,
+1988. Court ruled that the website blocking has its own advantages over 'notice and
+takedown'. In assessing the question of proportionality & efficacy, the court at
+paragraphs 232, 236 & 261 observed:
+"232... without blocking there would be an increase in the overall level of
+infringement...
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 42
+X Corp vs Union Of India on 30 June, 2023
+236...blocking of targeted websites have proved reasonably effective in reducing use
+of those websites in the UK... 261...Having given careful consideration, the conclusion
+I have reached, after some hesitation, is that it is justified. Accordingly, I consider
+that the orders are proportionate and strike a fair balance between
+- 97 -
+the respective rights holders that are engaged, including the rights of the individuals
+that may be affected by the orders, but who are not before this Court..."
+It is pertinent to note that it was not a case of infringement of any Fundamental Right but involved
+violation of a simple trade mark right. Therefore, what is observed therein bolsters the stand of the
+respondents. Added, a Writ Court cannot sit in appeal over the subjective satisfaction of high
+functionaries of the Central Government in issues pertaining to sovereignty & integrity of the nation,
+security of the State and law & order, that essentially fall within the domain of the Executive.
+Judicial wing of the State has to show due deference to the decisions of other wings, especially when
+such decisions have been taken in the normative process and with the participation of stakeholders.
+(f) It is the vehement submission of Mr.Manu Kulkarni that in the prominent foreign jurisdictions
+referred to above, Blocking Orders can be issued for a specific period and after the expiry thereof,
+such orders
+- 98 -
+dissolve on their own and therefore, the impugned orders which continue in operation indefinitely
+offend the rule of reason & justice. He also argued that, this court should issue guidelines to ensure
+that such Blocking Orders are made limited in duration and susceptible to review at the hands of
+authorities. As already observed above, the power to issue Blocking Orders under section 69A(1) of
+the Act read with Rules 8 & 9 of the Website Blocking Rules is marked by its enormity. Section 21 of
+the 1897 Act reads as under:
+"21. Power to issue, to include power to add to, amend, vary or rescind notifications,
+orders, rules or bye-laws.--Where, by any Central Act or Regulations a power to issue
+notifications, orders, rules or bye-laws is conferred, then that power includes a
+power, exercisable in the like manner and subject to the like sanction and conditions
+if any, to add to, amend, vary or rescind any notifications, orders, rules or bye-laws so
+issued."
+The text of the above provision being as clear as Gangetic waters, admits no interpretation. It is
+open to the Central Government/Designated Officer to make the Blocking Orders period specific
+too.
+- 99 -
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 43
+X Corp vs Union Of India on 30 June, 2023
+(g) Rule 8(6) of Website Blocking Rules also supports this view. Petitioner's argument that this court
+should lay down broad guidelines to regulate the exercise of such discretion, cannot be
+countenanced for more than one reason: Firstly, there are enough checks & balances that regulate
+the exercise of that power in the light of SHREYA SINGHAL. Secondly, the periodicity of such
+orders is a matter left to the discretion of the Executive in the exercise of which a host of factors
+would enter the fray and most of them are judicially unassessable. Classification of the cases for
+prescription of periodicity or reviewability, essentially is a matter of policy, and therefore, courts
+cannot interfere, the doctrine of separation of powers being one of the Basic Features of our
+Constitution vide INDIRA NEHRU GANDHI vs. RAJ NARAIN44. Assuming that thee is power to
+lay down guidelines for regulating discretion of the kind, this court declines its exercise at the
+instance of a foreign entity engaged in a speculative litigation. An argument to the contrary has
+trappings that AIR 1975 SC 2299
+- 100 -
+run repugnant to sovereignty of the nation. Lastly to add, there is no sufficient empirical data that
+supports the argument of abuse of power which is structurally exercised. No provision in the Act nor
+in the Website Blocking Rules is pointed out to show that the respondents are under a legal duty to
+consider the request for review of the Blocking Orders. Thus, grievance in this regard, is not
+justiciable. If such requests are considered by the respondents, that would be ideal & appreciable, is
+true.
+In view of the above, I am of the considered opinion that the impugned orders blocking the
+tweets/accounts for indefinite period, are unassailable on the doctrine of proportionality.
+(X) AS TO DELAY & LACHES, CULPABLE CONDUCT OF PETITIONER AND DENIAL OF WRIT
+REMEDY:
+(a) The text & context of section 69A of the Act the Rules 8 & 9 of the Website
+Blocking Rules leave no manner of doubt as to their importance & significance, in the
+cyber space. As already mentioned above, section 69A(1) almost employs the
+terminology of Article 19(2) of the Constitution. In SHREYA SINGHAL, the challenge
+to this
+- 101 -
+provision and the Rules has been repelled by the Apex Court after noting the eminent justification
+for their being on the statute book. In FACEBOOK INC, supra, what is observed hereunder shows
+the enormity of harm that may be caused by the objectionable tweets & messages, if left
+unregulated:
+"The main issue arising in these petitions is how and in what manner the
+intermediaries should provide information including the names of the originators of
+any message/content/information shared on the platforms run by these
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 44
+X Corp vs Union Of India on 30 June, 2023
+intermediaries. There are various messages and content spread/shared on the social
+media, some of which are harmful. Some messages can incite violence. There may be
+messages which are against the sovereignty and integrity of the country. Social media
+has today become the source of large amount of pornography. Paedophiles use social
+media in a big way. Drugs, weapons and other contrabands can be sold through the
+use of platforms run by the intermediaries. In such circumstances, it is imperative
+that there is a properly framed regime to find out the persons/institutions/bodies
+who are the originators of such content/messages. It may be necessary to get such
+information from the intermediaries."
+The compilation filed by the learned ASG contains the legal frameworks concerning the regulation
+of 'information'
+- 102 -
+obtaining across the globe and that itself shows the significance of the statute in general and the
+pivotal role section 69A of the Act is designed to play. As already mentioned, compared to other
+media, the electronic medium has two marked characteristics, namely the lightening speed with
+which the information is disseminated and the enormity of its coverage across the globe. Social
+media transcends the boundaries of time & space; it has cascading effect. The context in which
+interactive social media dialogue takes place is quite different from the one in which such
+communication takes place in other modes. The Apex Court in SECRETARY, MINISTRY OF
+INFORMATION & BROADCASTING vs. CRICKET ASSOCIATION OF BENGAL45 has observed as
+under:
+"What distinguishes the electronic media like the television from the print media or
+other media is that it has both audio and visual appeal and has a more pervasive
+presence. It has a greater impact on the minds of the viewers and is also more readily
+accessible to all including children at home..."
+AIR 1995 SC 1236
+- 103 -
+(b) The tweets & URLs have elements of spontaneity both in terms of dissemination of information
+and impact on the mind of viewers. That is the reason, Rule 9 of the Website Blocking Rules
+provides for making an interim direction for blocking the tweets/accounts. Learned ASG pointed out
+that the petitioner purposely perpetrated inordinate delay in complying with section 69A orders
+despite warning. Some of these orders made in 2021 remained uncomplied for more than a year.
+Clandestinely, at paragraph 3 of the petition, it is averred "At the outset, the Petitioner places on
+record that it has complied with the Blocking Orders that form part of the present challenge, under
+protest." Three of these orders were made in February 2021, two in June 2021, five in the second
+half of 2021 and the last one was made on 28 February 2022. Which order was complied with when,
+has not been particularized in the pleadings. The petition itself has been filed on 5 July 2022.
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 45
+X Corp vs Union Of India on 30 June, 2023
+- 104 -
+(c) The non-compliance with section 69A orders has the potential to make the tweet more viral and
+spread to other platforms as well. One can imagine the damage potential when such objectionable
+tweets are allowed to be disseminated despite interdiction. The damage potential is directly
+proportional to the delay brooked in the compliance of such orders. Petitioner has demonstrably
+adopted a tactical approach to delay compliance and that shows its intent to remain non-compliant
+to Indian law. No plausible explanation is offered for the delay in approaching the Constitutional
+Court, either. Petitioner has abruptly complied with section 69A orders, a bit before coming to court,
+though the 2nd respondent had issued compliance requirement notice way back on 2 February 2021
+threatening: "It needs to be mentioned that Section 69A(3) provides for specific penal consequences
+in case of non-compliance of the directions issued under section 69A of the Act." The penalty
+prescribed u/s 69A(3) for the offence of non-compliance of the order is imprisonment for a term
+which may extend to seven years and/or fine. Even
+- 105 -
+that did not deter the recalcitrant petitioner. The Central Government, in its discretion, did not
+choose to prosecute the petitioner for the offence in question. It hardly needs to be reiterated that
+the Constitutional Courts do not come to the aid of litigants whose hands are soiled or who are
+indolent.
+(d) In STATE OF MADHYA PRADESH VS. NANDLAL JAISWAL46, it is observed as under:
+"It is well settled that the power of the High Court to issue an appropriate writ under
+Art. 226 of the Constitution is discretionary and the High Court in the exercise of its
+discretion does not ordinarily assist the tardy and the indolent or the acquiescent and
+the lethargic. If there is inordinate delay on the part of the petitioner in filing a writ
+petition and such delay is not satisfactory explained, the High Court may decline to
+intervene and grant relief in the exercise of its writ jurisdiction. The evolution of this
+rule of laches or delay is premised upon a number of factors. The High Court does not
+ordinarily permit a belated resort to the extra ordinary remedy under the writ
+jurisdiction became it is likely to cause confusion and public inconvenience and
+brings in its train new injustices."
+AIR 1987 SC 251
+- 106 -
+In view of the above, this court is of the considered opinion that petition is hit by delay & laches and
+culpable conduct of the petitioner and therefore, no relief can be granted in the equitable
+jurisdiction constitutionally vested under Articles 226 & 227.
+(XI) CULPABLE CONDUCT OF PETITIONER AND LEVY OF EXEMPLARY COSTS:
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 46
+X Corp vs Union Of India on 30 June, 2023
+(a) Petitioner's pleadings, copies of documents accompanying the same and the
+Rulings cited from the side of the petitioner run into hundreds of pages. To counter
+petitioner's case, respondents also have filed their pleadings, documents & Rulings,
+as of compulsion and they are voluminous. This petition was heard for days together,
+keeping at bay worthier causes of native litigants who were waiting in a militant
+silence and in a long queue.
+As already observed above, for more than a year, the Blocking Orders were not implemented by the
+petitioner and there is no plausible explanation offered therefor. There is a willful non-compliance
+of the Blocking Orders; arguably, such an act amounts to an offence under section 69A(3) of the Act.
+The cascading adverse effect of non- compliance of such orders, needs no research, nor
+- 107 -
+reiteration. Abruptly, the impugned orders have been implemented with a clandestine caveat of
+reserving the right to challenge. This is a classic case of speculative litigation and therefore,
+petitioner is liable to suffer levy of exemplary costs.
+(b) The Hon'ble Supreme Court in LIFE INSURANCE CORPORATION OF INDIA vs. ESCORTS
+LIMITED47 had instructively observed as under:
+"...In the case before us, as if to befit the might of the financial giants involved,
+innumerable documents were filed in the High Court, a truly mountainous record
+was built up running to several thousand pages and more have been added in this
+court. Indeed, and there was no way out, we also had the advantage of listening to
+learned and long drawn-out, intelligent and often ingenious arguments, advanced
+and dutifully heard by us. In the name of justice, we paid due homage to the causes of
+the high and mighty by devoting precious time to them, reduced, as we were, at times
+to the position of helpless spectators. Such is the nature of our judicial process that
+we do this with the knowledge that more worthy causes of lesser men who have been
+long waiting in the queue have blocked thereby and the queue has consequently
+lengthened. Perhaps the time is ripe for imposing a time- limit on the length of
+submissions and page-
+AIR 1986 SC 1370
+- 108 -
+limit on the length of judgments. The time is probably ripe for insistence on brief
+written submissions backed by short and time-bound oral submissions. The time is
+certainly ripe for brief and modest arguments and concise and chaste judgments. In
+this very case we heard arguments for 28 days and our judgment runs to 181 pages
+and both could have been much shortened. We hope that we are not hoping in vain
+that the vicious circle will soon break and that this will be the last of such mammoth
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 47
+X Corp vs Union Of India on 30 June, 2023
+cases. We are doing our best to disentangle the system from a situation into which it
+has been forced over the years by the existing procedures. There is now a public
+realisation of the growing weight of the judicial burden. The cooperation of the bar
+too is forthcoming though in slow measure. Drastic solutions are necessary. We will
+find them and we do hope to achieve results sooner than expected."
+(c) In adjudging the nature & quantum of costs, what has been observed in VINOD SETH vs.
+DEVINDER BAJAJ48, needs to be borne in mind:
+""23. The provision for costs is intended to achieve the following goals :
+It should act as a deterrent to vexatious, frivolous and speculative litigations or
+defences. The spectre of being made liable to pay actual costs should be such, as to
+make every litigant think twice before putting forth a vexatious, frivolous or
+speculative claim or defence...Costs should provide adequate (2010) 8 SCC 1
+- 109 -
+indemnity to the successful litigant for the expenditure incurred by him for the litigation. This
+necessitates the award of actual costs of litigation as contrasted from nominal or fixed or unrealistic
+costs..."
+In the above circumstances, this Petition being devoid of merits, is liable to be dismissed with
+exemplary costs, and accordingly, it is. Petitioner is levied with an exemplary cost of Rs.50,00,000/-
+(Rupees Fifty Lakh) only, payable to the Karnataka State Legal Services Authority, Bengaluru,
+within 45 days, and delay if brooked attracts an additional levy of Rs.5,000/- (Rupees Fife
+Thousand) only, per day.
+This Court places on record its deep appreciation for the able assistance rendered by a Chamber
+Intern, Mr. Chanakya Subbaramaiah.
+Sd/-
+JUDGE cbc
+Indian Kanoon - http://indiankanoon.org/doc/92047909/ 48

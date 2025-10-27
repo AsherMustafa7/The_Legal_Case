@@ -1,0 +1,207 @@
+Sumeet Golwalkar vs The State Of Madhya Pradesh on 17 March, 2021
+Sumeet Golwalkar vs The State Of Madhya Pradesh on 17
+March, 2021
+Equivalent citations: AIRONLINE 2021 MP 252
+Author: Rajeev Kumar Dubey
+Bench: Rajeev Kumar Dubey
+1 MCRC-26178-2020
+The High Court Of Madhya Pradesh
+MCRC-26178-2020
+(SUMEET GOLWALKAR Vs THE STATE OF MADHYA PRADESH)
+Jabalpur, Dated : 17-03-2021
+Shri Sankalp Kochar, learned counsel for the applicant.
+Shri Rajeshwar Rao, learned G.A. for the respondent/State.
+This is third application under Section 439 of the Cr.P.C. for grant of bail. Applicant Sumeet
+Golwalkar was arrested on 11/04/2019 in connection with Crime No.12/2019 registered at
+Economic Offences Wing, Bhopal (MP) for the offence punishable under Sections 120-B, 420, 467,
+468, 471 of the IPC, Section 66 of the Information Technology Act, 2000 and Section 7 read with
+Section 13(2) of the Prevention of Corruption Act.
+2. The earlier bail applications filed by applicant were dismissed on merit by this Court vide orders
+dated 25/06/2019 & 31/10/2019 passed in M.Cr.C.Nos.19786/2019 & 40800/2019 respectively.
+3. As per prosecution story, M.P. State Electronics Development Corporation Ltd. (hereinafter
+referred to as Ã¢Â€ÂœMPSEDCÃ¢Â€Â) is a body working under the State of M.P. Department of
+Science and Technology. The Department of Information Technology, Govt. of Madhya Pradesh
+adopted the e-Tendering System using an online platform in 2006. In the year 2012 Government of
+Madhya Pradesh appointed MPSEDC, as the Nodal Agency for MP e-procurement portal. MPSEDC
+selected M/s Tata Consultancy Services with Antares Systems Ltd. as the new Implementation
+Agency for end-to-end e-Procurement solutions. The agreement with TCS & Antares was signed in
+the year 2013. The New Service Providers undertook the Customization, Integration,
+Implementation and Maintenance of Single, Unitary, Web-Based e-Procurement Software (Portal)
+with the specified modules which also include E-Tendering. Co-accused Manohar M.N. was the Vice
+President of Antares Systems Ltd. and was the project in-charge on behalf of the company.
+Co-accused Nandkishor Brahme was posted as OSD in MPSEDC from the year 2012 and was
+assigned the duty as Nodal Officer 2 MCRC-26178-2020 of E-Tendering Project. In the E-Tendering
+Project, MPSEDC made a platform available to various Government Departments for floating
+tenders. In the tendering processes, the concerned Department which issued the tender uploaded its
+Indian Kanoon - http://indiankanoon.org/doc/69825826/ 1
+Sumeet Golwalkar vs The State Of Madhya Pradesh on 17 March, 2021
+tender on the portal, on which the last date of filing tender and the time of its opening was
+mentioned. While issuing the tender, the concerned officer also attached the public key of his digital
+signature. The tenderer after registering himself on MP e-Procurement portal filled the tender and
+after filing the tender, submitted the tender on the portal after it was encrypted by the public key of
+the officer concerned attached with the tender. After submission of the tender, no departmental
+officer, e-tendering company or another person could open the tender before its opening time.
+4. On 11th April 2018 at the time of opening of three tenders Nos. 91, 93 & 94 floated by the Madhya
+Pradesh Jal Nigam Maryadit (hereinafter referred as Ã¢Â€ÂœMPJNMÃ¢Â€Â) the computer
+displayed a message that Ã¢Â€Âœthe contents of the document had been modifiedÃ¢Â€Â. On that
+service provider company, Antares Systems Ltd. was directed to submit the report after inquiry. In
+the first report given by the team of Antares Systems Ltd after examining the system, they
+mentioned that there was no irregularity and only attributed the message to technical defect.
+However, they also stated that further technical analysis was going on. Thereafter, on 05/05/2019
+Antares Systems Ltd. again gave the Root Cause Analysis Report (R.C.A.) mentioning therein that
+the tenders had been tampered with. On that, the then Managing Director of MPSIDC informed
+MPJNM for cancelling these bids and also directed Antares Systems Ltd. to enquire all the tenders,
+which were floated by the various Government departments between 01/01/2018 to 30/04/2018 on
+E-Portal. On that, the team of employees of Antares Systems Ltd. again enquired the matter and
+gave the report to the effect that during the check period six other tenders i.e. tender of MP Road
+Development Corporation No.786, Public Works Department Tender Nos. 49813, 49982 & 49985
+and tender of Water Resources Department Nos. 10030 & 10044 were 3 MCRC-26178-2020 also
+manipulated similarly.
+5. Thereupon, on the direction of Chief Secretary of M.P. Government, a preliminary enquiry was
+conducted by the Economic Offence Wing. In the preliminary enquiry, it was found that after
+changing the bid price of tender Nos. 91, 93 & 94 of MPJNM amounting to Rs.1,769 crore the M/s
+GVPR Engineers Limited Hyderabad for tender No.91, M/s the Hume Pipe Company Limited
+Mumbai for tender No. 93 and M/s JMC Projects India Limited Mumbai for tender No. 94 were
+made lowest bidder (L1), likewise by tampering the two tenders of the Public Works Department
+Tenders Nos.49985 & 49982 amounting to Rs.13.46 crores, M/s Ramkumar Narwani Bhopal, were
+made lowest bidder, in the Tender no. 4981319 amounting to 15 crores, Sorathiya Velji Ratna and
+Company Vadodara were made lowest bidder. After tampering the tender of Madhya Pradesh Road
+Development Corporation amounting to Rs.7.86 crores M/s Madhav Infra projects Vadodara, Water
+Resources Department tender Nos.10030 & 10044 total amounting to Rs.1135 Crore, M/s Max
+Mantena Micro JV Hyderabad & Sorathiya Velji Ratna Baroda were made a lower bidder, due to
+which companies earned illegal profits.
+6. On the basis of that preliminary evidence and findings of a probe report of the Computer
+Emergency Response Team, New Delhi, Crime No.12/2019 was registered at Economic Offences
+Wing, Bhopal (M.P.) for the offence punishable under Sections 120-B, 420, 468, 471 of the IPC,
+Section 66 of the Information Technology Act, 2000 and Section 7 read with Section 13(2) of the
+Prevention of Corruption Act against applicant and other co-accused persons.
+Indian Kanoon - http://indiankanoon.org/doc/69825826/ 2
+Sumeet Golwalkar vs The State Of Madhya Pradesh on 17 March, 2021
+7. From the report of the Computer Emergency Response Team, New Delhi and the other evidence
+collected by the investigating agency during investigation it was found that in the year 2016, OSMO
+Pvt. Ltd. co-accused Vinay Choudhary and Varun Chaturvedi, the Managing Directors of OSMO and
+applicant Sumit Golwalkar, the Marketing Director of that company 4 MCRC-26178-2020 entered
+into an agreement with Antares Ltd. in order to check the reasons why the whole system of
+E-tendering had slowed down and was engaged to conduct a performance test of the E-tendering
+system and come up with concrete steps to tackle the slow speed. During the performance test,
+OSMO was provided with user IDs and Bidder IDs by Antares Ltd. In the month of June 2016,
+OSMO stated that it was not able to conduct a performance test of the whole system and thus could
+not complete the process of testing.
+8. It is further stated that the manipulation was done by one of the user ID and bid IDs. For
+manipulating the tenders of MPJNM, a demo file was created on MP e-procurement portal. That file
+was created using ID PT 4, which was given to OSMO IT Solutions at the time of performance
+testing and they also used digital signature certificate (DSC) of Keshav Rao Uikey. The IP address
+registered while creating the said demo file was 27.60.163.98 and 27.60.185.14 which was linked
+with mobile No. 9755092919. The SIM of this mobile number was registered in the name of
+co-accused Vinay Choudhary and was being used by co-accused Varun Chaturvedi. Thereafter,
+hackers entered into the database through the staging server, where original tenders were stored
+and this process was done through a virtual private network (VPN), the access of which was only
+with co-accused Nandkishore Bramhe. After reaching the database server hackers accessed the file
+where the original tenders were saved. They copied the details of all the bidders, who submitted the
+bids, which were encrypted. After copying the bids they again came back to the demo tender file
+created by them earlier and by using bidder ID number 15597 and vendor ID number QK 829 846
+pasted the said bids in the demo file. The vendor ID used for this purpose was the same, which was
+issued to OSMO for performance testing in the year 2016. After pasting the encrypted bid in the
+demo file, the hackers assessed the system again on 03-03-2018 i.e. the date on which the said bids
+stood decrypted as the date of opening the demo tender was mentioned as 03-03-2018. Thus, they
+were able to see the figures/bids submitted by all the bidders in 5 MCRC-26178-2020 encrypted
+form. After seeing the amount filed by each bidder another demo file was created in the second
+demo file, the encrypted bids as visible in the first demo file were pasted in the second demo file.
+Again by using the bidder ID No.15597 having vendor ID number QK29846 they manipulated the
+bids and made the person they wanted to benefit as the lowest bidder. After making the change in
+the second demo file and placing a wrong bidder L1 hackers copied the encrypted/manipulated bid
+value and again by using the staging server reached the database server through a VPN, access of
+which was given to co-accused Nandkishore Bramhe, opened the original tender file and pasted the
+said encrypted manipulated bid value next to the name of the bidder they wanted to benefit and thus
+manipulated the bids.
+9. The specific allegations against the applicant Sumit Golwalkar is that digital signature certificate
+of Praveen Guru and Keshav Rao Uike were registered by applicant Sumeet Golwalkar, who was the
+Marketing Director of OSMO and the manipulation in the bids was done by using said DSC of
+Praveen Guru and Keshav Rao Uikey. Applicant was also partner in Shricon Multi Infra along with
+co-accused Vinay Choudhary and Avinash K. Choudhary (brother of Vinay Choudhary). Sarothia
+Indian Kanoon - http://indiankanoon.org/doc/69825826/ 3
+Sumeet Golwalkar vs The State Of Madhya Pradesh on 17 March, 2021
+Velji, who was made L1 bidder by manipulating the bids, transferred money in the account of
+Shricon Multi Infra Developers, which shows the nexus of the applicant in the crime.
+10. Learned counsel appearing on behalf of the applicant submitted that the applicant is innocent
+and has falsely been implicated in the offence. He further submitted that the applicant was not the
+Marketing Director of OSMO Company. It is alleged that co-accused Vinay Choudhary & Varun
+Chaturvedi in connivance with the present applicant and other co- accused persons manipulated the
+bids, but the present applicant is merely an employee of the company OSMO IT Solutions. It is
+alleged against the present applicant that he had registration authority of digital signature of the
+tender opening authority Mr. Praveen Kumar Guru and Keshav Rao Uikey. But the said allegation is
+not true. The Registration authority associate 6 MCRC-26178-2020 agreement was executed
+between M/s Samadhan Technologies, Cosmo IT Solution Private Limited and E-mudra. Samadhan
+Technology was the registration authority while OSMO was the Registration Authority Associate and
+E-Mudra was the certifying authority. The digital signature of Mr. Praveen Kumar Guru and Keshav
+Rao Uikey were prepared by E-mudra and not by the applicant. After preparing digital signature of
+the officer/employee, the said signatures are handed over to the officer/employee concerned as per
+policy of company and that person after changing the password starts using the same. There is no
+evidence on record to show that said digital signature of Mr. Praveen Kumar Guru and Keshav Rao
+Uikey were not handed over to them. It is also alleged that some money was transferred by the
+Sorathiya Velji in the account of Shricon Multi Infra, in which the applicant was one of the partners,
+but that amount was transferred on account of work done by the company as subcontractor for
+Sorathiya Velji. There is no other evidence on record to connect the applicant with the crime. Police
+falsely implicated the applicant in the crime. There is no likelihood of his absconding or tampering
+with the prosecution evidence. He has been in custody since 11/04/2019 and the trial is still
+pending. On the strength of aforesaid submissions, it is prayed that the applicant be released on
+bail.
+11. Learned counsel for the respondent/EOW submitted that co- accused Vinay Chaudhary and
+Varun Chaturvedi are the Managing directors of OSMO Private Ltd. and applicant Sumit Golwalkar
+is the marketing director of OSMO. He further submitted that from the evidence collected by the
+EOW it is revealed that the manipulation in the tenders was done by using the user ID PT4 and
+Bidder ID QK29846 which were provided to OSMO in the year 2016. The IP address registered
+while creating the said demo file was 27.60.163.98 and 27.60.185.14, which were found linked with
+mobile No.9755092919. The SIM of this mobile number was registered in the name co-accused
+Vinay Choudhary and was being used by co-accused Varun Chaturvedi. It is also revealed that digital
+signature certificate of Keshav Rao 7 MCRC-26178-2020 Uike and Praveen Guru were registered by
+applicant Sumeet Golwalkar, who was the Marketing Director of OSMO and was also a partner in
+Shricon Multi Infra along with co-accused Vinay Choudhary and Avinash K. Choudhary (brother of
+Vinay Choudhary). Sarothia Velji, who was made L1 bidder by manipulating the bids, transferred
+money in the account of Shricon Multi Infra Developers, which shows the nexus of the applicant in
+the crime. He further submitted that there are transactions between Shricon Multi Infra Developers
+and Milestone Builders belonging to Manish Khare, who is also an accused in the present case. From
+the memorandum of Manish Khare recorded by the police under Section 27 of the Cr.P.C. It is
+revealed that Sarothia Velji gave money to him regarding manipulation in the bids and he
+Indian Kanoon - http://indiankanoon.org/doc/69825826/ 4
+Sumeet Golwalkar vs The State Of Madhya Pradesh on 17 March, 2021
+transferred that amount in the account of Shricon Multi Infra. It is further revealed that money was
+also deposited in the account of Avinash Enterprises belonging to Avinash Choudhary, the brother
+of co-accused Vinay Choudhary. The amount was also deposited by Sorathia Velji and Mantena
+Infra. The said companies are also accused in the present crime and have benefited by the bid
+manipulation. The earlier two bail applicants filed by the applicant were dismissed on merit and
+thereafter there is no change in circumstance, except custody period of the applicant. So the
+applicant should not be released on bail.
+12. The earlier bail applications filed by applicant were dismissed on merit by this Court vide orders
+dated 25/06/2019 & 31/10/2019 passed in M.Cr.C.Nos.19786/2019 & 40800/2019 respectively and
+thereafter there is no change in circumstance except custody period of the applicant. Hon'ble Apex
+Court in the case of Rajesh Ranjan Yadav alias Pappu Yadav v. CBI Through its Director, (2007) 1
+SCC 70 held that bail, cannot be granted solely on the ground of long incarnation in jail and inability
+of accused to conduct the defence. Apex Court in the case of State of M.P. v. Kajad, (2001) 7 SCC 673
+observed "It is true that successive bail applications are permissible under the changed
+circumstances. But without the change in the 8 MCRC-26178-2020 circumstances, the second
+application would be deemed to be seeking review of the earlier judgment which is not permissible
+under criminal law as has been held by this Court in Hari Singh Mann v. Harbhajan Singh Bajwa
+[(2001) 1 SCC 169 : 2001 SCC (Cri) 113] and various other judgments."
+13. In the instant case, prima facie it is revealed that Online bidding processes were rigged to favour
+a few private players. E- Procurement portal was tampered in nine tendering processes to provide
+benefits to five private companies, which were based in Hyderabad, Mumbai, Baroda and Bhopal.
+They include GVPR Ltd, Max Mantena Ltd, The Hume Pipe Ltd, JMC Ltd and Sorthiya Belji Pvt Ltd.
+The allegation against the applicant is that the digital signature certificate of Praveen Guru and
+Keshav Rao Uike were registered by applicant Sumeet Golwalkar, who was the Employee of OSMO
+and the manipulation in the bids was done by using DSC of Praveen Guru and Keshav Rao Uikey.
+Applicant was also partner in Shricon Multi Infra along with co-accused Vinay Choudhary and
+Avinash K. Choudhary (brother of Vinay Choudhary). Sarothia Velji, who was made L1 bidder by
+manipulating the bids, transferred money in the account of Shricon Multi Infra Developers, which
+prima facie shows the nexus of applicant in the crime. Such scams will not only send a wrong
+message to the society but also affect the credibility of the Government authorities. It has also
+shaken the confidence of the general public in the functioning of the Government and gave the
+impression that everything is possible by manipulation. So such acts should be dealt with severely. It
+is alleged that applicant is one of the main accused person of the crime who committed
+manipulation in the bids and gained a huge amount of money from the firm which they made the
+lowest bidder by manipulation.
+14. So looking to the seriousness of the crime and the contention of the learned counsel of the EOW,
+this Court is not inclined to grant bail to the applicant.
+15. Hence, the application is hereby dismissed.
+9 MCRC-26178-2020 (RAJEEV KUMAR DUBEY) JUDGE as
+Indian Kanoon - http://indiankanoon.org/doc/69825826/ 5

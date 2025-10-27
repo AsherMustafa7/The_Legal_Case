@@ -1,0 +1,976 @@
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+Equivalent citations: AIRONLINE 2020 MAD 1061
+Bench: A.P.Sahi, Senthilkumar Ramamoorthy
+W.A.No.3887 of 2019
+IN THE HIGH COURT OF JUDICATURE AT MADRAS
+DATED: 22.07.2020
+CORAM :
+THE HON'BLE MR.A.P.SAHI, CHIEF JUSTICE
+AND
+THE HON'BLE MR.JUSTICE SENTHILKUMAR RAMAMOORTHY
+W.A.No.3887 of 2019
+Ravisam .. Appellant
+-vs-
+1. The Government of Tamil Nadu
+Rep. by its Secretary to Government
+Housing and Urban Development Department
+Chennai – 600 009.
+2. The Special Tahsildar (Land Acquisition)
+Housing Scheme No.3
+Coimbatore.
+3. The Executive Engineer and
+Administrative Officer
+Coimbatore Housing Unit
+Tamil Nadu Housing Board
+Coimbatore. .. Respondents
+PRAYER: Appeal under Clause 15 of the Letters Patent against the
+order dated 24.6.2019 in W.P.No.3640 of 2001.
+__________
+Page 1 of 72
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 1
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+http://www.judis.nic.in
+(cid:12) W.A.No.3887 of 2019
+For Appellant : Mr.AR.L.Sundaresan
+Senior Counsel
+for Mr.G.Sankaran
+For Respondents : Mr.Vijay Narayan
+Advocate General
+assisted by
+Mr.E.Manoharan
+Spl. Government Pleader
+for respondents 1 and 2
+Dr.R.Gouri
+for 3rd respondent
+JUDGMENT
+THE CHIEF JUSTICE The present appeal arises out of the judgment dated 24.6.2019 of the learned
+Single Judge delivering a common judgment in two writ petitions, one of which W.P.No.3640 of
+2001 was filed by the appellant challenging the acquisition proceedings under the Land Acquisition
+Act, 1894 (for brevity, “the 1894 Act”) with a prayer to quash notifications under Sections 4 and 6 of
+the said Act, whereby land measuring 3.03 Acres of SF.Nos.411/1 and __________
+http://www.judis.nic.in 411/2 in Vilankurichi Village, Coimbatore North Taluk, has been acquired.
+This appeal is, therefore, confined only in relation to the said land that concerns the appellant, who
+was the writ petitioner in W.P.No.3640 of 2001.
+2. The land has been acquired for a Housing Scheme, namely, Ganapathy Neighbourhood Scheme
+Phase 2 in Coimbatore. The notification under Section 4 of the 1894 Act, that was published in the
+gazette is dated 20.3.1991, and was also subsequently published in the newspapers as well as in the
+locality, the dates whereof are different. The notification dated 26.5.1992 under Section 6 of the
+1894 Act was published in the official gazette on 28.5.1992. The schedule appended to the said
+declaration in relation to the plots in question are relevant, keeping in view the nature of the
+controversy raised by the appellant. In the Section 4 gazette notification, the following description is
+given with regard to the survey numbers, which includes Plot Nos.411/1 and 411/2:
+“Coimbatore District, Coimbatore North Taluk No.13, Vilanchurichi Village (The
+extent given is approximate) __________ http://www.judis.nic.in Government,
+dry, S.F.No.410-1, belonging to P.S.G.Ganga Naidu and Sons Trust and Krishna
+Naidu, bounded on the north by S.F.No.404, east by S.F.No.410-2, south by
+S.F.Nos.411-1 and 411-2 and west by S.F.No.413 – 2.79.0 hectares.
+Government, dry, S.F.No.410-2, belonging to
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 2
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+Narayanasamy Naidu, Raju Naidu and
+Balakrishnan, bounded on the north by S.F.No.404, east by S.F.No.409, south by
+S.F.No.411-2 and west by S.F.No.410-1 – 0.81.0 hectares.
+Government, dry, S.F.No.411-1, belonging to same as in S.F.No.410-1, bounded on
+the north by S.F.No.410-1, east by S.F.No.411-2, south by S.F.No.442 and west by
+S.F.Nos.412 and 413 – 1.68.0 hectares.
+Government, dry, S.F.No.411-2, belonging to same as in S.F.No.410-2, bounded on the north by
+S.F.Nos.410-1 and 410-2, east by S.F.No.407-1, south by S.F.No.442 and west by S.F.No.411-1 –
+2.03.5 hectares.
+__________ http://www.judis.nic.in Government, dry, S.F.No.412, belonging to Narayana
+Naicker, and Subba Naicker, bounded on the north by S.F.No.413 and 415, east by S.F.Nos.411-1 and
+442, south by S.F.Nos.441-1 and 441-2A and west by S.F.No.416 – 2.87.0 hectares. Total – 10.18.5
+hectares.
+L.K.TRIPATHY Secretary to Government”
+3. The same description indicating the names in detail were again repeated in the notification under
+Section 6 of the 1894 Act, which is extracted herein under:
+“SCHEDULE Coimbatore District, Coimbatore North Taluk No.13, Vilanchurichi
+Village Government, dry, S.F.No.410-1, belonging to P.S.G.Ganga Naidu and Sons
+Trust and Krishna Naidu, bounded on the north by S.F.No.404, east by S.F.No.410-2,
+south by S.F.Nos.411-1 and 411-2 and west by S.F.No.413 – 2.79.0 hectares.
+__________
+http://www.judis.nic.in
+Government, dry, S.F.No.410-2, belonging to
+Narayanasamy Naidu, Raju Naidu and
+Balakrishnan, bounded on the north by S.F.No.404, east by S.F.No.409, south by
+S.F.No.411-2 and west by S.F.No.410-1 – 0.81.0 hectares.
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 3
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+Government, dry, S.F.No.411-1, belonging to P.S.G.Ganga Naidu and Sons Trust and
+Krishna Naidu, bounded on the north by S.F.No.404-1, east by S.F.No.411-2, south by
+S.F.Nos.442 and west by S.F.Nos.412 and 413 – 165.0 hectare.
+Government, dry, S.F.No.411-2, belonging to
+Narayanasamy Naidu, Raju Nadu and
+Balakrishnan, bounded on the north by
+S.F.Nos.410-1 and 410-2, east by S.F.No.407-1, south by S.F.No.442 and west by
+S.F.No.411-1 – 2.03.5 hectares.
+Government, dry, S.F.No.412, belonging to Narayana Naicker, N.Chinnasamy Naidu and Subba
+Naicker, bounded on the north by S.F.No.413 and 415, east by S.F.Nos.411-1 and 442, south by
+S.F.Nos.441-1 and 441-2A and west by S.F.No.416 – 2.87.0 hectares.
+__________ http://www.judis.nic.in Total – 10.15.5 hectares.”
+4. The appellant alleges that undisputedly the original land owner was one Gopal Naidu, who had
+three sons, namely, Purushothaman Naidu, Narayanasamy Naidu @ G.N.Sam and Krishnan Naidu.
+It is stated that on 30.3.1955 an internal partition took place between Gopal Naidu and his sons.
+5. The property passed on from Gopal Naidu, after his death, to his widow Chinnammal under a life
+interest only available to her, with absolute ownership passing on to the three sons in equal shares.
+Chinnammal, the widow, is also stated to have died in 1972. One of the sons of Gopal Naidu, namely,
+Narayanasamy Naidu @ G.N.Sam, father of the appellant, had already died on 9.1.1961. Gopal
+Naidu and his other two sons and their heirs had parted with their one-third share by executing sale
+deeds, and the purchasers have also separately and unsuccessfully contested the acquisition
+proceedings before this Court that would be shortly __________ http://www.judis.nic.in narrated
+hereinafter. To understand the separate status of succession and consequential rights of the parties,
+the following description in a bird's eye-view of the facts with regard to ownership as alleged by the
+appellant:-
+Gopal Naidu = Chinnammal (Died in 1972) | | | | Purushottam Naidu
+G.Narayanasamy G.Krishnan Naidu (Dead) Naidu @ G.N.Sam | (Died on 9.1.1961) |
+= | N.Savithiri | (wife) | | | | | Ravisam K.Vijayakumar (Son) (Son) J.Dhanalakshmi
+(Married Daughter) P.Jayalakshmi (Married Daughter) B.Gajini (Married Dauther)
+__________ http://www.judis.nic.in
+6. The aforesaid pedigree is seriously disputed vis-a-vis the ownership of the land by
+the respondent State and the Housing Board on the ground that the person reflected
+as G.Narayanasamy Naidu in the present pedigree is son of Gopal Naidu, whereas,
+according to the respondents, the land in dispute is recorded in the name of an
+entirely different person, namely, Narayanasamy, Son of Subba Naidu, and grandson
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 4
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+of one Appaiah. These facts will be discussed later on in the judgment.
+7. In the present case, the dispute is with regard to 3.03 Acres of land in Survey
+Nos.411/1 and 411/2, as already indicated above, out of which 2.89 Acres is stated to
+be retained by the appellant and 15 cents has been left out for a private road.
+8. In so far as the rest of the land is concerned, the purchasers are said to have
+acquired the lands through sale deeds stated to have been executed in the year 1988
+from the other co-
+owners. This fact is evident from the record of judgments in the litigation contested by the said
+purchasers. __________ http://www.judis.nic.in
+9. After the notification under Section 4 of the 1894 Act was published, a registered partition deed
+dated 15.5.1991 is said to have been executed in relation to the properties inherited by the heirs of
+late Gopal Naidu, including the appellant, as also the purchasers who had fought their legal battle
+separately as noted above, namely Mrs.Girija Janarthanan and others.
+10. The acquisition proceeded with the names that were recorded in Sections 4 and 6 notifications
+and ultimately an award was delivered on 23.5.1994. The award is also in relation to plots in
+question and it records that during the enquiry under Section 5A of the 1894 Act, the required notice
+under the 1894 Act was tendered on the notified persons, whereafter some of the tenure holders
+raised their objections and after considering the same, the objections were rejected, followed by
+notices under Sections 9(3) and 10 of 1894 Act. The award mentions that the notices were served on
+the land owners and the interested persons and their acknowledgments were obtained. The notices
+were published and a __________ http://www.judis.nic.in necessary certificate was also obtained.
+This was followed by an award enquiry under Section 11 of the 1894 Act at the office of the Special
+Tahsildar and after recording the specifics of the land acquired, the award was delivered. The
+ownership was reflected through the names of the notified persons in respect of both the survey
+numbers. The award, however, records P.S.G.Ganga Naidu and Sons Trust as having appeared
+during the award enquiry, but he failed to produce any documentary evidence during the same. The
+other notified person Krishna Naidu did not appear for award enquiry and, therefore, ownership
+and apportionment could not be decided in respect of him. Accordingly, it was directed to deposit
+the amount in the Civil Court. Proceeding further in respect of S.F.No.410/2, the name of
+Narayanasamy is mentioned, and then it was indicated that since Narayanasamy Naidu, did not
+appear for award enquiry, his ownership and apportionment also could not be decided, and the
+amount was directed to be deposited in the Civil Court.
+11. It is the case of the appellant that in spite of the fact that __________ http://www.judis.nic.in
+the name of the appellant's father had been notified, who had died in 1961, in the notifications
+issued under Sections 4 and 6 of the 1894 Act and was also mentioned in the award, but the award
+proceeded as if Narayanasamy Naidu, in spite of notice did not appear in the proceedings. It is
+stated by the respondents that the compensation amount was tendered and deposited on 8.7.1994
+and the possession was taken on 9.12.1994, as per the certificate on which reliance has been placed,
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 5
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+which documents have been highly disputed by the appellant.
+12. The other tenure holders, who were purchasers from the other branches, as referred to above,
+filed two writ petitions before the High Court being W.P.Nos.19925 and 19927 of 1994. The said writ
+petitions were entertained and it is stated that interim orders had been passed therein in their
+favour, whereafter on 22.9.2000, the said writ petitions were allowed and the impugned
+notifications were quashed, which also covered Plot Nos.411/1 and 411/2. The appellant was not a
+party to the said petitions, yet the notifications were quashed only on the ground that the
+publication of the __________ http://www.judis.nic.in notifications under Sections 4 and 6 of the
+1894 Act was not locally circulated and was allegedly published in unknown daily newspapers. It
+was also accepted by the Court that they were not been given personal notice and, therefore, on
+account of such violation, the petitioners therein were prevented from raising their objections
+regarding the proposed acquisition of land in the enquiry under Section 5A of the 1894 Act. The
+Court also deprecated the practice of publishing such notifications in local dailies which are
+insignificant and not in circulation. There were other contentions also raised, namely that the
+purchasers had purchased the land in 1988, even prior to the notification under Section 4 of 1894
+Act in 1991 and that the notification under Section 6 of the 1894 Act had been published beyond the
+period of one year. These facts have been disputed in the counter affidavit filed in those writ
+petitions, but, as indicated above, it was on the first issue relating to an erroneous publication of the
+notice that the writ petitions were allowed. It is useful to extract the operative part of the said
+judgment only to reflect the issue which came to be decided by the Court in the case of those
+purchasers in the first round of litigation. __________ http://www.judis.nic.in The same is
+gainfully reproduced herein under:
+“I accept the first contention raised by the learned senior counsel for the petitioners.
+In such a circumstance, it is unnecessary for me to consider the other points raised by
+the learned senior counsel for the petitioners.”
+13. The Tamil Nadu Housing Board, Coimbatore, filed an appeal, being W.A.No.1946 of 2002,
+assailing the aforesaid common judgment and the same was dismissed on 27.8.2002.
+14. The appellant has urged that with regard to his land, the Housing Board was trying to interfere
+with his possession and he came to know of the entire acquisition proceedings and the litigation for
+the first time in November, 2000, whereafter he moved a representation on 4.11.2000 before the
+Housing and Urban Development Department questioning their action of trying to take over the
+property of the appellant. The appellant requested the Secretary of the Housing Department to
+exempt the land from the acquisition proceedings. Having failed to get any reply, the __________
+http://www.judis.nic.in appellant filed W.P.No.3640 of 2001 that has given rise to the present
+appeal challenging the acquisition proceedings taking aid of the judgments that were delivered in
+favour of the purchasers, referred to above. On 26.2.2001, an interim injunction was granted by a
+learned Single Judge in favour of the appellant and later on vide order dated 5.2.2003, the
+injunction was continued in respect of dispossession alone. The Court clarified that other
+proceedings may go on.
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 6
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+15. The Tamil Nadu Housing Board, through its Executive Engineer, filed Civil Appeal No.2660 of
+2004 before the Apex Court against the judgment in W.A.No.1946 of 2002 arising out of
+W.P.Nos.19925 and 19927 of 1994 in favour of the purchasers, referred to above, and the said appeal
+was allowed on 19.4.2004 on the short question that the presumption by the High Court about no
+opportunity having been given to the tenure holders was drawn on the basis of a bald statement in
+the affidavit, without giving any opportunity to the Housing Board, only on the ground that the
+publishing of the notices in insignificant newspapers resulted in __________
+http://www.judis.nic.in alleged failure in complying with the provisions for publication under
+Sections 4(1) and 6 of the 1894 Act. The Supreme Court, therefore, set aside the judgment of the
+Division Bench dated 27.8.2002 as well as the judgment of the learned Single Judge dated
+22.9.2000 and remanded the matter back to the learned Single Judge in relation to the issues raised
+by the purchasers, who had filed their separate writ petitions.
+16. It is during the pendency of these proceedings that the writ petition filed by the appellant,
+namely W.P.No.3640 of 2001, giving rise to the present appeal, also came to be allowed on
+24.12.2003 by a learned Single Judge following the decision rendered in the case of the purchasers.
+This was prior to the judgment of the Apex Court, referred to above.
+17. A review petition, being Review Petition No.44 of 2004, was filed by the Tamil Nadu Housing
+Board contending therein that since the writ petition of the appellant had been allowed following the
+decisions in favour of the purchasers from other co-owners, __________ http://www.judis.nic.in
+which stood reversed by the Apex Court, this judgment also deserves to be reviewed.
+18. The review petition remained pending and during the pendency of this review petition, the cases
+relating to the purchasers that had been remanded by the Apex Court came to be heard by the
+learned Single Judge and their writ petitions, being W.P.Nos.19925 and 19927 of 2004, were again
+allowed on 21.12.2004 in their favour.
+19. Against the said judgment of the learned Single Judge, two writ appeals, being W.A.Nos.1241 and
+1242 of 2005, were preferred which came to be pending.
+20. The aforesaid facts with regard to the litigations of purchasers was noticed by the learned Single
+Judge in the Review Petition No.44 of 2004 and having considered the same, the review petition
+was allowed on 15.2.2008 with a direction that the writ petition of the appellant would also be
+posted for disposal along __________ http://www.judis.nic.in with the aforesaid two writ appeals
+in the matter of the purchasers.
+21. It appears that the appellant's writ petition remained pending and the two writ appeals of the
+Housing Board that were filed against the judgment in favour of the purchasers were taken up for
+hearing and were ultimately allowed on 25.11.2008. The respondents have also pressed the said
+judgment as having become final and is one of the sheet anchor of their arguments.
+22. It is thereafter that the writ petition giving rise to the present appeal came to be heard and was
+dismissed on 24.6.2019 by the learned Single Judge following the judgment of the Division Bench
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 7
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+dated 25.11.2008. The Review Application No.155 of 2019 filed by the appellant was also dismissed
+by the learned Single Judge on 26.8.2019, whereafter the present appeal has been filed.
+23. Arguments on behalf of the appellant were advanced by Mr.AR.L.Sundaresan, learned Senior
+Counsel, along with Mr.G.Sankaran, and the learned Advocate General has spearheaded
+__________ http://www.judis.nic.in the arguments on behalf of the State and the Housing Board,
+assisted by Dr.R.Gouri, on 9.7.2020.
+24. It may be pointed out that the writ appeal had been entertained by a Division Bench and the
+following order was passed on 4.12.2019.
+“Heard learned counsel for the appellant and learned counsel for the respondents/State as well as
+learned counsel for the respondent/ Housing Board.
+2.The respondents' counsel pray for two weeks time to file a response, particularly with regard to the
+primary argument advanced on behalf of the appellant that the entire proceedings including the
+acquisition proceedings, the delivery of award and other consequential actions were undertaken
+without notice to the appellant, who is the land owner and without any service of notice on the
+recorded tenure holder.
+3.The submission is that the recorded tenure holder is none else than the father of the appellant,
+who died way back in 1961 and the proceedings were concluded as per the revenue records, which
+contained the __________ http://www.judis.nic.in name of the father of the appellant, therefore,
+any proceedings carried out against a dead person are a nullity. The affidavit to be filed may respond
+to the same along with other particulars that may be warranted.
+Put up on 23.01.2020.”
+25. The matter was adjourned thereafter on a counter affidavit being filed on behalf of the State, to
+which a rejoinder has also been filed in this appeal. It may, however, be put on record that no
+counter affidavit had been filed on behalf of the respondents in the writ petition. This fact has been
+noted in the judgment earlier rendered in the writ petition on 24.12.2003, which was reviewed on
+15.2.2008, but even thereafter no counter affidavit appears to have been filed to the original writ
+petition. The appellant petitioner also filed an additional affidavit before the learned Single Judge
+raising specific pleas to substantiate what has been argued before us and it is urged that the learned
+Single Judge did not adhere to those additional pleas in spite of the fact that no __________
+http://www.judis.nic.in counter was filed to the said additional affidavit by the respondents. It is for
+this reason that the Division Bench had called upon the respondents to file their counter along with
+any particulars that may be warranted in terms of the order dated 4.12.2019 quoted herein above.
+The affidavits have thereafter been exchanged in this writ appeal.
+26. Advancing his submissions, Mr.AR.L.Sundaresan, learned Senior Counsel urged that the case of
+the appellant on facts was clearly distinguishable and even the legal issues raised in the writ petition
+filed by the appellant were not covered by the judgment of the Division Bench dated 25.11.2008, yet
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 8
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+the learned Single Judge only relying upon the same and without traversing the facts of the present
+case on the issues raised has dismissed the writ petition and has also rejected the review application
+and, hence, the impugned judgment and the consequential dismissal of the review application are
+clearly vitiated and they deserve to be set aside.
+27. To substantiate his submissions, he contends that the __________ http://www.judis.nic.in
+litigation that was fought by the purchasers resulting in the judgment dated 25.11.2008 has nowhere
+decided any issue of a proceeding having been finalized against a dead person, which is the case
+presently involved. His first contention is that, admittedly, according to the respondents, the
+revenue records, the notification under Sections 4 and 6 of the 1894 Act, and the ultimate delivery of
+the award in 1994, leave no room for doubt that the name of the appellant's father G.Narayanasamy
+Naidu @ G.N.Sam had been mentioned, who died on 9.1.1961, almost 30 years prior to the initiation
+of the acquisition proceedings. Thus, the recorded tenure holder being dead, there cannot be any
+valid presumption of notice, or presumption of actual or implied service of notice on the appellant,
+whose name was neither recorded, nor did the respondents undertake any exercise during the
+enquiries to correct the revenue records and rectify the notifications, so as to enable them to serve a
+notice on the appellant. The appellant has clearly set up a case in his writ petition, as well as the
+additional affidavit filed by the appellant, and the additional grounds that were brought on record,
+copy whereof was served on the respondents. He __________ http://www.judis.nic.in submits
+that since no counter affidavit was filed to the writ petition, the said affidavits remained
+uncontroverted and the aforesaid fact of the matter having proceeded against the dead person
+without any notice having been served on his heirs, including the appellant, was totally overlooked
+by the learned Single Judge. He submits that these peculiar facts in the present case were not the
+issue that was either raised or decided in the case of the purchasers culminating in the judgment
+dated 25.11.2008. The contention, therefore, is that the entire acquisition proceedings having been
+carried out against a dead person is a nullity.
+28. His second contention is that there is no evidence of any notice having been served on the
+appellant. He further submits that there was no question of service of notice, even if it was issued to
+the father of the appellant, who was dead way back in the year 1961. His contention, on the basis of
+the pleadings made in the writ petition as well as the additional affidavit, is that no effort or enquiry
+was ever made by the revenue officials or the acquiring authority either before the award or during
+the time of the award to __________ http://www.judis.nic.in find out the legal heirs and then
+proceed in the matter after serving of notice. He, therefore, submits that neither under Section 5A,
+nor under Section 9(1) read with Section 9(3), nor in the proceedings under Section 11, nor at the
+time of the alleged taking over of the possession any notice was ever given to the appellant. The
+absence of any such material, which was not there through any counter affidavit before the learned
+Single Judge, would clearly establish that this sine qua non of statutory requirements have not been
+proved to have been followed, and hence the acquisition proceedings deserve to be struck down.
+29. As a necessary corollary, he submits that the recital contained in the award about service of
+notice to the notified persons is patently false, as the notified person is a dead person, namely, the
+father of the appellant. The averments to the said effect contained in the counter affidavit filed in
+this appeal by the respondents are not supported by any records and are unsubstantiated and,
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 9
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+therefore, the averments contained are also equally a reflection of falsehood. He, therefore, submits
+that the __________ http://www.judis.nic.in respondents having failed to establish any service of
+notice, the averment contained in the award should be declared to be incorrect and the contention
+raised in the counter affidavit deserves outright rejection.
+30. He then supplements the above argument by contending that the appellant has clearly come out
+with a case that he had no notice or knowledge of the entire acquisition proceedings till November,
+2000, whereafter immediately he filed his writ petition. The contention, therefore, that the writ
+petition could not be entertained after the award, that too even seven years thereafter, is not tenable,
+in as much as, as already indicated above, on account of the orders passed in the writ petitions filed
+by the purchasers, nothing had proceeded and the respondents had not been able to take over
+possession of the property. Secondly, after the appellant filed the writ petition and interim
+injunction was granted, which was clarified to the effect that the injunction shall operate only with
+regard to dispossession, the said injunction order had continued throughout. He has also urged that
+the plea of delay __________ http://www.judis.nic.in is not open to be taken by the respondents,
+in as much as they did not file any counter affidavit at any stage in the writ petition since 2001 till
+the final disposal, and it is only for the first time they have filed a counter affidavit and contested the
+matter in this appeal. The delay, as alleged, therefore is not on account of any willful default on the
+part of the appellant, and on the other hand, the entire default of not filing any counter affidavit
+before the learned Single Judge disentitles the respondents from raising any such plea of delay in
+the filing of the writ petition. In such circumstances, once it is established that the proceedings were
+against the dead person and no notice whatsoever at any stage was served on the appellant, then the
+filing of the writ petition by the appellant after seven years of the award was fully justified in the
+background aforesaid, and was rightly entertained. It is, therefore, his contention that both on the
+first issue relating to the proceedings against dead person and on the second ground relating to a
+complete absence of service of notice, the acquisition proceedings deserve to be quashed.
+__________ http://www.judis.nic.in
+31. The third argument advanced by Mr.AR.L.Sundaresan, learned Senior Counsel is that there is no
+valid proof of possession having been taken over by the respondents and the land, therefore, cannot
+be said to have vested in the light of the Division bench judgment dated 25.11.2008. He submits that
+there is no proof of possession or the existence of any panchanama to record such possession. To the
+contrary, the possession certificate allegedly relied on by the respondents dated 9.12.1994 is the
+handing over of possession through the said document by the Tahsildar, Coimbatore to the Tamil
+Nadu Housing Board. The said document is no evidence of possession being taken from the tenure
+holder, for which he has cited certain decisions that will be referred to herein after.
+32. It is, therefore, urged that according to Section 16 of the 1894 Act, vesting can only take place
+after possession is taken, which never took place, as the appellant had been throughout in
+possession, which has also been protected by an interim order during the pendency of the writ
+petition. He submits that the land __________ http://www.judis.nic.in in dispute is vacant as on
+date.
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 10
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+33. The fourth argument advanced by the learned Senior Counsel is that no deposit of the
+compensation amount is established and what has been pleaded before the Court is of the tendering
+of a cheque. He submits that it is only a counterfoil of the cheque which has been brought before the
+Court, which is no deposit, much less a valid deposit in the eyes of law.
+34. He has summed up contending that this entire exercise of depriving the appellant of his property
+without following the due process of law is clearly violative of Article 300A of the Constitution of
+India.
+35. The following judgments have been relied on by Mr.AR.L.Sundaresan to substantiate his
+submissions:
+(i) Hindustan Petroleum Corporation Ltd. v. Darius Shapur Chennai and others,
+(2005) 7 SCC 627;
+(ii) Patasi Devi v. State of Haryana and others, __________
+http://www.judis.nic.in (2012) 9 SCC 503;
+(iii) Banda Development Authority v. Motilal Agarwal and others, (2011) 5 SCC 394;
+(iv) Raghbir Singh Sehrawat v. State of Haryana and others, (2012) 1 SCC 792;
+(v) Tamil Nadu Housing Board and another v.
+iGate Global Solutions Limited and another, 2016-2-LW 122;
+(vi) The Chairman and Managing Director, Tamil Nadu Housing Board and another v.
+Dhanalakshmi and others [Judgment dated 9.11.2017 in W.A.No.394 of 2014]
+(vii) Indore Development Authority v. Manoharlal and others, 2020 SCC Online SC 316.
+36. The aforesaid arguments were countered by the learned Advocate General contending that the
+judgment dated 25.11.2008 by the Division Bench arising out of the same notification in the case of
+the purchasers had already become final and, therefore, the __________ http://www.judis.nic.in
+acquisition having been upheld after having considered all the issues relating to acquisition, the
+same would be binding on the appellant and this Court has not been apprised of any such argument
+to persuade to take a different view.
+37. He submits that the land has vested and possession had been validly taken free from all
+encumbrances. He further submits that a small minuscule area is left in this litigation and,
+therefore, keeping in view the nature of the entire huge project for housing that has been
+undertaken, the same should not be forestalled at the instance of a person who was merely a
+fence-sitter and is an inter- meddler without any semblance of title.
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 11
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+38. He further submits that the deposit had been rightly tendered and possession had already been
+effected in accordance with the provisions of the 1894 Act.
+39. He submits, on the strength of the counter affidavit, that the allegation of no notice having been
+issued or served at any __________ http://www.judis.nic.in stage is bald and without any basis.
+He contends that public notice was also made by beat of drums/tom tom, which has been noticed by
+the Division Bench in the judgment dated 25.11.2008.
+40. His next contention is that the appellant claiming himself to be the son of Narayanasamy has not
+explained anywhere that if his father has died in 1961 and he had received the property by way of a
+partition deed, then why he did not take any steps to get his name mutated in the revenue records,
+and the inaction on the part of the appellant cannot enure to his advantage, when he was claiming
+possession over the land.
+41. The learned Advocate General has then cited the Constitution Bench judgment in the case of
+Indore Development Authority v. Manoharlal and others (supra), where in matters of land
+acquisition, the issue of possession and the manner of vesting has been clearly explained and he has
+taken the Court through various paragraphs to assert that the acquisition in the present case is
+complete with the land having vested with the State free from all __________
+http://www.judis.nic.in encumbrances.
+42. He has referred to the Division Bench judgment dated 25.11.2008 [Executive Engineer and
+others v. Girija Janarthanan and others, (2009) 2 MLJ 918] to point out that the said decision also
+takes notice of the Supreme Court judgment in the case of Satendra Prasad Jain v. State of U.P.,
+(1993) 4 SCC 369, as well as other judgments, where it has been held that the Courts have to weigh
+larger public interest vis-a-vis the private interest and the acquisition proceedings have to be
+upheld, where possession has been taken, leaving the issue of compensation only being claimed by a
+person in accordance with law.
+43. He has also relied on a Division Bench judgment in G.S.Gopalakrishnan and others v.
+Government of Tamil Nadu and others, 2006 (4) CTC 757 to urge that notification under the 1894
+Act will not per se be invalidated merely because a dead person's name has been notified. He,
+therefore, submits that in the background aforesaid, the appellant is not entitled to any relief and
+__________ http://www.judis.nic.in the learned Single Judge has rightly dismissed the writ
+petition.
+44. Since we had certain doubts about the incomplete information being tendered by the
+respondents relating to the records, we had at the close of arguments on 9.7.2020 passed an order
+reserving the judgment, but, at the same time, had also permitted the learned counsel for the
+respondent Housing Board and the learned Advocate General to inform us about the availability of
+any documents with regard to taking over of possession or such other document, after providing it
+to the learned counsel for the appellant. The order dated 9.7.2020 is extracted herein under:
+“Arguments concluded.
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 12
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+Learned counsel for the Housing Board states that in the event of any document with
+regard to taking over possession is available on record, the scanned copy thereof shall
+be provided to the learned counsel for the petitioner and shall also be tendered before
+this Court.
+Learned counsel for the Housing Board may also supply copies of the notices which
+are stated to have been __________ http://www.judis.nic.in issued and served on
+the recorded land owners pursuant to the notifications issued under Sections 4(1)
+and 6 of the Land Acquisition Act, 1894.
+Judgment reserved.”
+45. As a sequence to the aforesaid indulgence granted by us, an additional counter affidavit along
+with additional typed set of papers came to be filed on behalf of the respondents and a mention was
+made by the learned Advocate General as well as Dr.Gouri, learned counsel for the Housing Board,
+to take the same on record. This mention was accepted on 15.7.2020 and we granted time to the
+learned counsel for the appellant to file a reply as well as any other document that he would choose
+to rely on in response to the additional counter affidavit and the documents relied on by the learned
+counsel for the Housing Board. The order passed on 15.7.2020 is extracted herein under:
+“We have reserved judgment in this case subject to furnishing of any further
+information by the learned counsel for the State and the Housing Board in the
+matter.
+__________ http://www.judis.nic.in
+2. Today, Sri.AR.L. Sundaresan, learned Senior Counsel appearing for the appellant
+informs that he has been served with an affidavit to which, a re-
+joinder is required to be filed as certain new documents are introduced.
+3. Learned Advocate General has already made a mention in this regard and prayed for some time to
+allow him to advance his submissions on these documents.
+4. With the consent of the parties, we fix the date as 21.07.2020.
+List the matter on 21.07.2020.”
+46. When the arguments commenced again, as directed on 21.7.2020, the learned Advocate General
+relying on the additional counter affidavit filed now had advanced an altogether new submission
+denying the very identity of the appellant's father as being the true owner of Plot No.411/2 in
+question. He has urged that there was another person by the name of Narayanasamy, Son
+__________ http://www.judis.nic.in of Subba Naidu, who is the recorded tenure holder in the
+revenue records and whose name was notified in the notifications issued under Section 4 and 6. This
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 13
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+person is not the father of the appellant and, therefore, the appellant has set up a totally false case of
+being the owner of the land in dispute by claiming succession through his father, who was never the
+recorded tenure holder of the land in question. For this, he has invited the attention of the Court to
+various documents and revenue records that have been filed in support of the additional counter
+affidavit filed by the second respondent through a typed set of papers. He, therefore, submits that
+the person, whose name was mentioned in the revenue records and in the notifications under
+Sections 4 and 6, was sought to be served with a notice and since he did not choose to appear either
+during the enquiry proceedings under Section 5A or the award enquiry proceedings, the award was
+delivered in his absence. For this, the learned Advocate General has urged that the real person, who
+is the owner of the land in dispute, is Narayanasamy, Son of Subba Naidu, and for which he prays
+that this Court may peruse the death certificate of S.Narayanasamy __________
+http://www.judis.nic.in Naidu, son of Subba Naidu, indicating that he had different heirs as per the
+legal heir certificate that has been placed on record now. The said Narayansamy is, therefore, not
+the same person as the father of the appellant and hence while disputing the very parentage of the
+appellant, the respondents have now come up with a case on the strength of the documents relating
+to the despatch of the award papers to the Court for disbursement of the compensation and other
+documents pertaining to revenue records, that the appellant not being the son of the notified person
+named in the notifications, his entire claim as set up in the writ petition is false and the same
+deserves to be dismissed.
+47. Refuting the aforesaid submissions, Mr.AR.L.Sundaresan, learned Senior Counsel, with the help
+of a rejoinder and an additional typed set of papers filed in reply, contended that this is a totally
+false generated case now set up by the respondents after almost 19 years of the filing of the writ
+petition without even a whisper about the same throughout the proceedings. __________
+http://www.judis.nic.in
+48. Learned Senior Counsel with the aid of the documents already filed on record, coupled with the
+documents now filed in rejoinder along with the typed set of papers, contends that the procurement
+of the death certificate or even the revenue records as alleged by the respondents appear to have
+been manipulated and are not in relation to the subject matter in dispute. It is submitted that this
+reversal of stand as against the counter affidavit filed earlier clearly demonstrates that the
+respondents have been changing their stand with the aid of documents that have been procured
+subsequently, that have no probative value. It is urged that this new case, which is now sought to be
+developed by the respondents in this appeal, should be completely discarded and the appeal as well
+as the writ petition deserve to be allowed.
+49. Having considered all these submissions, since the case has taken a new turn with the
+subsequent filing of additional counter affidavit and the response thereto by the appellant, to us it
+appears that all these aspects were not even mentioned by the learned Single Judge, including the
+legal issues that were advanced __________ http://www.judis.nic.in before him. The learned
+Single Judge simply relied on the judgment of the Division Bench in the case of the purchasers from
+the other co-others dated 25.11.2008 and dismissed the writ petition on the said ground. As noted
+earlier, no counter affidavit had been filed by the respondents to the writ petition filed by the
+appellant. The appellant petitioner had also filed an additional affidavit to substantiate his pleadings
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 14
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+before the learned Single Judge, which also went uncontroverted. This aspect has also been omitted
+to be considered by the learned Single Judge. The aforesaid omission has, therefore, caused a
+prejudice to the appellant petitioner, resulting in injustice and, hence, calls for an interference in
+this intra-court appeal, as it would have a direct bearing on the plea of certiorari raised by the
+appellant petitioner.
+50. The learned Advocate General could not successfully contest this position that whatever material
+they are now seeking to rely on was not placed before the learned Single Judge, nor the arguments
+necessary in relation thereto could be pressed into service effectively. He contends that the
+examination of the __________ http://www.judis.nic.in relevant material on record was required
+to be gone into in order to establish as to whether the rightful claimant has come forward on the
+basis of relevant documents or not. We are also clearly of the opinion that this sifting of facts was
+necessary, as it is perversity which was alleged by the appellant and we find that the relevant
+documents, which may have a bearing on the issues raised before us and were necessarily required
+to be gone into for accepting the challenge of the appellant or otherwise, have not been considered at
+all.
+51. The question of appreciating bare minimum facts, which at times may be disputed, have to be
+assessed once non consideration of relevant material is taken as a ground or any patent perversity is
+pointed out. From this angle, we would like to extract the following paragraph from Halsbury's Laws
+of England, which is extracted herein under:
+“613. The distinction between law and fact. The distinction between what will be
+treated as a question of law and what will be treated as a question of fact is one of
+importance. In general, where a body makes an error of law in reaching a decision, it
+will act without __________ http://www.judis.nic.in jurisdiction or power, and the
+court may quash that decision on an application for judicial review. By contrast the
+court will generally not intervene on the ground that a body has reached an
+erroneous finding of fact unless the finding is manifestly unreasonable or a mistake
+has been made as to an established and material fact that gives rise to unfairness or
+the finding of fact was otherwise reached through an error of law or is a precedent
+fact.
+There is often difficulty in deciding whether a question should be classified as one of
+law or as one of fact (or fact and degree). Determination of the primary facts is not a
+matter of law, but to make a finding unsupported by any evidence is an error of law.
+Drawing inferences from the facts fall within the ambit of a statutory description, are
+potentially classifiable as questions of law, as questions of fact, or as questions of
+mixed law and fact. The method of classification may be important, for judicial
+review of findings of law may entail an independent determination of the matter
+already decided, whereas a review of findings of fact is likely to be more limited. It
+has been said that if the question is one which only a trained lawyer can be expected
+to decide correctly, there is a presumption that it will be categorised as one of law.
+Otherwise the question is usually treated as one of mixed law and fact, so that the
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 15
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+range of meanings that can reasonably be ascribed to a statutory expression is a
+question of law; but whether the facts as found fall within the ambit of that
+expression will be held to be a question of fact, on which the decision of the
+competent authority will not be disturbed unless it is perverse (or is such that no
+reasonable authority properly instructed in the law could have arrived at it), or is
+erroneous because a wrong legal approach has been adopted.
+__________ http://www.judis.nic.in A court will generally be reluctant to disturb
+the findings of a tribunal with specialised knowledge of technical subject matter,
+irrespective of whether these findings be classified as law or fact.”
+52. As to what is the nature of the fact that deserves to be taken into consideration for the exercise of
+a writ of certiorari would be a matter of assessment by the Court, when it is called upon to issue such
+a writ. We may mention the following judgments that can be taken into account for the said
+purpose.
+53. At the outset it may be clarified that where there are disputed questions of fact, generally they
+are not required to be investigated in a proceedings under Art.226 of the Constitution of India. The
+Court should briefly refer to what the disputed questions of fact are so as to exercise restraint of
+discretionary jurisdiction, but merely because there are some disputed questions of fact may not be
+sufficient to dismiss the Writ Petition. It should be remembered that the issuance of a prerogative
+Writ is a rule of discretion and not one exclusion of jurisdiction. The High Court is __________
+http://www.judis.nic.in not incompetent to decide an issue of fact which can be determined from
+the materials on record. Reference be had to the judgment in the case of CENTURY SPINNING
+AND MANUFACTURING COMPANY LTD. AND ANOTHER v. THE ULHASNAGAR MUNICIPAL
+COUNCIL AND ANOTHER, (1970) 1 SCC 582. However, a disputed question of fact should not be
+adjudicated in the absence of sufficient pleadings.
+54. The next question is as to what would be the scope of exercise of powers when a Writ of
+Certiorari is prayed for. For this a little bit of history on the Writ of Certiorari may be gainfully
+mentioned here as developed through caselaws both in the pre- constitutional colonial era and also
+in the post-Constitutional decisions that have been followed till date.
+55. The House of Lords while affirming the judgment of the Kings Bench reported in 1911 A.C. 179,
+in the case of BOARD OF EDUCATION v. RICE AND OTHERS, where the Lord Chancellor Lord
+Loreburn laid down the general concept of interference through __________
+http://www.judis.nic.in a Writ of Mandamus and Certiorari even in decisions arising out of
+administrative bodies where His Lordship ruled as follows:
+“Comparatively recent statutes have extended, if they have not originated, the
+practice of imposing upon departments or officers of State the duty of deciding or
+determining questions of various kinds. In the present instance, as in many others,
+what comes for determination is sometimes a matter to be settled by discretion,
+involving no law. It will, I suppose, usually be of an administrative kind; but
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 16
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+sometimes it will involve matter of law as well as matter of fact, or even depend upon
+matter of law alone. In such cases the Board of Education will have to ascertain the
+law and also to ascertain the facts. I need not add that in doing either they must act in
+good faith and fairly listen to both sides, for that is a duty lying upon every one who
+decides anything. But I do not think they are bound to treat such a question as
+though it were a trial. They have no power to administer on oath, and need not
+examine witnesses. They can obtain information in any way they think best, always
+__________ http://www.judis.nic.in giving a fair opportunity to those who are
+parties in the controversy for correcting or contradicting any relevant statement
+prejudicial to their view. Provided this is done, there is no appeal from the
+determination of the Board under s.7, sub-s.3, of this Act. The Board have, of course,
+no jurisdiction to decide abstract questions of law, but only to determine actual
+concrete differences that may arise, and as they arise, between the managers and the
+local education authority. The Board is in the nature of the arbitral tribunal, and a
+Court of law has no jurisdiction to hear appeals from the determination either upon
+law or upon fact. But if the Court is satisfied either that the Board have not acted
+judicially in the way I have described, or have not determined the question which
+they are required by the Act to determine, then there is a remedy by mandamus and
+certiorari.”
+56. This concept in the context of the Presidencies of Bombay, Madras and Calcutta in India and
+their jurisdiction to exercise such powers as were available to the Courts of Kings Bench was
+considered by the Privy Council in the case of RYOTS OF __________ http://www.judis.nic.in
+GARABANDHO, SARIYAPALLI AND RAMACHANDRAPURAM VILLAGES, GARABANDHO
+GROUP, PARLAKIMEDI ESTATE v. THE ZAMINDAR OR PARLAKIMEDI AND THE BOARD OF
+REVENUE, MADRAS, reported in (1944) I.L.R. 457 Madras.
+57. With the advent of the Constitution in the post-colonial era, this issue came to be examined by a
+Bench of 6-Judges of the Apex Court in the case of PROVINCE OF BOMBAY v. KHUSHALDAS S.
+ADVANI AND OTHERS, reported in AIR 1950 SC 222, whereby a majority of 4:2 it was held that a
+Writ of Certiorari cannot be issued against purely administrative action. The Court was considering
+the provisions of Bombay Land Requisition Ordinance, 1947 where the judgment of the Bombay
+High Court was reversed holding that such orders can be challenged by way of action at Common
+Law and not by way of Writ of Certiorari. The said judgment, however, in its minority view as
+expressed by Justice M.C. Mahajan and more extensively by Justice B.K. Mukherjea (as His
+Lordship then was) held that in the performance of an executive action, the authority ought to apply
+his __________ http://www.judis.nic.in mind to the materials before him and in that course it is
+necessary that he should act in good faith and should not be influenced by any extraneous
+consideration. The Hon’ble Judge then went on to explain the distinction between a judicial function
+and an administrative function and then it was finally opined by the Hon’ble Judge that the High
+Court was right in interfering by a Writ of Certiorari.
+58. The said minority view, however, flowered later on with a little bit of expansion which came to
+be considered by a 5-Judges Constitution Bench in the case of VEERAPPA PILLAI v. RAMAN &
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 17
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+RAMAN LTD. AND OTHERS, AIR 1952 SC 192, as referred to in paragraph 20 of the said judgment.
+59. The above said judgment was followed by the judgment in the case of ELECTION
+COMMISSION, INDIA v. SAKA VENKATA SUBBA RAO AND OTHERS, AIR 1953 SC 210 where the
+words “for any other purpose” occurring in Art.226 of Constitution of India was emphasized.
+__________ http://www.judis.nic.in
+60. The third decision that we would like to refer to is in the case of T.C. BASAPPA v. T. NAGAPPA
+AND OTHERS, AIR 1954 SC 440 where the general principles as to when a Writ of Certiorari would
+be available were explain in paragraphs 7 to 13 of the judgment. In that case the interference by the
+High Court was reversed by the Apex Court.
+61. Then came the 7-Judges Bench decision in the case of HARI VISHNU KAMATH v. SYED
+AHMAD ISHAQUE AND OTHERS, AIR 1955 SC 233, where the scope of Certiorari was again
+discussed in paragraphs 28 to 33 of the judgment.
+62. In another Constitution Bench judgment in the case of SYED YAKOOB v. K.S.
+RADHAKRISHNAN AND OTHERS, AIR 1964 SC 477, the Supreme Court has indicated in a matter
+pertaining to the State Transport Appellate Tribunal that it had ignored material circumstance that
+was germane to the question of public interest. It was further held that if the same had been placed
+__________ http://www.judis.nic.in before the authorities concerned and if the same was ignored
+or not investigated into by the said authorities then the High Court would have certainly had
+jurisdiction under Art.226 of the Constitution of India to quash the order. This was described to be
+an interference where an action is vitiated by an error of law on the face of the record.
+63. As to what would be the scope of interference under Art.226 of the Constitution, a Full Bench of
+the Allahabad High Court, while answering a reference, in the case of NANHA AND OTHERS v.
+DEPUTY DIRECTOR OF CONSOLIDATION, KANPUR AND OTHERS, AIR 1976 All. 91 held as
+under:
+“16. Since the High Court does not under Article 226 sit in appeal. It insists that the
+inferior Court of Tribunal should consider all relevant aspects and evidence. If this is
+not done, manifest error of law becomes apparent. The High Court then further
+considers whether the omission by the inferior court is so blatant or palpable that
+failure __________ http://www.judis.nic.in of justice has resulted.
+17. Our answer to the question referred to us is-
+“If it appears that a court of fact has in substance based its findings on no evidence or that its finding
+is perverse in the sense that no reasonable person could possible come to that conclusion or that it
+erroneously ignores a vital plea or material evidence which affects the result, a manifest error or law
+apparent on the face of the record leading to failure of justice can be said to be established. But if a
+court of a tribunal bases its finding on a consideration of all relevant evidence, but an appellate or a
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 18
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+revisional court or tribunal while affirming the finding does not refer to some material or contrary
+evidence in its order it cannot be said that it has been ignored from consideration so as to entitle the
+High Court to interfere under Article 226 of the Constitution.” __________
+http://www.judis.nic.in
+64. The latest judgment that we could lay our hands on is by the Apex Court in the case of
+GENERAL MANAGER, ELECTRICAL RENGALI HYDRO ELECTRIC PROJECT, ORISSA AND
+OTHERS v. GIRIDHARI SAHU AND OTHERS, reported in (2019) 10 SCC 695 (Paragraph 28),
+where the Apex Court, after tracing most of the judgments referred to hereinabove reaffirmed the
+said principles and also held that a finding of fact which is not supported by any evidence would be
+perverse and would constitute an error or law enabling a Writ Court to interfere in a Writ of
+Certiorari.
+65. There is a legal debate raised in this case about the issuance of a notice, which the appellant
+alleges that even if it was issued, the same was in the name of a dead person, namely his father, who
+had died in 1961.
+66. Death brings about an extinction of human life. The same denotes lifelessness, which is an
+inanimate state denoting the complete absence of life from a body. Once life terminates, the
+__________ http://www.judis.nic.in person is no longer in physical existence.
+67. It is in this context that we have to understand an intimation being given through a notice and
+being despatched, contending that the notice had been issued and was served. A notice is an
+information concerning a fact actually communicating to a party through an authorized person, or
+received by a person from a proper source, or otherwise presumed in law to have been acquired by
+him, which, in that case, would be recorded as equivalent to knowledge. The receipt of information
+through a notice is the tendering of a fact about which the person concerned may have been
+ignorant before. The purpose of a notice has diverse affects, as the notice to whom is tendered in
+legal parlance is made subject to some action or charge or information to avoid any prejudice being
+caused to him. In some cases, and according to the statute applicable, the notice also takes a certain
+form containing descriptions that are required to be contained in a notice to enable a person to be
+informed about such facts. Any inaccuracy __________ http://www.judis.nic.in in the notice can
+also result in non-service, for example, the correct address having been not mentioned therein. Even
+otherwise, the purpose of notice, if wrongly reflected, can cause prejudice to a person. The purpose
+of a notice, therefore, is to enable the receiver to meet any encumbrance that might follow on no
+response being given to a notice. In effect, a notice is a legal instrument to convey knowledge. It is,
+therefore, a positive and express act.
+68. A notice can be actual, constructive, implied, or if knowledge can be inferred from
+circumstances, the same can also amount to a notice. It is, therefore, well known that the statutes
+itself prescribe a mode of notice and a particular form of procedure. The tendering of a notice is not
+a mere procedure, but it is one of the steps of compliance of the principles of natural justice that is
+engrained in Article 14 of the constitution of India.
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 19
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+69. At times, non service of notice and proceedings being taken ex-parte are declared to be non est
+and a nullity, as the proceedings may have been conducted without any form of notice
+__________ http://www.judis.nic.in or opportunity to enable the person affected to context the
+notice. The issuance of a notice is, therefore, not an empty formality, but is a vital communicating
+link in a legal process, where it ensures fairness. This fairness of procedure, particularly in matters
+of deprivation of life, liberty and property, are well acknowledged and any prejudicial violation
+thereof cannot be ignored. This is the underlying principle of audi alteram parterm to ensure
+compliance of Principles of Natural Justice.
+70. We may also point out that in matters of compulsory acquisition of land either for compensation
+or even otherwise, a notice on a co-tenure holder may not amount to notice on all the co-tenure
+holders unless it is established that the others had knowledge of the proceedings through a proper
+procedure. Even if the other co-tenure holders, who are the purchasers, are treated to have been put
+to valid notice or even if one of the co-tenure holders had appeared during the enquiry of the award
+proceedings, the same cannot ipso facto establish that the aggrieved person was actually aware of
+the proceedings and had knowledge of the same, __________ http://www.judis.nic.in yet he
+deliberately absented to attend the proceedings.
+71. In this regard, there are certain decisions which deserve to be taken notice of and are of
+relevance in the event such a point is required to be decided, if the appellant's claim is found to
+merit consideration.
+72. A Full Bench of this Court in the case of P.C.Thanikavelu v. The Special Deputy Collector for
+Land Acquisition, Madras and others, AIR 1989 Mad 222, considered the issue of the importance of
+a notice under Section 5A of the 1894 Act. The Full Bench also noticed that in terms of Section 55 of
+the 1894 Act, Rules were framed for the publication of notice. While considering the same, the Full
+Bench also observed as under in paragraph (6):
+“6. It is not in dispute that in all cases where emergency provisions are not invoked
+and an enquiry under Section 5A of the Act is contemplated, the Collector causes
+individual notices to be served on every person known or believed to be interested
+__________ http://www.judis.nic.in in the land to be acquired. Normally, such
+notices are sent to persons whose names are found recorded in the revenue records
+as persons interested. But in several cases it may transpire that persons whose names
+are found recorded in the revenue records as interested persons may cease to have
+such interest by reason of transfers of the holding or otherwise. Nevertheless, no
+mutation of names in the revenue records in favour of persons who have become
+interested in the land might have been effected. The result is that the Collector may
+cause individual notices to be served only on those persons whose names are found in
+the revenue records, but who have ceased to be interested in the land. The result is
+not far difficult to see. Such persons who have ceased to be interested in the land may
+not respond to the notice, nor would they care to participate in the enquiry to be held
+under Section 5A of the Act. In such cases, the statutory enquiry under Section 5A of
+the Act which has not been dispensed with, would be completed without affording a
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 20
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+reasonable opportunity to the persons who have an existing right in the land under
+acquisition. Though it is incumbent upon the Revenue to keep their records up to
+date by effecting mutation of __________ http://www.judis.nic.in names reflecting
+the actual state of affairs by showing the persons really interested in the land in their
+records, yet in a few cases it may so happen that the revenue records are not made up
+to date and the person who is really interested in the land may not receive any notice
+from the Collector for the enquiry under Section 5A of the Act. In such cases, if it is
+brought to the notice of the Collector by the erstwhile land owner or by any other
+person including the present owner thereof, of the names of interested persons, the
+Collector as a statutory functionary cannot decline to afford an opportunity to the
+person who is really interested in the land and, close the enquiry. When such
+information is brought to the notice of the Collector, it is needless to say that the
+principles of natural justice enjoin upon him an obligation to issue notice to the
+person who is found to be really interested in the land even though his name may not
+be found entered in the revenue records. It is true that the Government has the
+prerogative to acquire lands belonging to individuals for a public purpose sanctioned
+under the theory of 'eminent domain'. But the rule of law which governs and controls
+the executive functions in the __________ http://www.judis.nic.in thread that
+runs through the fabric of constitutional democracy, the rule of law behoves the
+Government to act fairly and reasonably and the principles of natural justice are the
+quintessence of such fair play and reasonableness. The decision reported in
+Padmavathi v. State of Tamil Nadu (1978) 91 MLW 80 does not reflect the true
+statement of law. The Supreme Court has held in Swadeshi Cotton Mills v.
+Union of India, MANU/SC/0048/1981 : [1981]2SCR533 that even in the absence of
+express reference to observance of principles of natural justice, such principles
+should be followed whenever it affects the rights of parties. It cannot be gainsaid that
+when the lands of an individual are acquired, albeit he may be paid compensation, his
+civil rights may be affected. It is therefore elementary that, to be consistent with the
+principles of natural justice, such a person should be put on notice before his lands
+are acquired and his objection heard and considered. The enquiry contemplated
+under Section 5A of the Act would be full and complete only when the person who is
+really interested in the land is put on notice. But, at the same time, it is made clear
+that individual notice is mandatory only to those persons whose names are found in
+the revenue __________ http://www.judis.nic.in records or who are found by the
+Collector as persons interested on information received through reliable source.”
+73. A learned Single Judge in the case of Asiya Mariyan v. The Secretary to Government of Tamil
+Nadu, 2000 (4) CTC 125, held as under:
+“12. The perusal of both the Notifications show that the respondents have not applied
+their mind and published the same hurriedly and mechanically.
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 21
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+13. In a matter like this, particularly, when the Government wants to acquire the land
+of citizen for public purpose, it is expected that details regarding ownership, extent.
+Survey Number etc. are to be furnished in clear terms in all the notifications. I have
+already demonstrated as to how the name of the petitioner is wrongly described both
+in 4 (1) Notification and Section 6 Declaration.
+14. I hold that misdescription of material particulars in the Notifications would go to
+show that acquisition proceedings suffer from total non-application of mind
+__________ http://www.judis.nic.in and the petitioner was denied her opportunity
+to make effective objection as required.”
+74. The principle of service of notice being the essence of the fairness of the acquisition proceedings
+was reiterated by a learned Single Judge in the case of V.Devaraj and others v. The State of Tamil
+Nadu and others, 2003 (4) CTC 134.
+75. The Apex Court also took exception to proceedings being undertaken against a dead person in
+the case of I.I.S.Employees' House Building Cooperative Society Limited v. State of Karnataka and
+others, (2005) 12 SCC 483. The said judgment records that the notice had been issued to a dead
+person and they went on to observe in paragraph (6) as follows:
+“6. It is well established that a notification under S.4 of the Act is a preliminary
+notification making it known to the landowners of the intention of the Government to
+compulsorily acquire the land notified therein. The landowners can file objections
+under S.5A of the Act __________ http://www.judis.nic.in (unless dispensed with
+by invoking the provisions of S.17 of the Act) to the proposed acquisition. The
+landowners are required to be given a personal hearing as well. After hearing the
+landowners and considering the objections filed to the proposed acquisition, final
+notification under S.6 of the Act is issued by the Government. While issuing the final
+notification, the Government can leave a part of the land from the proposed
+acquisition or acquire the entire land notified in the notification issued under S.4.
+The land notified under S.6 of the Act would be the acquired land. In the notification
+issued under S.4, the / 3 belonging to Respondent 2, whereas the same does not find
+mention in the notification issued under S.6 of the Act. The contention of the
+appellant is that Survey No. 91/3 instead of 90/3 has been mentioned due to a
+typographical error or printing mistake. No corrigendum has been issued by the State
+of Karnataka correcting the error or mistake, as alleged. This contention was raised
+before the High Court as well which has been rejected by the High Court by giving
+cogent reasons. We agree with the same.
+__________ http://www.judis.nic.in
+76. Another Division Bench of this Court reiterated the same principle in the case of Savithiriammal
+v. The State of Tamil Nadu and another, 2006 (3) MLJ 389.
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 22
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+77. A learned Single Judge in the case of Goundathal and others v. Government of Tamil Nadu and
+others, (2008) 3 MLJ 1339, following the aforesaid decisions held that the initial illegality in the
+notification will result in an invalid award. In that case, the writ petitioner had appeared for the
+award enquiry, but following the Full Bench decision, referred to herein above, the learned Single
+Judge went on to hold that the acquisition proceedings were vitiated.
+78. The same learned Single Judge reiterated the said position in Leelavathi v. The State of Tamil
+Nadu, 2009 (3) CTC 490.
+79. A Division Bench of this Court in the case of J.Doraibabu __________ http://www.judis.nic.in
+and another v. State of Tamil Nadu and others, 2011 WLR 505, found that the notice sent to the
+person concerned had been endorsed as left, whereas, as a matter of fact, he has died. The Court
+commented upon it and held that the notice issued in the name of dead person is non est in law.
+80. On the other hand, a Division Bench of this Court in Jayalakshmi v. The District Collector and
+others [Judgment dated 29.7.2009 in W.A.No.550 of 2009] came to the conclusion that the normal
+principle that the proceedings against the dead person is a nullity, cannot be imported in terms of
+the 1894 Act, unless it is established that the factum of death was not brought to the notice of the
+acquiring authority at the appropriate stage.
+81. Another Division Bench decision in G.S.Gopalakrishnan and others v. Government of Tamil
+Nadu and others, 2006 (4) CTC 757, which has been relied on by the learned counsel for the
+respondents, also holds that the notice issued in the name of a __________
+http://www.judis.nic.in dead person would not be a nullity and it observed in paragraphs (15) to
+(17) as under:
+“15. Thus, it could be seen from the law laid down by the Apex Court that a
+distinction was always maintained between judicial/quasi-judicial proceedings and
+other proceedings. In so far as the scheme of the Land Acquisition Act, 1894 is
+concerned, it envisages various types of notices at various stages. Section 4(1)
+notification is required to be gazetted followed by publication in two dailies having
+circulation in the locality and a local publication. The opportunity provided under
+Section 5-A is actually for 'persons interested' and not necessarily the land owners.
+This enquiry is followed by a Section 6 declaration and the Act thus provides
+innumerable opportunities to "persons interested" in objecting to the acquisition.
+The Land Acquisition Act does not limit its reach to "owners of land", but enables any
+person interested in the land to have a say. Moreover, the liability of the acquiring
+authorities to serve a notice of enquiry is also restricted only to persons whose names
+find a place in the revenue records. When the Act does not even make it obligatory for
+the __________ http://www.judis.nic.in acquiring authorities to conduct a roving
+enquiry to find out the actual owners, beyond the names reflected in the revenue
+records, it cannot be expected of the acquiring authorities to find out if the patta
+holder is alive or dead.
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 23
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+16. In any event, in the case on hand, the Award itself was passed on 19.12.1991 and
+as per the counter-affidavit filed by the respondents in the writ petition, the
+possession was also taken on 13.8.1992. The appellants 1 to 3 herein purchased the
+plots much after the Award enquiry under the sale deeds dated 26.10.1994, 28.9.1992
+and 24.2.1993 respectively. Therefore, the appellants, who are subsequent
+purchasers, are not entitled to maintain a challenge to the acquisition proceedings in
+view of the law laid down by the Supreme Court in U.P. Jal Nigam v. Kalra Properties
+(P) Ltd.
+MANU/SC/0310/1996 : [1996]1SCR683 .
+17. Therefore in our considered opinion, the normal principle that proceedings against a dead
+person are a nullity, cannot be imported to proceedings under the Land Acquisition Act, 1894,
+unless it is established that the factum of death was brought to the notice of the acquiring
+__________ http://www.judis.nic.in authorities at the appropriate stage. Hence, the order of the
+learned Judge does not call for any interference and the writ appeal is dismissed without any order
+as to costs. Consequently, connected WAMP is also dismissed.”
+82. There are three other decisions of the Apex Court that need a reference. The first decision is in
+the case of MAY GEORGE v. SPECIAL TAHSILDAR AND OTHERS, (2010) 13 SCC 98. In that case
+on the facts that were traversed the Court held that non- compliance with Sec.9 of the Land
+Acquisition Act, 1894 was neither fatal nor did it visit any penalty and hence, it was held that it was
+directory. However, in the case of J&K HOUSING BOARD AND ANOTHER v. KUNWAR SANJAY
+KRISHAN KAUL AND OTHERS, (2011) 10 SCC 714, it was held, after noticing the above mentioned
+judgment, that there was a mandatory nature of compliance with all three requirements of modes of
+notice of acquisition as the consequences might end up in violation of Art.300-A of the Constitution.
+The third decision that is worth noticing is that in the case of KULSUM R. NADIAWALA v. STATE
+__________ http://www.judis.nic.in OF MAHARASHTRA AND OTHERS, (2012) 6 SCC 348. We
+are mentioning the above said three cases for the sake of reference only as the same require
+consideration in the even the matter is required to be examined from this point of view.
+83. We are not entering into these questions, in as much as the matter is being remitted back to the
+learned Single Judge for the reasons given herein before, particularly as mentioned in paragraphs
+(49) and (50) of this judgment, and herein after, as also the law referred to herein above, and,
+therefore, it will be open to the parties to contest this position on the basis of the said law in the
+event the facts of the case require such an assessment.
+84. In the light of what has been deliberated by us, we are of the considered opinion that the learned
+Single Judge did not examine any of these factual or legal issues and now with the disclosure of
+certain facts that have been placed before us, we find it expedient, and in the interest of justice, that
+the same should be __________ http://www.judis.nic.in allowed to be contested before the
+learned Single Judge with appropriate pleadings being placed on record. The learned single Judge,
+while dismissing the Writ Petition does not appear to have appreciated the aforesaid principles and
+non-adherence thereto vitiates the impugned judgment. Further, the respondents were also not
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 24
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+diligent in even filing a counter-affidavit before the learned single Judge which factor has also been
+overlooked in the impugned judgment. The approach adopted by us is in order to uphold the
+principles underlying the exercise of writ jurisdiction, which go to the extent of obliging us to
+prevent any miscarriage of justice. Learned counsel appearing for all the parties agree that in the
+light of the above, the matter deserves to be remitted back to the learned single Judge. Accordingly,
+with their consent, we are proceeding to dispose of this Appeal.
+85. We, therefore, allow this appeal and set aside the impugned judgment dated 24.6.2019 as also
+the order passed on the Review Application dated 26.8.2019, and restore the writ __________
+http://www.judis.nic.in petition to its original number. Learned counsel for the parties agree that
+the matter be disposed of within a reasonable time, as the acquisition of land is in relation to a
+project which may be held up unnecessarily due to this long drawn litigation. We, therefore, request
+the learned Single Judge to hear out the writ petition finally and if possible decide the same,
+preferably within three months. Even though the learned Advocate General and the learned counsel
+for the Housing Board have opposed the continuance of the stay order, we find it expedient that
+since the appellant had an interim order in the writ petition since 26.2.2001, as modified on
+5.2.2003 regarding possession, and which continued throughout the pendency of the writ petition,
+the status quo as existing today should be maintained. We accordingly direct that the status quo as
+exists today shall be maintained till the matter is disposed of finally by the learned single Judge. The
+appellant as well as the respondents may file their composite set of affidavits and accompanying
+documents before the learned Single Judge within ten days from today. The matter may be listed
+before the learned Single Judge having the roster after 15 days. The learned Single __________
+http://www.judis.nic.in Judge shall proceed to decide the matter afresh on the basis of whatever
+material is placed before him independently. We should not be construed to have rendered any
+opinion on the merits or otherwise of the claim of the appellant or the stand of the respondents. No
+costs. Consequently, C.M.P.Nos.7390 of 2020 and 24418 of 2019 are closed.
+(A.P.S., CJ.) (S.K.R., J.)
+22.07.2020
+Index : Yes
+sasi
+__________
+http://www.judis.nic.in
+To:
+1. The Secretary to Government
+Government of Tamil Nadu
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 25
+Ravisam vs The Government Of Tamil Nadu on 22 July, 2020
+Housing and Urban Development Department Chennai – 600 009.
+2. The Special Tahsildar (Land Acquisition) Housing Scheme No.3 Coimbatore.
+3. The Executive Engineer and Administrative Officer Coimbatore Housing Unit Tamil Nadu
+Housing Board Coimbatore.
+__________ http://www.judis.nic.in THE HON'BLE CHIEF JUSTICE AND SENTHILKUMAR
+RAMAMOORTHY, J.
+(sasi) 22.07.2020 __________ http://www.judis.nic.in
+Indian Kanoon - http://indiankanoon.org/doc/197433311/ 26

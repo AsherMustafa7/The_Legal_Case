@@ -1,0 +1,1285 @@
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18
+September, 2025
+IN THE HIGH COURT OF KARNATAKA AT BENGALURU
+®
+DATED THIS THE 18th DAY OF SEPTEMBER, 2025
+PRESENT
+THE HON'BLE MRS. JUSTICE ANU SIVARAMAN
+AND
+THE HON'BLE DR. JUSTICE K.MANMADHA RAO
+COMMERCIAL APPEAL No.403 OF 2023
+BETWEEN:
+THE STATE OF KARNATAKA
+THROUGH THE COMMISSIONER
+OF PUBLIC INSTRUCTION
+DEPARTMENT OF SCHOOL
+EDUCATION AND LITERACY
+K.R.CIRCLE, BENGALURU-560 001.
+...APPELLANT
+(BY SRI. KIRAN V. RON, AAG A/W
+SRI ADITYA VIKRAM BHAT, AGA)
+AND:
+1. M/S. SIDDHARTH INFOTECH PVT. LTD.,
+A COMPANY INCORPORATED UNDER THE
+PROVISIONS OF THE COMPANIES ACT, 1956
+HAVING ITS REGISTERED OFFICE AT
+NO.303, SHIVAPRAKRUTHI APARTMENTS,
+TALACAUVERY LAYOUT,
+AMRUTHAHALLI,
+BENGALURU-560 092,
+BY ITS DIRECTOR
+MR. B.G.KUMARASWAMY.
+2
+2. EVERONN EDUCATION LTD.,
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 1
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+(IN LIQUIDATION),
+REP. BY ITS OFFICIAL LIQUIDATOR
+HIGH COURT OF MADRAS,
+CORPORATE BHAVAN,
+2ND FLOOR,
+NO.29, RAJAJI SALAI,
+NORTH BEACH ROAD,
+CHENNAI-600 001.
+...RESPONDENTS
+(BY SRI. CHINTAN CHINNAPPA M., ADVOCATE FOR R-1
+SRI K.S.MAHADEVAN, ADVOCATE FOR R-2)
+THIS COMMERCIAL APPEAL IS FILED UNDER SECTION
+13(1A) OF THE COMMERCIAL COURTS ACT, 2015 R/W SECTION
+37(1)(C) OF THE ARBITRATION AND CONCILIATION ACT, 1996,
+PRAYING TO CALL FOR RECORDS IN COM AP.79/2022 FROM THE
+HON'BLE LXXXII ADDITIONAL CITY CIVIL AND SESSIONS JUDGE
+AT BANGALORE AND SET ASIDE THE JUDGMENT DATED
+31.07.2023 PASSED IN COM.A.P.NO.79/2022 ON THE FILE OF THE
+HON'BLE LXXXII ADDITIONAL CITY CIVIL AND SESSIONS JUDGE,
+AT BANGALORE AND ETC.
+THIS APPEAL HAVING BEEN HEARD AND RESERVED FOR
+JUDGMENT ON 22.07.2025 AND COMING ON FOR
+PRONOUNCEMENT OF JUDGMENT, THIS DAY, DR. K.MANMADHA
+RAO, J., PRONOUNCED THE FOLLOWING:
+CORAM: HON'BLE MRS. JUSTICE ANU SIVARAMAN
+and
+HON'BLE DR. JUSTICE K.MANMADHA RAO
+3
+CAV JUDGMENT
+(PER: HON'BLE DR. JUSTICE K.MANMADHA RAO) The current commercial appeal has been filed
+by the Appellants being aggrieved by the concurrent findings passed by the Hon'ble Arbitrator vide
+award dated 18.05.2022 and the judgment in challenge to the arbitration award under Section 34 of
+Arbitration and Conciliation Act, 1996, dated 31.07.2023, in Com.A.P.No.79/2022 on the file of
+LXXXII Additional City Civil & Sessions Judge, Bengaluru (CCH.83) (herein after referred to as 'the
+Commercial Court' for short).
+Facts leading to the filing of this appeal are as under:
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 2
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+2. The State Government decided to implement the Scheme of Government of India,
+known as Information and Communication Technologies (ICT), which was to cover
+4396 schools and the total cost was Rs. 412 Crores. Accordingly, it was decided that
+the Department of Educational Research and Training (DSERT) would be
+implementing through Karnataka State Electronics Development Corporation
+(KEONICS) and agreement as at Ex.P9 was entered into between State Government
+and KEONICS on 22.07.2011. Accordingly, KEONICS invited tenders in which,
+respondent No.2 herein emerged as the successful bidder and an agreement as at
+Ex.P10 was entered into between respondent No.2 and KEONICS on 27.07.2011,
+pursuant to which respondent No.2 was to discharge its obligations and was
+accountable to M/s KEONICS. The respondent No.1 and Ricoh India Ltd., formed
+consortium with respondent No.2. Further, due to the delay caused for the
+implementation of Scheme, on account of request for cancellation and return of Bank
+Guarantees by respondent No.2, State issued termination letter as Ex.P51 dated
+11.08.2016.
+3. The respondent No.1 filed Civil Miscellaneous Petition No.9/2021, before this
+Court seeking appointment of Arbitrator in terms of Clause 37(4) of the agreement at
+Ex.P9 and this Court was allowed the petition and appointed the Arbitrator.
+Thereafter, the statement of claim was filed on behalf of the claimant as on
+04.09.2021. The first meeting of Arbitration was held on 10.12.2021. The respondent
+-
+Government remained absent in spite of sufficient notice and was placed ex-parte. Thereafter,
+learned HCGP participated in the proceedings from second meeting of arbitration as on 23.12.2021.
+On steps being taken, order placing the respondent ex-parte, was recalled.
+4. The Arbitrator after hearing both the sides, has framed the following points for determination :
+(i) Whether the Respondent No-1 proves that there is no privity of contract between
+the claimant and the said Respondent and that the claim statement should be
+dismissed on that ground?
+(ii) Whether the termination of the project, for the reasons assigned by the
+Respondent Government is unlawful, arbitrary and unfair?
+(iii) Whether the claimant is entitled to damages from the Respondent-Government,
+if so, how much?
+(iv) What Award?
+5. The learned Arbitral Tribunal after considering the records placed and hearing both the sides,
+gave the following findings and ordered as under:-
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 3
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+"34. It is thus evident that the contract is composite and also makes express
+provisions for sub contractors and consortium partners. It significantly, brings about
+a direct nexus between the consortium and the respondent Government. It cannot be
+said that the State government would be in a position to sue the consortium and not
+vice-versa"
+"37. In the above background it may not be tenable for government to contend that
+the Claimant and other consortium partners are strangers.....And Action on the part
+of the State Government, touching upon the project, particularly its
+termination-would, to the knowledge of the State government, affect the third party
+agencies, such as claimant and not KEONICS, which merely acting as a 'go-between'
+or agent in, having the project implemented through the consortium. Hence, the
+claim being brought by a party which is directly affected by the action of the State is
+maintainable"
+"62. It is hence held by this tribunal that from the above it is clear that in the absence
+of any apparent 'remodelling of the project', as was claimed in the actual termination
+letter, the several reasons which were approved by the state cabinet and mulled over
+by the government, were apparently false, arbitrary and unfair and could never have
+been assigned. In any event, the so-called reason, in fact assigned, is not attempted to
+be demonstrated, let alone being placed on record-in these proceedings and is hence
+not established as being a valid reason for termination of the project."
+"106. The Claimant shall hence be paid a total sum of Rs.178,98,38,525/- (Rupees
+One Hundred and Seventy Eight Crore Ninety Eight Lakhs Thirty Eight Thousand
+Five Hundred Twenty Five Only) with interest, at a rate of 18% per annum on the
+said total amount, by the State Government-respondent, from the date of award till
+the payment. The Respondent- Government shall also pay and bear the costs
+incurred by the claimant in respect of this arbitration proceedings and the stamp
+duty and registration fee, applicable in respect of this Award."
+6. The Arbitral Tribunal, after hearing both the sides allowed the claim and passed an award dated
+18.05.2022 awarding Respondent No.1 to pay a sum of Rs.1,78,98,38,525/- under various heads.
+7. Aggrieved by the award passed by the arbitral tribunal, the State-appellant herein, preferred an
+appeal before the LXXXII Additional City Civil and Sessions Judge at Bangalore. The Appellate
+Court, framed the following questions for consideration:
+i) Whether there are grounds to set aside the impugned award under section 34 of the
+Arbitration & Conciliation Act?
+ii) What order?
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 4
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+8. On perusal of the records placed before it, the Appellate Court gave the following relevant
+findings:
+"32. The Contents of the bank guarantee clearly states the name of the consortium
+partner, this bank guarantee was duly forwarded by the KEONICS to the petitioner
+state. The names of the consortium partners/sub contract was once again specifically
+notified in writing by way of letters to the KEONICS and duly acknowledged and
+admitted by them. On perusal of the documents and agreement it is clear that the
+findings given by the learned arbitrator is not found with fault and not illegal and
+against the public policy."
+"50. On a parting note, I would like to add, that the challenge to the various clauses of
+contract by the petitioner under the present petition is not tenable. It is accordingly,
+held that the Arbitral Award is neither against the fundamental policy of India nor in
+contravention of law. Therefore, I find no perversity in the Arbitral Award and the
+same is upheld."
+9. The Appellate Court, after hearing both the sides, gave the finding that the arbitral award is
+neither against the fundamental policy of India, nor in contravention of law, and there by confirmed
+the Arbitral Award by judgment and order dated 31.07.2023, the operative portion of the same reads
+as follows:
+"The petition filed under section 34 of the Arbitration and Conciliation Act, 1996, is
+dismissed.
+The Arbitral Award dated 18.05.2022 is hereby confirmed.
+The petitioner shall pay the cost of this proceeding to the Respondent.
+Office is directed to return the arbitral records to the arbitration after the appeal
+period is over.
+The office is directed to send copy of this judgment to both the parties to their email
+IDs as required under Order XX Rule 1 of the Civil Procedure Code as amended
+under section 16 of the Commercial Courts Act."
+10. The learned Counsel for the Appellants would contend that, as far as the maintainability is
+concerned, there is no privity between Appellant and Respondent No-1 and therefore, the claims of
+Respondent No-1 were not maintainable. As far as the privity is concerned, there is no agreement
+between Appellant and Respondent No-1 as such there is no privity.
+11. It was also contended that, M/s KEONICS was responsible for the implementation of Phase 3 of
+the scheme and so, the privity is intended to be with M/s KEONICS.
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 5
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+However, M/s KEONICS was not made party before the Arbitral Tribunal. Further, it was also
+contended that there is no Arbitration Agreement between State and Respondent No.1 and as such,
+State should not have been arrayed as a party before the Arbitral Proceedings.
+12. On this Aspect, learned counsel for the appellant has relied upon Section 7 of Arbitration and
+Conciliation Act, 1996, and the following Judgments:
+Kerela SEB vs Kurien E Kalathil, (2018) 4 SCC 793
+36) Jurisdictional precondition for reference to arbitration under Section 7 of the
+Arbitration and Conciliation Act is that the parties should seek a reference or
+submission to arbitration....Since referring the parties to arbitration has serious
+consequences of taking them away from the stream of civil courts and subject them to
+the rigour of arbitration proceedings, in the absence of arbitration agreement, the
+court can refer them to arbitration only with written consent of parties either by way
+of joint memo or joint application; more so, when Government or statutory body like
+the appellant Board is involve.
+Waverly Jute Mills Co.Ltd vs Raymon & Co. (India) (P) Ltd, 1962 SCC Online SC 70
+4[3]) An agreement for arbitration is the very foundation on which the jurisdiction of
+the arbitrators to act rests, and where that is not in existence, at the time when they
+enter on their duties, the proceedings must be held to be wholly without jurisdiction.
+And this defect is not cured by the appearance of the parties in those proceedings,
+even if that is without protest, because it is well settled that consent cannot confer
+jurisdiction.
+Consulting Engineers Group Limited Vs National Highways Authority of India Reported in 2022
+SCC OnLine Del 3253
+31) the consultants, l.e., M/s. Aecom in association with the petitioner can invoke the disputes
+resolution clause. It is the consultants and not the petitioner in his individual capacity who are
+referred to as "parties" in the arbitration agreement as contained in the Consultancy Agreement.
+Petitioner not being a party to the arbitration agreement in its individual capacity, cannot take
+recourse to the arbitration clause in its individual capacity, or approach this Court in individual
+capacity.
+Geo Miller & Co. Pvt Ltd Vs Bihar Urban Infrastructure Development Corporation Limited & Anr,
+Reported in 2016 SCC OnLine Del 6248
+26) It was then contended that the agreement has been signed not only by Gammon India but also
+by Geo Miller and therefore Geo Miller could its own capacity seek to invoke the arbitration clause.
+The Court is unable to agree with the above submission. The wording of the agreement is clear that
+the consortium would be represented through M/s. Gammon India Limited, lead member of the
+consortium through its authorised signatory. The parties never intended that one of the members of
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 6
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+the consortium separately invoked the arbitration agreement....
+13. By relying upon the above mentioned precedents, it is contended by learned counsel for the
+appellants that the award without an arbitration agreement is without jurisdiction.
+14. It is further contended that the Claimants did not have locus to maintain the Arbitral
+Proceedings and thereby had no locus to make any against the Appellant herein. Other contention
+that was raised was Obligations under contracts cannot be assigned. The following precedents are
+relied upon:
+Khardah Company Ltd Vs Raymon and Co (India) Private Ltd, Reported in AIR 1962
+SC 1840 in Para 7 (Para 7) - An assignment of a contract might result by transfer
+either of the rights or of the obligations thereunder. But there is a well-recognised
+distinction between these two classes of assignments. As a rule obligations under a
+contract cannot be assigned except with the consent of the promise, and when such
+consent is given, it is really a novation resulting in substitution of liabilities. On the
+other hand rights under a contract are assignable unless the contract is personal in its
+nature or the rights are incapable of assignment either under the law or under an
+agreement between the parties.
+7. Kapilaben And Others Vs Ashok Kumar Jayantilal Sheth And Others, Reported in
+(2020) 20 SCC 648 in Para 24 & 30 to 31 (Para 24) - A party to a contract
+obligations/liabilities without the consent of the other cannot assign their party (Para
+30) - Where the conferment of a right or benefit is contingent upon, or coupled with,
+the discharge of a burden or liability, such right or benefit cannot be transferred
+without the consent of the person to whom the co-extensive burden or liability is
+owed.
+(Para 31) - It would be inequitable for a promisor to contract out his responsibility to a stranger if it
+is apparent that the promisee would not have accepted performance of the contract had it been
+offered by a third party. This is especially important in business relationships where the pre-existing
+goodwill between parties is often a significant factor influencing their decision to contract with each
+other.
+15. Additionally, it was also contended that non-
+joinder of of M/s KEONICS renders award a nullity by relying upon the following judgment:
+Khetrabasi Biswal vs Ajaya Kumar Baral and Ors reported in (2004) 1 SCC 317
+wherein it was held that, (Para 6) - The procedural law as well as the substantive law
+both mandates that in the absence of a necessary party, the order passed is a nullity
+and does not have a binding effect.
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 7
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+16. It is further contended that that multiple arbitral proceedings cannot be initiated for same
+subject and for the same claim in AC No. 298/2022 and AC 204/2021. In this regards, the appellant
+placed reliance on the following Judgments:
+In Gammon India Ltd. and Anr vs National Highways Authority of India, reported in
+2020 SCC Online DEL 659, wherein it was observed as under:
+(Para 28) - Multiple arbitrations before different Arbitral Tribunals in respect of the
+same contract is bound to lead to enormous confusion. The constitution of multiple
+Tribunals in respect of the same contract would set the entire arbitration process at
+naught, as the purpose of arbitration being speedy resolution of disputes,
+constitution of multiple tribunals is inherently counter-productive.
+M/s Tantia Constructions Limited Vs Union Of India, Reported in 2022 LiveLaw
+(SC) 624 There cannot be two arbitration proceedings with respect to the same
+contract/transaction.
+Himalaya Complex Vyapari Kalyan Sangh Supela Bhilai Society Vs Himalaya
+Commercial Complex Private Limited, In high Court of Chhattisgar, In ARBR
+No.11/2024 Reported in 2024:CGHC:47358 in Para 10 (Para 10) - Since another
+petition being ARR No.41/2023 has already been filed by one Meharban Singh in an
+individual capacity, who is also stated to be a member of the applicant- Society, this
+petition is not maintainable as two petitions for the same relief, cannot be
+entertained.
+17. It is also contended that Respondent No.2 delegated its obligation to the Respondent No.1 for
+consideration which violates the tender process and Agreement and ultimately committing a
+fundamental breach of the Contract and if Respondent No-2 really wanted to delegate its
+obligations, it should have done with the consent of M/s KEONICS and Appellant. Therefore, the
+Award is liable to be set aside.
+18. As regards the claiming of damages are concerned, it is contended that the Respondent No.2 has
+acted upon the letter dated 17.10.2015, i.e., to include the clauses in the bank guarantee that were
+there in the earlier bank guarantees and therefore, respondents having acted upon should not have
+claimed damages against the appellant.
+19. It is further contended that the Respondent No-2 requested for cancellation and agreed not to
+initiate any legal action claiming any kind of damages. Having agreed not to initiate legal action,
+now Respondent No-1 cannot claim damages, being a member of consortium with Respondent No.2,
+they are bound by the undertaking given by the Respondent No.2.
+20. With regard to unsustainability of damages, it is contended that the Arbitral Tribunal failed to
+independently appreciate the evidence lead by Respondent No-1 and also failed to independently
+assess the evidence. Without, even corroboration, a sum of Rs.4,13,35,588/- has been awarded on
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 8
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+the ground of employing nearly 150 persons for the purpose of conducting a survey over 30 days in
+respect of 4396 schools, incurring cost of Rs.9403/- per school. It is further contended that without
+there being any specific pleading in the claim statement filed by Respondent No-2, the Arbitral
+Tribunal awarded the damages under various heads in contrary to the judgments In Oil And Natural
+Gas Corporation Limited Vs Off-Shore Enterprises Inc, Reported in (2011) 14 SCC 147 in Para 11 to
+(Para - 20)-"The award of Rs 8.7 crores. This itself showed that the figures were not based on any
+acceptable basis and were imaginary. Further, though the claim was for 90 days, at the time of
+arguments before the arbitrators, the claim was increased to Rs 1306.80 lakhs for 180 days which
+works out to Rs 7.26 lakhs per day. There is absolutely no basis for such a claim. Further, it should
+be remembered that the drill-ship was never got repaired and the claim which was an estimate was
+increased by several times on "guess-estimates" at the time of arguments before the arbitrators. We
+have referred to this aspect just to show that the claims were increased by ONGC without any basis
+and accepted and awarded by the Arbitral Tribunal in a casual manner, which amounts to legal
+misconduct."
+State Of Rajasthan and Another Vs Ferro Concrete Construction Private Limited, Reported in
+(2009) 12 SCC 1 in Para 55 (Para 55) - While the quantum of evidence required to accept a claim
+may be a matter within the exclusive jurisdiction of the arbitrator to decide, if there was no evidence
+at all and if the arbitrator makes an award of the amount claimed in the claim statement, merely on
+the basis of the claim statement without anything more, it has to be held that the award on that
+account would be invalid. Suffice it to say that the entire award under this head iswholly illegal and
+beyond the jurisdiction of the arbitrator, and wholly unsustainable.
+Rajasthan State Mines & Minerals Ltd Vs Eastern Engineering Enterprises And Another, Reported
+in (1999) 9 SCC 283 in Para 44j (Para 44j)-The arbitrator is not a conciliator and cannot ignore the
+law or misapply it in order to do what he thinks just and reasonable; the arbitrator is a tribunal
+selected by the parties to decide the disputes according to law Bharat Coking Coal Ltd Vs L.K Ahuja,
+Reported in (2004) 5 SCC 109 in Para 24.
+(Para 24)-Here when claim for escalation of wage bills...... It is not unusual for the contractors to
+claim loss of profit arising out of diminution in turnover on account of delay in the matter of
+completion of the work. What he should establish in such a situation is that had he received the
+amount due under the contract, he could have utilised the same for some other business in which he
+could have earned profit. Unless such a plea is raised and established, claim for loss of profits could
+not have been granted. In this case, no such material is available on record. In the absence of any
+evidence, the arbitrator could not have awarded the same. This aspect was very well settled in
+Sunley (B) & Co. Ltd. v. Cunard White Star Ltd. [(1940) 1 KB 740: (1940) 2 All ER 97 (CA)) by the
+Court of Appeal in England. Therefore, we have no hesitation in deleting a sum of Rs 6,00,000
+awarded to the claimant.
+Unibros Vs All India Radio, Reported in (2023) SCC OnLine SC 1366 in Para 20 (Para 20)-The First
+Award was interfered with by the High Court for the reasons noted above. The Arbitrator, in view of
+such previous determination made by the High Court, could have granted damages to the appellant
+based on the evidence on record. There was, so to say, none which on proof could have translated
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 9
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+into an award for damages towards loss of profit. A claim for damages, whether general or special,
+cannot as a matter of course result in an award without proof of the claimant having suffered injury.
+The arbitral award in question, in our opinion, is patently illegal in that it is based on no evidence
+and is, thus, outrightly perverse; therefore, again, it is in conflict with the "public policy of India" as
+contemplated by section 34(2)(b) of the Act.
+Kailash Nath Associates Vs Delhi Development Authority And Another Reported in (2015) 4 SCC
+136 in Para 43.6, 44.
+(Para 43.6)-The expression "whether or not actual damage or loss is proved to have been caused
+thereby means that where it is possible to prove actual damage or loss, such proof is not dispensed
+with. It is only in cases where damage or loss is difficult or impossible to prove that the liquidated
+amount named in the contract, if a genuine pre-estimate of damage or loss, can be awarded.
+(Para 44)-The Division Bench has gone wrong in principle. As has been pointed out above, there has
+been no breach of contract by the appellant. Further, we cannot accept the view of the Division
+Bench that the fact that DDA made a profit from re-auction is irrelevant, as that would fly in the face
+of the most basic principle on the award of damages-namely, that compensation can only be given
+for damage or loss suffered. If damage or loss is not suffered, the law does not provide for a windfall.
+Batilboi Environmental Engineers Limited Vs Hindustan Petroleum Corporation Limited And
+Another Reported in (2024) 2 SCC 375 in Para 16 (Para 16)-This is without doubt, a sound legal and
+correct proposition. However, the computation of damages should not be whimsical and absurd
+resulting in a windfall and bounty for one party at the expense of the other. The computation of
+damages should not be disingenuous. The damages should commensurate with the loss sustained....
+21. It is contended that, regarding the Earnest Money Deposit, Arbitral Tribunal has awarded Rs.
+1,32,31,438/- on the ground of delay in return of Earnest Money Deposit, even when, 10 crores
+payment towards Earnest Money Deposit was not made by Respondent No-1. Coming to Bank
+Guarantees, it was contended that the Respondent No-1 has claimed Rs.85,65,16,439/- towards
+Bank Guarantees without there being production of any documents to show that it had furnished 21
+bank guarantees.
+22. Regarding other heads for awarding, such as Travel, Food, Beverage Cost of employees, and
+salary of staff, Supply of excess furniture it is contended that even without any documentary
+evidence, the sum was awarded and therefore the same cannot sustain. Further it is contended that,
+for the Project Monitoring Software, without there being production of any documents as to where
+the said project monitoring software was installed, a sum of Rs. 5,97,87,030 was awarded and as
+such is outside the scope of the agreement and thereby patently illegal.
+23. With regards to the award of sum of Rs. 21.60 crores towards the loss of profits and opportunity,
+it is contended that the Respondent No-2 has gone into the liquidation and the same cannot be
+attributed to the State, appellant herein.
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 10
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+24. Per contra, it is contended by the Learned Counsel for the Respondent No-1 that the State has
+raised several additional grounds which were not raised before the commercial court and the
+interference of by an appellate Court under section 37 of the Arbitration and Conciliation Act, 1996
+is even more restricted, i.e., the scope of interference is narrower under Section 37 of the Arbitration
+and Conciliation Act, 1996, as discussed in the judgments referred below:
+Konkan Railway Corporation Limited vs Chenab Bridge Project Undertaking, (2023)
+9 SCC 85, "18. At the outset, we may state that the jurisdiction of the court under
+Section 37 of the Act, as clarified by this Court in MMTC Ltd. v. Vedanta Ltd. [MMTC
+Ltd. v. Vedanta Ltd., (2019) 4 SCC 163 : (2019) 2 SCC (Civ) 293] , is akin to the
+jurisdiction of the court under Section 34 of the Act. [Id, SCC p. 167, para 14:"14. As
+far as interference with an order made under Section 34, as per Section 37, is
+concerned, it cannot be disputed that such interference under Section 37 cannot
+travel beyond the restrictions laid down under Section 34. In other words, the court
+cannot undertake an independent assessment of the merits of the award, and must
+only ascertain that the exercise of power by the court under Section 34 has not
+exceeded the scope of the provision."] Scope of interference by a court in an appeal
+under Section 37 of the Act, in examining an order, setting aside or refusing to set
+aside an award, is restricted and subject to the same grounds as the challenge under
+Section 34 of the Act."
+NTPC Ltd. v. L&T - MHPS Boilers (P) Ltd., (2023) 5 HCC (Del) 158 : 2023 SCC OnLine Del 4225
+13. It is relevant to note that after the 2015 Amendment to Section 34, the above position stands
+somewhat modified. Pursuant to the insertion of Explanation 1 to Section 34(2), the scope of
+contravention of Indian public policy has been modified to the extent that it now means fraud or
+corruption in the making of the award, violation of Section 75 or Section 81 of the Act, contravention
+of the fundamental policy of Indian law, and conflict with the most basic notions of justice or
+morality. Additionally, sub-section (2-A) has been inserted in Section 34, which provides that in
+case of domestic arbitrations, violation of Indian public policy also includes patent illegality
+appearing on the face of the award. The proviso to the same states that an award shall not be set
+aside merely on the ground of an erroneous application of the law or by reappreciation of evidence.
+MMTC Ltd. Vs Vedanta Ltd., reported in (2019) 4 SCC 163, wherein it was held that "14. As far as
+interference with an order made under Section 34, as per Section 37, is concerned, it cannot be
+disputed that such interference under Section 37 cannot travel beyond the restrictions laid down
+under Section 34. In other words, the court cannot undertake an independent assessment of the
+merits of the award, and must only ascertain that the exercise of power by the court under Section
+34 has not exceeded the scope of the provision. Thus, it is evident that in case an arbitral award has
+been confirmed by the court under Section 34 and by the court in an appeal under Section 37, this
+Court must be extremely cautious and slow to disturb such concurrent findings."
+In State of Maharastra vs M/s Hindustan Construction Co. Ltd. reported in AIR 2010 SC 1299,
+wherein it was held as follows:
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 11
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+36. As noticed above, in the application for setting aside the award, the appellant set
+up only five grounds viz.
+waiver, acquiescence, delay, laches and res judicata. The grounds sought to be added in the
+memorandum of arbitration appeal by way of amendment are absolutely new grounds for which
+there is no foundation in the application for setting aside the award. Obviously, such new grounds
+containing new material/facts could not have been introduced for the first time in an appeal when
+admittedly these grounds were not originally raised in the arbitration petition for setting aside the
+award. Moreover, no prayer was made by the appellant for amendment in the petition under Section
+34 before the court concerned or at the appellate stage.
+37. As a matter of fact, the learned Single Judge in para 6 of the impugned order has observed that
+the grounds of appeal which are now sought to be advanced were not originally raised in the
+arbitration petition and that the amendment that is sought to be effected is not even to the grounds
+contained in the application under Section 34 but to the memo of appeal. In the circumstances, it
+cannot be said that discretion exercised by the learned Single Judge in refusing to grant leave to the
+appellant to amend the memorandum of arbitration appeal suffers from any illegality.
+25. Respondent No.1 has also taken support from the Judgment of Bombay High Court, in Goa
+Shipyard Ltd. vs Shoft Shipyard (P) Ltd. 2024 SCC Online Bom 1168 wherein it was held as follows:
+52. A perusal of the impugned orders passed by the District Court shows that there is
+no whisper of such a ground having been agitated in the applications filed under
+Section 34 of the Arbitration Act. No such ground has been raised even in the appeals
+filed before this Court under Section 37 of the Arbitration Act. While discussing the
+scope of jurisdiction under Section 37 of the Arbitration Act, this Court hereinabove
+has found that an appellant cannot be permitted to raise grounds that have not been
+raised before the Court below under Section 34 of the Arbitration Act. This is
+because, a proceeding under Section 37 of the Arbitration Act may be referred to as
+an appeal, but it is not an appeal on facts and law as in the classical sense, since the
+jurisdiction being exercised by the Court under Section 37 of the Arbitration Act is
+narrow, limited and in any case, it cannot go beyond the specified jurisdiction
+available to the Court under Section 34 of the Arbitration Act.
+26. It is further contended that Appellant cannot seek to vary its defence with every stage of
+challenge and therefore shall restrict their grounds only to
+i) The Arbitral Tribunal has not substantively answered with respect to the preliminary objection
+raised by the state government that there is no privity of contract between the appellant state and
+the claimant Respondent.
+ii) The appellant state was not given time to adduce evidence or cross examine the claimant's
+witness. Hence, the award is one sided.
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 12
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+iii) The Claim of the claimant is based on mere guesstimate.
+iv) The damages arise from a non-existent contract.
+27. It was also contended that the Appellant state is seeking a re-assessment of merits and
+re-appreciation of evidence adduced which is not permissible under the law.
+Further it was contended that, the Appellant State had an opportunity to test the veracity of the
+evidence adduced before the Sole arbitrator, however, the appellant state neither objected for the
+marking of the documents nor the state cross examined the claimant witness or adduce its own and
+the cross examination was treated as NIL. The precedents that were relied upon in this regard are as
+follows:
+Chief Engineer IV, Delhi State Industrial and Infrastructure Development
+Corporation Ltd. vs. Well Protect Manpower Services Pvt. Ltd. reported in
+MANUL/DE/1012/2022 "34. The scope of examination under Section 34(2A) of the
+A&C Act is limited This Court is not required to revaluate and reappreciate the
+evidence and supplant its opinion over that of the Arbitral Tribunal. Unless the
+decision is found to be patently illegal, no interference with the Arbitral Award is
+called for. In Delhi Airport Metro Express Pvt. Ltd. v. Delhi Metro Rail Corporation
+Ltd.: Supreme court had authoritatively explained that even an erroneous view would
+not vitiate the Arbitral Award on the ground of patently illegality unless the error is
+manifest and one that strikes at the root of the matter. It is trite law that an Arbitral
+Tribunal is a final adjudicator of the evidence and its conclusion cannot be interfered
+with except where it is found to be patently illegal or in conflict with the public police
+of India. In Dyna Technologies Private Limited v. Crompton Greaves Limited:
+MANU/SC/1765/2019 (2019) 20 SCC 1, the Supreme Court had held that courts
+would not interfere merely because an alternative view on facts exists. Similarly, in
+the case of Associate Builders v. Delhi Development Authority:
+MANU/SC/1076/2014: (2015) 3 SCC 49, the Supreme Court had belt that "a possible
+view by the arbitrator on facts has necessarily to pass muster as the arbitrator is the
+ultimate master of the quantity and quality of evidence to be relied upon when he
+delivers his arbitral award.' Ircon International Ltd. vs. Afcons Infrastructure Ltd.
+reported in MANU/DE/2675/2023
+78. In view of the aforementioned judgment, it is evident that the Arbitrator, being
+the ultimate master of the Arbitration, can adjudicate the claims in a manner that is
+on the lines of basic tenants of Law and the Principles of Natural Justice and
+Jurisprudence. As long as the Award does not shock the conscience of the Court, it
+warrants no interference of the Court.
+79. In the instant case, a perusal of the award, as well as the findings which have also
+been reproduced above, shows that the learned Arbitrator has passed an extremely
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 13
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+elaborate and comprehensive Award after dealing with each claim raised on behalf of
+the parties, the facts of the case, the material on record, including documents
+referred to, the precedents cited on behalf of the parties.
+80. xxx
+81. xxx
+82. xxx
+83. The law which has been settled by the Hon'ble Supreme Court is that the scope of
+interference with an Arbitral Award under Section 34 of the Act, 1996 is fairly limited
+and narrow. The Courts shall not sit in an appeal while adjudicating a challenge to an
+Award which is passed by an Arbitrator, the master of evidence, after due
+consideration of facts, circumstances, evidence, and material before him."
+Union of India and 2 others v. Larsen and Tubro Limited (L&T) reported in 2023:AHC:117074-DB
+"27. The law is settled that, where the Arbitrator has assessed the material and evidence placed
+before him in detail, the court while considering the objections under Section 34 of the said Act does
+not sit as a court of appeal and is not expected to re-appreciate the entire evidence and reassess the
+case of the parties. The jurisdiction under Section 34 is not appellate in nature and an award passed
+by an Arbitrator cannot be set aside on the ground that it was erroneous. It is not open to the Court
+to interfere with the award merely because in the opinion of the Court, another view is possible. The
+duty of the Court in these circumstances is to see whether the view taken by the Arbitrator is a
+plausible view on the fact, pleadings and evidence before the Arbitrator.
+28. As laid down by the Supreme Court in Mcdermott International Inc vs Burn Standard Co. Ltd. &
+Ors6, the supervisory role of the Court in arbitration proceedings has been kept at a minimum level
+and this is because the parties to the agreement make a conscious decision to exclude the courts'
+jurisdiction by opting for arbitration as the parties prefer the expediency and finality offered by it.
+29. That in the matter of SSangyong Engineering and Construction Company Pvt. Ltd. v. NHA17, the
+Hon'ble Supreme Court has clarified that, under no circumstances, can any court interfere with an
+Arbitral Tribunal on the ground that justice seems not to have been done. This would amount to,
+entering into the merits of the dispute, which is contrary to the ethos of Section 34 of the Arbitration
+Act.
+30. In view of the aforesaid facts and circumstances, we come to the conclusion that the appellants
+have failed to make out any case for interference under Section 37 of the Arbitration Act. The
+Arbitral Tribunal after considering all the evidence on record has passed a detailed speaking order
+dealing with each and every aspects of the claim separately. All the claims of the claimant were not
+allowed and only those amount which were actually payable was awarded by the Arbitral Tribunal.
+Consequently, the application under Section 34 of the Arbitration Act has rightly been dismissed by
+the Commercial Court, Jhansi. The appellants (herein) has failed to make out any case which would
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 14
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+call for interference by this Court."
+State of U.P. v. Allied Constructions reported in 2003 (10) AIC 148 para 4;
+"4. Any award made by an arbitrator can be set aside only if one or the other term
+specified in Sections 30 and 33 of the Arbitration Act, 1940 is attracted. It is not a
+case where it can be said that the arbitrator has misconducted the proceedings. It was
+within his jurisdiction to interpret Clause 47 of the Agreement having regard to the
+fact-situation obtaining therein. It is submitted that an award made by an arbitrator
+may be wrong either on law or on fact and error of law on the face of it could not
+nullify an award. The award is a speaking one. The arbitrator has assigned sufficient
+and cogent reasons in support thereof. Interpretation of a contract, it is trite, is a
+matter for arbitrator to determine (see M/s Sudarsan Trading Co. v. The Government
+of Kerala, MANU/SC/0361/1989: [1989]1SCR665). Section 30 of the Arbitration Act,
+1940 providing for setting aside an award is restrictive in its operation. Unless one or
+the other condition contained in Section 30 is satisfied, an award cannot be set aside.
+The arbitrator is a Judge chosen by the parties and his decision is final. The Court is
+precluded from reappraising the evidence. Even in a case where the award contains
+reasons, the interference therewith would still be not available within the jurisdiction
+of the Court unless, of course, the reasons are totally perverse or the judgment is
+based on a wrong proposition of law. An error apparent on the face of the records
+would not imply closer scrutiny of the merits of documents and materials on record.
+Once it is found that the view of the arbitrator is a plausible one, the Court will
+refrain itself from interfering [see Chemicals Ltd. U.P. V. Searsole State Electricity
+Board MANU/SC/0118/2001:
+[2001]2SCR13a n d ISPAT Engineering & Foundry Works, B.S. City, Bokaro v. Steel
+Authority of India Ltd., B.S. City, Bokaro - MANU/SC/0389/2001:
+[2001]3SCR1190]."
+28. The Judgment in Larsen Air Conditioning and Refrigeration Company vs Union of India and
+Ors., reported in (2023) 15 SCC 472 was relied upon to contend that the scope of interference to the
+Appellate Court to review findings under section 37 of the Act is narrower, wherein it was observed
+as follows :
+15. The limited and extremely circumscribed jurisdiction of the court under Section
+34 of the Act, permits the court to interfere with an award, sans the grounds of patent
+illegality i.e. that "illegality must go to the root of the matter and cannot be of a trivial
+nature"; and that the Tribunal "must decide in accordance with the terms of the
+contract, but if an arbitrator construes a term of the contract in a reasonable manner,
+it will not mean that the award can be set aside on this ground" [ref : Associate
+Builders [Associate Builders v. DDA, (2015) 3 SCC 49 : (2015) 2 SCC (Civ) 204] , SCC
+p. 81, para 42].
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 15
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+The other ground would be denial of natural justice. In appeal, Section 37 of the Act grants narrower
+scope to the appellate court to review the findings in an award, if it has been upheld, or substantially
+upheld under Section 34.
+29. The Other judgments relied upon by the Respondent along with the observations are as follows:
+Haryana Tourism Limited vs Kandhari Beverages Limited reported in (2022) 3 SCC
+237 it was observed as follows:
+9. As per settled position of law laid down by this Court in a catena of decisions, an
+award can be set aside only if the award is against the public policy of India. The
+award can be set aside under Sections 34/37 of the Arbitration Act, if the award is
+found to be contrary to : (a) fundamental policy of Indian law;
+or (b) the interest of India; or (c) justice or morality; or (d) if it is patently illegal. None of the
+aforesaid exceptions shall be applicable to the facts of the case on hand. The High Court has entered
+into the merits of the claim and has decided the appeal under Section 37 of the Arbitration Act as if
+the High Court was deciding the appeal against the judgment and decree passed by the learned trial
+court. Thus, the High Court has exercised the jurisdiction not vested in it under Section 37 of the
+Arbitration Act. The impugned judgment and order [Kandhari Beverages Ltd. v. Haryana Tourism
+Ltd., 2018 SCC OnLine P&H 3233] passed by the High Court is hence not sustainable.
+Dyna Technologies Pvt. Ltd Vs Crompton Greaves Ltd. reported in (2019) 20 SCC 1 :
+24. There is no dispute that Section 34 of the Arbitration Act limits a challenge to an
+award only on the grounds provided therein or as interpreted by various courts. We
+need to be cognizant of the fact that arbitral awards should not be interfered with in a
+casual and cavalier manner, unless the court comes to a conclusion that the
+perversity of the award goes to the root of the matter without there being a possibility
+of alternative interpretation which may sustain the arbitral award. Section 34 is
+different in its approach and cannot be equated with a normal appellate jurisdiction.
+The mandate under Section 34 is to respect the finality of the arbitral award and the
+party autonomy to get their dispute adjudicated by an alternative forum as provided
+under the law. If the courts were to interfere with the arbitral award in the usual
+course on factual aspects, then the commercial wisdom behind opting for alternate
+dispute resolution would stand frustrated.
+Associate Builders vs. Delhi Development Authority reported in MANU/SC/1076/2014 "12................
+A possible view by the arbitrator on facts has necessarily to pass muster as the arbitrator is the
+ultimate master of the quantity and quality of evidence to be relied upon when he delivers his
+arbitral award. Thus an award based on little evidence or on evidence which does not measure up in
+quality to a trained legal mind would not be held to be invalid on this score. Once it is found that the
+arbitrators approach is not arbitrary or capricious, then he is the last word on facts."
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 16
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+Sudarsan Trading Co. vs. Government of Kerala & Ors. Reported in MANU/SC/0361/1989 "32.
+.................... Once there is no dispute as to the contract, what is the interpretation of that contract is
+a matter for the arbitrator and on which court cannot substitute its own decision"
+"35. In the instant case, the High Court seems to have fallen into an error of deciding
+the question on interpretation of the contract. In the aforesaid view of the matter we
+are of the opinion that the High Court was in error. It may be stated that if on a view
+taken of a contract, the decision of the not the only correct view, the award cannot be
+examined by the court in the arbitrator on certain amounts awarded, is a possible
+view though perhaps manner done by the High Court in the instant case.
+36. In light of the above, the High Court, in our opinion, had no jurisdiction to
+examine the different items awarded clause by clause by the arbitrator and to hold
+that under the contract these were not sustainable in the facts found by the
+arbitrator."
+Tamil Nadu Civil Supplies Corporation Ltd. vs. Albert & Co. reported in MANU/TN/0178/2000 "12.
+It is clear from section 34(2) of the Arbitration and Conciliation Act that the award may be set aside
+by the court only under certain contingencies. The party making the application must furnish proof
+that the party was under some incapacity or the arbitration agreement is not valid under law or the
+party making the application was not given proper notice of the appointment of an arbitrator.
+According to sub-clause (4), the arbitral award deals with a dispute not contemplated by or not
+falling within the terms of the submission to arbitration, or it contains decisions on matters beyond
+the scope of the submission to arbitration and according to section 34(2)(b), the party must
+establish that the arbitral award is in conflict with the public policy of India. It is therefore, clear
+that only limited ground is available to enable the party to set aside the award passed by the
+arbitrator. It is settled position of law that the award cannot be interfered with simply because
+another view is possible on the available things. Only if the petitioner is able to establish that his
+case falls within the category of Section 14. this court can interfere.
+13. Normally, the general principles which the court dealing with the arbitrator on the evidence is
+Justified; the court has to confine itself to the restrictions enumerated therein and where the parties
+get the matter adjudicated through the arbitrator of their own choice and the arbitrator gives a
+detailed award, the court can interfere in the decision only if the Arbitrator is a Judge of the choice
+of the parties and his decision unless there is an error apparent on the face of the award which
+makes it unsustainable is not to be set aside even the curt as a court of law would come to a different
+conclusion on the same facts. The court cannot reappraise the evidence and it is not open to the
+court to sit on the appeal over the conclusion of the arbitrator. It is not open to the court to set aside
+a finding be cancelled are those mentioned in the Arbitration Act. Where the arbitrator of fact
+arrived at by the arbitrator and only grounds on which the award can assigns cogent grounds and
+sufficient reasons and no error of law or misconduct is cited, the award will not call for interference
+by the court in exercise of the power vested in it. Where the arbitrator is a qualified taking into
+consideration the technical aspects of the matter, the court would technical person and expert, who
+is competent to make assessment by generally not interfere with the award passed by the
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 17
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+arbitrator."
+30. It is further contended regarding the locus standi, to make claim against the Appellant state, that
+the Appellant State had, earlier in WP No. 56088/2016 which was filed on the same subject matter,
+admitted themselves that the matter had to be referred to the arbitration and thereby indicating
+their approbation and reprobation wherein on one hand claiming that respondents have no locus
+and on the other hand seeking the matter to be referred to the arbitration.
+31. The Respondent's objections to the stand of appellants that respondent has no locus standi are as
+follows:-
+i) The manner in which entire project was structured was in such a way that the state
+would have executed the same using technically sound third parties (a single entity or
+a consortium) commissioned by KEONICS and references to consortium are made at
+various instances such as a) The Request for proposal tabled for the bid process in
+Clause 7;
+b)Prime bidder in clause 7 mentions that "in case of a consortium"; c) Clause 8 of
+RFP also specified that the bidders could be individual companies or a consortium of
+companies.
+Though the Request for Proposal loses its significance once the award was made and the contract
+was executed, it is necessary to be looked into in order to determine whether a consortium and
+sub-contractors were contemplated in the tender process.
+ii) In the agreement between the appellant state and KEONICS there was a specific clause regarding
+the "sub-
+contractors" and the said clause mandates the KEONICS to keep the state informed of all the sub
+contracts awarded. The agreements not only make provisions for the consortium but also brings a
+direct nexus between the government and the consortium and therefore, respondent being a partner
+in consortium, can maintain claims against the state appellant and the state cannot possibly argue
+that the partners of consortium are strangers and have no nexus to urge claim against the state.
+32. It was contended on the point of privity of contract that the court though restricted the scope of
+privity of contract to the signatories initially, expanded the scope over the years and in the instant
+case, the claimant has been engaged in both the performance and the consequent termination of
+contract. It was also contended that the appellant state was expressly informed and accepted the
+bank guarantees as well and hence, doctrine of acquiescence and estoppel apply squarely on the
+Appellant, State. As far as the privity of contract is concerned, the following cases have been relied
+upon:
+SOCAR Turkey Petrol Enerji Dagitim vs. MV Amoy Fortune and Ors.
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 18
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+45. In the facts of the case and considering the law cited, we find substance in the
+submissions advanced by the learned Senior Counsel Mr. Chinoy that at an
+interlocutory stage it would not be appropriate to deal with the issue of privity of
+contract. It can only be dealt with after leading evidence.
+46. We are of the view that merely based on the bunker invoice and delivery receipt,
+it would be difficult to form a conclusive opinion at an interlocutory stage that there
+was no privity of contract between the appellant and the respondent. There is no such
+overwhelming material to reach to such conclusion. The issue in this case is that
+whether privity of contract is presumed to be in existence. Such issue relating to the
+maritime claim in question would thus be required to be addressed at the trial of the
+suit. It is an admitted position that the Master/Chief Engineer of the vessel had
+acknowledged the receipt of bunkers supplied to the vessel.
+47. We further find substance in the submissions advanced by the learned Senior
+Counsel Mr. Chinoy that even if bunkers were supplied at the instance of Force
+shipping/Sentex LDX, the liability of the vessel to pay for the bunkers supplied does
+not get diminished on the plea of lack of privity of contract.
+Khushalbhai Mahijibhai Patel v. Firm of Mohmadhussain Rahimbux, 1980 Supp SCC
+1 at page 4
+10. Two main contentions were pointedly raised before the High Court: (1) that the
+supply of the goods by the plaintiff to the defendant Firm and the issuance of cheques
+by the latter in favour of the former shifted the onus of proof on the point of privity of
+contract to the defendant Firm, and, (2) that the failure of the defendant Firm to
+produce the best evidence which was available to it in the form of its own and firm
+R.K. Patel's account books should have been treated as a clincher.
+13. After hearing learned counsel for the parties at length we are of the opinion that
+the very approach of the High Court to the determination of the crucial question in
+the case, namely, that of privity of contract between the parties, is erroneous. The fact
+that the goods had been sent to the defendant Firm by the plaintiff and had been
+received by the former was admitted on all hands and was sufficient to raise a
+presumption, till the contrary was proved, that an order had been placed for the
+supply of the goods with the plaintiff by the defendant Firm; and it was immaterial
+whether the person actually placing the order was a partner of the defendant Firm or
+a person authorised by it. The plaintiff could thus bank on the said fact for the
+purpose of discharging the initial onus which lay on him to prove privity of contract
+between the parties and it was for the defendant Firm to rebut the presumption
+which the fact raised as stated above. In rejecting the first of the two main
+contentions raised before the High Court on behalf of the plaintiff, therefore, the
+High Court fell into a serious error.
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 19
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+M/S Global emerald vs Meck Petroleum DMCC (Karnataka High Court: Original Side Appeal No.
+10/2024 in Civil Petition No. 56/2024) it was observed as follows:
+In Paras 44 and 46 of the Judgment in Socar Turkey's case referred to supra, the
+Hon'ble Supreme Court held that a privity of contract shall have to be presumed even
+if bankers were not supplied against clear and specific order placed by the master of
+the chief engineer of the vessel and the pliantiff's door cannot be shut on the principle
+of lack of privity of contract. It was further held that merely based on the bunker
+invoice and the delivery receipt, it would be difficult to form conclusive opinion at an
+interlocutory stage about the privity of contract between the parties and such issue
+relating to the maritime claim requires to be addressed at the trial of the suit.
+33. As far as the evidence for the various heads of damages that are awarded, it was contended that
+the respondents had sufficiently proved and the exhibits were marked from P32 to P99 and the
+state, appellant, did not file any admission or denial of documents thereby giving way to deemed
+admission. It was further contended that it is permissible under law, the usage of discretion in
+certain claims and award of damages. In this regard, the following cases have been relied upon,
+Construction and Design Services vs Delhi Development Authority reported in AIR 2015 SC "17.
+Applying the above principle to the present case, it could certainly be presumed that delay in
+executing the work resulted in loss for which the respondent was entitled to reasonable
+compensation. Evidence of precise amount of loss may not be possible but in the absence of any
+evidence by the party committing breach that no loss was suffered by the party complaining of
+breach, the court has to proceed on guesswork as to the quantum of compensation to be allowed in
+the given circumstances. Since the respondent also could have led evidence to show the extent of
+higher amount paid for the work got done or produce any other specific material but it did not do so,
+we are of the view that it will be fair to award half of the amount claimed as reasonable
+compensation."
+Maula Bux vs Union of India reported in AIR 1970 SC 1955 , wherein it was observed as follows:
+6. ".......In case of breach of some contracts it may be impossible for the Court to
+assess compensation arising from breach, while in other cases compensation can be
+calculated in accordance with established rules. Where the Court is unable to assess
+the compensation, the sum named by the parties if it be regarded as a genuine pre-
+estimate may be taken into consideration as the measure of reasonable compensation, but not if the
+sum named is in the nature of a penalty. Where loss in terms of money can be determined, the party
+claiming compensation must prove the loss suffered by him."
+34. In counter to the contention of the appellant (State), that 'there is a misrepresentation of facts', it
+was contended that the Appellant failed to state what facts were misrepresented and the same was
+not raised in objections before the Arbitral Tribunal. It was further contended that the Appellant
+made general denials instead of dealing the averment specifically and failure to do so would amount
+to admission of the same per judgment of The Delhi High Court in Asha Kapoor vs Hari Om Sharda,
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 20
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+reported in MANU/DE/1807/2010 wherein it was held that "17. The effect of Order 8 Rule 3 read
+along with rr 4 and 5 of the Code is that defendant is bound to deal specifically with each allegation
+of fact not admitted by him he must either deny or state definitely that the substance of each
+allegation is not admitted. The main allegations which form the foundation of the suit should be
+dealt with in that way and expressly denied. Facts not specifically dealt with will be taken to be
+admitted under Order 8 Rule 5 of the Code.
+"Order 8 Rule 5 of the Code is known as doctrine of non-traverse which means that
+where a material averment is passed over without specific be a statement that the fact
+is not admitted. If the plea is not taken in that must either be denied specifically or by
+necessary implication or there should manner, then the allegation should taken to be
+admitted."
+Hebbar and Ors. MANU/SC/7278/2007: 2007 (5) SCALE 598, observed: 19. Supreme Court in M.
+Venkataraman Hebbar (D) Bv L.RS. v. M. Rajgopal "Thus, if a plea which was relevant for the
+purpose of maintaining a suit had that the same had been admitted. A fact admitted in terms of
+Section 58 of not been specifically traversed, the Court was entitled to draw an inference the
+Evidence Act need not be proved."
+Iswar Bhai C. Patel vs Harihar Behera and Ors. reported in AIR 1999 SC 1341 "21. A Division Bench
+of the Patna High Court in Devji Shivji v. Karsandas Ramji and Anr.
+MANU/BH/0096/1954 1954(2)BLJR82, relying upon the decision of the Privy Council in Sardar
+Gurbakhsh Singh v. Gurdial Singh and Anr. (supra) and the Madhya Pradesh High Court in Guild
+Kharagjit Carpenter v. Narsingh Nandkishore Rawat MANU/MP/0042/1970:
+AIR1970MP225 have also taken the same view. The Madhya Pradesh High Court also
+relied upon the following observation of the Calcutta High Court in Pranballav Saha
+and Anr. v. Smt. Tulsibala Dassi and Anr MANU/WB/0183/1958: AIR1958Cal713:
+The very fact that the defendant neither came to the box herself nor called any
+witness to contradict evidence given on oath against her shows that these facts
+cannot be denied. What was prima facie against her became conclusive proof by her
+failure to deny.
+The Allahabad High Court in Arjun Singh v. Virender Nath and Anr.
+MANU/UP/0007/1971: AIR1971All29, held that:
+the explanation of any admission or conduct on the part of a party must, if the party
+is alive and capable of giving evidence, come from him and the court would not
+imagine an explanation which a party himself has not chosen to give.
+It was further observed that:
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 21
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+If such a party abstains from entering the witness box it must give rise to an inference
+adverse against him.
+Maroti Bansi Teli v. Radhabai w/o Tukaram Kunbi and others reported in AIR 1945
+Nag 60 "12.......
+The usual practice at the bar is to accept matters which are not challenged either in the pleadings or
+in cross- examination as fully established once a person enters the box and swears to it. If the rule
+were otherwise parties would be obliged to encumber the record with a mass of material which in
+the result might prove wholly unnecessary. The practice, therefore, is when it is intended to
+challenge a point which is not specifically challenged in the pleadings to cross-examine to it formally
+the first time it is raised in a witness's deposition. The other side is then placed upon-its guard and is
+given notice that it must establish the point as fully as it can. When that is not done it means that the
+point is not challenged and can be accepted."
+A.E.G. Carapiet v. A.Y.Derderian reported in AIR 1961 Cal 359 "9. Wherever the opponent has
+declined to avail himself of the opportunity to put his essential and material case in
+cross-examination, it must follow that he believed that the testimony given could not be disputed at
+all. It is wrong to think that this is merely a technical rule of evidence. It is a rule of essential justice.
+It serves to prevent surprise at trial and miscarriage of justice, because it gives notice to the other
+side of the actual case that is going to be made when the turn of the party on whose behalf the
+cross-examination is being made comes to give and lead evidence by producing witnesses."
+A.S.Duraisami Chettiar Sons v. S. Rathnaswami Gounder reported in MANU/TN/0025/1992
+"4............
+Not merely can the court base its conclusion of the effect of evidence taken as a whole but it may
+also draw adverse inference against a party who being in a position to adduce better evidence
+deliberately abstains from doing so, MANU/PR/0053/1916: AIR 1917 PC 6, Guruswami Nadan v.
+Gopalaswami Odayar, ILR 42 Mad 629: AIR 1919 Mad 444 and Raghavendra Rao v. Venkataswami
+Naicken MANU/TN/0316/1929 :
+AIR1930Mad251 We respectfully accept the correctness of the said observations."
+Jagajeet Singh Lyallpuri (dead) through LRs & others v. M/s. Unitop Apartments and
+builders by order dated 03.12.2019 passed in Civil Appeal "13. From a perusal of the
+proceedings dated 28.11.2009 it would be clear that both contentions raised by the
+learned counsel for the respondent herein and which were accepted by the learned
+Single Judge to ultimately remand the matter, would not be justified. Firstly, in the
+presence of the parties and their learned counsel it has been recorded that they do
+not wish to cross-examine any of the witnesses whose affidavits have been discharged
+without being cross-examined and no grievance was made either by the parties or
+their learned counsel and who were present. It is in that view the evidence was taken
+as closed on 28.11.2009 and the issues fro consideration was settled for arguments on
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 22
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+the same day. In that circumstance having consented to the said procedure, it would
+not be open for the respondent herein to approbate and reprobate so as to raise a
+different contention at this point. Having accepted the said procedure and
+respondent is estopped from raising such contention before the learned Single Judge
+that the arbitrator misconducted himself by not permitting the parties to
+cross-examine the witness and also that the learned Arbitrator being more than 70
+years of age and suffering from knee problem has pressurized the respondent to
+speed up the matter and the evidence was closed. It is rather intriguing for us to note
+that such contention has not only been permitted to be raised, but also accepted by
+the learned Single Judge to remand the matter, which is wholly unjustified.
+14. We are of such opinion for the reason be followed in arbitration proceedings was
+settled by a separate order dated 13.01.2010. 28.11.2009 during the course of the
+proceedings before the learned Arbitrator. Thereafter the award was passed only on
+Though the respondent was represented by their learned counsel and the order dated
+28.11.2009 was passed while recording the proceedings of that day, neither, any
+application had been filed before the learned Arbitrator to recall the said order and
+provide opportunity to tender evidence any other or cross examine, nor was a
+challenge raised by initiating proceedings, before the award was passed. It is only
+subsequent to the award being passed such contention is being raised as an
+afterthought, which in such event cannot be accepted.
+Construction and Design Services v. Delhi Development Authority reported in AIR 2015 SC "18.
+Applying the above principle to the present case, it could certainly be presumed that delay in
+executing the work resulted in loss for which the Respondent was entitled to reasonable
+compensation. Evidence of precise amount of loss may not be possible but in absence of any
+evidence by the party committing breach that no loss was suffered by the party complaining of
+breach, the Court has to proceed on guess work as to the quantum of compensation to be allowed in
+the given circumstances. Since the Respondent also could have led evidence to show the extent of
+higher amount paid for the work got done or produce any other specific material but it did not do so,
+we are of the view that it will be fair to award half of the amount claimed as reasonable
+compensation."
+The Apex Court in Muddasani Venkata Narsaiah v. Muddasani Sarojana reported in (2016) 12 SCC
+288, observed as follows:
+"15. Moreover, there was no effective cross- examination made on the plaintiff's
+witnesses with respect to factum of execution of sale deed, PW 1 and PW 2 have not
+been cross-examined as to factum of execution of sale deed. The cross-examination is
+a matter of substance not of procedure one is required to put one's own version in
+cross-examination of opponent. The effect of non-cross-examination is that the
+statement of witness has not been disputed. The effect of not cross-examining the
+witnesses has been considered by this Court in Bhoju Mandal v. Debnath Bhagat
+[Bhoju Mandal v. Debnath Bhagat, AIR 1963 SC 1906] . This Court repelled a
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 23
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+submission on the ground that the same was not put either to the witnesses or
+suggested before the courts below. Party is required to put his version to the witness.
+If no such questions are put the Court would presume that the witness account has
+been accepted as held in Chuni Lal Dwarka Nath v. Hartford Fire Insurance Co. Ltd.
+[Chuni Lal Dwarka Nath v. Hartford Fire Insurance Co. Ltd., 1957 SCC OnLine P&H
+177 : AIR 1958 P&H 440]."
+35. It was also contended that the State Government, despite being notified by eight (8) emails,
+remained absent before the Arbitral Tribunal, i.e., no one appeared on behalf of the Appellant, State
+and no objections were filed on behalf of the State and thus The Arbitral Tribunal was left with no
+option but to place the Appellant, State ex-parte by order dated 10.12.2021. It was further contended
+that, after Claimant adducing further evidence and getting marked the exhibits P77 to P99, the
+Appellant State's evidence was taken as NIL and the Appellant State did not take any steps to cross
+examine or to adduce any evidence and therefore it is the state who intentionally chose not to cross
+examine and adduce evidence.
+36. It was also contended that the additional grounds raised for the first time are also beyond the
+limitation period by relying upon following citations Satyam Computer Services Limited v. Venture
+Global Engineering Ltd. and others reported in (2010) 3 CompLJ 690 (AP);
+"17. In Pushpa P. Mulchandani v. Admiral Radhakrishin Tahilani
+MANU/MH/0021/2001: (2001) 1 Comp Lj 66 (Bom):
+(2001) 2 Arb LR 284 (Bom), B.N. Srikrishna, J (as His Lordship then was) referring
+to Madan Lal case, supra, agreed with the view that a petition under Section 34 of the
+Arbitration Act has to be made within limitation prescribed by the Act and that it is
+not permissible for the court to permit amendment of the petition after period of
+limitation as it would tantamount to entertain a fresh petition beyond period of
+limitation. Sitting in a Bench, the same learned judge in Vastu Invest and Holdings
+Private Limited v. Gujarat Lease Financing Limited MANU/MH/0105/2001: (2001)
+2 Arb LR 315 (Bom) (DB), was emphatic that a ground not initially raised in the
+petition to challenge the award would not be permitted to be subsequently raised by
+the amendment if the application for amendment itself was beyond the limitation
+fixed for filing the petition challenging the award'. A similar view was taken by
+Aurangabad Bench in Anilkumar Jinabhai Paid v. Pravinchandra jinabhai Patel
+MANU/MH/0333/2007: (2007) 3 Arb LR 91 (Bom) and a judgment, dated
+29.4.2009 in Patel Engineering Company Limited v. Konkan Railway Corporation
+Limited MANU/MH/0383/2009: (2010) 3 Comp 646 (Bom).
+Vastu Invest and Holdings Private Limited v. Gujarat Lease Financing Limited reported in
+MANU/MH/0105/2001;
+"15. We may point out that under the 1940 Act, the limitation for bringing a petition
+to challenge an award was prescribed by the Limitation Act, subject to the provisions
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 24
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+of the Limitation Act and the power of condonation of delay contained therein. The
+1996 Act has radically altered the situation. We cannot lose sight of the fact that the
+1996 Act is intended to consolidate and amend the law relating to domestic
+arbitration, international commercial arbitration and enforcement of foreign arbitral
+awards as also to define the law, inter alia, as indicated in the preamble.
+Consequently, the Act has permitted very limited scope of challenge to an arbitral
+award. Section 34(1) provides that an arbitral award may be challenged only by an
+application for setting aside such award in accordance with subsections (2) and (3).
+Sub-sections (2) and (3) of Section 34 provide that an arbitral award may be set aside
+only on the grounds narrated in subsection (2). Finally, sub-section (3) provides that
+such an application for setting aside an award may not be made after three months
+have elapsed from the date on which the party making that application had received
+the arbitral award, or if a request had been made under section 33, from the date on
+which the said request had been disposed of by the Arbitral Tribunal. Thus there is
+extremely narrow power of condonation of delay vested in the Court by the proviso.
+The proviso empowers the Court, if satisfied that the applicant was prevented by
+sufficient cause from making the application within the period of three months, to
+entertain the application "within a further period of 30 days, but not thereafter".
+17. In these circumstances, we are of the view that the Chamber Summons, if it was intended to raise
+an independent ground of challenge to the arbitral award, could not have been entertained after the
+period of three months plus the grace period of 30 days as provided in the proviso to sub-section (3)
+of Section 34. If, on the other hand, it was not intended to raise an independent ground, on the basis
+that the petition Itself contained the ground, the chamber summons was wholly unnecessary as
+necessary amplifications could be put forward during submissions. Looked at either way, the
+chamber summons was rightly dismissed, in our view. Consequently, we find no substance in
+Appeal No. 683 of 2000. Hence, this appeal must fail and is hereby dismissed."
+Prakash Industries Limited v. Bengal Energy Limited and others reported in
+MANU/WB/0536/2020;
+"18. It should be reiterated that although Hindustan Construction spoke in favour of an expansive
+view of amendments in the interest of justice, the proposed amendments in that decision were
+ultimately disallowed since they were found to constitute new grounds which did not have a
+foundation in the original application. In the present case, the grounds relating to the Sale of Goods
+Act cannot be traced to the existing grounds and would therefore constitute new grounds in that
+sense (as opposed to Venture Global, where subsequent facts, disclosed after the passing of the
+Award, were allowed as having a causative link with the facts, constituting the Award). In the
+considered view of this court, the test for allowing or rejecting an amendment to existing grounds in
+an Arbitration Petition is whether the proposed grounds would necessitate filing of a fresh
+application for setting aside of the Award. As several of the new grounds also do not have a
+foundational basis in the existing petition, the petitioner cannot enter through the 'amplification'
+route as has been contended and if the amplification recourse fails, the petitioner has no other
+statutory cushion to fall back on under the existing law Para "19. In the present case, the grounds
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 25
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+relating to the provisions of the Sale of Goods Act and related grounds concerning the issues of
+damages are new grounds which would take the application for amendment outside the purview of
+"amplification" of the existing grounds as contended by the petitioner. Since this Court is inclined to
+follow the dictum of Fiza and Emkay in that an application for setting aside will ordinarily not
+require anything beyond the record of what was before the Arbitrator, the present amendment is not
+one which should be permitted".
+37. As regards the group of companies doctrine and binding of non-signatory to the contract,
+following Judgment is relied:
+Cox & Kings Ltd. v. SAP India (P) Ltd., (2024) 4 SCC 1 : (2024) 2 SCC (Civ) 1 : (2024)
+251 Comp Cas 680 : 2023 SCC OnLine SC 1634 at page 83
+148. This Court in Chloro Controls [Chloro Controls India (P) Ltd. v. Severn Trent
+Water Purification Inc., (2013) 1 SCC 641 : (2013) 1 SCC (Civ) 689] observed : first,
+that the use of the expression "any person" reflects the legislative intent of enlarging
+the scope of the words beyond the "parties" who are signatory to the arbitration
+agreement; second, a signatory party to an arbitration agreement may have a legal
+relationship with the party claiming through or under the party on the basis of the
+Group of Companies doctrine; and third, in case of a multi-party contract, a
+subsidiary company which "derives" its basic interest from the parent contract would
+be covered under the expression "claiming through or under".
+149. The first proposition of law relies on the construction of the expression "any
+person" to conclude that the language of Section 45 has wider import.
+However, the expression "any person" cannot be singled out and construed devoid of its context.
+The context, in terms of Sections 8 and 45, is provided by the subsequent phrase -- "claiming
+through or under". Therefore, such "any persons" are acting only in a derivative capacity. Since an
+arbitration agreement excludes the jurisdiction of national courts, it is essential that the parties
+consent, either expressly or impliedly, to submit their dispute to the Arbitral Tribunal.
+150. The second and third propositions of law state that a non-signatory party may claim through or
+under a signatory party by virtue of its legal or commercial relationship with the latter. However,
+this proposition is contrary to the common law position as evidenced in Sancheti [Mayor &
+Commonalty & Citizens of the City of London v. Sancheti, 2009 Bus LR 996 : 2008 EWCA Civ 1283
+(CA)] and Tanning Research Laboratories [Tanning Research Laboratories Inc. v. O'Brien, 1990
+HCA 8 (Aust)] according to which a mere legal or commercial connection is not sufficient to allow a
+non-signatory to claim through or under a party to the arbitration agreement. In A. Ayyasamy [A.
+Ayyasamy v. A. Paramasivam, (2016) 10 SCC 386 : (2017) 1 SCC (Civ) 79] , this Court observed that
+the Arbitration Act should be interpreted "so as to bring in line the principles underlying its
+interpretation in a manner that is consistent with prevailing approaches in the common law world".
+Therefore, even though a subsidiary derives interests or benefits from a contract entered into by the
+company within a group, they would not be covered under the expression "claiming through or
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 26
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+under" merely on the basis that it shares a legal or commercial relationship with the parties.
+151. One of the questions that has been referred before us is whether the phrase "claiming through
+or under" in Section 8 could be interpreted to include the Group of Companies doctrine. The Group
+of Companies doctrine is founded on the mutual intention of the parties to determine if the
+non-signatory entity within a group could be made a party to the arbitration agreement in its own
+right. Such non-signatory entity is not "claiming through or under" a signatory party. As mentioned
+above, the phrase "claiming through or under" is used in the context of successors-in-interest that
+act in a derivative capacity and substitute the signatory party to the arbitration agreement. To the
+contrary, the Group of Companies doctrine is used to bind the non-signatory to the arbitration
+agreement so that it can agitate the benefits and be subject to the burdens that it derived or is
+conferred in the course of the performance of the contract. The doctrine can be used to bind a non-
+signatory party to the arbitration agreement regardless of the phrase "claiming through or under" as
+appearing in Sections 8 and 45 of the Arbitration Act.
+152. In Chloro Controls [Chloro Controls India (P) Ltd. v. Severn Trent Water Purification Inc.,
+(2013) 1 SCC 641 :
+(2013) 1 SCC (Civ) 689] , this Court joined the non-
+signatory entities as parties to the arbitration agreement in their own rights on the basis that they
+were signatories to ancillary agreements which were closely interlinked with the performance of the
+principal agreement containing the arbitration agreement. This Court in Chloro Controls [Chloro
+Controls India (P) Ltd. v. Severn Trent Water Purification Inc., (2013) 1 SCC 641 : (2013) 1 SCC (Civ)
+689] reasoned that the non- signatory entities, being part of the same corporate group as the
+signatory parties, were subsidiaries in interest or subsidiary companies, and therefore were
+"claiming through or under" the signatory parties. As held above, the phrase "claiming through or
+under" only applies to entities acting in a derivative capacity and not with respect to joinder of
+parties in their own right. Therefore, we hold that the approach of this Court in Chloro Controls
+[Chloro Controls India (P) Ltd. v. Severn Trent Water Purification Inc., (2013) 1 SCC 641 : (2013) 1
+SCC (Civ) 689] to the extent that it traced the Group of Companies doctrine to the phrase "claiming
+through or under" is erroneous and against the well-established principles of contract and
+commercial law. As observed above, the existence of the Group of Companies doctrine is
+intrinsically found on the principle of the mutual intent of parties to a commercial bargain.
+170. In view of the discussion above, we arrive at the following conclusions:
+170.1. The definition of "parties" under Section 2(1)(h) read with Section 7 of the
+Arbitration Act includes both the signatory as well as non-signatory parties;
+170.2. Conduct of the non-signatory parties could be an indicator of their consent to
+be bound by the arbitration agreement;
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 27
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+170.3. The requirement of a written arbitration agreement under Section 7 does not
+exclude the possibility of binding non-signatory parties;
+170.4. Under the Arbitration Act, the concept of a "party" is distinct and different
+from the concept of "persons claiming through or under" a party to the arbitration
+agreement;
+170.5. The underlying basis for the application of the Group of Companies doctrine
+rests on maintaining the corporate separateness of the group companies while
+determining the common intention of the parties to bind the non-signatory party to
+the arbitration agreement;
+170.6. The principle of alter ego or piercing the corporate veil cannot be the basis for
+the application of the Group of Companies doctrine;
+170.7. The Group of Companies doctrine has an independent existence as a principle
+of law which stems from a harmonious reading of Section 2(1)(h) along with Section 7
+of the Arbitration Act;
+170.8. To apply the Group of Companies doctrine, the Courts or tribunals, as the case
+may be, have to consider all the cumulative factors laid down in Discovery
+Enterprises [ONGC Ltd. v. Discovery Enterprises (P) Ltd., (2022) 8 SCC 42 : (2022) 4
+SCC (Civ) 80] . Resultantly, the principle of single economic unit cannot be the sole
+basis for invoking the Group of Companies doctrine;
+170.9. The persons "claiming through or under" can only assert a right in a derivative capacity;
+170.10. The approach of this Court in Chloro Controls [Chloro Controls India (P) Ltd. v. Severn
+Trent Water Purification Inc., (2013) 1 SCC 641 : (2013) 1 SCC (Civ) 689] to the extent that it traced
+the Group of Companies doctrine to the phrase "claiming through or under" is erroneous and
+against the well-established principles of contract law and corporate law;
+170.11. The Group of Companies doctrine should be retained in the Indian arbitration jurisprudence
+considering its utility in determining the intention of the parties in the context of complex
+transactions involving multiple parties and multiple agreements;
+170.12. At the referral stage, the referral court should leave it for the Arbitral Tribunal to decide
+whether the non-signatory is bound by the arbitration agreement; and 170.13. In the course of this
+judgment, any authoritative determination given by this Court pertaining to the Group of
+Companies doctrine should not be interpreted to exclude the application of other doctrines and
+principles for binding non-signatories to the arbitration agreement.
+222. Finally, in ONGC Ltd. v. Discovery Enterprises (P) Ltd. [ONGC Ltd. v. Discovery Enterprises
+(P) Ltd., (2022) 8 SCC 42 : (2022) 4 SCC (Civ) 80] while the decision on whether the non-signatory
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 28
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+was a party was remitted to the Arbitral Tribunal, the Court undertook a comprehensive review of
+the academic literature and judicial pronouncements on the issue. The Court compendiously
+concluded the following : (SCC p. 75, paras 40-41) "40. In deciding whether a company within a
+group of companies which is not a signatory to arbitration agreement would nonetheless be bound
+by it, the law considers the following factors:
+(i) The mutual intent of the parties;
+(ii) The relationship of a non-signatory to a party which is a signatory to the
+agreement;
+(iii) The commonality of the subject-matter;
+(iv) The composite nature of the transaction; and
+(v) The performance of the contract.
+41. Consent and party autonomy are undergirded in Section 7 of the 1996 Act. However, a
+non-signatory may be held to be bound on a consensual theory, founded on agency and assignment
+or on a non- consensual basis such as estoppel or alter ego [ Gary Born, International Commercial
+Arbitration, 2nd Edn., Vol. 1, at p. 1418.] ."
+223.5. In Discovery [ONGC Ltd. v. Discovery Enterprises (P) Ltd., (2022) 8 SCC 42 : (2022) 4 SCC
+(Civ) 80] , the Court comprehensively reviewed the above cases and ironed out the various tests
+formulated in them. It held that (a) mutual intent of the parties, (b) relationship of the
+non-signatory to the signatory, (c) commonality of subject-matter, (d) composite nature of
+transaction, and
+(e) performance of the contract, are the factors to determine whether the non-signatory is a party.
+[Id, para 40] These factors emphasise mutual intention and draw from the tests laid down in Chloro
+Controls [Chloro Controls India (P) Ltd. v. Severn Trent Water Purification Inc., (2013) 1 SCC 641 :
+(2013) 1 SCC (Civ) 689] and Reckitt Benckiser [Reckitt Benckiser (India) (P) Ltd. v. Reynders Label
+Printing (India) (P) Ltd., (2019) 7 SCC 62 : (2019) 3 SCC (Civ) 453] but do not include the test of
+single economic reality as a determinative factor, as held in MTNL [MTNL v. Canara Bank, (2020)
+12 SCC 767].
+It is pertinent to mention in brief the earlier round of litigation before this Court on the same subject
+matter:
+38. The petitioners sought quashing of the termination and release of their bank
+guarantees. The State argued that the petitioners had no locus standi as they were not
+signatories to the original agreement. The Court held that even though the petitioners
+were not direct parties, their rights were affected as subcontractors whose guarantees
+were accepted by the State, thereby giving them sufficient locus. However, since the
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 29
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+dispute involved complex questions of fact and there existed an arbitration clause,
+the Court declined to exercise its writ jurisdiction under Article 226 of the
+Constitution. Instead, it dismissed the petitions but granted the petitioners liberty to
+pursue arbitration or any other legal remedy available in law.
+39. The State of Karnataka challenged the order of the learned Single Judge dated
+11.09.2019 in W.P. No. 56088 of 2016, wherein while dismissing the writ petition
+filed by Siddharth Infotech Pvt. Ltd., the Court had granted the petitioner liberty to
+invoke the arbitration clause or pursue any other legal remedy. The State contended
+that Siddharth Infotech had no right to seek remedy against it, as there was no direct
+privity of contract between them. However, the Division Bench of this Court
+dismissed the appeal, holding that the mere grant of liberty to seek legal remedies
+does not prejudice the State and that any party claiming violation of rights must have
+a remedy in law, invoking the principle "ubi jus ibiremedium." The Court clarified
+that whether the remedy will ultimately succeed or not is a question for the
+appropriate forum, and that all contentions on both sides would remain open in any
+arbitration or civil proceedings. Thus, the appeal was dismissed with no costs.
+40. The petitioners therein, The State of Karnataka claimed that they are not parties
+to the agreement between Respondent No.1 (Siddarth Infotech Pvt. Ltd.) and
+Respondent No.3 (Everonn Education Ltd.) and therefore should not be included as a
+party in any arbitration. The court held that this issue will only arise when arbitration
+is initiated, and at that time, the petitioners can raise their objection. The decision on
+their inclusion will be made by the Court or Arbitrator based on merits and law and
+finally keeping the question open for future determination, the Special Leave Petition
+was disposed of accordingly.
+41. Having considered the arguments advanced and perusing the citations and
+materials placed before this court, before dwelling upon the actual issue involved in
+the current appeal, this court would like to examine the scope of interference under
+Section 37 of Arbitration and Conciliation Act 1996.
+The Apex Court In MMTC Ltd. v. Vedanta Ltd., reported in (2019) 4 SCC 163, it was observed as
+follows:
+11. As far as Section 34 is concerned, the position is well-settled by now that the Court
+does not sit in appeal over the arbitral award and may interfere on merits on the
+limited ground provided under Section 34(2)(b)(ii) i.e. if the award is against the
+public policy of India. As per the legal position clarified through decisions of this
+Court prior to the amendments to the 1996 Act in 2015, a violation of Indian public
+policy, in turn, includes a violation of the fundamental policy of Indian law, a
+violation of the interest of India, conflict with justice or morality, and the existence of
+patent illegality in the arbitral award. Additionally, the concept of the "fundamental
+policy of Indian law" would cover compliance with statutes and judicial precedents,
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 30
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+adopting a judicial approach, compliance with the principles of natural justice, and
+Wednesbury [Associated Provincial Picture Houses v. Wednesbury Corpn., (1948) 1
+KB 223 (CA)] reasonableness.
+Furthermore, "patent illegality" itself has been held to mean contravention of the substantive law of
+India, contravention of the 1996 Act, and contravention of the terms of the contract.
+The Observations in Haryana Tourism Ltd. v. Kandhari Beverages Ltd., reported in (2022) 3 SCC
+237, reads as follows:
+9. As per settled position of law laid down by this Court in a catena of decisions, an
+award can be set aside only if the award is against the public policy of India. The
+award can be set aside under Sections 34/37 of the Arbitration Act, if the award is
+found to be contrary to :
+(a) fundamental policy of Indian law; or (b) the interest of India; or (c) justice or
+morality; or (d) if it is patently illegal. None of the aforesaid exceptions shall be
+applicable to the facts of the case on hand. The High Court has entered into the
+merits of the claim and has decided the appeal under Section 37 of the Arbitration
+Act as if the High Court was deciding the appeal against the judgment and decree
+passed by the learned trial court. Thus, the High Court has exercised the jurisdiction
+not vested in it under Section 37 of the Arbitration Act. The impugned judgment and
+order [Kandhari Beverages Ltd. v. Haryana Tourism Ltd., 2018 SCC OnLine P&H
+3233] passed by the High Court is hence not sustainable.
+Larsen Air Conditioning & Refrigeration Co. v. Union of India, (2023) 15 SCC 472 : 2023 SCC
+OnLine SC 982 at page 478
+15. The limited and extremely circumscribed jurisdiction of the court under Section 34 of the Act,
+permits the court to interfere with an award, sans the grounds of patent illegality i.e. that "illegality
+must go to the root of the matter and cannot be of a trivial nature"; and that the Tribunal "must
+decide in accordance with the terms of the contract, but if an arbitrator construes a term of the
+contract in a reasonable manner, it will not mean that the award can be set aside on this ground"
+[ref : Associate Builders [Associate Builders v. DDA, (2015) 3 SCC 49 : (2015) 2 SCC (Civ) 204] , SCC
+p. 81, para 42]. The other ground would be denial of natural justice. In appeal, Section 37 of the Act
+grants narrower scope to the appellate court to review the findings in an award, if it has been
+upheld, or substantially upheld under Section
+34. Ssangyong Engg. & Construction Co. Ltd. v. NHAI, (2019) 15 SCC 131 : (2020) 2 SCC (Civ) 213 :
+2019 SCC OnLine SC 677 at page 170
+37. Insofar as domestic awards made in India are concerned, an additional ground is
+now available under sub-section (2-A), added by the Amendment Act, 2015, to
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 31
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+Section 34. Here, there must be patent illegality appearing on the face of the award,
+which refers to such illegality as goes to the root of the matter but which does not
+amount to mere erroneous application of the law. In short, what is not subsumed
+within "the fundamental policy of Indian law", namely, the contravention of a statute
+not linked to public policy or public interest, cannot be brought in by the backdoor
+when it comes to setting aside an award on the ground of patent illegality.
+Delhi Airport Metro Express (P) Ltd. v. DMRC, reported in (2022) 1 SCC 131 : (2022) 1 SCC (Civ)
+330 : 2021 SCC OnLine SC 695 at page 150
+29. Patent illegality should be illegality which goes to the root of the matter. In other words, every
+error of law committed by the Arbitral Tribunal would not fall within the expression "patent
+illegality". Likewise, erroneous application of law cannot be categorised as patent illegality. In
+addition, contravention of law not linked to public policy or public interest is beyond the scope of
+the expression "patent illegality". What is prohibited is for Courts to reappreciate evidence to
+conclude that the award suffers from patent illegality appearing on the face of the award, as Courts
+do not sit in appeal against the arbitral award. The permissible grounds for interference with a
+domestic award under Section 34(2-A) on the ground of patent illegality is when the arbitrator takes
+a view which is not even a possible one, or interprets a clause in the contract in such a manner which
+no fair-minded or reasonable person would, or if the arbitrator commits an error of jurisdiction by
+wandering outside the contract and dealing with matters not allotted to them. An arbitral award
+stating no reasons for its findings would make itself susceptible to challenge on this account. The
+conclusions of the arbitrator which are based on no evidence or have been arrived at by ignoring
+vital evidence are perverse and can be set aside on the ground of patent illegality. Also,
+consideration of documents which are not supplied to the other party is a facet of perversity falling
+within the expression "patent illegality".
+40. From the conspectus of the above judgments, it is clear that the court exercising the jurisdiction
+under section 37 of the Act, can set aside the award if the award is found to be contrary to : (a)
+fundamental policy of Indian law; or (b) the interest of India; or (c) justice or morality; or (d) if it is
+patently illegal and the patent illegality means illegality that goes to the root of the matter.
+42. Now, let us examine the role of KEONICS. The record is clear that KEONICS was the nodal
+agency through which the entire project was conceived, tendered, contracted and supervised. The
+agreement was between the State and KEONICS; the claimant derived its position only through
+KEONICS, and it was KEONICS that invited tenders, executed agreements, and channeled
+obligations to the consortium.
+Without KEONICS, there would have been no contract at all.
+Yet, KEONICS was not impleaded before the Tribunal. In the absence of KEONICS, the Tribunal
+could not have effectively adjudicated whether the termination was justified or whether damages
+were attributable to the State. The exclusion of KEONICS has deprived the proceedings of the
+presence of the one party whose role was indispensable and this is where the foundational defect
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 32
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+arises. Infact, there is no privity of contract between the State and the claimant, as the contract is
+with the KEONICS and not with the State. The claimant's rights and liabilities were derived solely
+through KEONICS, and in its absence, there was no direct contractual nexus with the State that
+could give rise to an arbitrable dispute.
+The Apex Court in Khetrabasi Biswal v.
+Ajaya Kumar Baral, (2004) 1 SCC 317 : 2004 SCC (L&S) 182 : 2003 SCC OnLine SC 1292 at page 319
+observed as follows :
+6. The procedural law as well as the substantive law both mandates that in the
+absence of a necessary party, the order passed is a nullity and does not have a binding
+effect.
+The Apex Court in Ram Kumar v. State of U.P., (2023) 16 SCC 691 : 2022 SCC OnLine SC 1312 at
+page 694, regarding the non-joinder of necessary parties observed as follows:
+15. This Court in Mumbai International Airport [Mumbai International Airport (P)
+Ltd. v. Regency Convention Centre & Hotels (P) Ltd., (2010) 7 SCC 417 : (2010) 3 SCC
+(Civ) 87] had an occasion to consider as to who is a necessary party to the
+proceedings. It will be relevant to refer to para 15 of the said judgment, which reads
+thus : (SCC p. 423) "15. A "necessary party" is a person who ought to have been joined
+as a party and in whose absence no effective decree could be passed at all by the
+court. If a "necessary party" is not impleaded, the suit itself is liable to be dismissed.
+A "proper party" is a party who, though not a necessary party, is a person whose
+presence would enable the court to completely, effectively and adequately adjudicate
+upon all matters in dispute in the suit, though he need not be a person in favour of or
+against whom the decree is to be made. If a person is not found to be a proper or
+necessary party, the court has no jurisdiction to implead him against the wishes of
+the plaintiff. The fact that a person is likely to secure a right/interest in a suit
+property, after the suit is decided against the plaintiff, will not make such person a
+necessary party or a proper party to the suit for specific performance."
+16. It could thus be seen that a necessary party is a person in whose absence no
+effective decree could be passed by the Court. It has been held that if a "necessary
+party" is not impleaded, the suit itself is liable to be dismissed.
+43. Thus, it is clear that it is important that a necessary party is to be impleaded and in the absence
+of the necessary party, order passed would not have any binding effect. In the case at hand,
+KEONICS was not a peripheral or optional party but the nodal agency through which the project
+was structured, tendered, and administered. In its absence, the Tribunal lacked the capacity to
+effectively determine whether the termination was valid or whether liability for damages could
+properly be attributed to the State or the claimant. By proceeding without KEONICS, the Tribunal,
+in the opinion of this court committed an error of law that goes to the root of the matter. This
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 33
+The State Of Karnataka vs M/S Siddharth Infotech Pvt Ltd on 18 September, 2025
+omission deprived the proceedings of completeness, led to adjudication without consideration of
+vital obligations and evidence, and rendered the award inherently defective. Such a foundational
+flaw does not amount to a mere error of law, but an illegality that goes to the root of the matter in
+the view of this Court and thereby, qualifying as patent illegality under the statutory framework and
+therefore, the Award is unsustainable under law.
+44. In view of the above circumstances, the appeal is allowed and the Order dated 31.07.2023, in
+Com.A.P.No.79/2022 on the file of LXXXII Additional City Civil & Sessions Judge, Bengaluru
+(CCH.83) and the Award dated 18.05.2022 passed by the Arbitral Tribunal, are hereby set aside.
+Sd/-
+(ANU SIVARAMAN) JUDGE Sd/-
+(DR. K.MANMADHA RAO) JUDGE BNV ct-adp
+Indian Kanoon - http://indiankanoon.org/doc/20454415/ 34

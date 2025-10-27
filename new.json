@@ -1,0 +1,80 @@
+"Jaipur": {
+        "coordinates": [
+          26.9124,
+          75.7873
+        ],
+        "major_cities": {
+          "Jaipur": [
+            26.9124,
+            75.7873
+          ],
+          "Tonk": [
+            26.15,
+            75.7833
+          ],
+          "Dausa": [
+            26.8829,
+            76.3036
+          ]
+        }
+      },
+      "Jodhpur": {
+        "coordinates": [
+          26.2389,
+          73.0243
+        ],
+        "major_cities": {
+          "Jodhpur": [
+            26.2389,
+            73.0243
+          ],
+          "Phalodi": [
+            27.1278,
+            72.3542
+          ]
+        }
+      },
+      "Udaipur": {
+        "coordinates": [
+          24.5854,
+          73.7125
+        ],
+        "major_cities": {
+          "Udaipur": [
+            24.5854,
+            73.7125
+          ],
+          "Chittorgarh": [
+            24.888,
+            74.6266
+          ]
+        }
+      },
+      "Jaisalmer": {
+        "coordinates": [
+          26.9157,
+          70.9083
+        ],
+        "major_cities": {
+          "Jaisalmer": [
+            26.9157,
+            70.9083
+          ]
+        }
+      },
+      "Bikaner": {
+        "coordinates": [
+          28.0229,
+          73.3119
+        ],
+        "major_cities": {
+          "Bikaner": [
+            28.0229,
+            73.3119
+          ],
+          "Ratangarh": [
+            28.1229,
+            74.0196
+          ]
+        }
+      }

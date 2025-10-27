@@ -1,0 +1,557 @@
+M/S.Axles India Limited vs The Tamil Nadu Generation And ... on 7 December, 2021
+M/S.Axles India Limited vs The Tamil Nadu Generation And ... on
+7 December, 2021
+Author: S.M.Subramaniam
+Bench: S.M.Subramaniam
+WP No.20803 of 2014
+IN THE HIGH COURT OF JUDICATURE AT MADRAS
+DATED : 07.12.2021
+CORAM
+THE HONOURABLE MR. JUSTICE S.M.SUBRAMANIAM
+WP No.20803 of 2014
+and MP No.1 of 2014
+M/s.Axles India Limited, HT SC No.27,
+21, Patullos Road, Chennai – 600 002.
+Represented by its General Manager
+(manufacturing Operations) Mr.A.Santhanam .. Petitioner
+vs.
+1.The Tamil Nadu Generation and Distribution
+Corporation Limited (TANGEDCO),
+Represented by its Chairman and Managing Director,
+No.144, Anna Salai,
+Chennai – 600 002.
+2.The Superintending Engineer,
+Thiruvannamalai Electricity Distribution Circle,
+Tamil Nadu Generation and Distribution
+Corporation Limited (TANGEDCO),
+Thiruvannamalai.
+3.Central Electricity Authority (CEA),
+Represented by its Chairperson,
+6th Floor, Sewa Bhawan, R.K.Puram,
+New Delhi – 110 066.
+1/39
+https://www.mhc.tn.gov.in/judis
+Indian Kanoon - http://indiankanoon.org/doc/187298379/ 1
+M/S.Axles India Limited vs The Tamil Nadu Generation And ... on 7 December, 2021
+(cid:12) WP No.20803 of 2014
+4.The Tamil Nadu Electricity Regulatory
+Commission (TNERC),
+Represented by its Secretary,
+No.19-A, Rukmani Lakshmipathy Salai,
+Marshalls' Road, Egmore,
+Chennai – 600 008. .. Respondents
+Writ Petition is filed under Article 226 of the Constitution of
+India, praying for the issuance of a Writ of Certiorarified Mandamus, calling
+for the records of the second respondent culminating in the CC Bill dated
+28.07.2014, quash the same in so far as it levied a sum of Rs.6,32,148/-
+towards charges for harmonics dumping and forbear the 1st and 2nd
+respondents, their men, officers, agents, servants, representatives and/or any
+one claiming through or under them and/or or any other person from in any
+manner levying, demanding and/or collecting charges for harmonics
+dumping from the petitioner for their HT SC No.27 either through the CC
+Bills or in any other manner, till such time that the Hon'ble Central
+Electricity Regulatory Commission [CERC] clarifies the issue in
+Miscellaneous Application No.126 of 2014 pending before it.
+For Petitioner : Mr.Arun Anbumani
+For Respondents
+R1 & R2 : Mr.L.Jai Venkatesh,
+Standing Counsel
+R3 : Mr.J.Madanagopal Rao
+Senior Panel Counsel
+R4 : No appearance
+2/39
+https://www.mhc.tn.gov.in/judis
+(cid:12) WP No.20803 of 2014
+ORDER
+The present writ petition has been filed by the petitioner challenging the levy of harmonics
+compensation charges at 15% of the respective tariff from the High Tension Industrial Consumers
+(HT-I) and High Tension Commercial Consumers (HT-III), who operate at a voltage level of below
+33 kv, namely, 11kv/22kv supply lines.
+2. Mr.Arun Anbumani, learned counsel appearing for the petitioner in the present writ petition,
+submitted that the action of the Tamil Nadu Generation and Distribution Corporation Limited
+(TANGEDCO) under the guise of enforcing the Central Electricity Authority (Technical Standards
+Indian Kanoon - http://indiankanoon.org/doc/187298379/ 2
+M/S.Axles India Limited vs The Tamil Nadu Generation And ... on 7 December, 2021
+for Connectivity to the Grid) Regulations, 2007 (in short “CEA Regulations, 2007”) and the Tariff
+Order of the Tamil Nadu Electricity Regulatory Commission (TNERC), directing all the HT
+Consumers in the State of Tamil Nadu to install harmonic controls and imposing penalties in the
+form of 15% surcharge on the CC bills, irrespective of the supply line capacity they are connected to,
+are beyond the jurisdiction of the powers https://www.mhc.tn.gov.in/judis vested with them, as
+they do not have the authority of law. It is further contended that the impugned levy of harmonics
+charges on 11KV/22KV consumers are clearly not leviable in view the clarification issued by the CEA
+/ Appellate Authority that it cannot be made applicable to consumers who are not bulk consumers
+i.e. connected with 11kv/22kv supply lines. Explaining further, it is stated that the CEA is the
+competent authority to declare the harmonic distortion level for consumers connected with
+11kv/22kv supply lines, therefore, the impugned levy of harmonics charges on 11kv/22kv consumers
+are untenable.
+3. Referring to paragraph 10.1.2 of the Tariff Order No.1, dealing with the harmonics, it is argued
+that as specified in the Supply Code, when the consumer fails to provide adequate harmonic
+suppression equipment to avoid dumping of harmonics beyond the limits as specified by the CEA
+Regulations into Lincesee's distribution system, he is liable to pay the compensation at 15% of the
+respective tariff and it further says that as and when the consumer brings down the harmonics level
+within the limit, the compensation chargeable shall be withdrawn, therefore, the
+https://www.mhc.tn.gov.in/judis measurement of harmonics shall be done by the Distribution
+Licensee using standard meters/ equipments in the presence of consumers or their representatives
+and this compensation provision is applicable to HT-I and HT-III category of consumers. Again, this
+paragraph makes it clear that the TANGEDCO shall give three months notice to all the consumers
+under these categories stating that they shall pay 15% compensation charges, if the harmonics
+introduced by their load are not within the limit set by the CEA. Thus, it is clear that the
+TANGEDCO is only the implementing agency in respect of compensation payable by the consumers,
+who failed to provide adequate harmonic suppression equipment to avoid dumping of harmonics
+beyond the limits as specified by the CEA Regulations into Lincesee's distribution system, by giving
+three months notice to all the consumers and then it also brought to the notice of the TANGEDCO to
+withdraw from the compensation charges as and when the consumer brings down the harmonics
+level within the limit. However, till date, the CEA has not fixed what is the permissible limits of
+harmonics within which the consumers can have the harmonics limits. Therefore, when the
+distortion level for 11kv/22kv supply lines consumers was not specified clearly, the impugned
+https://www.mhc.tn.gov.in/judis action of the TANGEDCO directing all the HT consumers to install
+harmonic control equipments and also imposing penalties at the rate of 15% on the monthly CC bills
+is wholly misconceived, hence, the same is liable to be set aside.
+4. Explaining further, the learned counsel for the petitioner, by referring to Section 50 of the
+Electricity Act, took a stand that Section 50 allows specification of charges for electricity, but, in
+respect of tampering, distress or damage to electrical plant or electrical line or meter, entry of
+distribution licensee or any person acting on his behalf for disconnecting supply or removing the
+meter, entry for replacing, altering or maintaining electric lines. However, such power does not
+allow them for setting of standards for harmonics. The Chief Engineer (Legal), CEA, Ministry of
+Power, New Delhi, has clarified by his letter dated 10.08.2015, addressed to the learned Additional
+Indian Kanoon - http://indiankanoon.org/doc/187298379/ 3
+M/S.Axles India Limited vs The Tamil Nadu Generation And ... on 7 December, 2021
+Solicitor General of India that any consumer, who is connected to below 33 KV to the Distribution
+System, is not governed by the Grid Standards for connectivity to the Grid. Therefore, when the CEA
+has made it clear that the CEA Regulations, 2007, with respect to compensation
+https://www.mhc.tn.gov.in/judis on account of harmonic distortion, is applicable only to those
+consumers, who are connected at 33 KV or above, admittedly, the petitioner herein, who is receiving
+supply through 11KV / 22 KV supply lines, does not have potential to pollute the grid supply and
+does not have substantial adverse impact upon the equipments of other consumers. Therefore,
+11KV/22KV consumers are placed outside the scope and purview of Part IV of the Regulations,
+2007, and hence, there is no distortion level on harmonics provided and made applicable to them
+and they are not obligated in any manner to comply with harmonic controls. This apart, in Tamil
+Nadu, HT consumers are connected with 11 kv or 22kv or 33kv or 110 kv supply lines and when
+these consumers connected with 11kv and 22 kv supply lines are not not subjected to harmonic
+control norms, only 33 kv and above supply lines are alone liable to comply with harmonic control
+norms as per Part IV of the CEA Regulations, 2007.
+5. Again, justifying that the petitioner is only consumer, not user nor requester, learned counsel for
+the petitioner referred to Regulations 2(34) and 2(25) of the CEA Regulations, 2007, to show who
+are users and https://www.mhc.tn.gov.in/judis requesters. A conjoint reading of Regulations 2(34)
+and 2(25) i.e. User and Requesters, say that a person such as, Generating Company including
+captive generating plant or Transmission Licensee or Distribution Licensee or Bulk Consumer,
+whose electrical plant is connected to the grid at voltage level 33 kv and above. Therefore, in view of
+Regulations 2(34) and 2(25), either User or Requester, whose electrical plant is connected to the
+grid at voltage level 33 kv and above, are the persons liable for installation of harmonic control
+equipments and any violation thereof, penalty can be imposed at the rate of 15% surcharge on the
+monthly CC bills if it is proved that the harmonics level are going beyond the permissible limits fixed
+by the CEA. Therefore, it is contended by the learned counsel for the petitioner that the
+TANGEDCO, without fixing harmonics limits to be adopted by them, cannot take any action against
+the petitioner to levy the penalty at the rate of 15%.
+6. Drawing the attention of this Court to Clause 3 of Part IV of the CEA Regulations, 2007, learned
+counsel for the petitioner contented that the total harmonic distortion for voltage at the connection
+point shall not https://www.mhc.tn.gov.in/judis exceed 5% with no individual harmonic higher
+than 3% and that the total harmonic distortion for current drawn from the transmission system at
+the connection point shall not exceed 8%. These two limits are to be implemented in a phased
+manner so as to achieve complete compliance not later than five years from the date of publication
+of these regulations in the official gazette. Thus, if the respondent is of the view that the limits
+prescribed in Clause 3 are to be implemented to achieve the balance, they should do it in a phased
+manner not later than five years from the date of publication of these regulations in the official
+gazette, but, till date, no such official gazette has been published. In addition thereto, Clause 4 of
+Part IV says that the voltage unbalance at 33 kv and above shall not exceed 3.0%. Therefore, it is
+contended that when there is no any limit prescribed for consumers connected to 11kv/22kv supply
+line, they cannot enforce the levels of harmonics prescribed for the Bulk Consumers namely 33 kv
+and above, for, the Chief Engineer (Legal), CEA, New Delhi, in his letter dated 10.08.2015, has
+clarified that any consumer, who is connected to below 33kv to the Distribution System, shall not be
+Indian Kanoon - http://indiankanoon.org/doc/187298379/ 4
+M/S.Axles India Limited vs The Tamil Nadu Generation And ... on 7 December, 2021
+covered under Part IV of the CEA Regulations, 2007.
+https://www.mhc.tn.gov.in/judis
+7. In an effort to show that the TANGEDCO has no authority or power to issue the impugned CC Bill,
+learned counsel for the petitioner, by referring to Section 34 of the Electricity Act, 2003, dealing
+with Grid Standards, submitted that every transmission licensee shall comply with such technical
+standards of operation and maintenance of transmission lines in accordance with the Grid
+Standards as may be specified by the Authority. While-so, Section 2(6) of the Electricity Act, 2003,
+defines 'Authority' as the Central Electricity Authority referred to sub-section (1) of Section 70.
+Therefore, the CEA is the only authority established under Section 70 and whose functions are set
+forth in Section 73 has the exclusive powers under Section 73(d) to specify the Grid Standards for
+operation and maintenance of transmission lines, which includes the harmonic levels too. However,
+the TNERC has no power to deal with the levels of harmonics. On the other hand, the TNERC is
+empowered under the Act and Regulations only to provide the charges/penalty when the levels of
+harmonics as provided by the CEA are not complied with. Similarly, the TANGEDCO, being a
+licensee to generate and distribute electricity, cannot choose to enforce additional
+https://www.mhc.tn.gov.in/judis standard independently in the absence of any standards set by the
+appropriate authority, namely, CEA.
+8. The learned counsel for the petitioner submitted that at present, there is no provision under the
+CEA Regulations, 2007, to make the obligation of harmonic controls for 11kv/22kv supply lines
+consumers and further submitted that the respondents do not have power to enforce the harmonic
+control norms to 11kv/22kv supply line consumers, when the Chief Engineer (Legal), CEA, New
+Delhi, in his letter dated 10.08.2015, has clarified that any consumer, who is drawing power below
+33 kv supply line, shall not be covered under Part IV of the CEA Regulations, 2007. Moreover, till
+date, neither the CEA nor any other authority has set forth the level of harmonics for the consumers
+connected to 11kv/22kv in the manner known to law, therefore, the impugned CC bills issued by the
+TANGEDCO levying surcharges for not providing harmonic controls from the petitioner who is
+connected with 11kv and 22kv supply lines are liable to be set aside.
+9. Per contra, Mr.L.Jai Venkatesh, learned Standing Counsel https://www.mhc.tn.gov.in/judis
+appearing on behalf of the TANGEDCO, taking support from Sections 50 and 181 of the Electricity
+Act, 2002, CEA Regulations, 2007, Regulation 4(1)(iv) of the Tamil nadu Electricity Supply Code,
+Regulations 9(1) and 13(4) of the Tamil Nadu Electricity Distribution Code, Tamil Nadu Electricity
+Regulatory Commission's tariff order dated 30.03.2012, 20.06.2013 and the Tamil Nadu Electricity
+Regulatory Commission's Grid Connectivity and Intra-State Open Access Regulations, 2004,
+submitted that the levy of harmonics compensation charges at 15% of the respective tariff from the
+High Tension-1 and High Tension-III consumers who avail supply and operate at voltage level of
+below 33 KV i.e. 11 KV and 22 KV are a legitimate one.
+10. Learned Standing Counsel for TANGEDCO further stated that Section 50 of the Act empowers
+the Commission to specify the supply code and provides for measures for preventing tampering,
+distress or damage to electrical plant or electrical lines or meter. Again, Section 86 of the Act clearly
+Indian Kanoon - http://indiankanoon.org/doc/187298379/ 5
+M/S.Axles India Limited vs The Tamil Nadu Generation And ... on 7 December, 2021
+gives power to the State Commission to determine the tariff for generation, supply, transmission
+and wheeling of electricity, and enforce https://www.mhc.tn.gov.in/judis standards with respect to
+quality, continuity and reliability of service by licensees. Therefore, in accordance with Sections 50
+and 181 of the Act, the Tamil Nadu Electricity Regulatory Commission had issued the Tamil Nadu
+Electricity Supply Code, wherein the Regulation 4(1)(iv) of the Tamil Nadu Electricity Supply Code
+deals with imposing of additional charges for harmonics dumping. Explaining further, it is stated
+that where any equipment installed by a consumer generates harmonics, the consumer shall provide
+adequate harmonic suppression units to avoid dumping of harmonics into Licensee's Distribution
+System and the Licensee is at liberty to provide suitable metering equipment to measure the
+harmonic level pursuant to such harmonic and even if the consumer fails to provide such units, he
+shall be liable to pay compensation at such rates as the Commission may declare from time to time.
+Only in exercise of powers conferred by clauses (a)(c)(d) of sub-section (1) of Section 61 and clause
+(a) of sub-section (1) of Section 86 of the Electricity Act, 2003 (Central Act 36 of 2003) and after
+examining the comments received from the stake holders and after considering the suggestions and
+objections received from the public during the public hearings held on 30.01.2012, 02.02.2012,
+https://www.mhc.tn.gov.in/judis 06.02.2012 and 10.02.2012 as per sub-section (3) of Section 64 of
+the Act, the Tamil Nadu Electricity Regulatory Commission has passed the order for Generation and
+Distribution Tariff, vide order No.1 of 2012, dated 20.03.2012. Relevant paragraph, namely 10.2.2,
+dealing with the Harmonics answers the issue raised by the petitioner stating that when the
+consumer fails to provide adequate harmonic filtering equipment to avoid dumping of harmonics
+into Licensee's network beyond the permissible limits as specified by the CEA Regulation, the
+consumer is liable to pay compensation at 15% of the respective tariff. It further makes clear that as
+and when the consumer brings down the harmonics within the limit, compensation charges shall be
+withdrawn, therefore, when the laudable object sought to be achieved has been initiated under the
+impugned action to avoid the dumping of harmonics beyond the permissible limit, which will in turn
+help prevention of air pollution, in the larger public interest, the petitioner cannot question the steps
+taken by the respondent to purify the atmosphere. Moreover, if the petitioner, who is a consumer, is
+able to provide adequate harmonic suppression equipments to avoid dumping of harmonics beyond
+the limits as specified by the CEA Regulations, 2007, into https://www.mhc.tn.gov.in/judis the
+Licensee's Distribution System, they are not liable to pay the compensation at 15% of the respective
+tariff, however, as and when the consumers fail to do so, they will be liable to pay such
+compensation.
+11. Justifying the impugned action, learned Standing Counsel for TANGEDCO further submitted
+that by virtue of Sections 50, 86 and 181 of the Electricity Act, 2003, read with, Regulation 4 (1)(iv)
+of Tamil Nadu Electricity Supply Code and Tariff Order 2012, it can be safely construed that the
+State has the power to direct the consumers irrespective of their voltage connections to install
+harmonic filters and it is mandatory on the part of a consumer to provide adequate harmonic
+suppression equipment so as to maintain the quality of supply by the Licensee (TANGEDCO) to all
+the consumers. It is further stated by the learned Standing Counsel for TANGEDCO that when the
+State Regulatory Authority's Supply Code forms the basis for providing harmonic filters at the load
+points of the consumers, the State Regulatory Authority's Tariff Order dated 31.03.2012 has a
+preventive measure to avoid dumping of harmonics into the Licensee's network beyond the
+permissible limit, therefore, the State Regulatory https://www.mhc.tn.gov.in/judis Authority has
+Indian Kanoon - http://indiankanoon.org/doc/187298379/ 6
+M/S.Axles India Limited vs The Tamil Nadu Generation And ... on 7 December, 2021
+also adopted the same limits as set out by the Central Electricity Authority in this regard.
+12. It is further stated by the learned Standing Counsel for TANGEDCO that an Expert Committee
+formed under the convenorship of the Director General/CPRI, constituted by the Central Electricity
+Board, New Delhi, has given its recommendations to include 11kv and above consumers in the
+purview of harmonics vide report dated 19.05.1999. Pursuant to the said report, the consumers
+connected with 11kv/22kv supply lines cannot place an argument before this Court that there is no
+any harmonic level prescribed by the competent authority for these consumers warranting them to
+install harmonic filters
+13. Continuing his arguments, learned Standing Counsel for TANGEDCO submitted that when the
+CEA has agreed that those, who are connected to transmission grid availing 33kv and above, should
+limit 3% of individual voltage harmonic distortion and 8% for total current harmonic distortion, the
+argument of the petitioner that no harmonic distortion has https://www.mhc.tn.gov.in/judis been
+prescribed for 11kv/22kv is not correct, since part IV of the CEA Regulations, 2007 states that these
+limits apply to both bulk consumers and Distribution System, which clearly constitutes the
+petitioner's case as well. It is further submitted that if the distribution harmonics are to be kept
+within the limits, then, individual consumers of 11kv/22kv, who are connected to the Distribution
+System, should limit their harmonics, for, in TANGEDCO, more than 6700 numbers of HT-I and
+HT-III category of 11kv and 22kv consumers are connected to Distribution System with a sanctioned
+demand for more than 6500 MVA. Besides, no technology exists in the world to design and filter out
+the huge quantum of harmonics at the distribution grid location, that are dumped by its thousands
+of consumers. When 11kv/22kv supply lines consumers are forming major high capacity into the
+Licensee's Distribution dumping system, they should avoid dumping the harmonics, therefore, to
+keep the harmonics limit in the Distribution System within the limit prescribed by the CEA,
+harmonic filters are to be fixed at the place of origin in the Distribution System, namely, the point of
+connection to the installation of the consumers where harmonics are generated.
+https://www.mhc.tn.gov.in/judis
+14. It is further submitted by the learned Standing Counsel for TANGEDCO that in TANGEDCO, the
+demand of the 6700 numbers of HT- I and HT-III category of 11kv/22kv supply lines consumers is
+more than 6500 MVA, which is higher than 170 numbers of 33kv and above consumers' load of
+about 1300 MVA, thus, the impact of harmonics by these 11kv/22kv supply lines consumers on the
+grid are also proportionately higher. Therefore, if 11kv/22kv supply lines consumers are left out of
+the purview of the harmonic order, as the Distribution System cannot limit the harmonics levels due
+to the huge quantum and absence of technology, the very purpose of CEA Regulations, 2007, aimed
+at clearing the Nation's Transmission grid of harmonic pollution and the purpose of the Regulation
+will be defeated. It is further submitted that in the matters of suppressing the harmonics, no single
+class of consumers can seek exemption from liability and the CEA Regulations cannot be the criteria
+to negate the purpose of the TN Electricity Supply Code and Tariff Order. Although the CEA is the
+authority to specify the standard as per the Electricity Act, 2003, suppression of harmonics into the
+main system has to be precluded and implemented only by the State Commission, therefore, the
+impugned levy of https://www.mhc.tn.gov.in/judis harmonics compensation charges is well within
+the exclusive domain of the State Commission keeping in mind the safety and security of the
+Indian Kanoon - http://indiankanoon.org/doc/187298379/ 7
+M/S.Axles India Limited vs The Tamil Nadu Generation And ... on 7 December, 2021
+respective State Grids, otherwise, the very purpose of enacting the CEA Regulations, 2007, will be
+defeated. When the CEA Regulations, 2007, has not excluded the Distribution System and the CEA
+has also not specified specific limits for the Distribution System, the applicability of harmonic
+compensation in respect of 11kv/22kv supply lines consumers is sustainable in law.
+15. By placing on record the queries raised by one Mr.G.Ramachandran, and also the clarification
+issued by the CEA to the said queries, it is submitted that to purify the Distribution System, unit
+criteria has to be taken to avoid dumping of harmonics into the Licensee's Distribution System,
+irrespective of the fact whether they are connected to 11kv or 22kv or 33kv and above. As the
+distribution of electricity is under the purview of the State Government, the State Regulatory
+Commission has to frame rules for regulating harmonic distortion within the Distribution System in
+the Sate for the consumers connected with 11kv/22kv supply lines in conformity with the CEA
+Regulations, 2007. Therefore, the impugned https://www.mhc.tn.gov.in/judis demands of the
+respondent passed in conformity with the CEA Regulations cannot be questioned by the petitioner,
+as it is the prerogative of the respondent to demand such charges for dumping of the harmonic into
+the Licensee's Distribution System.
+16. Concluding his arguments, learned Standing Counsel for TANGEDCO submitted that if the
+contention of the petitioner is accepted that any consumer, who is connected to below 33kv to the
+Distribution System, is not governed by the Grid Standard and that the CEA Regulations, 2007, with
+respect to compensation on account of harmonic distortion only to those consumers, who are
+connected at 33kv and above, then, it goes without saying that the consumers of 11kv and 22kv
+supply lines are allowed to pollute the system further, which will go against the very object of the
+CEA Regulations, 2007. With the aforesaid submissions, he has prayed for dismissal of the present
+writ petition.
+17. Learned Standing Counsel for TANGEDCO, by referring to the communication dated 07.09.2015
+of the Chief Engineer (Legal), Central https://www.mhc.tn.gov.in/judis Electricity Authority, New
+Delhi, submitted that the Chief Engineer has agreed with the case of the respondent stating that the
+control of pollution of grid supply has been started from the large high voltage loads, therefore, the
+regulations for controlling harmonic voltage/current injection at voltages less than 33kv may also
+develop depending upon the types of load coming up in future and it may disturb the performance
+of the equipments of other nearby consumers.
+18. Heard the learned counsel appearing on either side and perused the materials available on
+record.
+19. The crux of the issue is, whether the TANGEDCO/TNERC has power to deal with the levels of
+harmonics and if so, whether they are empowered under the Act and Regulations to levy the
+harmonics compensation charges at 15% of the respective tariff from the High Tension Industrial
+Consumers (HT-I) and High Tension Commercial Consumers (HT-III), who avail supply and
+operate at a voltage level of below 33kv i.e. 11kv/22kv supply lines.
+https://www.mhc.tn.gov.in/judis
+Indian Kanoon - http://indiankanoon.org/doc/187298379/ 8
+M/S.Axles India Limited vs The Tamil Nadu Generation And ... on 7 December, 2021
+20. Before dealing with the said issue, it is better to know what is harmonics. Harmonics in electrical
+systems means that current and voltage are distorted and deviated from sinusoidal waveforms.
+Harmonic currents are caused by non-linear loads connected to the Distribution System. A load is
+said to be non-linear when the current it draws does not have the same waveform as the supply
+voltage. The flow of harmonic currents through system impedances in turn creates voltage
+harmonics, which distort the supply voltage.
+21. In view of the above, since the harmonics have several undesirable effects and affects power
+quality, on 21.02.2007, the Central Electricity Authority (CEA) introduced a new Regulation and
+accordingly, its Technical Standards for Connectivity to the Grid Regulations, 2007, came for
+enforcement. Applicability of the Regulations is provided in Regulation 3, which reads as under:
+“3. Applicability of the Regulations – These Regulations shall be applicable to all the
+users, requesters, Central Transmission Utility and State Transmission Utility.”
+https://www.mhc.tn.gov.in/judis It is clear from the above that the the said
+Regulation is applicable only to four categories, namely, Users, Requesters, Central
+Transmission Utility and State Transmission Utility.
+22. In this context, let me find out the meaning given under the CEA Regulations, 2007, for Users
+and Requesters. Section 2(34) defines the meaning of “User”, which is given as under:-
+“2(34)-- User means a person such as, a Generating Company including captive
+generating plant or Transmission Licensee (other than the Central Transmission
+Utility and State Transmission Utility) or Distribution Licensee or Bulk Consumer,
+whose electrical plant is connected to the grid at voltage level 33kv and above.”
+Section 2(25) defines the meaning of “Requester”, which is given as under:-
+“2(25)-- Requester means a person, https://www.mhc.tn.gov.in/judis such as a
+Generating Company including captive generating plant or Transmission Licensee
+(excluding Central Transmission Utility and State Transmission Utility) or
+Distribution Licensee or Bulk Consumer, who is seeking connection of his new or
+expanded electrical plant to the Grid at voltage level 33kv and above.” A conjoint
+reading of the above said provisions show that a person such as, Generating
+Company including captive generating plant or Transmission Licensee or
+Distribution Licensee or Bulk Consumer, whose electrical plant is connected to the
+grid at voltage level 33 kv and above. Therefore, it is clear that the above said
+Regulations are applicable to only those consumers whose electrical plant is
+connected to the Grid at the voltage level of 33kv and above, hence, the petitioner,
+who is connected to the Grid at voltage level of 11kv/22kv supply lines, cannot be
+made applicable under the said Regulations.
+23. Again, to be more clear, it is also pertinent to refer to https://www.mhc.tn.gov.in/judis Section
+34 of the Electricity Act, 2003, dealing with the Grid Standards, which is given as under:-
+Indian Kanoon - http://indiankanoon.org/doc/187298379/ 9
+M/S.Axles India Limited vs The Tamil Nadu Generation And ... on 7 December, 2021
+“34. Grid Standards.---- Every transmission licensee shall comply with such technical standards, of
+operation and maintenance of transmission lines, in accordance with the Grid Standards, as may be
+specified by the Authority.” It is clear from the above that Section 34 of the Electricity Act, 2003,
+mandates every transmission licensee to comply with such technical standards of operation and
+maintenance as may be specified by the Authority, which means, as per Section 2(6) of the Act, the
+Central Electricity Authority (CEA) is the Authority as referred to in sub-section (1) of Section 70.
+Thus, the CEA, established under Section 70 and whose functions are set forth in Section 73, has the
+exclusive powers under Section 73(d) of the Act. It is also pertinent to extract Section 73(d) of the
+Act, which is given as under:-
+“(d) specify the Grid Standards for operation and maintenance of transmission
+https://www.mhc.tn.gov.in/judis lines.”
+24. In view of the above legal position, the Central Electricity Authority (CEA), being an Apex Body,
+is the appropriate authority on the issue of Grid Standards and to ensure both National Grid Code
+and State Grid Code are consistent and there cannot be any inconsistencies of different standards at
+the State level. This is purely for the purpose of ensuring uniform operation across the country. It is
+also an admitted fact that the National Grid Code and the State Grid Code do not have any provision
+with regard to harmonics.
+25. In this context, it is relevant to refer to Clause 3 of Part IV of the CEA Regulations, 2007, which
+is given as under:-
+“3. Voltage and Current Harmonics --
+(1) The total harmonic distortion for voltage at the connection point shall not exceed
+5% with no individual harmonic higher than 3%.
+(2) The total harmonic distortion for current drawn from the transmission
+https://www.mhc.tn.gov.in/judis system at the connection point shall not exceed 8%.
+(3) The limits prescribed in (1) and (2) shall be implemented in a phased manner so
+as to achieve complete compliance not later than five years from the date of
+publication of these regulations in the official Gazette.” Although Clause 3 of Part IV
+of the CEA Regulations, 2007, says that the total harmonic distortion for voltage at
+the connection point shall not exceed 5% with no individual harmonic higher than 3%
+and that the total harmonic for current drawn from the transmission system at the
+connection point shall not exceed 8%, the limits prescribed as mentioned above shall
+be implemented in a phased manner so as to achieve complete compliance not later
+than five years from the date of publication of these regulations in the official
+Gazette.
+26. It is an admitted fact that the CEA Regulations came into force in the year 2007, however, even
+after a lapse of 9 years, the TANGEDCO has not published any notification in the official Gazette
+Indian Kanoon - http://indiankanoon.org/doc/187298379/ 10
+M/S.Axles India Limited vs The Tamil Nadu Generation And ... on 7 December, 2021
+https://www.mhc.tn.gov.in/judis enforcing the consumers, who are connected with 11kv/22kv
+supply lines, to install harmonic filers so as to levy harmonic compensation charges.
+27. Moreover, when this Court directed the learned Standing Counsel for TANGEDCO to get
+instructions as to whether the consumers connected to a Distribution System irrespective of the
+capacity of supply they receive including 11kv and 22kv supply lines need to provide harmonic
+control equipments, as a reply thereto, the Chief Engineer (Legal), Central Electricity Authority,
+Ministry of Power, New Delhi, in his letter dated 10.08.2015, has clarified that the CEA Regulations,
+with respect to compensation on account of harmonic distortions, are applicable to only those
+consumers, who are connected to 33kv or above, namely, only bulk consumers. For better
+appreciation, relevant portion of the said communication is extracted below:-
+“This is reference to your letter dated 07.08.2015 on the above subject. It is to inform
+that almost 305 case are filed in the Hon'ble Court by the petitioners having
+grievances similar to this case. It is to https://www.mhc.tn.gov.in/judis submit that:
+(i) CEA Regulation with respect to compensation on account of harmonic distortions
+is applicable to only those consumers who are connected at 33kv or above.
+(ii) Further any consumer who is connected below 33kv to the distribution system is
+not governed by the Grid Standards for connectivity to the Grid.
+(iii) The Grid is defined under Electricity Act, 2003, stating that the Grid is high
+voltage backbone system of inter- connected transmission lines, sub station and
+generating plants.
+Therefore, only systems which can directly affect the Grid are covered under such
+Standards and as such the present petition for the consumers connected at 33kv or
+above which are defined as Bulk Consumer shall be covered for Harmonic
+Compensation.” https://www.mhc.tn.gov.in/judis
+28. Subsequent to the above said communication, one Mr.P.D.Siwal, Secretary to the
+Central Electricity Authority, New Delhi, issued a clarification on 26.08.2015 with
+regard to applicability of Part IV of CEA Regulations, 2007. Relevant portion of the
+said communication is extracted below:
+“This has reference to the Part IV of the CEA (Technical Standards for Connectivity to
+the Grid) Regulations, 2007. It is clarified that:
+(iii) The condition of voltage and current harmonic as prescribed under Part IV is
+applicable only to the consumers which are defined as bulk consumers and drawing
+power at 33kv and above.
+Indian Kanoon - http://indiankanoon.org/doc/187298379/ 11
+M/S.Axles India Limited vs The Tamil Nadu Generation And ... on 7 December, 2021
+(iv) For the purpose of bulk consumer means a consumer who avails supply at voltage
+of 33kv or above.
+Therefore, Part IV of CEA Regulations is applicable only to consumers drawing power
+at 33kv or above and any consumer who is drawing power below 33kv shall not be
+covered under Part https://www.mhc.tn.gov.in/judis IV of CEA (Technical Standards
+for Connectivity of the Grid) Regulations, 2007.” From the above said
+communications of the Chief Engineer (Legal) as well as the Secretary of the Central
+Electricity Authority, New Delhi, it is crystal clear that the consumers connected with
+11kv/22kv supply lines are placed outside the scope and purview of the Part IV of the
+CEA Regulations, 2007, and that it has further categorically clarified that 11kv/22kv
+supply lines consumers are not subjected to harmonic control norms, however, 33kv
+and above supply lines consumers are alone directed to comply with harmonic
+control norms. Thus, the impugned demand issued by the respondent/ TANGEDCO
+directing the petitioner, who is admittedly connected with 11kv/22kv supply lines, is
+against the CEA Regulations, 2007.
+29. Further, it is also pertinent to note that the CEA, who is the Competent Authority, to declare the
+harmonic distortion levels, has not declared harmonic distortion levels to the consumers connected
+with 11kv/22kv either through the CEA Regulations, 2007, or by any other relevant provisions.
+Therefore, until the CEA prescribes any standard of https://www.mhc.tn.gov.in/judis harmonics for
+11kv/22kv supply lines consumers and makes them also obligatory for harmonic controls, no
+obligation can be cast upon the 11kv/22kv supply lines consumers for compliance.
+30. Taking support from Sections 50, 86 and 181 of the Act read with Regulation 4(1)(iv) of the
+Tamil Nadu Electricity Supply Code, to sustain the impugned order levying harmonic charges on the
+11kv/22kv supply line consumers. In this context, let me extract below the above said provisions:
+50. The Electricity Supply Code :-
+The State Commission shall specify an Electricity Supply Code to provide for recovery
+of electricity charges, intervals for billing of electricity charges, disconnection of
+supply of electricity for non-
+payment thereof, restoration of supply of electricity, tampering, distress or damage to
+electrical plat, electric lines or meter, entry of distribution licensee or any person
+acting on his behalf for disconnecting supply and removing the meter, entry for
+replacing, altering or maintaining electric lines or electrical plant or meter.
+https://www.mhc.tn.gov.in/judis “Section 86 - Functions of State Commission.- (1)
+The State Commission shall discharge the following functions, namely:--
+(a) determine the tariff for generation, supply, transmission and wheeling of
+electricity, wholesale, bulk or retail, as the case may be, within the State: Provided
+Indian Kanoon - http://indiankanoon.org/doc/187298379/ 12
+M/S.Axles India Limited vs The Tamil Nadu Generation And ... on 7 December, 2021
+that where open access has been permitted to a category of consumers under section
+42, the State Commission shall determine only the wheeling charges and surcharge
+thereon, if any, for the said category of consumers;
+(b) regulate electricity purchase and procurement process of distribution licensees
+including the price at which electricity shall be procured from the generating
+companies or licensees or from other sources through agreements for purchase of
+power for distribution and supply within the State;
+(c) facilitate intra-State transmission and wheeling of electricity;
+(d) issue licences to persons seeking to act as transmission licensees, distribution
+licensees and electricity traders with respect to their operations
+https://www.mhc.tn.gov.in/judis within the State;
+(e) promote cogeneration and generation of electricity from renewable sources of
+energy by providing suitable measures for connectivity with the grid and sale of
+electricity to any person, and also specify, for purchase of electricity from such
+sources, a percentage of the total consumption of electricity in the area of a
+distribution licensee;
+(f) adjudicate upon the disputes between the licensees and generating companies and
+to refer any dispute for arbitration;
+(g) levy fee for the purposes of this Act;
+(h) specify State Grid Code consistent with the Grid Code specified under clause (h)
+of sub- section (1) of section 79;
+(i) specify or enforce standards with respect to quality, continuity and reliability of
+service by licensees;
+(j) fix the trading margin in the intra-State trading of electricity, if considered,
+necessary;
+(k) discharge such other functions as may be assigned to it under this Act.” Section
+50 of the Act dealing with the Electricity Supply Code statutorily
+https://www.mhc.tn.gov.in/judis provides for the cases, inter alia, with regard to the
+tampering of electric lines or meter and method of collection of electricity charges.
+Similarly, Section 86 of the Act empowers the State Commission to determine the
+tariff for generation, supply, transmission and wheeling of electricity, wholesale, bulk
+and retail within the State. But, till date, it has not provided for setting up of
+standards for harmonics charges. Therefore, neither Section 50 nor Section 86 of the
+Act supports respondent TANGEDCO in the matter of levying of harmonic charges on
+Indian Kanoon - http://indiankanoon.org/doc/187298379/ 13
+M/S.Axles India Limited vs The Tamil Nadu Generation And ... on 7 December, 2021
+the 11kv/22kv supply line consumers.
+31. Likewise, Section 181 gives power to the State Commission to make Regulations consistent with
+the Act and Rules to carry out the provisions of this Act. By exercising such power, the Tamil Nadu
+Electricity Regulatory Commission had issued the Tamil Nadu Electricity Supply Code, wherein the
+Regulation 4(1)(iv) of the Tamil Nadu Electricity Supply Code, which is extracted below, deals with
+additional charges for harmonic dumping.
+“4.Charges recoverable by the Licensee – The charges, recoverable by the Licensee from the
+consumers are:-
+https://www.mhc.tn.gov.in/judis xxxx (1). Tariff related charges, namely, -
+(iv). Additional charges for harmonics dumping Where any equipment installed by a
+consumer generates harmonics, the consumer shall provide adequate harmonic
+suppression units to avoid dumping of harmonics into Licensee's distribution system
+and the Licensee is at liberty to provide suitable metering equipment to measure the
+harmonic level pursuant to such harmonic. Where the consumer fails to provide such
+units, he shall be liable to pay compensation at such rates as the Commission may
+declare from time to time.” In view of Regulation 4(1)(iv) of the Tamil Nadu
+Electricity Supply Code, although the State has got power to direct the consumers to
+install harmonic filters irrespective of their voltage connection as stated by learned
+Standing Counsel for TANGEDCO, the same cannot be sustained in view of non-
+specification of any standard of harmonics for 11kv/22kv/supply line consumers by the CEA, who,
+being an Apex Body as per Section 73(d) of https://www.mhc.tn.gov.in/judis the Act, has exclusive
+powers to specify the Grid Standards for operation and maintenance of transmission lines.
+32. Thus, for all the reasons stated above, the impugned demand is quashed. Consequently, the writ
+petition is allowed. However, there shall be no order as to costs. Consequently, connected
+miscellaneous petition is closed.
+07.12.2021 Index : Yes/No. Internet : Yes/No. Speaking Order/Non-Speaking Order.
+cse To
+1.The Tamil Nadu Generation and Distribution Corporation Limited (TANGEDCO), Represented by
+its Chairman and Managing Director, No.144, Anna Salai, Chennai – 600 002.
+2.The Superintending Engineer, Thiruvannamalai Electricity Distribution Circle, Tamil Nadu
+Generation and Distribution Corporation Limited (TANGEDCO), Thiruvannamalai.
+3.Central Electricity Authority (CEA), Represented by its Chairperson, 6th Floor, Sewa Bhawan,
+R.K.Puram, New Delhi – 110 066. https://www.mhc.tn.gov.in/judis
+Indian Kanoon - http://indiankanoon.org/doc/187298379/ 14
+M/S.Axles India Limited vs The Tamil Nadu Generation And ... on 7 December, 2021
+4.The Tamil Nadu Electricity Regulatory Commission (TNERC), Represented by its Secretary,
+No.19-A, Rukmani Lakshmipathy Salai, Marshalls' Road, Egmore, Chennai – 600 008.
+https://www.mhc.tn.gov.in/judis S.M.SUBRAMANIAM, J.
+cse 07.12.2021 https://www.mhc.tn.gov.in/judis
+Indian Kanoon - http://indiankanoon.org/doc/187298379/ 15

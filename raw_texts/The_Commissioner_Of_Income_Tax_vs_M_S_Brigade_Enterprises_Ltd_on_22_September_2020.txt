@@ -1,0 +1,434 @@
+The Commissioner Of Income Tax vs M/S Brigade Enterprises Ltd on 22 September, 2020
+The Commissioner Of Income Tax vs M/S Brigade Enterprises
+Ltd on 22 September, 2020
+Bench: Alok Aradhe, H T Narendra Prasad
+1
+IN THE HIGH COURT OF KARNATAKA AT BENGALURU R
+DATED THIS THE 22ND DAY OF SEPTEMBER 2020
+PRESENT
+THE HON'BLE MR. JUSTICE ALOK ARADHE
+AND
+THE HON'BLE MR. JUSTICE H.T.NARENDRA PRASAD
+I.T.A. NO.54 OF 2013
+BETWEEN:
+1. THE COMMISSIONER OF INCOME-TAX
+C.R. BUILDING, QUEENS ROAD
+BANGALORE.
+2. THE DY. COMMISSIONER OF INCOME-TAX
+CIRCLE-11(2), C.R. BUILDING
+QUEENS ROAD, BANGALORE.
+... APPELLANTS
+(BY SRI. K.V. ARAVIND, ADV.,)
+AND:
+M/S. BRIGADE ENTERPRISES LTD.,
+PENT HOUSE, BRIGADE TOWERS
+NO.135, BRIGADE TOWERS
+BANGALORE-560025.
+... RESPONDENT
+(BY SRI. CHYTHANYA K.K. ADV.)
+---
+2
+Indian Kanoon - http://indiankanoon.org/doc/155794177/ 1
+The Commissioner Of Income Tax vs M/S Brigade Enterprises Ltd on 22 September, 2020
+THIS ITA IS FILED UNDER SECTION 260-A OF I.T. ACT,
+1961 ARISING OUT OF ORDER DATED 07.09.2012 PASSED IN ITA
+NO.1356/BANG/2010 FOR THE ASSESSMENT YEAR 2007-08,
+PRAYING THAT THIS HON'BLE COURT MAY BE PLEASED TO:
+(I) FORMULATE THE SUBSTANTIAL QUESTIONS OF LAW
+STATED THEREIN.
+(I) ALLOW THE APPEAL AND SET ASIDE THE ORDER OF THE
+ITAT, BANGALORE PASSED IN ITA NO.1356/BANG/2010 DATED
+07-09-2012 CONFIRMING THE ORDER OF THE APPELLATE
+COMMISSIONER AND CONFIRM THE ORDER PASSED BY THE
+DEPUTY COMMISSIONER OF INCOME TAX OFFICER, CIRCLE-11(2),
+BANGALORE.
+THIS ITA COMING ON FOR FURTHER HEARING, THIS DAY,
+ALOK ARADHE J., DELIVERED THE FOLLOWING:
+JUDGMENT
+This appeal under Section 260A of the Income Tax Act, 1961 (hereinafter referred to as the Act for
+short) has been preferred by the revenue. The subject matter of the appeal pertains to the
+Assessment year 2007-08. The appeal was admitted by a bench of this Court vide order dated
+30.05.2013 on the following substantial questions of law:
+(i) Whether the appellate authorities were correct in holding that the assessee firm is
+eligible for deduction under Section 80IB of the Income-Tax Act without appreciating
+that the assessee has not satisfied the requirements as laid down in clauses (a) to (d)
+of sub-Section (1) of Section 80IB of the Act?
+(ii) Whether the appellate authorities were
+correct in allowing proportionate
+deduction under Section 80IB in respect of the individual units measuring less than
+1500 sq.ft. Contrary to the provisions of Section 80IB of the Act, when Section
+contemplates fulfillment of condition of less than 1500 sq.ft. in respect of entire
+project?
+(iii) Whether the appellate authorities were correct in holding that the assessee is
+entitled to deduction under Section 80IB(10) of the Act, admittedly when the
+commercial area in the project was more than 5% by holding that each residential
+block has to be taken into consideration for computing percentage of commercial
+area, when the provision contemplates fulfillment of conditions for the entire project
+and recorded a perverse finding
+Indian Kanoon - http://indiankanoon.org/doc/155794177/ 2
+The Commissioner Of Income Tax vs M/S Brigade Enterprises Ltd on 22 September, 2020
+(iv) Whether the appellate authorities were correct in holding that the assessee is
+entitled to deduction under Section 80IB of the Act, though the area of project is less
+than 1 acre by recording a finding that the area was measuring more than 1 acre at the
+time of submitting the project for approval and the same was reduced in compliance
+with the conditions imposed by the approval authority i.e., BMP without taking into
+consideration the requirement of Section 80IB(10) of the Act, and recorded a
+perverse finding?
+BACKGROUND FACTS:
+2. Facts leading to filing of this appeal briefly stated are that the assessee is engaged
+in the business of construction, property development and real estate.
+The assessee filed return declaring an income of Rs.98,15,55,940/-. The return was processed under
+Section 143(1) of the Act. However, the assessee filed a revised return of income on 30.03.2009, in
+which the income returned was reduced from Rs.98,15,55,940/- to Rs.49,96,89,936/-. In the
+revised return, the assessee claimed deduction under Section 80IB(10) of the Act to the extent of
+Rs.61,60,49,743/- as against deduction of Rs.11,19,14,742/-, which was claimed earlier. The case was
+selected for scrutiny and notice under Section 143(2) of the Act was issued. The Assessing Officer by
+an order dated 31.12.2009 inter alia held that Section 80IB(10) of the Act does not permit a claim on
+proportionate basis, only in respect of units, which were less than 1500 square feet. It was also held
+that the assessee has used 60% of the total built up area for commercial purposes as against 5%,
+which is permissible in law. It was also held that the assessee company in almost every block had a
+housing unit, which was more than 1500 square feet and approval from Bruhat Bangalore
+Mahanagara Palike (BBMP) has been obtained for the entire project and not for individual units. It
+was also held that one of the housing units did not satisfy the condition of minimum area i.e., one
+acre. The Assessing Officer concluded that the assessee has failed to satisfy the conditions, which are
+sine qua non for claiming deduction under Section 80IB(10) of the Act. The Assessing Officer,
+assessed the total income of the assessee at Rs.105,56,89,820/- and levied interest and initiated the
+penalty proceedings under Section 271(1)(c) of the Act.
+3. The assessee challenged the aforesaid order in an appeal before the Commissioner of Income Tax
+(Appeals). The Commissioner of Income Tax (Appeals) vide order dated 12.05.2010, inter alia held
+that claim of assessee under Section 80IB(10) of the Act was allowed for previous Assessment Years
+viz., 2004-05, 2005-06 by the Commissioner of Income Tax (Appeals) and the aforesaid orders has
+been upheld by the Income Tax Appellate Tribunal (hereinafter referred to as 'the Tribunal' for
+short). Accordingly, the claim for deduction under Section 80IB(10) of the Act for Assessment Year
+2007-08 was allowed and the order passed by the Assessing Officer was set aside.
+4. Being aggrieved, the revenue filed an appeal before the Tribunal. The Tribunal by an order dated
+07.09.2012 inter alia held that the issues involved in the appeal are covered by decisions passed by
+the Tribunal in the assessee's case in the Previous year and order of the Tribunal in respect of
+Assessment Year 2004-05 has been upheld by this court in I.T.A.No.763/2009 dated 29.02.2012. It
+was further held that the assessee has also satisfied the requirement with regard to size of the land
+Indian Kanoon - http://indiankanoon.org/doc/155794177/ 3
+The Commissioner Of Income Tax vs M/S Brigade Enterprises Ltd on 22 September, 2020
+i.e., one acre. In the result, the appeal preferred by the revenue was dismissed. In the aforesaid
+factual background, the revenue has filed this appeal. SUBMISSIONS:
+5. Learned counsel for the revenue submitted that the benefit of deduction under
+Section 80IB(10) of the Act is extended not to an individual unit but to a housing
+project as a whole. It is further submitted that the housing project itself should be
+eligible for incentive under Section 80IB(10) of the Act and the conditions prescribed
+in clauses (a) to (f) of Section 80IB(10) have to be complied with. It is contended that
+the expression 'residential unit' used in clause (c) of Section 80IB(10) of the Act, has
+to be read as 'residential unit comprised in the housing project'. It is further
+contended that assessee cannot claim each tower to be project by itself and the
+reliance by the Commissioner of Income Tax (Appeals) and the Tribunal with regard
+to decisions of previous assessment years in the case of assessee is misconceived as
+the dispute in the decisions of Previous assessment years related to built up area and
+therefore, the aforesaid decisions do not apply to the fact situation of the case. It is
+also urged that the conditions mentioned in clauses (a) to (f) of Section 80IB(10) of
+the Act are cumulative and have to be fulfilled by the assessee in order to claim the
+benefit of deduction under Section 80IB(10) of the Act. It is also argued that
+conditions (a) to (f) of Section 80IB(10) are in the realm of exemption provisions and
+have to be strictly construed and in case of any ambiguity, the benefit has to be given
+to the revenue. In support of aforesaid submissions, reliance has been placed on
+decisions in 'COMMISSIONER OF INCOME-TAX VS.
+M.K.KIRTIKAR', (1959) 36 ITR 360 (SC), 'B.M.MALANI VS. COMMISSIONER OF INCOME TAX &
+ANR.', (2008) 306 ITR 0196, 'RAMNATH & CO. VS. COMMISSIONER OF INCOME-TAX', (2020)
+116 TAXMANN.COM 885 (SC), and 'COMMISSIONER OF INCOME-TAX VS. VEENA
+DEVELOPERS', (2016) 66 TAXMANN.COM 353 (SC).
+6. On the other hand, learned counsel for the assessee did not dispute the proposition that in order
+to claim deduction under Section 80IB(10) of the Act, an assessee is required to satisfy the
+conditions mentioned in clauses (a) to (f) of Section 80IB(10) of the Act. It is submitted that
+Assessing Officer, Commissioner of Income Tax (Appeals) as well as Income Tax Appellate Tribunal
+have held that issue of proportionality is covered in the case of assessee by this court and even has
+been affirmed by the Supreme Court in the case of assessee itself. It is also argued that if the
+Assessing Officer has not taken a ground to deny the benefit to the assessee, the same cannot be
+urged in this appeal. It is also pointed out that in respect of Assessment Years 2004-05, 2005-06
+and 2006-07, the assessee was given the benefit of proportionality and the aforesaid view has been
+affirmed by Supreme Court as Special Leave Petitions have been dismissed. It is also argued that
+where multiple approvals are granted and each approval has to be examined separately. It is also
+submitted that issue with regard to usage of commercial area in the project in excess of more than
+5% has also attained finality in the case of assessee itself and the Assessing Officer has not disputed
+the fact that the assessee had obtained separate approvals in respect of different units. It is further
+submitted that this court had also allowed the appeal of the assessee for Previous Assessment Year
+on different project on the issue of commercial use of area in a project and SLP against the order
+Indian Kanoon - http://indiankanoon.org/doc/155794177/ 4
+The Commissioner Of Income Tax vs M/S Brigade Enterprises Ltd on 22 September, 2020
+passed by this court has been dismissed. It is contended that the project includes park area, roads
+etc. and the Assessing Officer grossly erred in ascertaining the area of 1 acre by taking into account
+the built up area of the flats. In this connection, our attention has also been invited to finding
+recorded by the Tribunal in para 11 and it has been pointed out that the total area is 48.939 square
+feet, which is more than one acre and the land was surrendered after approval of the project. In
+support of aforesaid submissions, reliance has been placed on decisions of Supreme Court in 'CIT
+VS. RAGHAVENDRA CONSTRUCTIONS', (2013) 354 ITR 194 (KARNATAKA), 'CIT VS. VANDANA
+PROPERTIES', (2013) 353 ITR 36 (BOMBAY), (2008) 119 TTJ 269 (BANGALORE), ITA
+412/BANG/09, ITA 763/2009 C/W 25/2009, ITA 1355/BANG/2010, ITA 61/2012, SLP AGAINST
+25/2009 IN CC 2309/2013, SLP AGAINST 763/2009 IN CC 20865/2012, SLP AGAINST 61/2012
+IN CC 9188/2013, R.P.WAS DISMISSED IN RP(C) NO.490 OF 2013, 'ACIT VS.
+'G.R.DEVELOPERS IN ITA 405/BANG/2010, 'CIT VS. M/S G.R. DEVELOPERS IN ITA
+NO.68/2011, 'CIT VS. M/S G.R.DEVELOPERS IN ITA NO.355/2009, ' PCIT VS. OCEANUS
+DWELLINS (P.) LTD.', (2017) 395 ITR 376 (KARNATAKA), 'CIT VS. SJR BUILDERS IN ITA
+NO.32/2012, 'CIT VS. ANRIYA PROJECT MANAGEMENT SERVICES (P.) LTD', (2013) 353 ITR 12
+(KARNATAKA), 'PCIT VS.
+SHREENATH BUILDCON', R/TAX APPEAL NO.289/2008, 'PCIT VS. SHREENATH BUILDCON',
+SLP NO.42736/2018, (2019) 110 TAXMANN.COM 390 (SC), 'VISWAS PROMOTERS (P.) LTD. VS.
+ACIT', (2013)214 TAMAN 524 (MADRAS), 'CIT VS. SREEVATSA REAL ESTAETS (P.) LTD.', (2014)
+222 TAXMAN 105 (MADRAS), and 'CIT VS. SG ESTATE', 2015-TIOL-1834-HC-DEL-IT.
+7. Learned Senior counsel for the assessee submitted that clause (b) and (c) of Section 80IB(10) of
+the Act did not undergo any change even after the amendment therefore, irrespective of the fact
+whether the housing projects were sanctioned on or after 01.04.2005, the various decisions
+rendered with regard to Section 80IB(10) in relation to clauses (b) and (c) continued to hold the
+field. It is also submitted that the Legislature has not used the word 'each' residential unit in clause
+(c) of Section 80IB(10) of the Act, whereas, in 165 provisions of the Act as well as the Income Tax
+Rules, the expression 'each' has been used. It is also submitted that the Legislature in its wisdom did
+not use the word 'each' despite amendment. Learned Senior counsel for the assessee has invited our
+attention to the constitution bench of the Supreme Court in 'DILIP KUMAR AND CO.', (2018) 95
+TAXMANN.COM 327 (SC), with regard to principles of interpretation of a charging section as well
+as provision relating to exemption. It is also argued that there is no ambiguity in Section 80IB(10) of
+the Act.
+8. By way of rejoinder, learned counsel for the revenue has submitted that in all the decisions on
+which reliance has been placed by the assessee, the sanction in respect of the housing projects was
+granted prior to 01.04.2005. It is reiterated that the expression 'residential unit' used in Clause (c)
+of Section 80IB(10) of the Act has to be read as 'a residential unit in a housing project'. It is further
+submitted that reliance placed on decision in case of Vandana properties supra is of no assistance to
+the assessee as the decision in the aforesaid case was given in the peculiar facts of the case. It is
+further pointed out that internal roads in the project were not handed over by the assessee to the
+BBMP.
+Indian Kanoon - http://indiankanoon.org/doc/155794177/ 5
+The Commissioner Of Income Tax vs M/S Brigade Enterprises Ltd on 22 September, 2020
+LEGAL PRINCIPLES:
+9. We have considered the submissions made by learned counsel for the parties and
+have perused the record. The object of Section 80IB(10) of the Act is to provide 100%
+deduction of the profits derived by an undertaking from developing and building
+housing projects. Section 80IB(10) was substituted by Finance Act No.(2) Act, 2004
+with effect from 01.04.2005. Prior to the amendment, Section 80IB(10) and post
+amendment with effect from 01.04.2005, Section 80IB(10) reads as under:
+Prior to 01.04.2005 (10) The amount of profitsin case of an undertaking developing
+and building housing projects approved before the 31st day of March, 2005 by a local
+authority, shall be hundred per cent of the profits derived in any previous year
+relevant to any Assessment Year from such housing project if -
+(a) such undertaking has commenced or commences development and construction
+of the housing project on or after the 1st day of October, 1998;
+(b) the project is on the size of a plot of land which has a minimum area of one acre;
+and
+(c) the residential unit has a maximum built-up area of one thousand square feet
+where such residential unit is situated within the cities of Delhi or Mumbai or within
+twenty-
+five kilometers from the municipal limits of these cities and one thousand and five hundred square
+feet at any other place." AFTER 01.04.2005 80-IB. (10) The amount of deduction in the case of an
+undertaking developing and building housing projects approved before the 31st day of March, 2008
+by a local authority shall be hundred per cent of the profits derived in the previous year relevant to
+any assessment year from such housing project if,--
+(a) such undertaking has commenced or commences development and construction of the housing
+project on or after the 1st day of October, 1998 and completes such construction,--
+(i) in a case where a housing project has been approved by the local authority before the 1st day of
+April, 2004, on or before the 31st day of March, 2008;
+(ii) in a case where a housing project has been, or, is approved by the local authority on or after the
+1st day of April, 2004 but not later than the 31st day of March, 2005, within four years from the end
+of the financial year in which the housing project is approved by the local authority;
+(iii) in a case where a housing project has been approved by the local authority on or after the 1st day
+of April, 2005, within five years from the end of the financial year in which the housing project is
+approved by the local authority.
+Indian Kanoon - http://indiankanoon.org/doc/155794177/ 6
+The Commissioner Of Income Tax vs M/S Brigade Enterprises Ltd on 22 September, 2020
+Explanation.--For the purposes of this clause,--
+(i) in a case where the approval in respect of the housing project is obtained more than once, such
+housing project shall be deemed to have been approved on the date on which the building plan of
+such housing project is first approved by the local authority;
+(ii) the date of completion of construction of the housing project shall be taken to be the date on
+which the completion certificate in respect of such housing project is issued by the local authority;
+(b) the project is on the size of a plot of land which has a minimum area of one acre:
+Provided that nothing contained in clause (a) or clause (b) shall apply to a housing
+project carried out in accordance with a scheme framed by the Central Government
+or a State Government for reconstruction or redevelopment of existing buildings in
+areas declared to be slum areas under any law for the time being in force and such
+scheme is notified by the Board in this behalf;
+(c) the residential unit has a maximum built-up area of one thousand square feet
+where such residential unit is situated within the city of Delhi or Mumbai or within
+twenty-five kilometres from the municipal limits of these cities and one thousand and
+five hundred square feet at any other place;
+(d) the built-up area of the shops and other commercial establishments included in
+the housing project does not exceed three per cent of the aggregate built-up area of
+the housing project or five thousand square feet, whichever is higher;
+(e) not more than one residential unit in the housing project is allotted to any person
+not being an individual; and
+(f) in a case where a residential unit in the housing project is allotted to a person
+being an individual, no other residential unit in such housing project is allotted to
+any of the following persons, namely:--
+(i) the individual or the spouse or the minor children of such individual,
+(ii) the Hindu undivided family in which such individual is the karta,
+(iii) any person representing such individual, the spouse or the minor children of
+such individual or the Hindu undivided family in which such individual is the karta.
+Explanation.--For the removal of doubts, it is hereby declared that nothing contained
+in this sub-
+Indian Kanoon - http://indiankanoon.org/doc/155794177/ 7
+The Commissioner Of Income Tax vs M/S Brigade Enterprises Ltd on 22 September, 2020
+section shall apply to any undertaking which executes the housing project as a works contract
+awarded by any person (including the Central or State Government).
+10. Thus, from close scrutiny of Section 80IB(10) of the Act, prior to its amendment with effect from
+01.04.2005 as well as after its amendment with effect from 01.04.2005, it is evident that clauses (b)
+and (c) have not been subjected to any amendment and remain the same. Thus, the legal principles
+evolved by various courts with regard to interpretation with regard to clauses (b) and (c) of Section
+80IB(10) of the Act, even after amendment remain the same. It is noteworthy that in Section
+80IB(10) of the Act, the Legislature has used the expression 'housing project' except in clause (c)
+where the expression 'residential unit' has been used.
+11. In order to claim the benefit of deduction under Section 80IB(10) of the Act, the assessee has to
+satisfy the following conditions:
+(a) The project has to be approved by the local authority before 31.03.2007.
+(b) The project is constructed on a plot of land having a minimum area of one acre.
+(c) The built-up area of each residential unit should not exceed 11,500 sq.ft.
+in the cities of Delhi and Mumbai (including areas falling within 25 Kms. Of Municipal limits of
+these cities) and 1,500/- sq.ft. in other places.
+(d) The built up area of the shops and other commercial establishments included in the housing
+project should not exceed 5% of the total built up area of the housing project or 2,000 sq.ft.
+whichever is less.
+(e) The project has to be completed within four years from the end of the financial year in which the
+project is approved by the local authority.
+12. At this stage, we may advert to the well settled legal principles with regard to interpretation of
+taxing statutes. It is trite law that subject is not to be taxed without clear words for the purpose and
+also that every Act of Parliament must be read according to natural construction of its word. The
+well established rule in the familiar words of Lord Wensleydale, reaffirmed by Lord Halsbury and
+Lord Simonds, is that 'if the person sought to be taxed comes within the letter of the law he must be
+taxed, however, great the hardship may appear to the judicial mind to be. On the other hand, if the
+Crown seeking to recover the tax, cannot bring the subject within the letter of the law, the subject is
+free, however apparently within the spirit of law the case might otherwise appear to be'. In other
+words, if there be admissible in any statute, what is called an equitable construction, certainly, such
+a construction is not admissible in a taxing statute where you can simply adhere to the words of the
+statute. The Constitution Bench of the Supreme Court in STATE OF WEST BENGAL VS. KESORAM
+INDUSTRIES LTD.', (2004) 10 SCC 201 cited a passage from JUSTICE G.P.SINGH'S TREATISE on
+Principles of Statutory interpretation summed up the following principles with regard to
+interpretation of taxing statute.
+Indian Kanoon - http://indiankanoon.org/doc/155794177/ 8
+The Commissioner Of Income Tax vs M/S Brigade Enterprises Ltd on 22 September, 2020
+(i) in interpreting a taxing statute, equitable considerations are entirely cut of place. Taxing statutes
+cannot be interpreted on any presumption or assumption. A taxing statute has to be interpreted in
+the light of what is clearly expressed; it cannot imply anything which is not expressed; it cannot
+import provisions in the statute so as to supply any deficiency;
+(ii) before taxing any person it must be shown that he fails within the ambit of the charging section
+by clear words used In the Section; and
+(iii) if the words are ambiguous and open to two interpretations, the benefit of interpretation is
+given to the subject. There is nothing unjust in the tax- payer escaping if the letter of the law falls to
+catch him on account of Legislature's failure to express itself clearly.
+The aforesaid principles were referred to with approval by another constitution bench decision of
+Supreme Court in 'COMMISSIONER OF CUSTOMS (IMPORT) MUMBAI VS. DILIP KUMAR AND
+COMPANY', (2018) 361 ELT 577 (SC).
+13. It is equally well settled legal proposition that exemption is available on complying with certain
+conditions, those conditions have to be strictly complied with. [See: 'EAGLE FLASK INDUSTRIES
+LTD., VS. COMMISSIONER OF CENTRAL EXCISE', (2004) 7 SCC 377 AND 'STATE OF
+JHARKHAND VS. ANBAY CEMENTS', (2005) 1 SCC 368, 'STATE OF BIHAR VS. KALYANPUR
+CEMENTS LTD.', (2010) 3 SCC 274 and 'DEPUTY COMMISSIONER OF INCOME TAX, CIRCLE
+11(1), BANGALORE VS. ACE MULTI AXES SYSTEMS LTD.', AIR 2017 SC 5660]. The constitution
+bench of the Supreme Court in DILIP KUMAR AND COMPANY SUPRA has held that incentive
+provision is subjected to strict interpretation and until the stage of finding out the eligibility to claim
+deduction, the ambit and scope of the provision for the purpose of its applicability cannot be
+expanded or widened, but once, eligibility is decided in favour of a person claiming such deduction,
+it could be construed liberally with regard to other requirements, which may be formal or directory
+in nature. The aforesaid decision was referred to with approval by the Supreme Court in Ramnath &
+Co. supra. ANALYSIS:
+14. In the backdrop of aforesaid well settled legal principles, we may now examine the facts of the
+case in hand. The pivotal issue in this appeal is whether the assessee has complied with the
+conditions, which are sine qua non in order to claim benefit of deduction under Section 80IB(10) of
+the Act viz., the requirements contained in clauses (b), (c) & (d) of Section 80IB(10) of the Act. We
+shall proceed to deal with the aforesaid issues ad seritum.
+A. Requirement of project of the size of a plot of land which has a minimum area of 1 acre:
+15. From perusal of para 14 of the order passed by the Assessing Officer, we find that the Assessing
+Officer has himself recorded a finding that the site area as per the plan, which was approved on
+30.04.2005 is 48,939 square feet, which is more than one acre i.e., 45,560 square feet. It has further
+been found by the Assessing Officer that the assessee company had to hand over certain land to
+BBMP for development. It has also been found that after handing over of the land, the project has
+been constructed on an area of 38,573 square feet. The Commissioner of Income Tax (Appeals) by
+Indian Kanoon - http://indiankanoon.org/doc/155794177/ 9
+The Commissioner Of Income Tax vs M/S Brigade Enterprises Ltd on 22 September, 2020
+following the decision of the Income Tax Appellate Tribunal dated 29.08.2008 in case of assessee
+itself for the Assessment Year 2004-05 has reversed the finding recorded by the Assessing Officer in
+this regard. The Tribunal by an order dated 07.09.2012 has held that as per the approved plan, the
+total area of the land is 48,939 square feet, which is more than one acre and part of the land was
+handed over to the BBMP by the assessee for public purposes. It was further held that the land area,
+which was ultimately sold to the purchasers of various flats was only 38,573 square feet. The
+Tribunal by placing reliance on decision of Mumbai Bench of the Tribunal in M/s Veedhi Builders
+vs. ITO in ITA No.1212/2009 for Assessment Year 2005-06 held that size of the plot has to be taken
+as a whole and the area surrendered for the public purpose viz., for roads and gardens cannot be
+excluded. It is pertinent to note that Central Board of Direct Taxes (CBDT) has issued a letter dated
+04.05.2001 to Maharashtra Chamber of Housing Industry and has clarified that any project, which
+has been approved by the local authority as a housing project should be considered adequate for the
+purpose of Section 10(23G) and Section 80IB(10) of the Act. The aforesaid Circular was interpreted
+by Bombay High Court in COMMISSIONER OF INCOME TAX VS. VANDANA PROPERTIES supra
+and it was held that the housing project must be on a vacant plot of land having minimum area of
+one acre and in such a case, the assessee is entitled to benefit of deduction under Section 80IB(10)
+of the Act. Similar view was taken by High court of Madras in 'COMMISSIONER OF INCOME TAX
+THIRUCHIRAPALLI VS. R.SETHURAMAN', 2015-TIOL-1912-HC-MAD-IT as well as in
+'COMMISSIONER OF INCOME TAX, CHENNAI VS. M/S VOORA PROPERTY DEVELOPERS PVT.
+LTD.', TAX CASE (APPEAL) NO.56/2015 DATED 09.03.2015. We respectfully concur with the view
+taken by the Bombay as well as Chennai High Courts. In the instant case, the housing project of the
+assessee was approved in respect of an area of 48,939 square feet, which is more than one acre i.e.,
+43,500 square feet, therefore, we hold that the assessee has complied with requirement contained in
+Clause (b) of Section 80IB(10) of the Act.
+B. REQUIREMENT OF RESIDENTIAL UNIT HAVING A MAXIMUM BUILT UP AREA OF 1,500
+SQUARE FEET:
+16. The Assessing Officer has held that 32% of the units of the assessee are having an
+area of more than 1,500 square feet. It was further held that though the Income Tax
+Appellate Tribunal has recorded a finding in favour of the assessee that assessee is
+entitled to benefit of principle of proportionality for the Assessment Years 2004-05
+and 2005-06, yet the aforesaid finding has not attained finality and the same is
+pending before this court in an appeal. The Commissioner of Income Tax (Appeals)
+by placing reliance on the order passed by the Tribunal in respect of previous
+Assessment Year viz., 2004-05 has held that the assessee is entitled to benefit of
+deduction under Section 80IB(10) of the Act proportionately in respect of residential
+units having built up area less than or equal to 1,500 square feet. The aforesaid
+finding has been affirmed by the Tribunal vide order dated 07.09.2012 by placing
+reliance in case of the assessee in respect of previous Assessment Year i.e., 2005-06
+as well as 2006-
+07. It is pertinent to note that the aforesaid view has been affirmed by a bench of this
+court in respect of another project of the assessee for the Assessment Year 2004-05
+Indian Kanoon - http://indiankanoon.org/doc/155794177/ 10
+The Commissioner Of Income Tax vs M/S Brigade Enterprises Ltd on 22 September, 2020
+vide order dated 29.02.2012 passed in I.T.A.No.763/2009. It is also pertinent to note
+that similar view was taken in favour of the assessee in respect of Assessment Year
+2005-06 and 2006-07 and the SLP against the order passed by this court has been
+dismissed vide orders dated 04.01.2013 and 14.03.2014 respectively. The aforesaid
+issue has therefore, attained finality. It is also pertinent to mention here that clause
+(c) of Section 80IB(10) of the Act, the Legislature has used the expression 'residential
+unit' and has specifically omitted to use the expression 'each'. It is also pertinent to
+mention here that in several Sections like Section 5A, 6(5), 10(10), 35D(1), 44AD(3),
+80HHB, 80I(5), 153C, 153D, 158DA, 293A(3), 296 and 298(4) of the Act as well as
+under Rules 2BA, 20(4), 22(3), 62(3), 74(2), 74(6) and 104 of the Rules, the
+Legislature has expressly used the word 'each'. It is well settled rule of statutory
+interpretation that when a situation has been expressed differently, the legislation
+must be taken to have been tended to express a different intention. [SEE:
+'COMMISSIONER OF INCOME TAX, NEW DELHI VS.
+EAST WEST IMPORT AND EXPORT (P) LTD' 1989 (1) SCC 760]. On plain reading
+of clause (c) of Section 80IB(10) of the Act, it is evident that the same does not
+exclude the principle of proportionality in any manner. Therefore, we hold that the
+Commissioner of Income Tax (Appeals) as well as the Tribunal have rightly found
+that the assessee has complied with the requirement contained in clause (c) of
+Section 80IB(10) of the Act.
+C. REQUIREMENT OF COMMERCIAL AREA IN A PROJECT NOT EXCEEDING 5% OF THE
+BUILT UP AREA:
+17. The Assessing Officer in para 11 of its order has recorded the submission of the
+assessee that in respect of each block, it has taken separate approval.
+The Tribunal vide order dated 07.09.2012 inter alia held that individual residential block has to be
+considered as separate project and the commercial space which is separate part of the project should
+not be considered. It was further held that similar view was taken by the Tribunal in case of the
+assessee for Assessment Year 2004-05, which has been upheld by this court in I.T.A.No.763/2009
+and 25/2009 vide order dated 29.02.2012 and therefore, the assessee was held entitled to deduction
+under Section 80IB(10) of the Act. It is pertinent to mention here that the assessee had preferred a
+Special Leave Petition, which was dismissed by the Supreme Court. We therefore, hold that the
+assessee has complied with the requirement of clause
+(b) of Section 80IB(10) of the Act.
+18. The Supreme Court in RADHASOAMI SATSANG Vs. COMMISSIONER OF INCOME-TAX'
+(1992) 60 TAXMAN 248 (SC) has held that even though principles of res judicata do not apply to
+income tax proceedings, but where a fundamental aspect permeating through the different
+Indian Kanoon - http://indiankanoon.org/doc/155794177/ 11
+The Commissioner Of Income Tax vs M/S Brigade Enterprises Ltd on 22 September, 2020
+Assessment Years has been found as the fact one way or the other and the parties have allowed the
+position to be sustained by not challenging the order, it would not be at all appropriate to allow the
+position to be changed in subsequent year. For this reason also, in the facts of the case, a different
+view cannot be taken. On literal construction of the provision of Section 80IB(10) of the Act it is
+evident that the aforesaid provisions do not suffer from any ambiguity, therefore, the decisions
+rendered by the Supreme Court in the case of DILIP KUMAR and RAMNATH & CO. supra have no
+application to the obtaining factual matrix of the case.
+For the aforementioned reasons, it is held that the assessee has complied with the requirements
+contained in clauses (a), (b), (c) & (d) of Section 80IB(10) of the Act. The substantial questions of
+law framed by a bench of this court are answered against the revenue and in favour of the assessee.
+In the result, we do not find any merit in this appeal. The same fails and is hereby dismissed.
+Sd/-
+JUDGE Sd/-
+JUDGE ss
+Indian Kanoon - http://indiankanoon.org/doc/155794177/ 12

@@ -1,0 +1,201 @@
+M/S. Carborundum Universal Limited vs The Assistant Commissioner Of Income ... on 13 December, 2021
+M/S. Carborundum Universal Limited vs The Assistant
+Commissioner Of Income ... on 13 December, 2021
+Author: R. Mahadevan
+Bench: R. Mahadevan, Mohammed Shaffiq
+TCA No. 1049 & 1050 of 2008
+IN THE HIGH COURT OF JUDICATURE AT MADRAS
+DATED : 13.12.2021
+CORAM
+THE HON'BLE MR. JUSTICE R. MAHADEVAN
+and
+THE HON'BLE MR. JUSTICE MOHAMMED SHAFFIQ
+Tax Case Appeal Nos. 1049 & 1050 of 2008
+---
+M/s. Carborundum Universal Limited
+“Parry House”
+43, Moore Street .. Appellant in both
+Chennai – 600 001 the appeals
+Versus
+The Assistant Commissioner of Income Tax
+Company Circle I (3) .. Respondent in both
+Chennai the appeals
+Tax Case Appeals filed under Section 260A of the Income Tax Act,
+1961 against the orders dated 28.12.2007 passed by the Income Tax Appellate
+Tribunal, “A” Bench, Chennai in I.T.A.Nos.1102/(Mds)/2006 and
+1103/(Mds)/2006 respectively.
+For Appellant : Mr. R. Venkatanarayanan
+in both the appeals
+For Respondent : Mr.T.Ravikumar
+Senior Standing Counsel
+in both the appeals
+https://www.mhc.tn.gov.in/judis
+1/10
+Indian Kanoon - http://indiankanoon.org/doc/111373663/ 1
+M/S. Carborundum Universal Limited vs The Assistant Commissioner Of Income ... on 13 December, 2021
+(cid:12) TCA No. 1049 & 1050 of 2008
+COMMON JUDGMENT
+(Judgment of the Court was delivered by R. MAHADEVAN, J.) These tax case appeals have been
+filed by the appellant / assessee, calling in question the correctness of the common order dated
+28.12.2007 passed by the Income Tax Appellate Tribunal, 'A' Bench, Chennai, in I.T.A.Nos.
+1102/Mds/2006 and 1103/Mds/2006 relating to the assessment years 2000-01 and 2002-03
+respectively.
+2.According to the appellant / assessee, they are engaged in the business of manufacturing and sale
+of abrasives, industrial ceramics and electro minerals. For the assessment years in question, they
+filed return of income, which were processed under Section 143(1)(a) of the Income-tax Act, 1961
+(hereinafter referred to as “the Act”). The Assessing Officer issued notice under Section 148 for the
+purpose of scrutiny assessment and the assessment was completed under Section 143(3) read with
+Section 147 of the Act. While so, the Assessing Officer restricted the relief under Section 80HHC and
+Section 80 I and disallowed depreciation claimed on the merged entity and on Technical know-how
+fee paid and added the notional profit arising on valuation of closing inventory on account of
+mandatory adoption of Accounting Standard (AS 2) issued by ICAI. Further, the Assessing Officer
+included the https://www.mhc.tn.gov.in/judis TCA No. 1049 & 1050 of 2008 sale of scrap in the
+total turnover and excluded 90% of gross interest income while computing deduction under
+80HHC.
+3.Challenging the orders of assessment, the assessee filed appeals before the Commissioner of
+Income-tax (Appeals)-III, Chennai, who partly allowed the appeals, by common order dated
+28.02.2006. Aggrieved over the same, both the assessee and the Revenue went on further appeals
+before the Income Tax Appellate Tribunal. By order dated 28.12.2007, the Tribunal partly allowed
+the appeals filed by the assessee as well as the Revenue. Therefore, the present tax case appeals by
+the assessee alone.
+4.By order dated 30.07.2008, TCA No.1049 of 2008 was admitted on the following substantial
+questions of law :-
+“1. Whether on the facts and in the circumstances of the case, the Tribunal was right
+in holding that scrap should be included in the total turnover while computing
+deduction under Section 80HHC?
+2. Whether on the facts and circumstances of the case, the Tribunal was right in
+confirming the disallowance of depreciation claimed under Section 32 on the
+technical know how fee paid and holding that only relief under Section 35AB is to be
+allowed on such payment?
+https://www.mhc.tn.gov.in/judis TCA No. 1049 & 1050 of 2008
+Indian Kanoon - http://indiankanoon.org/doc/111373663/ 2
+M/S. Carborundum Universal Limited vs The Assistant Commissioner Of Income ... on 13 December, 2021
+3. Whether on the facts and in the circumstances of the case, the Tribunal was right in confirming
+the disallowance of depreciation claimed under section 32 on the assets acquired through
+amalgamation?
+4. Whether on the facts and in the circumstances of the case, the Tribunal was right in confirming
+the additional of notional profit arising on account of the inventory valuation due to mandatory
+application of AS-2?”
+5.By another order dated 30.07.2008, TCA No.1050 of 2008 was admitted by this court on the
+substantial question of law Nos.1 to 3 as were raised in TCA No.1049 of 2008, as stated above.
+6.Heard both sides and perused the materials placed before this court. 7.1 As regards the first
+question of law, whether the sale of scrap should be included in the total turnover for the purpose of
+deduction under Section 80HHC of the Act, the same is covered by the decision of the Hon'ble
+Supreme Court in the case of Commissioner of Income Tax vs. Punjab Stainless Steel Industries
+[(2015) 229 Taxman 0423 (SC)], wherein it was held that “the proceeds generated from the sale of
+scrap would not be included in the ‘total turnover’, for computation of deduction under Section
+80HHC”. The relevant paragraphs of the said decision are usefully extracted below:
+https://www.mhc.tn.gov.in/judis TCA No. 1049 & 1050 of 2008 “22. So far as the
+scrap is concerned, the sale proceeds from the scrap may either be shown separately
+in the Profit and Loss Account or may be deducted from the amount spent by the
+manufacturing unit on the raw material, which is steel in the case of the
+respondent-assessee, as the respondent-assessee is using stainless steel as raw
+material, from which utensils are manufactured. The raw material, which is not
+capable of being used for manufacturing utensils will have to be either sold as scrap
+or might have to be re-cycled in the form of sheets of stainless steel, if the
+manufacturing unit is also having its re- rolling plant. If it is not having such a plant,
+the manufacturer would dispose of the scrap of steel to someone who would re- cycle
+the said scrap into steel so that the said steel can be re-used.
+23. When such scrap is sold, in our opinion, the sale proceeds of the scrap cannot be
+included in the term ‘turnover’ for the reason that the respondent-unit is engaged
+primarily in the manufacturing and selling of steel utensils and not scrap of steel.
+Therefore, the proceeds of such scrap would not be included in ‘sales’ in the Profit and Loss Account
+of the respondent-assessee. ....
+28. The intention behind enactment of Section 80HHC of the Act was to encourage export so as to
+earn more foreign exchange. For the said purpose the Government wanted to encourage
+businessmen, traders and manufacturers to increase the export so as to bring more foreign exchange
+in our country. If the purpose is to bring more foreign exchange and to encourage export, we are of
+the view that the legislature would surely like to give more benefit to persons who are making an
+effort to help our nation in the process of bringing more foreign exchange. If a trader or a
+Indian Kanoon - http://indiankanoon.org/doc/111373663/ 3
+M/S. Carborundum Universal Limited vs The Assistant Commissioner Of Income ... on 13 December, 2021
+manufacturer is trying his best to increase his exports, even at the cost of his business in a local
+market, we are sure that the Government would like to encourage such a person. In our opinion,
+once the Government decides to give some benefit to someone who is helping the nation in bringing
+foreign exchange, the Revenue should also make all possible efforts to encourage such traders or
+manufacturers by giving such business units more benefits as contemplated under the provisions of
+law.
+29. For the aforesaid reasons, we are of the view that the view expressed by the High Court is in
+conformity with the normal https://www.mhc.tn.gov.in/judis TCA No. 1049 & 1050 of 2008
+accounting practice followed by the traders, including the respondent-assessee and it was justified
+in coming to a conclusion that the proceeds generated from the sale of scrap would not be included
+in the ‘total turnover’.
+7.2 Following the aforesaid decision, we are inclined to interfere with the finding of the Tribunal and
+this issue is answered against the Revenue and in favour of the assessee.
+8.With regard to second question of law relating to the expenditure incurred by the assessee for the
+purpose of getting technical know-how on manufacture and process of goods, they are entitled to
+depreciation or deduction under Section 35AB, the same is covered by the decision of this court in
+Carborundum Universal Ltd vs. The Joint Commissioner of Income Tax [(2012) TIOL 790 HC Mad
+IT], wherein it was held that “the assessee is entitled to deduction under section 35AB and not
+entitled to depreciation under section 32”. In view of the same, we answer this issue against the
+appellant/assessee and in favour of the revenue/respondent.
+9.1 Regarding the third question of law, in the decision reported in the case of Commissioner of
+Income Tax vs. Silical Metallurgic Ltd [324 CTR 29(Madras)], this Court concluded that “the
+amalgamation of one company https://www.mhc.tn.gov.in/judis TCA No. 1049 & 1050 of 2008 with
+the other company cannot be regarded as a splitting up or reconstruction or by a transfer of a new
+business of the plant and machinery of the old business. Thus, the amalgamation cannot be
+regarded as a splitting up of the company for the purpose of negativing the claim of deduction under
+Section 80HH and 80-I, which has been statutorily conferred on the company, if such companies
+fulfil the conditions stipulated therein. Similar view was expressed by this court in another decision
+reported in the case of EID Parry (India) Limited v. Deputy Commissioner of Income Tax [256 CTR
+104 (Madras)], in which, it was held that “the accumulated loss and unabsorbed depreciation of the
+amalgamating company is deemed to be the loss or the allowance of depreciation to the
+amalgamated company for the previous year in which the amalgamation is effected”. The relevant
+paragraph of the said decision is reproduced below:
+“23.As far as the present case is concerned, it is no doubt true that Explanation 2 is
+not similarly worded as Explanation 2A, which was considered by the Bombay High
+Court. The provisions contained in Explanation 2, applicable to the present case, in
+fact, brings out the intention better and is crisp in its language, as is evident from a
+reading of explanation 2. As per explanation 2, the actual cost of the block of assets at
+the hands of the amalgamated company is “the written down value of the block
+Indian Kanoon - http://indiankanoon.org/doc/111373663/ 4
+M/S. Carborundum Universal Limited vs The Assistant Commissioner Of Income ... on 13 December, 2021
+assets” as in the case of transferor company or the amalgamating company for the
+immediately preceding previous year as reduced by the amount of depreciation
+actually allowed in relation to the said immediately https://www.mhc.tn.gov.in/judis
+preceding previous year. The use of the phrase “for the TCA No. 1049 & 1050 of 2008
+immediately preceding previous year” with reference to the written down value at the
+hands of transferor company in understanding what should be the cost of the block of
+assets at the hands of amalgamated company.” 9.2 In view of the above decision, we
+are inclined to answer this issue in favour of the assessee and against the Revenue
+and is accordingly, answered.
+10. As regards the fourth substantial question of law in TCA No.1049 of 2008, in the
+decision in the case of Commissioner of Income Tax vs. George Oakes reported in [75
+CCH 357 (Mad)], this Court was of the view that “the assessee having valued its
+inventory as per AS-2 prescribed by the ICAI, such a change was bonafide and was
+mandatory by the ICAI and the discrepancy in profitability arising in the year of
+change, cannot be forced to be taxed”.
+Similar view was upheld by the Hon'ble supreme court in the decision reported in the case of VKJ
+Builders and Contractors (P) Ltd v. Commissioner of Income Tax in [318 ITR 204 (SC)], wherein it
+was held that “the closing stock of earlier year has to be treated as opening stock of current year and
+therefore where the opening stock of current year shows a lower value than the value of closing stock
+of earlier year as finally determined by the Assessing Officer, the same is amenable to rectification
+under Section 154 of the Act”. In view of the said decisions, this issue is answered in favour of the
+assessee.
+11.In the result, both the tax case appeals filed by the assessee are partly
+https://www.mhc.tn.gov.in/judis TCA No. 1049 & 1050 of 2008 allowed to the extent as indicated
+above. No costs.
+[R.M.D,J.] [M.S.Q,
+J.]
+13.12.2021
+Internet : Yes
+Index : Yes / No
+dhk/rsh
+To
+1. The Income Tax Appellate Tribunal,
+Madras “A” Bench.
+2. The Assistant Commissioner of Income Tax
+Company Circle I (3)
+Chennai
+Indian Kanoon - http://indiankanoon.org/doc/111373663/ 5
+M/S. Carborundum Universal Limited vs The Assistant Commissioner Of Income ... on 13 December, 2021
+https://www.mhc.tn.gov.in/judis
+(cid:12) TCA No. 1049 & 1050 of 2008
+R. MAHADEVAN, J
+and
+MOHAMMED SHAFFIQ, J
+dhk/rsh
+TCA Nos. 1049 & 1050/2008
+13.12.2021
+https://www.mhc.tn.gov.in/judis
+Indian Kanoon - http://indiankanoon.org/doc/111373663/ 6

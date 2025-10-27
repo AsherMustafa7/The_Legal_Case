@@ -1,0 +1,1864 @@
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+Azim Premji Trustee Company Pvt Ltd vs Principal
+Commissioner Of Income Tax-2 on 21 April, 2022
+Author: S.R.Krishna Kumar
+Bench: S.R.Krishna Kumar
+1
+IN THE HIGH COURT OF KARNATAKA, BENGALURU
+DATED THIS THE 21st DAY OF APRIL 2022
+BEFORE
+THE HON'BLE MR.JUSTICE S.R.KRISHNA KUMAR
+WRIT PETITION No.8059/2021 (T-IT)
+BETWEEN:
+AZIM PREMJI TRUSTEE COMPANY PVT. LTD.,
+#134, DODDAKANNELLI, SARJAPUR ROAD
+NEXT TO WIPRO CORPORATE OFFICE
+BANGALORE-560 035
+REPRESENTED HEREIN BY ITS DIRECTOR
+MR.AZIM HASHAM PREMJI
+...PETITIONER
+(BY SRI S.GANESH, SENIOR ADVOCATE FOR
+SRI. SANDEEP HUILGOL, ADVOCATE)
+AND:
+1. PRINCIPAL COMMISSIONER OF
+INCOME-TAX-2, BANGALORE
+BMTC BUILDING, 80 FEET ROAD
+6TH BLOCK, NEAR KHB GAMES VILLAGE
+KORAMANGALA,
+BENGALURU-560 095
+2. DEPUTY COMMISSIONER OF INCOME-TAX
+CIRCLE 4(1)(1), BANGALORE
+BMTC BUILDING, 80 FEET ROAD
+6TH BLOCK, NEAR KHB GAMES VILLAGE
+KORAMANGALA,
+BENGALURU-560 095
+3. CENTRAL BOARD OF DIRECT TAXES
+DEPARTMENT OF REVENUE,
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 1
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+MINISTRY OF FINANCE,
+GOVERNMENT OF INDIA
+NORTH BLOCK, NEW DELHI-110 002
+REPRESENTED HEREIN BY ITS
+CHAIRPERSON
+...RESPONDENTS
+(BY SRI.K.V.ARAVIND, ADVOCATE)
+2
+THIS W.P. IS FILED UNDER ARTICLE 226 OF THE
+CONSTITUTION OF INDIA PRAYING TO QUASH THE IMPUGNED
+NOTICE DATED 31.03.2021 ISSUED BY THE R2 U/S 148 OF THE
+INCOME-TAX ACT, 1961 ANNEXURE-A AND QUASH THE
+IMPUGNED CIRCULAR DATED 03.08.2012 ISSUED BY THE R3
+ANNEXURE-B AND QUASH THE IMPUGNED CIRCULAR DATED
+31.12.2018 ISSUED BY THE R3 ANNEXURE-C AND ETC.
+THIS W.P. IS BEING HEARD AND RESERVED ON
+18.12.2021, COMING ON FOR PRONOUNCEMENT OF ORDERS
+THIS DAY, THE COURT MADE THE FOLLOWING:-
+ORDER
+In this petition, petitioner has sought for the following reliefs:-
+" (i) Quashing the impugned notice dated 31.03.2021 bearing
+No.ITBA/AST/S/148/2020-21/ 1032116338 (1) issued by the 2nd Respondent under
+Section 148 of the Income-tax Act, 1961 (Annexure 'A').
+(ii) Quashing the impugned Circular dated 03.08.2012 bearing No.6/2012
+(F.No.133/44/2012-
+SO (TPL)} issued by the 3rd Respondent (Annexure
+- 'B')
+(iii) Quashing the impugned Circular dated 31.12.2018 bearing No.10/2018
+[F.No.173/626/2018-ITA.I] issued by the 3rd Respondent (Annexure - 'C')
+(iv) Declaring that the impugned proceedings initiated by the 2nd Respondent under Sections 147
+and 148 of the Income-tax Act, 1961, are wholly without jurisdiction, barred by limitation and,
+therefore, without the authority of law;
+(v) Declaring that Section 56(2)(vii)(c) of the Income-tax Act, 1961, has no application to the gift of
+shares of Wipro Ltd. Received by the Petitioner in the previous year relevant to the Assessment year
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 2
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+2013-14, and
+(vi) Pass such other or further orders as this Hon'ble Court may deem fit in the facts and
+circumstances of the case, and in the interests of justice and equity".
+2. Briefly stated, the various contentions urged by the petitioner are as under:-
+(i) The petitioner is a private limited company and is the sole Trustee of a private
+discretionary Trust called "Azim Premji Trust" (for short 'the APT'). As per the trust
+deed of APT, there are three settler partnership firms and three settlor companies.
+The settlor firms, the settler companies, the petitioner and the beneficiary companies
+are all part of the promoter group of Wipro Ltd., of which, Mr.Azim Hasham Premji
+is the promoter. As a part of an inter se transfer within the promoter group, the APT
+received certain securities being listed shares of Wipro Ltd., from the settlor firms in
+financial year 2012-13 and the settlor companies in financial year 2010-11 as a gift to
+be held as the corpus of APT and these transactions were duly disclosed
+contemporaneously to the stock exchanges and this information was also
+disseminated to the public at large. It is contended that the aforesaid gifts were duly
+disclosed in the audited financial statements of APT for the respective financial years.
+(ii) It is contended that thereafter, pursuant to a thorough examination and
+verification of all the material placed on record by the petitioner which clearly
+constituted the true and full disclosure on its part of all the material information
+sought and required for the purpose of its assessment under the Act, an assessment
+order came to be passed in the case of the petitioner under Section 143(3) of the
+Income Tax Act, 1961 (for short 'the I.T.Act') for Assessment Year 2013-14, in which
+the returned income was accepted.
+(iii) It is further contended that thereafter, i.e., on 31.03.2021, which is well beyond
+the stipulated period of four years from the end of Assessment Year 2013-14, the 2nd
+respondent issued the impugned notice under Section 148 of the I.T.Act after
+obtaining the sanction of respondent No.1 stating that there were reasons to believe
+that APT's income chargeable to tax for the said Assessment Year had escaped
+assessment and proposing to re-assess its income. In response, the petitioner
+requested for the reasons for reopening APT's assessment. Acceding to its request,
+the 2nd respondent furnished the purported reasons for re-opening the assessment
+for Assessment Year 2013-14.
+(iv) Petitioner has contended that the impugned notice is based on a patent error of law because it
+equates a private limited company with an individual and on that erroneous basis, records the
+reason to believe that the provisions of Section 56(2)(vii)(c) of the I.T.Act are applicable to the
+petitioner in respect of the gift of Wipro Ltd.'s shares received by it. Consequently, the so-called
+"reason to believe" that its income has escaped assessment is completely baseless and non-est. It is
+further contended that in the recorded reasons, extensive reliance has been placed upon the two
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 3
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+impugned Board Circulars of 2012 and 2018 despite them being directly contrary to the provisions
+of Sections 2(31) and 56(2)(vii)(c) of the I.T.Act.
+(v) It is contended that in any event, there is no failure or omission whatsoever on the part of the
+petitioner to disclose any material facts necessary for its assessment for Assessment Year 2013-14.
+The impugned Section 148 Notice is therefore patently time barred and without jurisdiction; the
+statutorily required sanction under section 151 has been granted by the 1st respondent without any
+application of mind and without any consideration of the materials on record relating to the
+Petitioner's assessment for assessment year 2013-14.
+(vi) Alternatively, it is contended that Section 56(2) (vii)
+(c) of the I.T. Act provided that where an individual or Hindu Undivided Family receives any
+movable property in any year during the period 01.10.2009 to 01.04.2017 with a fair market value of
+more than Rs.50,000/- for a consideration which is less than the fair market value , the same shall
+be treated as the income of the recipient. The proviso to Section 56(2)(vii)(c) of the I.T.Act provides
+that this clause shall not apply to any property received from any relative as defined or on the
+occasion of the marriage of the individual.
+The term "relative" is defined in Explanation (e) to Section 56(2)(vii) in terms (of brother, sister,
+spouse etc.) which make it absolutely clear that individual means only a natural person and not a
+corporate entity.
+(vii) During the year ending 31.03.2013, the petitioner received gift of Rs.29.55 crore number of
+WIPRO shares from 3 Premji Group firms. This gift was fully disclosed in the petitioner's Balance
+Sheet for the financial year 2012- 13, where the number of WIPRO shares received as gift, their face
+value and the market value of the shares at the date of the Balance Sheet were all disclosed. Indeed,
+there are no other details or particulars which could possibly be disclosed regarding the said WIPRO
+shares received as gifts.
+(viii) It is contended that during the regular assessment proceedings for A.Y 2013-14, the Assessing
+Officer (A.O) issued a notice under Section 142(1) asking, inter alia, for the complete list of donors,
+with address, PAN and amount donated. The Petitioner's reply gave complete particulars of the
+donors, their PAN numbers and the number of WIPRO shares received as gifts and also the relevant
+demat statements. It is contended that an assessee is under a duty or obligation to disclose only the
+basic and primary facts relating to his assessment and thereafter, it is for the Assessing officer to
+make further enquires and draw inferences and if he does not do so for any reason, then the revenue
+cannot contend that there was any failure or omission on the part of the assessee.
+(ix) It is contended that despite being in possession of all the relevant facts relating to the gifts of
+shares received by the petitioner and the Trust Deed of Azim Premji Trust, the Assessing officer
+chose not to apply Section 56(2)(vii)(c) of the I.T.Act; instead, after the expiry of the period
+mentioned in the proviso to Section 147, the Assessing officer has taken a new view, which is not
+permissible under the proviso to Section 147 of the I.T. Act.
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 4
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+(x) It is further contended that the Assessing officer passed the assessment order under Section
+143(3) on 31.03.2016 recording that the petitioner's authorized representatives had attended from
+time to time in connection with the assessment proceedings and had submitted the required details
+which were taken on record.
+The assessment was completed by accepting the income returned by the petitioner. It is contended
+that in a case of reopening covered by the proviso to Section 147, the reasons recorded must set out
+the exact particulars of the failure to disclose on the part of the assessee, on account of which the
+escapement of income has taken place and a ritual repetition of the proviso to Section 147 would not
+be sufficient. In the present case, the reasons recorded only state that though the number of WIPRO
+shares received as a gift were disclosed but neither the book value nor the market value of the shares
+was disclosed in the Balance Sheet. This is factually incorrect because the face value of the WIPRO
+shares (Rs.2/- per share) and also their market value as on 31.03.2013 are clearly disclosed.
+(xi) In any event, share of WIPRO is widely quoted and frequently traded and its market value from
+minute to minute is readily available. The petitioner cannot possibly be accused of failing to disclose
+information which is in the public domain and is continuously available to everybody.
+In any event, the reasons recorded do not even attempt to claim that the non-application of Section
+56(2)(vii)(c) of the I.T.Act and the consequent alleged escapement of income was because the
+Assessing officer was allegedly unaware of the market price of WIPRO shares. For application of
+Section 56(2)(vii)(c) of the I.T.Act, even if a price as nominal as one paise is assigned to be the
+market value of each Wipro share received as a gift with the number of shares received as a gift
+being Rs.29.55 crores, the aggregate value would exceed the limit of Rs.50,000/-
+specified in Section 56(2)(vii)(c) of the I.T.Act. Thus, in the facts of the case, it is axiomatic that the
+Assessing officer considered Section 56(2)(vii)(c) of the I.T.Act not to be attracted at all rather than
+being unaware of the market price of WIPRO shares as alleged. The market price of these shares is
+irrelevant because in the reasons recorded, nowhere it is specifically allege and establish that the
+alleged escapement of income was by reason of the so-
+called non-disclosure of the share price. In any event, such an allegation, even if made, would be
+false because the Balance Sheet states the market value. It is contended that the jurisdictional
+condition precedent laid down under the proviso to Section 147 of the I.T.Act i.e., failure to disclose
+the material fact, which failure allegedly is the proximate cause of the escapement of income has not
+been fulfilled at all in the present case and the impugned Section 148 Notice requires to be struck
+down on that ground alone and by itself.
+(xii) Petitioner has also contended that the other jurisdictional condition precedent for re-opening
+i.e., escapement of income also does not exist in the present case. The contentions urged by the
+respondents that the income has escaped assessment because Section 56(2)(vii)(c) of the I.T. Act
+was wrongly not applied to the gifts of WIPRO shares received by the petitioner as can be seen from
+Annexure-M dated 09.04.2021 viz., the reasons recorded that the petitioner-limited company is an
+individual to whom Section 56(2)(vii)(c) of the I.T.Act applies is untenable and devoid of merit. It is
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 5
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+therefore contended that on this distinct and independent ground also, the impugned Section 148
+Notice requires to be struck down by this Hon'ble Court.
+3. The respondents - Revenue have filed the statement of objections interalia contending that the
+petition is premature, since the petitioner - assessee is required to file return of income to the
+impugned assessment notice under Section 148 of the I.T.Act and seek reasons for reopening and
+file objections before the assessing officer, who is required to pass an order on the same and only
+upon the assessing officer passing such an order, the petitioner would be entitled to challenge the
+same in accordance with law. It is contended that since the petitioner has approached this Court
+without filing objections or the assessing officer passing orders, the present petition is not
+maintainable.
+3.1 The respondents have further contended that the challenge to the impugned circulars dated
+03.08.2012 and 31.12.2018 are also misconceived and devoid of merits and the same are liable to be
+rejected. It is contended that the challenge to the applicability of Section 56 (2) (vii) (c) of the I.T.Act
+is also not sustainable in view of the equally efficacious and alternative remedy available to the
+petitioner under the I.T.Act before the assessing officer and the higher authorities and as such, the
+petition is not maintainable on this ground also.
+3.2 It is also contended that though the prescribed period of six years to reopen the assessment of
+the petitioner for the assessment year 2013-14 expired on 31.03.2020, in view of Section 3 of the
+Taxation and other Laws (relaxation and amendment of certain provisions) Act, 2020, the period of
+limitation was extended upto 31.12.2020 and thereafter, upto 31.03.2021 vide Notification dated
+29.10.2020 issued by invoking the enabling powers under the said Section 3 of the said Act. It is
+therefore contended that the impugned notice dated 31.03.2021 is within the extended period of
+limitation and the contention of the petitioner that the impugned notice is beyond the period of
+limitation is liable to be rejected.
+3.3 The respondents have contended that in the return of income filed by the petitioner for the
+assessment year 2013 - 14, the petitioner merely disclosed the receipt of gifts in the balance sheet as
+part of long term investments at NIL value and neither the book value nor the market value of the
+shares of Wipro Ltd., were disclosed by the petitioner. Further, in the notes to the accounts in the
+summary of the transactions with parties having substantial interest, the names of the settlors and
+only the number of shares of Wipro Ltd., gifted by them is mentioned and neither the book value
+nor market value of the shares were disclosed and as such, the return of income without disclosing
+the correct status and value of shares amounts to failure on the part of the petitioner to fully and
+truly disclose all material facts necessary for assessment for that assessment year. It is therefore
+contended that the assessing officer has correctly recorded that there are reasons to believe for
+reopening of assessment under Section 148 of the I.T.Act and the impugned notice seeking to
+re-open the assessment is in strict compliance and in conformity with the provisions of the I.T.Act
+and several decisions of the Apex Court including the decision in the case of Assistant Commissioner
+of Income Tax vs. Rajesh Jhavri Stock Brokers Ltd., - (2007) 291 ITR 500 (SC). It is also contended
+that for the purpose of issuance of the notice of reassessment, only a prima facie satisfaction is
+required on the part of the assessing officer and a detailed enquiry is neither required nor warranted
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 6
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+at that stage and on this ground also, the impugned notice is correct and proper. Putting forth these
+contentions and denying the various contentions urged by the petitioner, respondents have sought
+for dismissal of the petition.
+4. I have heard Sri.S.Ganesh, learned Senior counsel appearing for Sri.Sandeep Huilgol for the
+petitioner and Sri.K.V.Aravind, learned counsel for the respondents and perused the material on
+record.
+5. The material on record discloses that undisputedly, during the financial year 2012-13, which
+corresponds to assessment year 2013-14, the petitioner received equity shares of Wipro Ltd., from 3
+donors. The petitioner filed its returns which are produced along with the auditor's report as
+Annexure-F to the petition. The said gift transactions were disclosed in the audited financial
+statements for the year ending 31.03.2013.
+6. On 09.06.2015, the Income tax officer issued a Notice to the petitioner under Section 142(1) of the
+I.T.Act calling upon the petitioner to furnish details regarding assessment proceedings. In the said
+notice, petitioner was called upon to produce complete list of donors with address, PAN and the
+amount donated. The petitioner issued a reply dated 22.06.2015 furnishing all the details sought for
+by the respondents, pursuant to which, the respondents passed an assessment order dated
+31.03.2016 accepting the returns submitted by the petitioner.
+7. Subsequently, on 11.03.2020, the respondents issued a notice under Section 133(6) of the I.T. Act
+calling upon the petitioner to provide information relevant for the proceedings in relation to
+financial year 2016-17; in the said notice, it was stated that the petitioner - assessee had been filing
+returns as "AOP / BOI" and in view of the decision of the Delhi High Court, the petitioner is to be
+assessed as an individual and reasons for filing the returns of income in the status of AOP / BOI is to
+be furnished by the petitioner to the respondents.
+8. The petitioner submitted a reply dated 19.03.2020 explaining in detail to the respondents that
+apart from the fact that the decision of the Delhi High Court was not applicable to the petitioner, the
+income tax returns and assessments made by the respondents categorizing the petitioner as a
+company was correct and proper and that the petitioner cannot be assessed in the status of an
+individual.
+9. It is relevant to state that subsequent to the aforesaid reply submitted by the petitioner, the
+respondents did not proceed further in the matter; instead, the respondents issued the impugned
+Notice dated 31.03.2021 after more than one year proposing to reopen the assessment which has
+been impugned in the present petition.
+10. The first question that arises for consideration is, whether on 31.03.2021, the respondents were
+entitled to reopen the assessment proceedings of the petitioner for the assessment year 2012-13
+after the expiry of four years as contemplated in Section 147 of the I.T.Act; in this context, reliance is
+placed upon the proviso to Section 147 of the I.T.Act by the respondents in order to contend that the
+respondents had a valid reason to believe that the undisclosed income had escaped assessment on
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 7
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+account of the petitioner - assessee not disclosing fully and truly all material facts during the course
+of the original assessment.
+11. The power / jurisdiction of the respondents -
+revenue to reopen assessments under Section 147 of the I.T.Act 1961, beyond the prescribed period
+of limitation on the ground that there were "income had escaped assessment due to failure on the
+part of the assessee to disclose fully and truly all material facts necessary for assessment" came up
+for consideration before the Apex Court while dealing with identical provisions in Section 34 of the
+I.T.Act, 1922, in the case of Calcutta Discount Company Limited vs. Income Tax Officer -
+AIR 1961 SC 372, wherein it was held as under:-
+6. To confer jurisdiction under this section to issue notice in respect of assessments
+beyond the period of four years, but within a period of eight years, from the end of
+the relevant year two conditions have therefore to be satisfied. The first is that the
+Income Tax Officer must have reason to believe that income, profits or gains
+chargeable to income tax have been under-assessed. The second is that he must have
+also reason to believe that such "underassessment"
+has occurred by reason of either (i) omission or failure on the part of an assessee to make a return of
+his income under Section 22, or (ii) omission or failure on the part of an assessee to disclose fully
+and truly all material facts necessary for his assessment for that year. Both these conditions are
+conditions precedent to be satisfied before the Income Tax Officer could have jurisdiction to issue a
+notice for the assessment or reassessment beyond the period of four years but within the period of
+eight years, from the end of the year in question.
+7. No dispute appears to have been raised at any stage in this case as regards the first condition not
+having been satisfied and we proceed on the basis that the Income Tax Officer had in fact reason to
+believe that there had been an under-assessment in each of the assessment years, 1942-43, 1943-44
+and 1944-45. The appellant's case has all along been that the second condition was not satisfied. As
+admittedly the appellant had filed its return of income under Section 22, the Income Tax Officer
+could have no reason to believe that underassessment had resulted from the failure to make a return
+of income. The only question is whether the Income Tax Officer had reason to believe that "there
+had been some omission or failure to disclose fully and truly all material facts necessary for the
+assessment" for any of these years in consequence of which the under-assessment took place.
+8. Before we proceed to consider the materials on record to see whether the appellant has succeeded
+in showing that the Income Tax Officer could have no reason, on the materials before him, to believe
+that there had been any omission to disclose material facts, as mentioned in the section, it is
+necessary to examine the precise scope of disclosure which the section demands. The words used are
+"omission or failure to disclose fully and truly all material facts necessary for his assessment for that
+year". It postulates a duty on every assessee to disclose fully and truly all material facts necessary for
+his assessment. What facts are material, and necessary for assessment will differ from case to case.
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 8
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+In every assessment proceeding, the assessing authority will, for the purpose of computing or
+determining the proper tax due from an assessee, require to know all the facts which help him in
+coming to the correct conclusion. From the primary facts in his possession, whether on disclosure by
+the assessee, or discovered by him on the basis of the facts disclosed, or otherwise -- the assessing
+authority has to draw inferences as regards certain other facts; and ultimately, from the primary
+facts and the further facts inferred from them, the authority has to draw the proper legal inferences,
+and ascertain on a correct interpretation of the taxing enactment, the proper tax leviable. Thus,
+when a question arises whether certain income received by an assessee is capital receipt, or revenue
+receipt, the assessing authority has to find out what primary facts have been proved, what other
+facts can be inferred from them, and taking all these together, to decide what the legal inference
+should be.
+9. There can be no doubt that the duty of disclosing all the primary facts relevant to the decision of
+the question before the assessing authority lies on the assessee. To meet a possible contention that
+when some account books or other evidence has been produced, there is no duty on the assessee to
+disclose further facts, which on due diligence, the Income Tax Officer might have discovered, the
+legislature has put in the Explanation, which has been set out above. In view of the Explanation, it
+will not be open to the assessee to say, for example -- "I have produced the account books and the
+documents: You, the assessing officer examine them, and find out the facts necessary for your
+purpose: My duty is done with disclosing these account-books and the documents". His omission to
+bring to the assessing authority's attention these particular items in the account books, or the
+particular portions of the documents, which are relevant, amount to "omission to disclose fully and
+truly all material facts necessary for his assessment". Nor will he be able to contend successfully that
+by disclosing certain evidence, he should be deemed to have disclosed other evidence, which might
+have been discovered by the assessing authority if he had pursued investigation on the basis of what
+has been disclosed. The Explanation to the section, gives a quietus to all such contentions; and the
+position remains that so far as primary facts are concerned, it is the assessee's duty to disclose all of
+them -- including particular entries in account books, particular portions of documents and
+documents, and other evidence, which could have been discovered by the assessing authority, from
+the documents and other evidence disclosed.
+10. Does the duty however extend beyond the full and truthful disclosure of all primary facts? In our
+opinion, the answer to this question must be in the negative. Once all the primary facts are before
+the assessing authority, he requires no further assistance by way of disclosure. It is for him to decide
+what inferences of facts can be reasonably drawn and what legal inferences have ultimately to be
+drawn. It is not for somebody else -- far less the assessee -- to tell the assessing authority what
+inferences whether of facts or -- law should be drawn. Indeed, when it is remembered that people
+often differ as regards what inferences should be drawn from given facts, it will be meaningless to
+demand that the assessee must disclose what inferences -- whether of facts or law he would draw
+from the primary facts.
+11. If from primary facts more inferences than one could be drawn, it would not be possible to say
+that the assessee should have drawn any particular inference and communicated it to the assessing
+authority. How could an assessee be charged with failure to communicate an inference, which he
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 9
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+might or might not have drawn?
+12. It may be pointed out that the Explanation to the sub-section has nothing to do with "inferences"
+and deals only with the question whether primary material facts not disclosed could still be said to
+be constructively disclosed on the ground that with due diligence the Income Tax Officer could have
+discovered them from the facts actually disclosed. The Explanation has not the effect of enlarging
+the section, by casting a duty on the assessee to disclose "inferences" to draw the proper inferences
+being the duty imposed on the Income Tax Officer.
+13. We have therefore come to the conclusion that while the duty of the assessee is to disclose fully
+and truly all primary relevant facts, it does not extend beyond this.
+14. The position therefore is that if there were in fact some reasonable grounds for thinking that
+there had been any non-disclosure as regards any primary fact, which could have a material bearing
+on the question of "underassessment" that would be sufficient to give jurisdiction to the Income Tax
+Officer to issue the notices under Section 34. Whether these grounds were adequate or not for
+arriving at the conclusion that there was a non disclosure of material facts would not be open for the
+court's investigation. In other words, all that is necessary to give this special jurisdiction is that the
+Income Tax Officer had when he assumed jurisdiction some prima facie grounds for thinking that
+there had been some non-disclosure of material facts.
+15. Clearly it is the duty of the assessee who wants the court to hold that jurisdiction was lacking, to
+establish that the Income Tax Officer had no material at all before him for believing that there had
+been such non disclosure. To establish this the company has relied on the statements in the
+assessment orders for the three years in question and on the statement of Kanakendra Narayan
+Banerjee in the report made by him to the Commissioner of Income Tax for the purpose of obtaining
+sanction to initiate proceedings under Section 34 and also on his statement in the affidavit on oath
+in reply to the writ petition. The report is in these words:
+"Profit of Rs 5,48,002 on sale of shares and securities escaped assessment altogether.
+At the time of the original assessment the then Income Tax Officer merely accepted
+the company's version that the sale of shares were casual transactions and were in the
+nature of mere change of investments. Now the results of the Company's trading
+from year to year show that the Company has really been systematically carrying out
+a trade in the sale of investments. As such the Company had failed to disclose the true
+intention behind the sale of the shares and as such Section 34(1)(a) may be
+attracted."
+16. The only non-disclosure mentioned in the report is that the Company had failed to disclose "the
+true intention behind the sale of the shares". Mr Choudhury contends that this is not an omission to
+disclose a material fact within the meaning of Section
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 10
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+34. The question whether sales of certain shares were by way of changing the investments or by way
+of trading in shares has to be decided on a consideration of different circumstances, including the
+frequency of the sales, the nature of the shares sold, the price received as compared with the cost
+price, and several other relevant facts. It is the duty of the assessee to disclose all the facts which
+have a bearing on the question; but whether the assessee had the intention to make a business profit
+as distinguished from the intention to change the form of the investments is really an inference to be
+drawn by the assessing authority from the material facts taken in conjunction with the surrounding
+circumstances. The law does not require the assessee to state the conclusion that could reasonably
+be drawn from the primary facts. The question of the assessee's intention is an inferential fact and
+so the assessee's omission to state his "true intentions behind the sale of shares" cannot by itself be
+considered to be a failure or omission to disclose any material fact within the meaning of Section 34.
+Indeed, an assessee whose contention is that the shares were sold to change the form of investment
+and not with the intention of making a business profit cannot be expected to say that his true
+intention was other than what he contended it to be. Dealing with this question the learned Chief
+Justice has said:
+"The expression that the respondent had failed to disclose 'the true intention behind
+the sale of shares' may lack directness, but that deficiency of language is not sufficient
+to enable the respondent to contend, in view of the circumstances alleged, that no
+failure to disclose facts was being complained of. On the facts as stated by the Income
+Tax Officer, it is clear that there had been a failure to disclose the fact that the
+respondent was a dealer in shares and what the Income Tax Officer meant by the
+language used by him was that the respondent had not disclosed that the sale of
+shares had been of the nature of a trading sale, made in pursuance of an intention to
+make a business profit, and not of the nature of a change of investment, made in
+pursuance of an intention to put certain capital assets into another form. If that be so,
+it is equally clear that the Income Tax Officer who, by the way, was a successor to the
+officers who had made the original assessments, was not merely changing his opinion
+as to facts previously known, but was taking notice of a new fact."
+17. The learned Chief Justice seems to have proceeded on the basis that when from certain facts
+inferences are to be drawn there is a duty on the assessee to state what the correct inference should
+be and if he has made a wrong statement as regards the inferences to be drawn that also is an
+"omission or failure to disclose a material fact". For the reasons given earlier we do not think that
+this is the correct position in law.
+18. It is clear therefore that if one looked at this report only it would not be possible to say that the
+Income Tax Officer had any non-disclosure of material facts by the assessee in mind when he
+assumed jurisdiction. It has to be remembered however that in sending a report to the
+Commissioner the Income Tax Officer might not fully set out what he thought amounted to a
+non-disclosure, because it is conceivable that the report may not be drawn up carefully and may not
+contain a reference to all the non-disclosures that operated on his mind. We have, however, on the
+record an affidavit sworn by the same Income Tax Officer who started the Section 34 proceedings. It
+is reasonable to expect that in this affidavit which was his opportunity to tell the court what
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 11
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+non-disclosure he took into consideration he would state as clearly as possible the material facts in
+respect of which there had not been in his view a full and true disclosure. Mr Banerjee's statements
+in this matter are contained in paras 5, 6 and 7 of his affidavit. They are in these words:
+"5. With reference to paras 2 and 3 of the said petition, I crave reference to the
+assessment orders therein mentioned. The assessment order dated 15th February,
+1945, was made by Sri Kali Das Banerjee now Income Tax Officer Companies District
+II and the other two assessment orders were made by L.D. Rozario who is now in the
+employment of M/s Lovelock & Lewes. I find from the notes made by me in the order
+sheet of the assessment year 1944-45 and my order dated 7th July, 1944 that Mr
+Smith of M/s Lovelock & Lewes attended before me and stated that the profits of the
+Company arising out of dealings in shares were not taxable as the Company was not a
+dealer in shares and securities. Subsequently on 18th August, 1944, M/s Lovelock &
+Lewes wrote a letter to me setting out the contentions of their clients and inter alia
+stated that throughout the whole history the Company bought no shares whatsoever.
+Sri K.D. Banerjee was accordingly led to believe that the dealings in shares were
+casual transactions and were in the nature of mere change in investments and the
+profits resulting therefrom were not taxable. The assessment orders were made on
+the basis that the petitioner did not carry on any business dealings in shares. A copy
+of the said letter dated 18th August, 1944, as also the relevant portion of the note
+sheet are included in the schedule hereto anefnexed and marked 'A'.
+6. In the assessments for 1945-46 and 1946-47, which were completed in April 1950,
+the profits on sale of shares were included in the total assessable income of the
+Company it having been then discovered that the petitioner was in fact carrying on
+business in shares contrary to its representation that it was not. The Company filed
+appeals before the Appellate Assistant Commissioner, which were rejected in
+September 1950, and the assessments were confirmed. The Company thereafter filed
+a second appeal before the Income Tax Tribunal which appeals are now pending.
+7. With reference to para 5 of the said petition, I deny that I pretended to act under
+Section 34 of the Income Tax Act as alleged. I have reasons to believe that by reason
+of the omission or failure of the Company to disclose fully and truly all material facts
+necessary for its assessments, the income, profits and gains chargeable to income Tax
+had been under assessed. I recorded my reasons and made three reports one for each
+year) in the prescribed form and submitted them before the Commissioner of Income
+Tax and the latter was satisfied that it was a fit case for issue of a notice under Section
+34 of the Income Tax Act. Thereafter I issued the prescribed notices under Section 34
+of the Income Tax Act. The said reports were made and notices issued in respect of all
+the three years mentioned in the petition and copies of the report and notice for one
+of such years are included in the schedule hereto annexed and marked 'A'. The report
+and notices for the two other years are exactly similar."
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 12
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+19. It appears from this that the statements made by or on behalf of the Company which the
+assessing authority considered to amount to non-disclosure of material facts were these: (i) the
+Company was not a dealer in shares and securities, and (ii) throughout the whole of its history the
+Company bought no shares whatsoever. It has not been suggested before us that, in fact at any time
+up to the conclusion of the assessment proceedings for the years 1942-43, 1943- 44 and 1944-45 the
+Company did in fact make a single purchase of shares. Clearly therefore the Income Tax Officer had
+no reasonable ground for thinking that anything as regards the purchase of shares had not been
+disclosed. The Company does not dispute that the statement was made on its behalf that it was not a
+"dealer" in shares and securities. It appears clear that the Income Tax Officers who made the
+assessments for the years 1942-43, 1943-44 and 1944-45 proceeded on the basis that this was an
+investment company and considered the question whether in spite of its being an investment
+company certain sales of shares wherefrom the Company made a profit were by way of trading in
+shares and not by way of changing the form of investment. Whether these sales by an investment
+company should in law be treated as trading transactions, and the profits made from the sales
+trading profits liable to tax, was the matter which it was the Income Tax Officer's task to decide. No
+duty lay on the Company to admit that these transactions were by way of trade. The fact that on
+behalf of the Company Mr Smith of Lovelock & Lewes stated that the Company was not a dealer in
+shares and securities does not therefore amount to an omission to disclose fully and truly any
+material fact.
+20. To ascertain whether the Income Tax Officer could have had in mind any non-disclosure as a
+ground for thinking that by reason of such non- disclosure an underassessment had occurred --
+apart from what was mentioned in the affidavit -- we enquired from respondent's counsel whether
+he could suggest any other non-disclosure that might have taken place. Mr Sastri suggested two.
+One is that the sales had not been disclosed; the other that the memorandum and articles of
+association of the Company had not been shown. This suggestion is against the record and we have
+no hesitation in repelling it. Not only is it not the ground set out by the Income Tax Officer at any
+stage not even in the affidavit in court, but the matters mentioned by the officer that the assessee
+had claimed that the profits realised were of a casual nature obviously indicate that the assessee
+disclosed that a surplus resulted from the sales which were also disclosed.
+21. The assessment orders it is true do not mention the details of the sales. They state however that
+the audited accounts of the Company were furnished. The sales of shares were expressly mentioned
+in the report. In these circumstances it is reasonable to believe that as regards sale of shares full
+details were in fact disclosed.
+22. Nor can we believe that the two Income Tax Officers L.D. Rozario and K.D. Banerjee concluded
+the proceedings without referring to the memorandum and articles of association of the company.
+These officers knew well that the Company was claiming to be an investment company only. They
+had to consider the question whether sales were of the nature of trade or of the nature of change of
+investment. It is unthinkable that they would not examine the memorandum of association. Besides,
+it is pertinent to note that in para 4 of his affidavit Kanakendra Narayan Banerjee refers to the
+memorandum and articles of association and states that "by its memorandum of association the
+Company has been authorised to carry on the various kinds of business which have been specified in
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 13
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+sub-section (1) and (2) of clause 3 of the said memorandum of associations". He does not say that
+the articles or the memorandum of association were not shown during the assessment proceedings
+for the years 1942-43, 1943-44 and 1944-45. If he had any reason to believe that these were not
+shown he would have certainly mentioned that fact. For that would undoubtedly amount to non-
+disclosure of a material fact.
+23. It must therefore be held that the Income Tax Officer who issued the notices had not before him
+any non-disclosure of a material fact and so he could have no material before him for believing that
+there had been any material non-disclosure by reason of which an under-assessment had taken
+place.
+24. We are therefore bound to hold that the conditions precedent to the exercise of jurisdiction
+under Section 34 of the Income Tax Act did not exist and the Income Tax Officer had therefore no
+jurisdiction to issue the impugned notices under Section 34 in respect of the years 1942-43, 1943-44
+and 1944-45 after the expiry of four years.
+25. Mr Sastri argued that the question whether the Income Tax Officer had reason to believe that
+underassessment had occurred "by reason of nondisclosure of material facts" should not be
+investigated by the courts in an application under Article 226. learned counsel seems to suggest that
+as soon as the Income Tax Officer has reason to believe that there has been underassessment in any
+year he has jurisdiction to start proceedings under Section 34 by issuing a notice provided 8 years
+have not elapsed from the end of the year in question, but whether the notices should have been
+issued within a period of 4 years or not is only a question of limitation which could and should
+properly be raised in assessment proceedings. It is wholly incorrect however to suppose that this is a
+question of limitation only not touching the question of jurisdiction. The scheme of the law clearly is
+that where the Income Tax Officer has reason to believe that an underassessment has resulted from
+non-disclosure he shall have jurisdiction to start proceedings for re assessment within a period of 8
+years; and where he has reason to believe that an underassessment has resulted from other causes
+he shall have jurisdiction to start proceedings for reassessment within 4 years. Both the conditions,
+(i) the Income Tax Officer having reason to believe that there has been underassessment, and (ii) his
+having reason to believe that such underassessment has resulted from nondisclosure of material
+facts, must co-exist before the Income Tax Officer has jurisdiction to start proceedings after the
+expiry of 4 years. The argument that the Court ought not to investigate the existence of one of these
+conditions viz. that the Income Tax Officer has reason to believe that underassessment has resulted
+from non-disclosure of material facts cannot therefore be accepted.
+26. Mr Sastri next pointed out that at the stage when the Income Tax Officer issued the notices he
+was not acting judicially or quasi-judicially and so a writ of certiorari or prohibition cannot issue. It
+is well settled however that though the writ of prohibition or certiorari will not issue against an
+executive authority, the High Courts have power to issue in a fit case an order prohibiting an
+executive authority from acting without jurisdiction. Where such action of an executive authority
+acting without jurisdiction subjects or is likely to subject a person to lengthy proceedings and
+unnecessary harassment, the High Courts, it is well settled, will issue appropriate orders or
+directions to prevent such consequences.
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 14
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+27. Mr Sastri mentioned more than once the fact that the Company would have sufficient
+opportunity to raise this question viz. whether the Income Tax Officer had reason to believe that
+underassessment had resulted from non-disclosure of material facts, before the Income Tax Officer
+himself in the assessment proceedings and if unsuccessful there before the appellate officer or the
+Appellate Tribunal or in the High Court under Section 66(2) of the Indian Income Tax Act. The
+existence of such alternative remedy is not however always a sufficient reason for refusing a party
+quick relief by a writ or order prohibiting an authority acting without jurisdiction from continuing
+such action.
+28. In the present case the Company contends that the conditions precedent for the assumption of
+jurisdiction under Section 34 were not satisfied and come to the court at the earliest opportunity.
+There is nothing in its conduct which would justify the refusal of proper relief under Article 226.
+When the Constitution confers on the High Courts the power to give relief it becomes the duty of the
+courts to give such relief in fit cases and the courts would be failing to perform their duty if relief is
+refused without adequate reasons. In the present case we can find no reason for which relief should
+be refused.
+12. In the case of Mohini Bai M.Sarda vs. First Income Tax Officer - 1991 SCC Online KAR 599, this
+Court held as under:-
+14. Therefore, the question that arises for consideration on these facts is, whether the
+Income-
+tax Officer was put on notice that there was a trust created by the petitioner settling certain
+properties in favour of eight minor beneficiaries and that exemption was claimed in respect of the
+said income in her assessment? If this is the undisputed fact, can it be said that there was any failure
+on the part of the assessee-petitioner to furnish full and correct particulars, and if so whether there
+was reason to believe that any income had escaped assessment?
+15. Learned counsel for the petitioner has relied upon the following decisions in support of his
+contentions:
+Calcutta Discount Co. Ltd. v. ITO[1961] 41 ITR 191 (SC).
+As laid down by the Supreme Court in Calcutta Discount Co. Ltd.'s case[1961] 41 ITR 191, if certain
+primary facts are disclosed by the asses-sees in the return, then the limited jurisdiction of the High
+Court would be to find out whether this information was sufficient for the Income-tax Officer to
+probe into the matter further and apply his mind to the aspect of clubbing the income that arose to
+the minor beneficiaries under section 64 of the Income-tax Act.
+16. CIT v. Bhanji Lavji[1971] 79 ITR 582, wherein the Supreme Court held that it is for the
+Income-tax Officer to establish that the assessee has failed to disclose certain facts and material
+necessary for the assessment of income which had escaped assessment.
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 15
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+17. Learned counsel had relied upon the following decisions:
+Indian and Eastern Newspaper Society v. CIT[1979] 119 ITR 996 (SO);
+Y.V. Anjaneyulu v. ITO[1990] 182 ITR 242 (AP).
+18. These two decisions were rendered under section 147(b) and, therefore, have no relevance.
+19. The other decisions relied upon by the petitioner are:
+Thanthi Trust v. ITO[1989] 177 ITR 307 (Mad); Murlidhar Bhagwandas and Co. v.
+CIT[1990] 181 ITR 319 (Bom);
+New Excelsior Theatre P. Ltd. v. M.B. Naik, ITO[1990] 185 ITR 158 (Bom);
+Technocraft Industries v. G.S. Tung, 2nd ITO[1990] 185 ITR 465 (Bom).
+20. In all these cases, the reassessment proceedings taken under section 147(a) were challenged. On
+the facts of each case, the High Court held that there was no basis for the plea that income had
+escaped assessment and further that there was no failure on the part of the assessee to disclose true
+and correct facts.
+21. In Technocraft Industries' case[1990] 185 ITR 465 (Bom), the appraisal report of the Assistant
+Director of Inspection that a number of creditors where mere name-lenders, was relied upon. It was
+observed by the Bombay High Court that the loans and confirmation letters from creditors were
+disclosed by the assessee along with the returns, and, therefore, there was no reason to hold the
+assessee guilty of suppression and the section 147(a) notice was quashed. It was also held that the
+information furnished by the Assistant Director of Inspection was very vague.
+22. In Thanti Trust's case[1989] 177 ITR 307, the Madras High Court held that the assessee had
+disclosed the primary facts relevant for the assessment and he was under no obligation to instruct
+the Income-tax Officer about the inference. The notice under section 147(a) was, therefore, struck
+down.
+23. In Murlidhar Bhagwandas and Co's case[1990] 181 ITR 319, the Bombay High Court found that
+there was disclosure of havala transactions by the assessee in the returns and for the fault of the
+Department in not investigating the matter further as to the genuineness of the hundis, it was not
+open to the Income-tax Officer to reopen the assessment under section 147(a).
+24. As against this, learned counsel for the Department has relied upon the following decisions:
+Maharaj Kumar Kamal Singh v. CIT[1959] 35 ITR 1 : AIR 1959 SC 257.
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 16
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+25. That was a case arising under section 34(1)(b) of the 1922 Act. It was held that even in a case
+where a return had been submitted disclosing certain facts, if the Income-tax Officer erroneously
+fails to tax a part of the assessable income, it would be a case of bringing to tax the said part of the
+income which had escaped assessment. The Supreme Court was explaining the scope and the
+meaning of the word "information", and held that it includes information as to the true and correct
+state of the law and so would cover the information as to relevant judicial decisions. This
+observation was made by the Supreme Court in the context of what is "information" for purposes of
+section 34(1)(b) of the Act. On the facts of the said case, certain income had escaped assessment
+owing to inadvertence or oversight of the Income-tax Officer and it was held that, in such a case, the
+assessment could be reopened by invoking section 34(1)(b).
+26. The said decision is distinguishable on the facts of the present case and can have no application
+and does not help the Department's case.
+S. Narayanappa v. CIT[1967] 63 ITR 219 (SC).
+27. It was a case arising under section 147(a) of the Income-tax Act. The Supreme Court enumerated
+the conditions required to confer jurisdiction on the Income-tax Officer to issue the notice under
+section 34 beyond the period of four years. On the facts of the said case, it was held that the
+conditions precedent were satisfied before the Income-tax Officer initiated action to reopen the
+assessment. The Supreme Court also observed that it would not be a matter for the court to examine
+whether the reasons on which the Income-tax Officer issued notices were sufficient to form a belief
+about the escapement and ruled that it is not a justifiable issue. The court further observed that the
+existence of the belief can be challenged by the assessee but not the sufficiency of the reasons for the
+belief. In the same case, the Supreme Court, however, held that it is open to the court to examine
+whether the reasons for the belief have a rational connection or a relevant bearing to the formation
+of the belief and are not extraneous or irrelevant to the purpose of the section.
+28. This is no doubt the law laid down by the Supreme Court explaining the jurisdiction of the High
+Court. But the said ratio has to be applied having regard to the facts of each case. I am of the opinion
+that on the facts, the Supreme Court held that there was sufficient reason for the Income-tax Officer
+to form an opinion about the escapement in that case, and the notice issued under section 34(1)(a)
+was upheld.
+29.Anandji Haridas and Co. P. Ltd. v. S.P. Kushare[1967] 66 ITR (Sh. N.) 13 : AIR 1968 SC
+565.
+30. That was an appeal arising under the C.P. and Berar Sales Tax Act from Bombay. The Supreme
+Court explained the meaning of the word "information" occurring in section 34(1)(b) of the
+Income-tax Act and observed that it need not be necessarily from an outside agency and such
+information can be gathered from the assessment record itself leading to the belief that the income
+has escaped assessment or under-assessed.
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 17
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+31.CIT v. Ayodhyakumari[1985] 154 ITR 604 (Raj).
+32. The High Court laid down that where reassessment has been made under section 147(a), it is
+open to the Appellate Assistant Commissioner, to treat it as one properly made under section 147(b)
+provided that on the material on record all the necessary conditions prescribed under section 147(a)
+are satisfied. This has no application to the facts of the present case.
+33.T.M. Kousali v. Sixth ITO[1985] 155 ITR 739 (Kar).
+34. This was a case where proceedings taken under section 147(a) were sustained under section
+147(b). That was a case of the assessee being awarded higher compensation by the civil court and the
+assessee had failed to disclose the pendency of the claim for higher compensation before the civil
+court. That decision turned on the peculiar facts of the case, and has no analogy with the present
+case.
+35. Miheer Hemant Mafatlal v. N. Rama Iyer, ITO[1986] 159 ITR 515 (Bom).
+36. In this case, each of the petitioners had submitted that their share in the income of the estate
+was not liable to assessment in their hands pending administration of the estate. It was held that
+there was no ground to reopen the assessment and the information furnished was sufficient. This
+case helps the petitioner in this case, rather than the Department.
+37.VXL India Ltd. v. ITO[1988] 173 ITR 124 (P & H).
+38. It was held by the High Court that whether the income chargeable to tax has escaped assessment
+has to be decided under the provisions of the Act itself, including the jurisdiction of the Income-tax
+Officer, and not by way of a writ petition.
+39. This view of the High Court is contrary to the rulings of the Supreme Court on the question of
+jurisdiction.
+40. On these facts, the question that arises for consideration is whether the petitioner had disclosed
+all the facts necessary for the completion of the assessment in her case for the two years in question.
+As already stated, the petitioner had stated in Part III of the returns that the income arising to eight
+minor beneficiaries in Madan Lal Sarda Family Trust was not liable to be included in her returns.
+The very same Income-tax Officer who completed the assessment in the case of the trust was also
+the Income-tax Officer who had jurisdiction to assess the petitioner in her individual capacity.
+41. What is required under section 147(a) of the Income-tax Act is that the assessee is required to
+furnish such particulars of income and all other material facts necessary for his/her assessment.
+This is not a case where the Income-tax Officer could find fault with the petitioner having regard to
+the fact that the petitioner had mentioned about the trust as well as the income arising to the minor
+beneficiaries in her returns and had also claimed exemption of that income in her hands in Part III
+of the returns. This information was sufficient to alert the Income-tax Officer to make further
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 18
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+enquiries as to why the income arising to the minor beneficiaries should not be taxed in her hands
+under section 64(1)(vi) of the Income-tax Act. The Income-tax Officer having overlooked to take
+steps to assess the income of the minors in the hands of the petitioner, if it was permissible in law, it
+is not open to the Income-tax Officer to reopen the assessments in the petitioner's case invoking the
+provisions of section 147(a) of the Income-tax Act.
+42. The decisions relied upon by the petitioner support her contentions. It cannot be disputed that
+the petitioner had disclosed the primary fact in her returns, viz., that the petitioner had executed a
+trust in favour of the eight minors. There was, therefore, no reason for the Income-tax Officer to say
+that the income had escaped assessment on account of the failure of the petitioner-assessee to
+disclose the income that has accrued to the petitioner which should have been taxed in her hands.
+43. So far as the decisions relied upon by learned counsel for the Department are concerned, I have
+stated, while referring to them in their order, that they are all distinguishable and have no
+application to the facts of the present case.
+44. On the other hand, the law that is well settled is that the burden is on the Department to show
+that the escapement has occurred on account of the failure on the part of the assessee to disclose the
+full particulars of the income. The other aspect of the case is, whether the Income-tax Officer had
+reason to believe that the escapement had occurred on account of the omission or failure on the part
+of the assessee. The formation of belief must have a nexus to the failure of the assessee to disclose
+true and full particulars as held by the Supreme Court in Bhanji Lavji's case[1971] 79 ITR 582. It is
+sufficient if the assessee has disclosed all the primary facts and any further enquiry or investigation
+that is called for should be done by the Income-tax Officer. On the facts of the present case, it is clear
+that the information furnished by the petitioner in Part III of the returns was sufficient for the
+Income-tax Officer to enquire further into the matter and to take steps to include the income
+accruing to the minors in the assessment of the petitioner. This was a clear case of failure on the part
+of the Income-tax Officer rather than the assessee.
+45. I am, therefore, of the opinion that, on the facts of the case, the Income-tax Officer was not
+justified in reopening the assessment invoking section 147(a) of the Income-tax Act. The writ
+petition is, therefore, liable to be allowed. The writ petition is accordingly allowed and the notices as
+per annexures-F and G dated August 8, 1985 issued by the First Income-tax Officer, Gulbarga, under
+section 148 of the Income-tax Act, 1961, are quashed.
+13. So also, in the case of S.Narayanappa vs. Commissioner of Income Tax - AIR 1967 SC 523, the
+Apex Court held as under:-
+2. On behalf of the appellant Mr Gopalakrishnan contended in the first place that the
+reasons which induced the Income Tax Officer to initiate the proceedings under
+Section 34 were justiciable. It was submitted that those reasons should have been
+communicated by the Income Tax Officer to the assessee before the assessment was
+made. In this connection, the further argument of the appellant was that those
+reasons "must be sufficient for a prudent man to come to the conclusion that the
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 19
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+income had escaped assessment". In our opinion, there is no substance in any one of
+these arguments. It is true that two conditions must be satisfied in order to confer
+jurisdiction on the Income Tax Officer to issue the notice under Section 34 in respect
+of assessments beyond the period of four years, but within a period of eight years,
+from the end of the relevant year. The first condition is that the Income Tax Officer
+must have reason to believe that the income, profits or gains chargeable to income
+tax had been underassessed. The second condition is that he must have reason to
+believe that such "underassessment" had occurred by reason of either (i) omission or
+failure on the part of an assessee to make a return of his income under Section 22, or
+(ii) omission of failure on the part of the assessee to disclose fully and truly all the
+material facts necessary for his assessment for that year. Both these conditions are
+conditions precedent to be satisfied before the Income Tax Officer acquires
+jurisdiction to issue a notice under the section. But the legal position is that if there
+are in fact some reasonable grounds for the Income Tax Officer to believe that there
+had been any non-
+disclosure as regards any fact, which could have a material bearing on the question of
+underassessment that would be sufficient to give jurisdiction to the Income Tax Officer to issue the
+notice under Section 34. Whether these grounds are adequate or not is not a matter for the court to
+investigate. In other words, the sufficiency of the grounds which induced the Income Tax Officer to
+act is not a justiciable issue. It is of course open for the assessee to contend that the Income Tax
+Officer did not hold the belief that there had been such non- disclosure. In other words, the
+existence of the belief can be challenged by the assessee but not the sufficiency of the reasons for the
+belief. Again the expression "reason to believe" in Section 34 of the Income Tax Act does not mean a
+purely subjective satisfaction on the part of the Income Tax Officer. The belief must be held in good
+faith: it cannot be merely a pretence. To put it differently it is open to the court to examine the
+question whether the reasons for the belief have a rational connection or a relevant bearing to the
+formation of the belief and are not extraneous or irrelevant to the purpose of the section. To this
+limited extent, the action of the Income Tax Officer in starting proceedings under Section 34 of the
+Act is open to challenge in a court of law. (See Calcutta Discount Co. Ltd. v. Income Tax Officer,
+Companies District I, Calcutta [41 ITR 191]
+3. In the present case the High Court has pointed out that the Income Tax Officer when examining
+the relevant material in proceedings for Assessment Year 1955-56 found that the appellant had
+made investments to the extent of Rs 39,000 in the account year under question when the income
+assessed was only Rs 36,068. On further examination it was discovered that items of house property
+acquired long before the relevant accounting year had been suppressed. The High Court, therefore,
+held that the Income Tax Officer had reasonable grounds for thinking that there was non-disclosure
+on the part of the appellant and that there was underassessment for Assessment Year 1951-52.
+14. The Division Bench of the Madras High Court in the case of Thanthi Trust vs. Income Tax Officer
+- 1972 SCC Online MAD 411, held as under:-
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 20
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+15. The learned counsel referred to the decisions in Calcutta Discount Co. Ltd. v. Income-tax Officer
+[[1961] 41 I.T.R. 191; [1961] 2 S.C.R. 241 (S.C.).] , S. Narayanappa v. Commissioner of Income- tax
+[[1967] 63 I.T.R. 219; [1967] 1 SCR. 590 (S.C.).] and Commissioner of Income-tax v. Hemchandra
+Kar [[1970] 77 I.T.R. 1; [1971] 1 S.C.R. 283 (S.C.).] in support of his plea that section 147 is intended
+to prevent unnecessary harassment of the assessees by the Income-tax Officers changing opinions at
+different stages on the same materials and that, therefore, the respondent can invoke the authority
+under section 34 of the old Act and section 147 of the new Act only if the conditions set out therein
+exist and not otherwise.
+16. In Calcutta Discount Co. Ltd. v. Income-tax Officer [[1961] 41 I.T.R. 191; [1961] 2 S.C.R. 241
+(S.C.).] the Supreme Court came to consider the scope of section 34(1) for the first time. In that case
+in the original assessments for the assessment years 1942-43, 1943-44 and 1944-45, profits realised
+by a company by sale of shares were not assessed to tax on the ground that they were in the nature
+of mere change in investments. The Income-tax Officer later proposed to initiate reassessment
+proceedings against the company by issuing notices under section 34, and in his reports to the
+Commissioner for the purpose of obtaining sanction he had stated that at the time of the original
+assessments the representations made on behalf of the company that the sales of shares were casual
+transactions in the nature of mere change of investments were accepted, but that the company's
+accounts showed that it had been really and systematically carrying on a trade in the sale of
+investments, that the purchase and sale of shares were not casual transactions and that there has
+been a non-disclosure of the true intention behind the sale of shares. The Supreme Court, after
+dealing with the scope of section 34 of the Act exhaustively, if we may say so with respect, held that
+the question whether the sale of shares were by way of change of investments or by way of trading in
+shares had to be decided by the Income-tax Officer on a consideration of different circumstances,
+including the frequency of the sales, the nature of the shares sold, the price received as compared
+with the cost price, and several other relevant facts, that though it was the duty of the company to
+disclose all the primary facts which had a bearing on that question, the law did not require the
+company to state the conclusion that could reasonably be drawn from the primary facts, and that the
+Income-tax Officer who issued the notices did not have any material before him for believing that
+there had been any material non-disclosure by reason of which an underassessment had taken
+place. As to the scope of section 34, their Lordships of the Supreme Court stated [[1961] 41 I.T.R.
+191, 207, 201 (S.C.).] :
+"The scheme of the law clearly is that where the Income-tax Officer has reason to
+believe that an under-assessment has resulted from nondisclosure he shall have
+jurisdiction to start proceedings for reassessment within a period of eight years; and
+where he has reason to believe that an under- assessment has resulted from other
+causes he shall have jurisdiction to start proceedings for reassessment within four
+years. Both the conditions,
+(i) the Income-tax Officer having reason to believe that there has been
+under-assessment, and (ii) his having reason to believe that such under-assessment
+has resulted from non-disclosure of material facts, must co-exist before the
+Income-tax Officer has jurisdiction to start proceedings after the expiry of four years.
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 21
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+The argument that the court ought not to investigate the existence of one of these
+conditions, viz., that the Income-tax Officer has reason to believe that
+under-assessment has resulted from non-
+disclosure of material facts, cannot therefore be accepted.
+The position, therefore, is that if there were in fact some reasonable grounds for thinking that there
+had been any non-disclosure as regards any primary fact, which could have a material bearing on
+the question of 'under-assessment', that would be sufficient to give jurisdiction to the Income-tax
+Officer to issue the notices under section 34. Whether these grounds were adequate or not for
+arriving at the conclusion that there was a non-disclosure of material facts would not be open for the
+court's investigation. In other words, all that is necessary to give this special jurisdiction is that the
+Income-tax Officer had when he assumed jurisdiction some prima facie grounds for thinking that
+there had been some non-disclosure of material facts.
+Clearly it is the duty of the assessee who wants the court to hold that jurisdiction was lacking, to
+establish that the Income-tax Officer had no material at all before him for believing that there had
+been such nondisclosure."
+17. The above decision is clearly an authority for two propositions, (1) that the court must be
+satisfied as to the existence of the two conditions, namely, (i) reason to believe that there has been
+under-assessment, (ii) such underassessment has resulted from the non- disclosure of primary and
+material facts; and (2) that if all the primary and material facts had been placed by the assessee
+before the Income-tax Officer at the stage of the original assessment, the assessee cannot be said to
+be guilty of non-disclosure as the Income-tax Officer failed to draw a proper factual or legal
+inference from those basic and primary facts.
+18. In S. Narayanappa v. Commissioner of Income- tax [[1967] 63 I.T.R. 219, 221, 222; [1967] 1
+S.C.R. 590 (S.C.).] the Supreme Court again reiterated the same principle thus:
+"But the legal position is that if there are in fact some reasonable grounds for the
+Income-tax Officer to believe that there had been any nondisclosure as regards any
+fact, which could have a material bearing on the question of under-assessment, that
+would be sufficient to give jurisdiction to the Income-tax Officer to issue the notice
+under section 34. Whether these grounds are adequate or not is not a matter for the
+court to investigate. In other words, the sufficiency of the grounds which induced the
+Income-tax Officer to act is not a justiciable issue. It is of course open for the assessee
+to contend that the Income-tax Officer did not hold the belief that there had been
+such non- disclosure. In other words, the existence of the belief can be challenged by
+the assessee, but not the sufficiency of the reasons for the belief."
+19. As regards the scope of the expression "reason to believe" in section 34 of the Act, their
+Lordships of the Supreme Court stated that it does not mean a purely subjective satisfaction on the
+part of the Income-tax Officer, that it postulates belief and the existence of reasons for that belief,
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 22
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+that the belief must be held in good faith and it cannot be merely a pretence and that the existence of
+the belief and the reasons for the belief are justiciable. But on the question whether the assessee
+should be informed of the material available on which the belief was entertained, the Supreme Court
+has held that the Income-tax Officer is bound to disclose to the assessee the materials on the basis of
+which the belief that the income has escaped assessment was entertained.
+20. In Commissioner of Income-tax v. Hemchandra Kar [[1970] 77 I.T.R. 1; [1971] 1 S.C.R. 283
+(S.C.).] , an assessee, a Hindu undivided family consisting of six members, had originally been
+assessed for the assessment year 1946-47. Following the demonetisation of high denomination notes
+in January, 1946, the assessee encashed notes of the value of Rs. 19,000 and five members of the
+family encashed notes of the aggregate value of Rs. 1,10,000. The Income-tax Officer reopened the
+assessments of the assessee and of the five members and by his reassessment orders made on
+January 31, 1955, included the sum of Rs. 19,000 in the reassessment of the family and the sum of
+Rs. 1,10,000 separately in the assessments of the five members in respect of the respective notes
+encashed by them. Two days later, i.e., on February 2, 1955, the Income-tax Officer issued a notice
+under section 34(1)(a) of the Indian Income-tax Act, 1922, seeking to include the sum of Rs.
+1,10,000 in the hands of the family on the ground that the notes encashed by the five members
+belonged to the Hindu undivided family. The Tribunal upheld the said reassessment. The validity of
+that notice was challenged and ultimately the matter came to the High Court on a reference. The
+High Court held that the notice dated February 2, 1955, was not valid, since it was found that when
+the first reassessment was made the primary facts necessary for reassessment of the family were in
+the possession of the Income-tax Officer, that at the time of the first reopening of the assessment of
+the Hindu undivided family and of the individual members the question of assessment of the entire
+amount represented by the high denomination notes was under direct consideration, that it was
+open to the Income-tax Officer to assess the whole amount of Rs. 19,000 and Rs. 1,10,000 in the
+hands of the Hindu undivided family at that stage, and that the escapement, if any, therefore, took
+place by reason of the failure of the Income-tax Officer to assess the family with respect to the sum
+of Rs. 1,10,000 when he was in full possession of all the material facts. On appeal, the Supreme
+Court affirmed the decision of the High Court holding that because the primary facts were within the
+knowledge of the Income-tax Officer when he completed the first reassessment, the escapement of
+income took place by reason of the failure of the Income-tax Officer to include the sum of Rs.
+1,10,000 in the assessment of the Hindu undivided family when he was in full possession of all the
+necessary and material facts and that in such a situation the requirements of section 34(1)(a) were
+not satisfied.
+21. The above decisions dealing with the scope of section 34 of the Act have clearly pointed out that
+in matters of this kind one has to see whether the Income-tax Officer could have reason to believe
+that due to omission or failure on the part of the assessee to disclose fully and truly all material facts
+necessary for his assessment, there has been an escapement of income or whether the escapement of
+income has resulted by reason of the failure of the Income-tax Officer to draw the proper factual or
+legal inference from the primary and other facts furnished by the assessee. It is well established by
+these and other decisions that the words "reason to believe" used in section 147 mean a belief which
+an honest and reasonable person based upon reasonable grounds would entertain on facts before
+him, that a notice under section 148 calling for a return need not set out the reason for such a belief,
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 23
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+or specify the item of income which has escaped assessment or the source of income, or indicate
+whether it is issued under clause (a) or clause (b) of section 147, that the Income-tax Officer is,
+however, bound to disclose all the necessary materials to the assessee at the stage of the
+reassessment proceedings so as to enable him to put forward all his objections to the proposed
+reassessment. It is also well established by now that the Income-tax Officer is not required to
+convene the assessee, or to intimate to him the nature of the alleged escapement or to give him an
+opportunity of being heard, before he decides to issue a notice under section 148 (vide
+Commissioner of Income-tax v. Mahaliram Ramjidas [[1940] 8 I.T.R. 442 (P.C.).] ). The power to
+issue a notice under section 148 is made conditional on the Income-tax Officer recording his reasons
+under sub-section (2). The Income-tax Officer is bound to record his reasons before issuing a notice
+under sub-section (1), and it is on the basis of those reasons recorded by him the Commissioner's or
+the Board's sanction must be obtained in cases where action is taken after the lapse of four years or
+eight years, as the case may be, as contemplated in section 151. Such reasons recorded by the
+Income- tax Officer need not be communicated or disclosed to the assessee before reassessment
+proceedings under section 147 actually commence, but they have to be disclosed to the court when
+his jurisdiction to issue the notice is challenged on the ground that there is no reason to believe that
+certain income has escaped assessment by omission or failure of the assessee to disclose fully and
+truly all material facts necessary for his assessment, and the Income-tax Officer has to justify his
+assumption of jurisdiction only on those recorded reasons.
+22. The learned counsel for the petitioner submits that the Income-tax Officer, at the stage of the
+original assessment proceedings, had thoroughly examined all the facts which are now referred to in
+the counter- affidavit and was satisfied with the explanations given by the petitioner, and, therefore,
+the Income-tax Officer had no reason to believe that by reason of the omission or failure on the part
+of the petitioner to disclose fully and truly all material facts necessary for its assessment for the
+various years the income, profits and gains, chargeable to income-tax for those years, have escaped
+assessment. According to the learned counsel, once the petitioner disputes that the Income-tax
+Officer had any reason before him to entertain the requisite belief and states that it had not omitted
+or failed to disclose fully and truly all material facts necessary at the stage of the assessment, it is the
+duty of the Income-tax Officer to justify his action in issuing the notices by setting out in his
+counter- affidavit filed before the court all the facts and circumstances which led him to entertain
+the belief and by producing before the court all the materials in his possession. The learned counsel
+took us through the counter-affidavit filed in each of these cases and stated that the averments
+therein are so vague that no weight could be attached to the same. He also complains that no details
+are given in the counter- affidavits to show whether the respondent is invoking clause (a) or clause
+(b) of section 147. The learned counsel took pains to convince us that there had been a thorough and
+full-fledged enquiry by the Income-tax Officer as also by the higher authorities at all levels on the
+question of exemption of the income of petitioner- trust at the stage of the assessments, that all the
+relevant materials had been considered at that stage, and that the respondent proposed to initiate
+reassessment proceedings only on the basis of a change of opinion. He referred us to the various
+queries made by the Income-tax Officer at the stage of the assessments for the various years and
+also the replies given by the petitioner on various matters.
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 24
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+23. Though in the counter-affidavit it has been stated that the deponent was not aware of the fact
+that the earlier orders of exemption had been granted after a thorough and exhaustive enquiry by
+the Income-tax Officer, Mr. T.V. Viswanatha Iyer, the learned counsel appearing for the revenue,
+submits that we may proceed on the basis that there was a thorough and exhaustive enquiry by the
+assessing officer at the stage of the assessments on the question of exemption of the income of the
+trust. According to him even if a thorough and exhaustive enquiry has been made by the Income-tax
+Officer at the stage of the original assessments, still section 147 could be invoked if fresh material
+which subsequently came to the possession of the department shows that the disclosure made by the
+petitioner at the stage of the original assessments was neither full nor true, and in this case the
+assessing officer had sufficient material before him to entertain a belief that the income of the
+petitioner had escaped proper assessment. The nature of the enquiry held at the stage of the
+assessments is said to be not quite relevant for the purpose of finding out whether the impugned
+notices have been properly issued. In support of his contention that even in cases where there has
+been full and elaborate enquiries at the stage of original assessment, section 147(a) could still be
+invoked, he refers to the decisions in Income-tax Officer v. Bachu Lal Kapoor [[1966] 60 I.T.R. 74;
+[1966] 3 SCR. 68 (S.C.).] , Kantamani Venkata Narayana & Sons v. First Additional Income-tax
+Officer [[1967] 63 I.T.R. 638; [1967] 1 S.C.R. 984 (S.C.).] Commissioner of Income-tax v. T.S.P.L.P.
+Chidambaram Chettiar [[1971] 80 I.T.R. 467 (SC).] and K.P. Arthanariswamy Chettiar v. First
+Income-tax Officer [[1972] 84 I.T.R. 51 (Mad.).] . In Income-tax Officer v. Bachu Lal Kapoor [[1966]
+60 I.T.R. 74; [1966] 3 SCR. 68 (S.C.).] the Supreme Court laid down the proposition that the
+acceptance of a return or the completion of the assessment does not take away the jurisdiction of the
+Income-tax Officer to issue a notice to reassess on the ground that the information supplied by the
+return was not correct. In Kantamani Venkata Narayana & Sons v. First Additional Income-tax
+Officer [[1967] 63 I.T.R. 638; [1967] 1 S.C.R. 984 (S.C.).] the Supreme Court held that the assessee
+does not discharge his duty to disclose by merely producing the books of account or other evidence.
+He has to further bring to the notice of the Income-tax Officer particular items in the accounts or the
+documents which are relevant. Even in cases where the Income-tax Officer, if he had been
+circumspect, could have found out the truth from the books and other documents produced, he is
+not precluded from exercising the power to assess the income which had escaped assessment. In the
+third case reassessment proceedings were upheld as fully satisfying the requirement of section
+34(1)(a) notwithstanding the fact that the assessing officer had before him the item of undisclosed
+income, which was the subject-matter of the reassessment at the time of assessment. It was held
+that the fact that the officer could have further inquired into that matter but did not do so, did not
+take the case out of section 34(1)(a). In the fourth case, in the original assessment of an assessee, a
+borrowal from a banker was accepted as true and the interest paid thereon allowed as deduction.
+But the said banker in the course of his assessment proceedings denied the advance to the assessee.
+Then a notice under section 147 was issued. That notice was challenged by the assessee contending
+that all the primary facts were before the assessing officer when the assessment was completed. A
+Bench of this court, to which one of us was a party, held that, notwithstanding the fact that the item
+of the borrowal from the banker was considered and allowed at the stage of the original assessment,
+still the Income-tax Officer could invoke section 147(a) on the basis of the subsequent information
+secured from a co-ordinate official who made the assessment on the banker, which, if accepted,
+would lead to a reasonable belief that the disclosure made by the assessee in the first instance was
+not true. Thus, we find the recent trend of judicial decisions to be that even if the Income-tax Officer
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 25
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+has at the stage of assessment been satisfied with the facts and materials disclosed by the assessee
+and completed the assessment on the basis of such materials disclosed, if, subsequently, on receipt
+of information, he has reason to believe that some of the facts and materials were not true or
+complete, he would have reason to believe that income has escaped assessment due to the assessee's
+failure to disclose truly and fully all materials necessary for the assessment.
+24. Though the impugned notices do not indicate whether the reopening is proposed under clause
+(a) or clause (b), the learned counsel for the revenue states the Income-tax Officer proposes to
+reopen the assessments only under clause (a) and not under clause (b), and this, the learned counsel
+says, is clear from the notices themselves. He points out that reference to the sanction obtained from
+the Commissioner of Income-tax or the Central Board of Revenue in the notices indicates that action
+is being taken only under clause (a) of section 147, as no such sanction is necessary or contemplated
+in cases coming under clause (b).
+25. We, therefore, proceed to consider whether the impugned notices could be sustained as having
+been validly issued for initiating proceedings under section 147(a). Clause (a) of section 147 may be
+usefully set out at this stage:
+"147. Income escaping assessment.--If--
+(a) the Income-tax Officer has reason to believe that, by reason of the omission or
+failure on the part of an assessee to make a return under section 139 for any
+assessment year to the Income-tax Officer, or to disclose fully and truly all material
+facts necessary for his assessment for that year, income chargeable to tax has escaped
+assessment for that year, or..........
+he may, subject to the provisions of sections 148 to 153, assess or reassess such income or
+recompute the loss or the depreciation allowance, as the case may be, for the assessment year
+concerned (hereafter in sections 148 to 153 referred to as the relevant assessment year)."
+26. A reading of the above section along with sections 148 to 153 shows that the right to take action
+under clause (a) of the said section is subject to the following conditions:
+(1) The Income-tax Officer should have reason to believe that income chargeable to
+tax has escaped proper assessment.
+(2) He should have reason to believe that such escapement was by reason of the
+omission or failure on the part of an assessee to disclose fully and truly all material
+facts for his assessment for that year.
+(3) He must issue a notice under section 148 calling for a return of income within the
+time limit prescribed in section 149.
+(4) He must, before issuing such a notice, record his reasons for doing so.
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 26
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+(5) The notice under section 148 should be issued only after obtaining the prior
+sanction of the Commissioner or the Board under section 151 in cases where action is
+taken after the lapse of four or eight years respectively.
+(6) The assessment or reassessment under section 147 should be completed within
+the time limit prescribed under section 153(2).
+27. It cannot be disputed that conditions Nos. 3, 4 and 5 are satisfied in those cases which fall under
+section 147(a). Condition No. 6 will not arise at this stage when the reassessment proceedings are
+yet to commence. The question is whether conditions Nos. 1 and 2 are satisfied in these cases.
+28. To show that the above two conditions are satisfied, the learned counsel for the revenue has
+placed before us all the files relating to the issue of the impugned notices. While the assessment files
+show the nature of the enquiry conducted at the original stage as also the materials available before
+the Income-tax Officer at that time, the files relating to the issue of the impugned notices contain
+certain information which the Income-tax Officer is said to have received subsequent to the
+completion of the assessments for the nine years in question, as also his reasons for issuing the
+notice under section 148(1). Those reasons are contained in the reports submitted by him to the
+Commissioner of Income-tax and and also the Central Board for getting the requisite sanction under
+section 151 for initiating action under section 147(a). From those reasons set out for the various
+years it is seen that some new materials which were not available before the Income- tax Officer at
+the time of the original assessment have come to his possession from various sources.
+29. The learned counsel for the petitioner, however, states that there is no allegation of
+non-disclosure of primary facts in the counter-affidavits, that if the averments made therein are
+taken to indicate the substance of the materials available, they would not constitute any new
+material, for all those materials had been considered in elaborate detail by the Income-tax Officer at
+the stage of the original assessment, that a mere change of opinion on the part of the Income-tax
+Officer on the same materials will not enable him to initiate proceedings under section 147(a), and
+that the counter-affidavits cannot be supplemented at the time of arguments by the production of
+some records for the perusal of the court alone. We are not, however, inclined to hold that the
+counter-affidavit alone should be looked into for deciding the question of jurisdiction. It is true that
+some of the matters referred to in the counter- affidavits had been considered by the Income-tax
+Officer at the stage of the original assessments as seen from the series of correspondence between
+the petitioner and the department containing queries and explanations at that stage. But, a persual
+of the files and records produced before us shows that all the materials were not there at the stage of
+the original assessments but only a few of them had been considered and investigated. It is true that
+there is some overlapping of the items. But, from that circumstance alone, we are not in a position to
+say that all the materials which are now before the Income-tax Officer have been investigated at the
+assessment stage. We are unable, therefore, to say that the Income-tax Officer has not acted in good
+faith and that he has issued the notices only with a view to have a fresh roving enquiry as alleged by
+the petitioner.
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 27
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+30. The learned counsel for the petitioner makes certain submissions with regard to the materials
+produced by the revenue before us whose details have not been set out in the various counter
+affidavits. It is contended that once a challenge is made by an assessee that the Income-tax Officer
+had no materials before him to entertain a belief that the income has escaped assessment the
+Income-tax Officer has to satisfy the court that he has acted within his jurisdiction in issuing the
+notice under section 148 and in initiating proceedings under section 147, by disclosing such
+materials as are in his possession to the court and also to the assessee so that whatever explanation
+he could offer in relation to those materials may be placed before the court so as to enable the court
+to properly appreciate the contentions of both the parties relating to the jurisdiction of the
+Income-tax Officer. It is pointed out that if a particular material is shown to be before the
+Income-tax Officer, the assessee if he becomes aware of that material may satisfy the court that the
+same material was before the Income-tax Officer even at the stage of the assessments, and that the
+Income-tax Officer merely in the guise of acting on a new material purports to change his earlier
+opinion. The petitioner's learned counsel also states that once the matter comes before the court on
+a challenge being made by the assessee on the question of jurisdiction of the Income-tax Officer to
+issue a notice under section 148, the attempt to satisfy only the court about the existence of the
+material is not sufficient, that it is not a private matter between the Income-tax Officer and the court
+and that all materials which are disclosed to the court should also be disclosed to the assessee so
+that he will assist the court in deciding the question of jurisdiction. What the learned counsel in
+effect says is that the court will not be justified in deciding the question of jurisdiction on the files
+and records being shown to the court without the petitioner having the benefit of the information
+available therefrom, and that the court will have to decide the question of jurisdiction only after the
+disclosure of that information to the petitioner. The learned counsel, however, concedes that in
+exceptional cases where confidential and privileged documents are placed before the court, the
+adversary cannot have a right to peruse the same. But in cases where no privilege is claimed or
+where the documents produced are not confidential, the assessee, it is said, cannot be made to grope
+in the dark as it were for sustaining his plea that the Income-tax Officer has issued the notice
+without jurisdiction.
+15. In the case of Income Tax Officer vs. Lakhmani - (1976) 3 SCC 757, it was held as under:-
+7. It would appear from the perusal of the provisions reproduced above that two
+conditions have to be satisfied before an Income Tax Officer acquires jurisdiction to
+issue notice under Section 148 in respect of an assessment beyond the period of four
+years but within a period of eight years from the end of the relevant year viz. (1) the
+Income Tax Officer must have reason to believe that income chargeable to tax has
+escaped assessment, and (2) he must have reason to believe that such income has
+escaped assessment by reason of the omission or failure on the part of the assessee
+(a) to make a return under Section 139 for the assessment year to the Income Tax
+Officer, or (b) to disclose fully and truly material facts necessary for his assessment
+for that year. Both these conditions must coexist in order to confer jurisdiction on the
+Income Tax Officer. It is also imperative for the Income Tax Officer to record his
+reasons before initiating proceedings as required by Section 148(2). Another
+requirement is that before notice is issued after the expiry of four years from the end
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 28
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+of the relevant assessment years, the Commissioner should be satisfied on the
+reasons recorded by the Income Tax Officer that it is a fit case for the issue of such
+notice. We may add that the duty which is cast upon the assessee is to make a true
+and full disclosure of the primary facts at the time of the original assessment.
+Production before the Income Tax Officer of the account books or other evidence
+from which material evidence could with due diligence have been discovered by the
+Income Tax Officer will not necessarily amount to disclosure contemplated by law.
+The duty of the assessee in any case does not extend beyond making a true and full
+disclosure of primary facts. Once he has done that his duty ends. It is for the Income
+Tax Officer to draw the correct inference from the primary facts. It is no
+responsibility of the assessee to advise the Income Tax Officer with regard to the
+inference which he should draw from the primary facts. If an Income Tax Officer
+draws an inference which appears subsequently to be erroneous, mere change of
+opinion with regard to that inference would not justify initiation of action for
+reopening assessment.
+8. The grounds or reasons which lead to the formation of the belief contemplated by
+Section 147(a) of the Act must have a material bearing on the question of escapement
+of income of the assessee from assessment because of his failure or omission to
+disclose fully and truly all material facts. Once there exist reasonable grounds for the
+Income Tax Officer to form the above belief, that would be sufficient to clothe him
+with jurisdiction to issue notice. Whether the grounds are adequate or not is not a
+matter for the court to investigate. The sufficiency of grounds which induce the
+Income Tax Officer to act is, therefore, not a justifiable issue. It is, of course, open to
+the assessee to contend that the Income Tax Officer did not hold the belief that there
+had been such non-disclosure. The existence of the belief can be challenged by the
+assessee but not the sufficiency of reasons for the belief. The expression "reason to
+believe" does not mean a purely subjective satisfaction on the part of the Income Tax
+Officer. The reason must be held in good faith. It cannot he merely a pretence. It is
+open to the court to examine whether the reasons for the formation of the belief have
+a rational connection with or a relevant bearing on the formation of the belief and are
+not extraneous or irrelevant for the purpose of the section. To this limited extent, the
+action of the Income Tax Officer in starting proceedings in respect of income
+escaping assessment is open to challenge in a court of law see observations of this
+Court in the cases of Calcutta Discount Co. Ltd. V. Income Tax Officer [AIR 1961 SC
+372 : (1961) 2 SCR 241 : 41 ITR 191] and S. Narayanappa v. CIT [AIR 1967 SC 523 :
+(1967) 1 SCR 590 : 63 ITR 219] while dealing with corresponding provisions of the
+Indian Income Tax Act, 1922).
+9. Keeping the above principles in view, we may now turn our attention to the facts of
+the present case. Two grounds were mentioned in the report made by the Income Tax
+Officer for reopening the assessment of the assessee respondent with a view to show
+that his income had been underassessed because of his failure to disclose fully and
+truly material facts necessary for the assessment. One was that Mohansingh
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 29
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+Kanayalal, who was shown to be one of the creditors of the assessee, had since
+confessed that he was doing only name-lending. The other ground was that
+Narayansingh Nandalal, D.K. Naraindas, Bhagwandas Srichand etc whose names too
+were mentioned in the list of the creditors of the assessee, were known name-lenders.
+So far as the second ground is concerned, neither the majority of the Judges of the
+High Court nor the learned Judge who was in the minority relied upon that ground.
+Regarding that ground, the learned Judge who was in the minority observed that no basis had been
+indicated as to how it became known that those creditors were known name-lenders and when it
+was known. The majority while not relying upon that ground placed reliance upon the case of
+Chhugamal Rajpal. In that case the Income Tax Officer while submitting a report to the
+Commissioner of Income Tax for obtaining his sanction with a view to issue notice under Section
+148 of the Act stated:
+"During the year the assessee has shown to have taken loans from various parties of
+Calcutta. From D.I.'s Inv. No. A/P/Misc. (5) D.I./63-64/5623 dated August 13, 1965,
+forwarded to the office under CIT, Bihar and Orissa, Patna's letter No. Inv. (Inv.)
+15/65- 66/1953-2017 dated Patna September 24, 1965 it appears that these persons
+are name-lenders and the transactions are bogus. Hence, proper investigation
+residing these loans is necessary. The names of some of the persons from whom
+money is alleged to have been taken on loan on hundis are:
+1. Seth Bhagwan Singh Sricharan
+2. Lakha Singh Lal Singh
+3. Radhakissen Shyam Sunder The amount of escapement involved amounts to Rs
+1,00,000."
+In dealing with that report this Court observed:
+"From the report submitted by the Income Tax Officer to the Commissioner, it is
+clear that he could not have had reasons to believe that by reason of the assessee's
+omission to disclose fully and truly all material facts necessary for his assessment for
+the accounting year in question, income chargeable to tax has escaped assessment for
+that year; nor could it be said that he, as a consequence of information in his
+possession, had reasons to believe that the income chargeable to tax has escaped
+assessment for that year. We are not satisfied that the Income Tax Officer had any
+material before him which could satisfy the requirements of either clause (a) or
+clause (b) of Section 147. Therefore, he could not have issued a notice under Section
+148."
+Reference to the names of Narayansingh Nandalal, D.K. Naraindas, Bhagwandas Srichand etc. in
+the report of the Income Tax Officer to the Commissioner of Income Tax in the instant case does not
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 30
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+stand on a better footing than the reference to the three names in the report made by the Income
+Tax Officer in the case of Chhugamal Rajpal. We would, therefore, hold that the second ground
+mentioned by the Income Tax Officer i.e. reference to the names of Narayansingh Nandalal, D.K.
+Naraindas, Bhagwandas Srichand etc. could not have led to the formation of the belief that the
+income of the respondent assessee chargeable to tax had escaped assessment for that year because
+of the failure or omission of the assessee to disclose fully and truly all material facts. All the three
+learned Judges of the High Court, in our opinion, were justified in excluding the second ground
+from consideration,
+10. We may now deal with the first ground mentioned in the report of the Income Tax Officer to the
+Commissioner of Income Tax. This ground relates to Mohansingh Kanayalal, against whose name
+there was an entry about the payment of Rs 74 annas 3 as interest in the books of the assessee,
+having made a confession that he was doing only name-lending. There is nothing to show that the
+above confession related to a loan to the assessee and not to someone else, much less to the loan of
+Rs 2500 which was shown to have been advanced by that person to the assessee-respondent. There
+is also no indication as to when that confession was made and whether it relates to the period from
+April 1, 1957 to March 31, 1958 which is the subject-matter of the assessment sought to be reopened.
+The report was made on February 13, 1967. In the absence of the date of the alleged confession. It
+would not be unreasonable to assume that the confession was made a few weeks or months before
+the report. To infer from that confession that it relates to the period from April 1, 1957 to March 31,
+1958 and that it pertains to the loan shown to have been advanced to the assessee, in our opinion,
+would be rather farf etched.
+11. As stated earlier, the reasons for the formation of the belief must have a rational connection with
+or relevant bearing on the formation of the belief. Rational connection postulates that there must be
+a direct nexus or live link between the material coming to the notice of the Income Tax Officer and
+the formation of his belief that there has been escapement of the income of the assessee from
+assessment in the particular year because of his failure to disclose fully and truly all material facts. It
+is no doubt true that the court cannot go into the sufficiency or adequacy of the material and
+substitute its own opinion for that of the Income Tax Officer on the point as to whether action
+should be initiated for reopening assessment. At the same time we have to bear in mind that it is not
+any and every material, howsoever vague and indefinite or distant, remote and farfetched, which
+would warrant the formation of the belief relating to escapement of the income of the assessee from
+assessment. The fact that the words "definite information" which were there in Section 34 of the Act
+of 1922 at one time before its amendment in 1948 are not there in Section 147 of the Act of 1961
+would not lead to the conclusion that action can now be taken for reopening assessment even if the
+information is wholly vague, indefinite, farfetched and remote. The reason for the formation of the
+belief must be held in good faith and should not be a mere pretence.
+12. The powers of the Income Tax Officer to reopen assessment though wide are not plenary. The
+words of the statute are "reason to believe" and not "reason to suspect" The reopening of the
+assessment after the lapse of many years is a serious matter. The Act, no doubt, contemplates the
+reopening of the assessment if grounds exist for believing that income of the assessee has escaped
+assessment. The underlying reason for that is that instances of concealed income or other income
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 31
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+escaping assessment in a large number of cases come to the notice of the Income Tax Authorities
+after the assessment has been completed. The provisions of the Act in this respect depart from the
+normal rule that there should be, subject to right of appeal and revision, finality about orders made
+in judicial and quasi-judicial proceedings. It is, therefore, essential that before such action is taken
+the requirements of the law should be satisfied. The live link or close nexus which should be there
+between the material before the Income Tax Officer in the present case and the belief which he was
+to form regarding the escapement of the income of the assessee from assessment because of the
+latter's failure or omission to disclose fully and truly all material facts was missing in the case. In any
+event, the link was too tenuous to provide a legally sound basis for reopening the assessment. The
+majority of the learned Judges in the High Court, in our opinion, were not in error in holding that
+the said material could not have led to the formation of the belief that the income of the assessee
+respondent had escaped assessment because of his failure or omission to disclose fully and truly all
+material facts. We would, therefore, uphold the view of the majority and dismiss the appeal with
+costs.
+14. In the case of Assistant Commissioner of Income Tax vs. ICICI - (2012) 13 SCC 514, it was held as
+under:-
+5. We have noted the submissions of both the parties. The petitioner is a public
+limited company engaged in the business of carrying on various non-
+banking financial activities. The present petition is concerning Assessment Year 1999-2000. The
+assessment of the petitioner for that year had been finalised under Section 143 of the Income Tax
+Act. An order in that behalf was passed earlier on 28-3- 2002 determining the income of the
+petitioner as Rs 27.72 crores. Thereafter the first respondent sought to reopen the assessment and
+the reasons for reopening the assessment recorded vide his letter dated 27-3-2006 disclose that it is
+essentially after having another look at the annual accounts which had been furnished earlier. The
+officer records that now it is noticed that during that year the assessee Company had incurred a loss
+in trading in shares. The officer thereafter discusses the various entries appearing in the opening
+and closing stocks and purchases and sales of those stocks. Thereafter the officer has concluded that
+there is a loss of Rs 19.86 crores and that the loss was speculative one. He has therefore come to a
+conclusion that the income chargeable to tax to the extent of Rs 19.86 crores has escaped the
+assessment and that is how he has passed the order under Section 147 of the Income Tax Act
+although almost four years have gone after the assessment of the year concerned.
+6. Mr Mistry, learned counsel for the petitioner, points out that the reasons given by the first
+respondent in his order dated 27-3-2006 are clearly based on the documents which the petitioner
+had already furnished, containing the accounts tendered by the petitioner. There is nothing new that
+has come to the notice of the Revenue at this point of time. It is only a different analysis which is
+now being done and the conclusion is being drawn that its income to the extent of Rs.19.86 crores
+has escaped the assessment. In his submission, this is impermissible under the powers that are
+available to the Revenue under Section 147 of the Income Tax Act. It can only be where there is a
+failure on the part of the assessee to make a true return which is what is provided in the proviso to
+Section 147 and wherein such a reopening would be permissible after the expiry of four years. In the
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 32
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+instant case, nothing of the kind has happened.
+7. Mr Kotangale, learned counsel for the respondents, has drawn our attention to a judgment of the
+Apex Court in Srikrishna (P) Ltd. v. ITO [(1996) 9 SCC 534 : (1996) 221 ITR 538] . In this case, what
+is held by the Apex Court is that where certain loan transactions were relied upon and which were
+subsequently discovered to be false, reassessment proceedings were validly initiated. What is
+however material to note is that in that particular case the Court has given a clear finding that the
+assessee had created and recorded bogus entries of loan and, therefore, the Court held that the
+assessee could not say that it had truly and fully disclosed all material facts necessary for the
+assessment for the year concerned.
+8. The second judgment relied upon by Mr Kotangale is Phool Chand Bajrang Lal v. ITO [(1993) 4
+SCC 77 : (1993) 203 ITR 456] . In this case, the reopening was permitted in view of subsequent
+information which was found to be definite, specific and reliable. This subsequent information
+included the confession of the Managing Director that the company had not advanced any loan to
+any person during the period covered and for which certain cash loans were supposed to have been
+advanced. It was in the facts of this particular development that the Apex Court held that the
+reopening was justified.
+9. In the facts of the present case, there is nothing new which has come to the notice of the Revenue.
+The accounts had been furnished by the petitioner when called upon. Thereafter the assessment was
+completed under Section 143(3) of the Income Tax Act. Now, on a mere relook, the officer has come
+to the conclusion that the income has escaped assessment and he is of course justified in his
+analysis. In our view, this is not something which is permissible under the proviso to Section 147 of
+the Income Tax Act which speaks about a failure on the part of the assessee to make a proper return.
+In the present case, no such case is made out on the record.
+15. In the case of New Delhi Television Ltd., vs. Deputy Commissioner - (2020) SCC Online 446, the
+Apex Court held as under:-
+11. In our opinion, the following issues arise for consideration in this case:--
+(i) Whether in the facts and circumstances of the case, it can be said that the revenue
+had a valid reason to believe that undisclosed income had escaped assessment?
+(ii) Whether the assessee did not disclose fully and truly all material facts during the
+course of original assessment which led to the finalisation of the assessment order
+and undisclosed income escaping detection?
+(iii) Whether the notice dated 31.03.2015 along with reasons communicated on
+04.08.2015 could be termed to be a notice invoking the provisions of the second
+proviso to Section 147 of the Act?
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 33
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+12. At the outset we may note that it has been strenuously urged on behalf of the assessee that its
+assessment was done under scrutiny procedure and a very detailed procedure was followed during
+the original assessment proceedings and all aspects of the case were noted by the assessing officer.
+That may be true, but merely the fact that the original assessment is a detailed one, cannot take
+away the powers of the assessing officer to issue notice under Section 147 of the Act.
+13. We would like to make it clear that we are not going into the merits of the allegations made
+against the assessee. At this stage we are only required to decide whether the revenue has sufficient
+reasons to believe that undisclosed income of the asseessee has escaped assessment and therefore
+there are grounds to issue notice. Obviously, during the assessment proceedings the assessee will
+have the right to place material on record to show that the transaction in question was a genuine
+transaction.
+14. It is trite law that an assessing officer can only re-open an assessment if he has 'reason to believe'
+that undisclosed income has escaped assessment. Mere change of opinion of the assessing officer is
+not a sufficient to meet the standard of 'reason to believe'. Relevant portion of Section 147 reads as
+follows:--
+147. Income escaping assessment.--If the Assessing Officer, has reason to believe that
+any income chargeable to tax has escaped assessment for any assessment year, he
+may, subject to the provisions of sections 148 to 153, assess or reassess such income
+and also any other income chargeable to tax which has escaped assessment and
+which comes to his notice subsequently in the course of the proceedings under this
+section, or recompute the loss or the depreciation allowance or any other allowance,
+as the case may be, for the assessment year concerned (hereafter in this section and
+in sections 148 to 153 referred to as the relevant assessment year):
+Provided that where an assessment under sub- section (3) of section 143 or this
+section has been made for the relevant assessment year, no action shall be taken
+under this section after the expiry of four years from the end of the relevant
+assessment year, unless any income chargeable to tax has escaped assessment for
+such assessment year by reason of the failure on the part of the assessee to make a
+return under section 139 or in response to a notice issued under subsection (1) of
+section 142 or section 148 or to disclose fully and truly all material facts necessary for
+his assessment for that assessment year:
+Provided further that nothing contained in the first proviso shall apply in a case
+where any income in relation to any asset (including financial interest in any entity)
+located outside India, chargeable to tax, has escaped assessment for any assessment
+year:
+Provided also that the Assessing Officer may assess or reassess such income, other
+than the income involving matters which are the subject- matter of any appeal,
+reference or revision, which is chargeable to tax and has escaped assessment.
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 34
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+Explanation 1.--Production before the Assessing Officer of account books or other
+evidence from which material evidence could, with due diligence, have been
+discovered by the Assessing Officer will not necessarily amount to disclosure within
+the meaning of the foregoing proviso.
+Explanation 2.--For the purposes of this section, the following shall also be deemed
+to be cases where income chargeable to tax has escaped assessment, namely:--
+(a) where no return of income has been furnished by the assessee although his total
+income or the total income of any other person in respect of which he is assessable
+under this Act during the previous year exceeded the maximum amount which is not
+chargeable to income-tax;
+(b) where a return of income has been furnished by the assessee but no assessment
+has been made and it is noticed by the Assessing Officer that the assessee has
+understated the income or has claimed excessive loss, deduction, allowance or relief
+in the return;
+(ba) where the assessee has failed to furnish a report in respect of any international
+transaction which he was so required under section 92E;
+(c) where an assessment has been made, but--
+(i) income chargeable to tax has been under assessed; or
+(ii) such income has been assessed at too low a rate; or
+(iii) such income has been made the subject of excessive relief under this Act; or
+(iv) excessive loss or depreciation allowance or any other allowance under this Act
+has been computed.
+(ca) where a return of income has not been furnished by the assessee or a return of
+income has been furnished by him and on the basis of information or document
+received from the prescribed income-tax authority, under sub-section (2) of section
+133C, it is noticed by the Assessing Officer that the income of the assessee exceeds the
+maximum amount not chargeable to tax, or as the case may be, the assessee has
+understated the income or has claimed excessive loss, deduction, allowance or relief
+in the return;
+(d) where a person is found to have any asset (including financial interest in any
+entity) located outside India.
+xxxxxxxxx
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 35
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+15. The case of the assessee is that the transaction of step-up coupon bonds was scrutinised in great
+detail by the assessing officer before he passed the order of assessment dated 03.08.2012. According
+to the assessee there is an attempt on behalf of the revenue to deliberately mix-up the transactions
+relating to the Netherlands subsidiary with the U.K. subsidiary. According to the assessee the order
+of the DRP for the assessment year 2009-10 is in two distinct compartments. While the DRP held
+the Netherlands' transactions of Rs.642 crores to be a sham, the transaction of issuance of US$ 100
+million convertible bonds was not questioned. Therefore, according to the assessee there was no
+fresh material before the assessing officer to have reason to believe that the undisclosed income of
+the assessee had escaped assessment.
+16. On behalf of the assessee it has been urged that once the transaction of step-up coupon bonds
+has been accepted to be correct, then the revenue cannot re-open the same and doubt the genuiness
+of the transaction. We are not in agreement with the first part of the submission but we make it clear
+that we are not commenting on the genuineness of the transaction, which will be considered by the
+concerned assessing officer.
+17. On the other hand, on behalf of the revenue it is submitted that at the stage of issue of show
+cause notice the revenue only has to establish a tentative and prima facie view. At this stage, this
+Court is not expected to go into the merits of the case but can only ascertain whether the revenue
+has prima facie ground to show that it had reasons to believe that income has escaped assessment. It
+is further submitted that the scope of judicial review in such matters is very limited. It is also
+submitted that since the revenue discovered fresh tangible material subsequent to the assessment
+order of 03.08.2012, it cannot be said that the assessing officer did not have reasons to believe that
+income had escaped assessment.
+18. The main issue is whether there was sufficient material before the assessing officer to take a
+prima facie view that income of the assessee had escaped assessment. The original order of
+assessment was passed on 03.08.2012. It was thereafter on 31.12.2013 that the DRP in the case of
+AY 2009-10 raised doubts with regard to the corporate structure of the assessee and its subsidiaries.
+It was noted in the order of the DRP that certain shares of NNPLC had been acquired by Universal
+Studios International B.V., Netherlands, indirectly by subscribing to the shares of NNIH. As already
+noted above it was recorded in the reasons communicated on 04.08.2015 that NNPLC was not
+having any business activity in London. It had no fixed assets and was not even paying rent. Other
+than the fact that NNPLC was incorporated in the U.K., it had no other commercial business there.
+NNPLC had declared a loss of Rs.8.34 crores for the relevant year. It was also noticed from the order
+of the assessing officer that the assessee is the parent company of NNPLC and it is the dictates of the
+assessee which are important for running NNPLC.
+19. Pursuant to the directions of the DRP, the assessing officer passed the final assessment order for
+AY 2009-10 on 21.02.2014 which also disclosed similar facts.
+20. According to the revenue Tax Evasion Petitions were filed by the minority shareholders of the
+assessee company on various dates, i.e., 11.03.2014, 25.07.2014, 13.10.2014 and 11.03.2015, which
+complaints describe in detail the communication between the assessee and the subsidiaries and also
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 36
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+allegedly showed evidence of round tripping of the assessee's undisclosed income through a layer of
+subsidiaries which led to the issuance of the notice in question.
+21. Whether the facts which came to the knowledge of the assessment officer after the assessment
+proceedings for the relevant year were completed, could be taken into consideration for coming to
+the conclusion that there were reasons to believe that income had escaped assessment is the
+question that requires to be answered. Though a number of judgments have been cited in this
+behalf, we shall make reference to only a few.
+22. In Claggett Brachi Co. Ltd., London v. Commissioner of Income Tax, Andhra Pradesh1, this
+Court held as follows:--
+"7. Two points have been urged before us by learned counsel for the assessee. It is
+contended that the Income Tax Officer has no jurisdiction to take proceedings under
+Sections 147 and 148 of the Income Tax Act because the conditions prerequisite for
+making the reassessments were not satisfied. The re-assessments were made with
+reference to clause (b) of Section 147 of the Act, and apparently the Income Tax
+Officer proceeded on the basis that in consequence of information in his possession
+he had reason to believe that income chargeable to tax had escaped assessment for
+the two assessment years. From the material before us it appears that the Income Tax
+Officer came to realise that income had escaped assessment for the two assessment
+years when he was in the process of making assessment for a subsequent assessment
+year. While making that assessment he came to know from the documents pertaining
+to that assessment that the overhead expenses related to the entire business
+including the business as commission agents and were not confined to the business of
+purchase and sale. It is true, as the High Court has observed, that this information
+could have been acquired by the Income Tax Officer if he had exercised due diligence
+at the time of the original assessment itself. It does not appear, however, that the
+attention of the Income Tax Officer was directed by anything before him to the fact
+that the overhead expenses related to the entire business. The information derived by
+the Income Tax Officer evidently came into his possession when taking assessment
+proceedings for the subsequent year. In the circumstances, it cannot be doubted that
+the case falls within the terms of clause (b) of Section 147 of the Act, and that,
+therefore, the High Court is right in holding against the assessee."
+23. In Phool Chand Bajrang Lal v. Income Tax Officer2, this Court held as follows:--
+"19...Acquiring fresh information, specific in nature and reliable in character, relating
+to the concluded assessment which goes to expose the falsity of the statement made
+by the assessee at the time of original assessment is different from drawing a fresh
+inference from the same facts and material which was available with the ITO at the
+time of original assessment proceedings. The two situations are distinct and different.
+Thus, where the transaction itself on the basis of subsequent information, is found to
+be a bogus transaction, the mere disclosure of that transaction at the time of original
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 37
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+assessment proceedings, cannot be said to be disclosure of the "true" and "full" facts
+in the case and the ITO would have the jurisdiction to reopen the concluded
+assessment in such a case. It is correct that the assessing authority could have
+deferred the completion of the original assessment proceedings for further enquiry
+and investigation into the genuineness to the loan transaction but in our opinion his
+failure to do so and complete the original assessment proceedings would not take
+away his jurisdiction to act under Section 147 of the Act, on receipt of the information
+subsequently. The subsequent information on the basis of which the ITO acquired
+reasons to believe that income chargeable to tax had escaped assessment on account
+of the omission of the assessee to make a full and true disclosure of the primary facts
+was relevant, reliable and specific. It was not at all vague or non-specific."
+24. In Ess Kay Engineering Co.(P) Ltd. v. Commissioner of Income Tax, Amritsar3, this Court held
+as follows:--
+"This is a case of reopening. We have perused the documents. We find there was
+material on the basis of which the Income Tax Officer could proceed to reopen the
+case. It is not a case of mere change of opinion. We are not inclined to interfere with
+the decision of the High Court merely because the case of the assessee was accepted
+as correct in the original assessment for this assessment year. It does not preclude the
+Income Tax Officer from reopening the assessment of an earlier year on the basis of
+his findings of fact made on the basis of fresh materials in course of assessment of the
+next assessment year. The appeal is dismissed. No order as to costs."
+25. A perusal of the aforesaid judgments clearly shows that subsequent facts which come to the
+knowledge of the assessing officer can be taken into account to decide whether the assessment
+proceedings should be re-opened or not. Information which comes to the notice of the assessing
+officer during proceedings for subsequent assessment years can definitely form tangible material to
+invoke powers vested with the assessing officer under Section 147 of the Act.
+26. The material disclosed in the assessment proceedings for the subsequent years as well as the
+material placed on record by the minority shareholders form the basis for taking action under
+Section 147 of the Act. At the stage of issuance of notice, the assessing officer is to only form a prima
+facie view. In our opinion the material disclosed in assessment proceedings for subsequent years
+was sufficient to form such a view. We accordingly hold that there were reasons to believe that
+income had escaped assessment in this case. Question No. 1 is answered accordingly.
+27. Coming to the second question as to whether there was failure on the part of the assessee to
+make a full and true disclosure of all the relevant facts. The case of the assessee is that it had
+disclosed all facts which were required to be disclosed.
+28. The revenue has placed reliance on certain complaints made by the minority shareholders and it
+is alleged that those complaints reveal that the assessee was indulging in round-tripping of its funds.
+According to the revenue the material disclosed in these complaints clearly shows that the assessee
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 38
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+is guilty of creating a network of shell companies with a view to transfer its un-taxed income in India
+to entities abroad and then bring it back to India thereby avoiding taxation. We make it clear that we
+are not going into this aspect of the matter because those complaints have not seen light of the day
+either before the High Court or this Court and, therefore, it would be unfair to the assessee if we rely
+upon such material which the assessee has not been confronted with.
+29. Even before the assessment order was passed on 03.08.2012, the assessing officer was aware of
+the entities which had subscribed to the convertible bonds. This is apparent from the
+communication dated 08.04.2011. The case of the revenue is that the assessee did not disclose the
+amount subscribed by each of the entities and furthermore the management structure of these
+companies. We are not in agreement with this submission of the revenue. It is apparent from the
+records of the case that the revenue was aware of the entities which subscribed to the convertible
+bonds. It has been urged that these are bogus companies, but we are not concerned with that at this
+stage. The issue before us is whether the revenue can take the benefit of the extended period of
+limitation of 6 years for initiating proceedings under the first proviso Section 147 of the Act. This can
+only be done if the revenue can show that the assessee had failed to disclose fully and truly all
+material facts necessary for its assessment. The assessee, in our view had disclosed all the facts it
+was bound to disclose. If the revenue wanted to investigate the matter further at that stage it could
+have easily directed the assessee to furnish more facts.
+30. The High Court held that there was no "true and fair disclosure" in view of the law laid down by
+this Court in Phool Chand's case (supra), and the judgment of the Delhi High Court in Honda Siel
+Power Products Limited v. Deputy Commissioner Income-Tax4. We have already referred to the
+judgment in Phool Chand's case (supra), wherein it was held that where the transaction of a
+particular assessment year is found to be a bogus transaction, the disclosures made could not be
+said to be all "true" and "full". Relying upon the said judgment the High Court held that merely
+because the transaction of convertible bonds was disclosed at the time of original assessment does
+not mean that there is true and full disclosure of facts.
+31. We are unable to agree with this reasoning given by the High Court. The assessee as mentioned
+above made a disclosure about having agreed to stand guarantee for the transaction by NNPLC and
+it had also disclosed the factum of the issuance of convertible bonds and their redemption.
+The income, if any, arose because of the redemption at a discounted price. This was an event which
+took place subsequent to the assessment year in question though it may be income for the
+assessment year. As we have observed above, all relevant facts were duly within the knowledge of
+the assessing officer. The assessing officer knew who were the entities who had subscribed to other
+convertible bonds and in other proceedings relating to the subsidiaries the same assessing officer
+had knowledge of addresses and the consideration paid by each of the bondholders as is apparent
+from assessment orders dated 03.08.2012 passed in the cases of M/s. NDTV Labs Ltd. and M/s.
+NDTV Lifestyle Ltd. Therefore, in our opinion there was full and true disclosure of all material facts
+necessary for its assessment by the assessee.
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 39
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+32. The fact that step-up coupon bonds for US$ 100 million were issued by NNPLC was disclosed;
+who were the entities which subscribed to the bonds was disclosed; and the fact that the bonds were
+discounted at a lower rate was also disclosed before the assessment was finalised. This transaction
+was accepted by the assessing officer and it was clearly held that the assessee was only liable to
+receive a guarantee fees on the same which was added to its income. Without saying anything
+further on merits of the transaction we are of the view that it cannot be said that the assessee had
+withheld any material information from the revenue.
+33. According to the revenue the assessee to avoid detection of the actual source of funds of its
+subsidiaries did not disclose the details of the subsidiaries in its final accounts, balance sheets, and
+profit and loss account for the relevant period as was mandatory under the provisions of the Indian
+Companies Act, 1956. It is not disputed that the assessee had obtained an exemption from the
+competent authority under the Companies Act, 1956 from providing such details in its final
+accounts, balance sheets, etc. As such it cannot be said that the assessee was bound to disclose this
+to the Assessing Officer. The Assessing Officer before finalising the assessment of 03.08.2012 had
+never asked the assessee to furnish the details.
+34. The revenue now has come up with the plea that certain documents were not supplied but
+according to us all these documents cannot be said to be documents which the assessee was bound
+to disclose at the time of assessment. The main ground raised by the revenue is that the assessee did
+not disclose as to who had subscribed what amount and what was its relationship with the assessee.
+As far as the first part is concerned it does not appear to be correct. There is material on record to
+show that on 08.04.2011 NNPLC had sent a communication to the Deputy Director of Income Tax
+(Investigation), wherein it had not only disclosed the names of all the bond holders but also their
+addresses; number of bonds along with the total consideration received. This chart forms part of the
+assessment orders dated 03.08.2012 in the case of M/s. NDTV Labs Ltd. and M/s. NDTV Lifestyle
+Ltd. The said two assessment orders were passed by the same officer who had passed the assessment
+order in the case of the assessee on the same date itself. Therefore, the entire material was available
+with the revenue.
+35. A number of decisions have been cited as to what is meant by true and full disclosure. It is not
+necessary to multiply decisions, as law in this regard has been succinctly laid down by a Constitution
+Bench of this Court in Calcutta Discount Co. Ltd. v. Income-tax Officer, Companies District I,
+Calcutta5, wherein it was held as follows:--
+"(8)...The words used are "omission or failure to disclose fully and truly all material
+facts necessary for his assessment for that year". It postulates a duty on every
+assessee to disclose fully and truly all material facts necessary for his assessment.
+What facts are material, and necessary for assessment will differ from case to case. In
+every assessment proceeding, the assessing authority will, for the purpose of
+computing or determining the proper tax due from an assessee, require to know all
+the facts which help him in coming to the correct conclusion.
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 40
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+From the primary facts in his possession, whether on disclosure by the assessee, or discovered by
+him on the basis of the facts disclosed, or otherwise -- the assessing authority has to draw inferences
+as regards certain other facts; and ultimately, from the primary facts and the further facts inferred
+from them, the authority has to draw the proper legal inferences, and ascertain on a correct
+interpretation of the taxing enactment, the proper tax leviable. Thus, when a question arises
+whether certain income received by an assessee is capital receipt, or revenue receipt, the assessing
+authority has to find out what primary facts have been proved, what other facts can be inferred from
+them, and taking all these together, to decide what the legal inference should be.
+(9) There can be no doubt that the duty of disclosing all the primary facts relevant to the decision of
+the question before the assessing authority lies on the assessee. To meet a possible contention that
+when some account books or other evidence has been produced, there is no duty on the assessee to
+disclose further facts, which on due diligence, the Income- tax Officer might have discovered, the
+Legislature has put in the Explanation, which has been set out above. In view of the Explanation, it
+will not be open to the assessee to say, for example -- "I have produced the account books and the
+documents: You, the assessing officer examine them, and find out the facts necessary for your
+purpose: My duty is done with disclosing these account-books and the documents." His omission to
+bring to the assessing authority's attention these particular items in the account books, or the
+particular portions of the documents, which are relevant, will amount to "omission to disclose fully
+and truly all material facts necessary for his assessment." Nor will he be able to contend successfully
+that by disclosing certain evidence, he should be deemed to have disclosed other evidence, which
+might have been discovered by the assessing authority if he had pursued investigation on the basis
+of what has been disclosed. The Explanation to the section, gives a quietus to all such contentions;
+and the position remains that so far as primary facts are concerned, it is the assessee's duty to
+disclose all of them -- including particular entries in account books, particular portions of
+documents and documents, and other evidence, which could have been discovered by the assessing
+authority, from the documents and other evidence disclosed.
+(10) Does the duty however extend beyond the full and truthful disclosure of all primary facts? In
+our opinion, the answer to this question must be in the negative. Once all the primary facts are
+before the assessing authority, he requires no further assistance by way of disclosure. It is for him to
+decide what inferences of facts can be reasonably drawn and what legal inferences have ultimately to
+be drawn. It is not for somebody else -- far less the assessee -- to tell the assessing authority what
+inferences -- whether of facts or law should be drawn. Indeed, when it is remembered that people
+often differ as regards what inferences should be drawn from given facts, it will be meaningless to
+demand that the assessee must disclose what inferences -- whether of facts or law -- he would draw
+from the primary facts.
+(11) If from primary facts more inferences than one could be drawn, it would not be possible to say
+that the assessee should have drawn any particular inference and communicated it to the assessing
+authority. How could an assessee be charged with failure to communicate an inference, which he
+might or might not have drawn?"
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 41
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+A careful analysis of this judgment indicates that the Constitution Bench held that it
+is the duty of the assessee to disclose full and truly all material facts which it termed
+as primary facts. Nondisclosure of other facts which may be termed as secondary
+facts is not necessary. In light of the above law, we shall deal with the facts of the
+present case.
+36. In our view the assessee disclosed all the primary facts necessary for assessment of its case to the
+assessing officer. What the revenue urges is that the assessee did not make a full and true disclosure
+of certain other facts. We are of the view that the assessee had disclosed all primary facts before the
+assessing officer and it was not required to give any further assistance to the assessing officer by
+disclosure of other facts. It was for the assessing officer at this stage to decide what inference should
+be drawn from the facts of the case. In the present case the assessing officer on the basis of the facts
+disclosed to him did not doubt the genuiness of the transaction set up by the assessee. This the
+assessing officer could have done even at that stage on the basis of the facts which he already knew.
+The other facts relied upon by the revenue are the proceedings before the DRP and facts subsequent
+to the assessment order, and we have already dealt with the same while deciding Issue No. 1.
+However, that cannot lead to the conclusion that there is non-disclosure of true and material facts
+by the assessee.
+37. It is interesting to note that whereas before this Court the revenue is strenuously urging that the
+assessee is guilty of nondisclosure of material facts, before the High Court the case of the revenue
+was just opposite. We may quote a portion of the counter-affidavit filed by the revenue in response
+to the writ petition filed by the assessee before the High Court which reads as follows:--
+"...It is evident from these facts that second proviso to Section 147 is clearly attracted
+in this case and first proviso to Section 147 is not applicable to facts of this case, i.e. in
+this case, the only requirement to reopen assessment U/s 147 was that the AO has
+reason to believe that any income chargeable to tax has escaped assessment. The
+second condition that the income should have escaped assessment due to failure on
+the part of the assessee to disclose fully and truly all material facts necessary for
+making assessment is not relevant to decide issue before the Hon'ble Court"
+38. This submission has been repeated a number of times in the counter-affidavit. Therefore, in our
+opinion the revenue cannot now turn around and urge that the assessee is guilty of nondisclosure of
+facts. We are also of the view that the revenue could not be permitted to blow hot and cold at the
+same time.
+39. We are clearly of the view that the revenue in view of its counter-affidavit before the High Court
+that it was not relying upon the non-disclosure of facts by the assessee could not have been
+permitted to orally urge the same. Even otherwise we find that the assessee had fully and truly
+disclosed all material facts necessary for its assessment and, therefore, the revenue cannot take
+benefit of the extended period of limitation of 6 years. We answer Question No. 2 accordingly.
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 42
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+16. As held in the aforesaid decisions, the respondents - Revenue are entitled to invoke the proviso
+to Section 147 of the I.T.Act and reopen the proceedings even after the prescribed period of four
+years only if the petitioner - assessee had failed to fully and truly disclose all material facts for the
+purpose of assessment; failure on the part of the assessee to fully and truly disclose all facts which
+are material, relevant and germane for the purpose of assessment is a sine qua non for the purpose
+of reopening the assessment; in other words, in the absence of any material to show that the facts
+which were not fully and truly disclosed by the assessee were material, relevant and germane for the
+purpose of assessment which had been concluded by the revenue, the revenue did not have
+jurisdiction or authority of law to reopen the assessment beyond the prescribed period of four years;
+so also, even assuming that all facts had not been disclosed by the assessee at the time of
+assessment, so long as the said facts are not material, relevant or germane nor have an impact or
+bearing on the assessment, it cannot be said that the petitioner - assessee had not fully and truly
+disclosed material facts so as to enable the respondents - revenue to reopen a concluded assessment.
+17. In the instant case, it is the specific contention of the petitioner that all relevant and material
+facts had been stated and disclosed by the petitioner in its income tax returns as well as the reply to
+the queries put forth by the respondents and the same having been accepted without any demur by
+the respondents who had concluded the assessment proceedings and passed an assessment order on
+31.03.2016, the impugned Demand notice dated 31.03.2021 which was issued beyond the period of
+limitation of four years was illegal, arbitrary and without jurisdiction or authority of law. It is also
+contended that a perusal of income tax returns as well as the reply submitted by the petitioner on
+22.06.2015 to the notice dated 09.06.2015 issued by the respondents will indicate that the face value
+/ book value of the shares as well as the total market value of all the quoted investments including
+the shares had been mentioned / stated in the returns in addition to other material particulars and
+details and consequently, there has not been any failure of full and true disclosure of material facts
+for the purpose of assessment.
+18. Per contra, it is contended by the respondents that the petitioner had not disclosed and full and
+true facts in as much as the book value and the market value of the shares gifted in favour of the
+petitioner was not disclosed either in the returns or in the reply submitted by the petitioner and as
+such, the respondents were entitled to invoke the proviso to Section 147 of the I.T.Act and reopen
+the assessment.
+19. As rightly contended by the petitioner, a perusal of the income tax returns submitted by the
+petitioner for the financial year 2012-13 will indicate that the same contains the following details:-
+(i) In the Annexures to the returns showing the schedules forming part of the Balance
+sheet, schedule - 3 contains the details of the investments, among which, long term
+investments are shown as A, B, C and D while short term investments are shown as A
+and B.
+(ii) At page No.1 of the schedules, among long term investments, quoted shares are
+shown at Sl.No.A, in which, shares of Wipro Ltd., having a face value of Rs.2/- each
+are shown as 49, 07,14,120 in number.
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 43
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+(iii) At Page No.2 of the aforesaid schedules annexed to the returns, the details of the
+Wipro shares received by the petitioner as gift have been explained including how the
+aforesaid number of 49,07,14,120 had been arrived at by the petitioner.
+(iv) At Page No.1 referred to supra, the total number of shares for the previous year
+i.e., 19,51,87,120 has also been stated. So also, at page No.2, the market value of all
+the quoted investments including the shares gifted in favour of the petitioner has
+been stated for assessment year 2012-
+13 and 2013-14.
+20. The aforesaid details contained in the income tax returns submitted by the petitioner clearly
+falsifies the allegation of the respondents that the book value of the shares had not been mentioned /
+stated by the petitioner;
+so also, undisputedly, in order to attract Section 56 (2) (vii)
+(c) of the I.T.Act, the aggregate fair market value should exceed Rs.50,000/-; the aforesaid details
+mentioned in the income tax returns are sufficient to indicate that even if the market value of
+49,07,14,120 shares is taken at 1 paise per share, it would exceed the aforesaid fair market value of
+Rs.50,000/- for the purpose of income tax; in other words, in the light of all the details furnished by
+the petitioner in the returns including the total number of shares, the methodology adopted to
+compute / quantify the number of shares, the total number of shares for the previous assessment
+year, the face value / book value of the shares being shown as Rs.2/- each and the total market value
+of the quoted investments including the gifted shares coupled with the fact that the market value of
+the shares of Wipro Ltd., which is the public limited company whose share value is available readily
+in the public domain, it cannot be said that the petitioner had failed to fully and truly disclose all
+material facts necessary for its assessment.
+21. As stated supra, in the light of all the aforesaid material and relevant facts being fully disclosed
+by the petitioner in its returns, which were more than sufficient to complete the assessment, mere
+non-disclosure of the market value of the shares separately by the petitioner in its returns cannot
+lead to an inference that the petitioner has not fully and truly disclosed all material facts necessary
+for assessment; to put it differently, so long as all other material and relevant facts had been
+furnished and disclosed and it can be clearly discerned from the returns and the documents that the
+market value of the shares was in excess of Rs.50,000/-, simply because the market value of
+49,07,14,120 shares had not been separately stated / mentioned, it cannot be said that the
+respondents were entitled to take shelter under the proviso to Section 147 of the I.T. Act and seek to
+reopen the concluded proceedings of 2016 beyond the period of limitation on 31.03.2021.
+22. The material on record also discloses that at the time of assessment proceedings, it was not the
+case of the respondents that the market value of the shares was a material fact that was not disclosed
+by the petitioner; on the other hand, in its notice dated 09.06.2015 issued under Section 142(1) of
+the I.T.Act, the only details sought for by the respondents was with regard to the complete list of
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 44
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+donors with address, PAN and the amount donated. In the said notice, though there is a separate
+column which enables the respondents to seek details with regard to computation of income, audit
+report along with financial statements / schedules, additional information in this regard with regard
+to non-furnishing of the market value of the shares was not sought for by the respondents in the
+aforesaid notice dated 09.06.2015 (Annexure-G). This circumstance is also a pointer to the fact that
+the details furnished by the petitioner in its returns were sufficient and that the petitioner had fully
+and truly disclosed all material facts.
+23. In response to the aforesaid notice dated 09.06.2015, petitioner submitted a reply dated
+22.06.2015 and provided complete details of the corpus donors including mail, address and PAN
+and enclosed documentary evidence of the same. Despite receiving the said reply and documents
+submitted by the petitioner, respondents did not seek further information / clarification from the
+petitioner either with regard to the details and documents submitted in the reply or with regard to
+the market value of the shares or the other details mentioned in the returns submitted earlier,
+thereby indicating that in view of the information already submitted by the petitioner including the
+market value of the total quoted investments including the market value of the shares apart from the
+fact that the market value of Wipro shares were readily available in the public domain and exceeding
+Rs.50,000/-, the respondents did not deem it necessary or warranted to call upon the petitioner to
+provide a separate market value of the shares. Accordingly, the respondents proceeded to complete /
+conclude the assessment proceedings and passed an assessment order on 31.03.2016 accepting the
+returns submitted by the petitioner. Under these circumstances, I am of the considered view that the
+impugned notice at Annexure-A and the reasons for reopening the same vide Annexure-A which
+proceed on the sole premise that the petitioner had not disclosed the boom value and the market
+value of the shares which tantamount to not fully and truly disclosing material facts are clearly
+illegal, arbitrary, factually incorrect and perverse and contrary to the material on record warranting
+interference by this Court in the present petition.
+24. As held by the Apex Court and other High Courts including this Court, in the aforesaid decisions,
+in order to invoke the proviso to Section 147 of the I.T.Act, it is incumbent upon the respondents to
+establish that the relevant material facts essential for the purpose of assessment had not been
+disclosed by the petitioner; it cannot be gainsaid that all facts / particulars which have not been
+stated / mentioned in the returns are not material facts and it is only those facts which would have
+an impact / bearing upon the assessment that can be construed or treated as essential. In the instant
+case, all relevant material facts viz., details of shares for the assessment years 2011-12 and 2012-13
+have been stated including the breakup, face value of the shares at Rs.2/- per share, the details of
+the shares for the previous year, market value of all the quoted investments including the shares
+etc., have been furnished by the petitioner and accepted at the time of assessment without any
+demur; under these circumstances, the respondents are not entitled to invoke the proviso to Section
+147 of the I.T.Act in order to contend that the income from the shares has escaped assessment on
+account of failure on the part of the petitioner to fully and truly disclose all material facts. Viewed
+from this angle also, the impugned notice and the reasons assigned by the respondents deserve to be
+quashed.
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 45
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+25. As can be seen from the aforesaid decisions, it is the settled legal position that an assessee is
+under a duty or obligation to disclose only the basic and primary facts relating to his assessment and
+thereafter, it is for the Assessing officer to make further enquires and draw inferences and if he does
+not do so for any reason , then the Revenue cannot contend that there was any failure or omission
+on the part of the assessee. In the instant case, after being in possession of all the relevant facts
+relating to the gifts of shares received by the petitioner, the Assessing officer consciously chose not
+to apply Section 56(2)(vii)(c) of the I.T.Act. However, after the expiry of the period of four years
+mentioned in the proviso to Section 147, the A.O has attempted to take a new view, which is not
+permissible in law.
+26. It is well settled that in a case of reopening covered by the proviso to Section 147 of the I.T.Act,
+the reasons recorded must set out the exact particulars of the failure to disclose on the part of the
+assessee, on account of which the escapement of income has taken place and a ritual repetition of
+the proviso to Section 147 of the I.T.Act would not be sufficient. In the present case, the reasons
+recorded only state that though the number of WIPRO shares received as a gift were disclosed, but
+neither the book value nor the market value of the shares was disclosed in the Balance Sheet. This is
+factually incorrect because the returns submitted by the petitioner indicate that the face value of the
+WIPRO shares (Rs.2/- per share) and also their market value as on 31.03.2013 which is included in
+the total market value of the quoted investments are clearly disclosed. In any event, the share of
+WIPRO is widely quoted and frequently traded and its market value from minute to minute is
+readily available and it cannot be said that the petitioner has failed to disclose the information which
+is in the public domain and is continuously available to everybody. Further, the reasons recorded do
+not even attempt to claim that the non-application of Section 56(2)
+(vii)(c) of the I.T.Act and the consequent alleged escapement of income was because the Assessing
+officer was allegedly unaware of the market price of WIPRO shares. For application of Section
+56(2)(vii)(c) of the I.T.Act, even if a price as nominal as one paise is assigned to be the market value
+of each Wipro share received as a gift with the number of shares received as a gift being Rs.29.55
+crores, the aggregate value will far exceed the limit of Rs.50,000/- specified in Section 56(2)(vii)(c)
+of the I.T.Act. Thus, in the facts of the case, it is axiomatic that the Assessing officer considered
+Section 56(2)(vii)(c) of the I.T.Act not to be attracted at all rather than being unaware of the market
+price of WIPRO shares as alleged. The market price of these shares is irrelevant because in the
+reasons recorded, nowhere it is specifically alleged and established that the alleged escapement of
+income was by reason of the so-called non-disclosure of the share price. In any event, such an
+allegation even if made, would be false because the Balance Sheet states the market value and
+consequently, on this ground also, the impugned notice and reasons assigned by the respondents
+deserve to be quashed. It is therefore clear that the jurisdictional condition precedent laid down by
+the proviso to Section 147 i.e failure to disclose a material fact, which failure allegedly is the
+proximate cause of the escapement of income has not been fulfilled at all in the present case and the
+impugned notice deserves to be quashed.
+27. Insofar as the decisions relied upon by the learned counsel for the respondents are concerned,
+the same are clearly distinguishable on facts and are not adverted to for the purpose of the present
+case; suffice it to state that the impugned notice and order which proceed on the premise that the
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 46
+Azim Premji Trustee Company Pvt Ltd vs Principal Commissioner Of Income Tax-2 on 21 April, 2022
+face value / book value of the shares has not been stated is clearly factually incorrect; so also, in the
+peculiar facts of the instant case and the details / particulars of the shares and their value already
+available with the respondents as stated supra, mere non-mentioning of the market value of the
+shares also is neither relevant nor germane for the purpose of invoking the proviso to Section 147 of
+the I.T. Act and consequently, the impugned notice and reasons deserve to be quashed on this
+ground also.
+28. Insofar as the rival claims with regard to applicability of Section 56(2)(vii)(c) of the I.T.Act to the
+petitioner as well as the challenge to the impugned circulars dated 03.08.2012 and 31.12.2018 are
+concerned, in view of my finding above that the impugned notice and reasons assigned by the
+respondents being illegal and vitiated, since the proviso to Section 147 of the I.T.Act is inapplicable
+to the facts of the instant case, I am of the considered opinion that it is not necessary to advert to the
+said other contentions for the purpose of adjudication of this petition.
+29. In the result, I pass the following:-
+ORDER
+(i) Petition is partly allowed.
+(ii) The impugned Notice at Annexure-A dated 31.03.2021 and the reasons for
+reopening the assessment vide Annexure-M dated 09.04.2021 are hereby quashed.
+SD/-
+JUDGE Srl.
+Indian Kanoon - http://indiankanoon.org/doc/22447893/ 47

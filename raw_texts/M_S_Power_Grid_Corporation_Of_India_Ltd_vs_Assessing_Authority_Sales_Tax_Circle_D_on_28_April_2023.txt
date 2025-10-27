@@ -1,0 +1,503 @@
+M/S Power Grid Corporation Of India Ltd vs Assessing Authority Sales Tax Circle D on 28 April, 2023
+M/S Power Grid Corporation Of India Ltd vs Assessing Authority
+Sales Tax Circle D on 28 April, 2023
+HIGH COURT OF JAMMU & KASHMIR AND LADAKH
+AT JAMMU
+STR No. 03/2022
+STR No. 04/2022
+STR No. 05/2022
+STR No. 06/2022
+STR No. 07/2022
+STR No. 08/2022
+Reserved on 11.04.2023
+Pronounced on 28. 04.2023.
+M/S Power Grid Corporation of India Ltd.
+..... applicant (s)
+Through :- Mr.Subash C Dutta Advocate
+Mr. Sachin Sharma Advocate
+V/s
+Assessing Authority Sales Tax Circle D .....Respondent(s)
+Jammu
+Through :- Mr.K.D.S.Kotwal Dy.AG
+Coram: HON'BLE MR. JUSTICE SANJEEV KUMAR JUDGE
+HON'BLE MR. JUSTICE RAJESH SEKHRI, JUDGE
+JUDGMENT
+Sanjeev Kumar, 'J' 1 In terms of these references made by the Jammu and Kashmir Sales Tax
+(Appellate) Tribunal, Jammu [„the Tribunal(cid:129)] under Section 12-D of the Jammu and Kashmir
+General Sales Tax Act, 1962 [„the GST Act(cid:129)], following questions have been referred to this Court
+for determination:
+(i) Whether, on the facts and circumstances of the case, the applicant has supplied
+the „goods(cid:129) defined under Section 2(h) (iii) [should have been sub-clause (ii)] and
+2(h) (iv) of the GST Act which shall be deemed to be a sale before 15.05.1997 under
+Section 2 (L) and is a dealer under the Act amenable to tax ?
+(ii) Whether the Tribunal was bound by its earlier orders in the cases of applicant itself as they have
+attained finality and, on the principle of „consistency(cid:129), the Tribunal should not hold otherwise than
+what has been settled by its earlier Benches?
+Indian Kanoon - http://indiankanoon.org/doc/138211308/ 1
+M/S Power Grid Corporation Of India Ltd vs Assessing Authority Sales Tax Circle D on 28 April, 2023
+2 As would be seen from the reading of references, the aforesaid questions have arisen for
+determination of this Court in the background and context of following facts:
+M/S Power Grid Corporation of India Ltd. [„the assessee(cid:129)] is a Government of India
+undertaking engaged, inter alia, in establishing its own grid stations and laying wires
+for transmission of electricity. It is in the execution of its aforesaid works, the
+assessee purchased some goods, material and machinery etc. from outside the State.
+The assessee has taken registration under the Central Sales Tax, 1956 [„the CST
+Act(cid:129)]. The modus operandi adopted by the assessee for construction of its grid
+stations and laying wires etc. for transmission of electricity indicates that it first buys
+goods, material and requisite machinery from outside the State and thereafter hands
+over the same to the contractors for consumption, fixation and laying out in the
+works of the assessee. As is claimed, the ownership and possession of the property
+used in execution of the works of the assessee remains with it and the contractors are
+only engaged to execute the work on payment of labour charges. It is the specific case
+of the assessee that since no property in goods is transferred to the contractors, as
+such, no payment against such material handed over to the contractors, to be used in
+the execution of works of the assessee, is charged. It is, thus, claimed that since the
+assessee was not making any local sales under the GST Act, as such, was not initially
+registered under the Act. However, in compliance to the notice, the assessee
+appeared before the Assessing Authority and on the advice of the later, it filed the
+returns with nil turnover. The Assessing Authority, however, did not accept the
+contentions of the assessee and held that as the assessee had taken registration under
+the CST Act to import goods from outside the State against C-Forms, was therefore, a
+„dealer(cid:129). It was the plea taken by the Assessing Authority that only a dealer, who is
+registered as such under CST Act can use C-Forms to purchase goods for personal
+use. It was, thus, concluded by the Assessing Authority that the transactions made by
+the assessee were liable to tax. Consequently, the Assessing Authority also imposed
+interest and penalty under the GST Act.
+Against the orders passed by the Assessing Authority for the accounting years
+1996-97, 1997-98, 1998-1999, 1999-2000, 2000-01 & 2001-02 demanding tax,
+interest and penalty from the assessee, PGCI filed statutory appeals before the
+Appellate Authority. The appeals filed by the assessee in respect of all the accounting
+years except the accounting year 1998-99 were disposed of with the assessee getting
+partial relief of reduction of 20% of taxable turnover.
+Feeling aggrieved and dissatisfied with the orders passed by the Appellate Authority,
+the assessee filed six different appeals before the Tribunal. The impugned orders
+passed by the Assessing Authority were assailed primarily on the ground that the
+observations made by the Appellate Authority that the goods imported by the
+assessee from outside the State on the strength of C-Forms were supplied to the
+contractors for execution of work contracts and there was, thus, transfer of property
+in goods to the contractors was erroneous and legally unsustainable. It was
+Indian Kanoon - http://indiankanoon.org/doc/138211308/ 2
+M/S Power Grid Corporation Of India Ltd vs Assessing Authority Sales Tax Circle D on 28 April, 2023
+contended by the assessee that the goods owned by it were only handed over to the
+contractors for use and fixation and, therefore, their possession and ownership
+always remained with the assessee. It was, thus, argued that there was no transfer of
+property in goods and that no project was completed by the contractors during the
+year when the material/goods were supplied. It was the contention of the assessee
+that since the goods and material were used in self works or the works of the
+Corporation, as such, there was no question of executing any works contract by the
+Contractors. It was urged that there could be no sale of any goods or material to itself.
+The Tribunal considered these appeals and the grounds of challenge urged on behalf
+of the assessee in extenso and, after analyzing the rival contentions, came to the
+opinion that, in view of the admitted facts that the assessee had purchased goods
+from outside the State against C-Forms and handed over the same to the contractors
+for using them in the works contract, it was a foregone conclusion that the goods had
+been utilized by the assessee through its contractors in works contract. The pivotal
+question which had arisen for consideration before the Tribunal was, whether the
+material purchased by the assessee and handed over to the contractors for using the
+same in the works contract for the projects of the assessee was taxable under GST Act
+?.
+Referring to the definitions of "Dealer", "Goods" and "Sale", contained in Section 2 of
+the GST Act till 15.05.1997, it was concluded by the Tribunal that the Assessee was a
+dealer supplying goods defined under Section 2(h)(ii) and 2(h)(iv) of the GST Act
+upto 15.05.1997 and after 15.05.1997, the works contract, whether divisible or
+indivisible, involving transfer of property or not, would be deemed to be a sale by the
+assessee in terms of Section 2(g)(i-b). It was further opined by the Tribunal that
+before 15.05.1997, the term „sale(cid:129) under Section 2(L) included goods involved in the
+execution of the contract. Post 15.05.1997, the position is much clear i.e "transfer of
+right to use goods etc. was also held to be a sale" as defined in Section 2(L) (v). The
+Tribunal, however, set aside the orders of the Assessing Authority to the extent and
+insofar as these pertain to imposition of penalty and levy of interest. The appeals
+were, thus, partly allowed.
+3 The assessee was still not satisfied and, therefore, moved an application before the Tribunal under
+Section 12-D of the GST Act and sought reference of as many as eight questions of law.
+4 Reference application was opposed by the respondents on the ground that no substantial question
+of law requiring reference to the High Court was involved in the matter. The Tribunal considered the
+reference application made in respect of all the six accounting years and by a common order dated
+06.09.2022, framed and referred two questions of law which we have reproduced hereinabove.
+5 Having heard learned counsel for the parties and perused the material on record, it is necessary to
+first notice few material facts which are not disputed. The assessee, which is a Public Sector
+Undertaking, is engaged in transmission of electricity from one place to another and for that
+Indian Kanoon - http://indiankanoon.org/doc/138211308/ 3
+M/S Power Grid Corporation Of India Ltd vs Assessing Authority Sales Tax Circle D on 28 April, 2023
+purpose, is erecting, establishing and maintaining its sub-stations, grid stations and transmission
+lines. For laying out the construction and maintenance of transmission lines, sub-stations and grid
+stations etc. the assessee, during the period in question, imported materials/goods from outside the
+State. The said material was purchased by the assessee against the C-Forms. The registration
+certificate of the assessee granted under the CST Act clearly refers to the nature of business as
+"works contract". Under column (A) of the said certificate of registration, the assessee is registered
+for import of tower material, conductors, sub-station material, steel, cement etc. for use in laying
+transmission lines and construction of sub-stations and other allied works. It has also come on
+record and which fact is neither denied by the assessee, nor any contrary material has been placed
+on record by the revenue that, on execution of the works involving use of aforesaid material, all the
+works, assets, along with material used therein would ensure to the benefit of State/utilities or
+organizations for valuable consideration viz. transmission charges. It is thus evident that the works
+contracts executed by the assessee through sub-contractors are meant for and transferred to other
+utilities or organizations. It is, thus, the case of the respondents that the goods involved in the
+execution of the works contract get transferred to State/utilities or organizations for which these
+works are executed by the assessee. The entire transaction of the assessee which has been made
+amenable to GST Act, in the words of Assessing Authority, involves following steps:
+(i) purchase of material;
+(ii) handing over the material to the contractors for construction
+purposes;
+(iii) contractors hand over the possession of the works to the assessee after its due execution; and,
+(iv) the entire work including equipments and assets after completion get transferred to the State or
+other utilities/organizations.
+6 It is, thus, held by the Assessing Authority that the transaction i.e transfer of equipments/assets
+erected and established by the assessee either itself or through sub-contractors is tantamount to
+execution of works contract by the assessee and, therefore, by the definitions of „Sale(cid:129), „Goods and
+„Dealer given in the GST Act, the transfer of goods or property in goods utilized in the execution of
+works contract is a sale exigible to tax under the GST Act. This finding of fact and the conclusion
+drawn on the basis of the definitions of „Sale, „Goods(cid:129) and „Dealer(cid:129) given in the GST Act has been
+upheld by the Appellate Authority as well as the Tribunal.
+7 Once the questions of law framed by the Tribunal are appreciated in the aforesaid backdrop, it
+would clearly transpire that, having regard to the definitions of „Goods, „Dealer(cid:129) and „Sale(cid:129) given
+in the GST Act, the services provides in the shape of works contract, whether divisible or indivisible
+involving transfer of property or not, fall in the definition of the term „goods(cid:129) and any such
+transaction shall be deemed to be a sale by the person making the same. To understand the
+controversy in a better manner, it is necessary to set out the definitions of aforesaid terms given in
+the GST Act as amended from time to time.
+8 At the relevant point of time, i.e in respect of the accounting year 1996-97, the definition of
+„Goods(cid:129) as amended vide the Amending Act No. X of 1984 w.e.f 01.05.1984 till 14.05.1997 was as
+Indian Kanoon - http://indiankanoon.org/doc/138211308/ 4
+M/S Power Grid Corporation Of India Ltd vs Assessing Authority Sales Tax Circle D on 28 April, 2023
+under:
+"Goods" means all kinds of movable property (not being auctionable claim
+newspapers, stocks, shares and securities) and includes-
+(i) food or any articles of food or other eatables or any drink (Whether or not
+intoxicating) supplied or served by way of or as part of any service or in any manner
+whatsoever with or without any amenity in a hotel, restaurant or any other place of
+eating by whatever name called;
+Provided that where a composite charge is payable in respect of residential accommodation, food
+and drink, the sale price of food and drink included therein shall be determined in such manner as
+may be notified by the Government notification in the Government gazettee;
+(ii) All materials, articles and commodities, whether or not to be used in construction, fitting out,
+improvement or repair of movable or immovable property;
+(iii) Growing crops, grass, trees, plants including the produce thereof and other thing attacked to, or
+forming part of the land which are agreed to be served before sale or under contract of sale; and,
+(iv) Right to use any goods for any purpose, whether or not, for a specific period".
+9 The definition of „sale(cid:129) as it existed during the accounting year 1996-97 after it was amended by
+the Act No. XX of 1981 was as under:
+"Sale(cid:129) with all its grammatical variations and cognate expressions means any
+transfer of property in goods (otherwise than by mortgage, hypothecation, charge or
+pledge) by any person for cash with or deferred payment or for any other valuable
+consideration and includes a transfer of property in goods or in some other form:
+(i)involved in the execution of works contract;
+(ii) being eatables including food or any drink (whether or not intoxicating) way of or
+as part of any service or in any other manner whatsoever with or without any other
+amenity;
+(iii) on hire purchase or any system of payment by installments notwithstanding that
+the seller retains the title to any goods as security for payment of price;
+(iv) in the course of supplies or distribution by a society or a club or any association
+or any other body of persons, whether or not incorporated; and,
+(v) transfer of the right to use any goods, for any purpose (whether or not for a
+specified period), and the word 'purchase' shall be construed accordingly.
+Indian Kanoon - http://indiankanoon.org/doc/138211308/ 5
+M/S Power Grid Corporation Of India Ltd vs Assessing Authority Sales Tax Circle D on 28 April, 2023
+Explanation 1.
+A transfer of property in goods for cash or deferred payment or other valuable consideration,
+whether on licence, permit or otherwise shall notwithstanding that such goods are controlled goods
+be deemed to be a sale.
+Explanation 2.
+(a) The sale of goods shall be deemed, for the purpose of this Act to have taken place in the State,
+wherever the contract of sale might have been made, if the goods are within the State:
+(i) In the case of specific or ascertained goods, at the time the contract of sale is
+made; and
+(ii) in the case of unascertained or future goods, at the time of their appropriation to
+the contract of sale by the seller, whether the assent of the other party is prior or
+subsequence to such appropriations;
+(b) where there is a single contract of sale of goods situated at more places than one,
+the provisions of clause(a) shall apply as if there were separate contracts in respect of
+the goods at each of such places.
+10 From a conjoint reading of the definitions of „Goods(cid:129) and „Sale(cid:129) as it was during the relevant
+period i.e the accounting year 1996-97, what comes to fore in the context of controversy can be put
+in the following words:
+"(a) all materials, articles and commodities, whether or not to be used in
+construction, fitting out, improvement or repair of movable or immovable property
+and the right to use any goods for any purpose, whether or not, for a specific period
+were, inter alia, goods within the meaning of Section 2(h)(ii) and 2 h(iv) and the
+transfer of property in such goods (otherwise than by mortgage, hypothecation,
+charge or pledge) by any person for cash or deferred payment or for any other
+valuable consideration was a sale within the meaning of term as given in Section 2(L)
+of the GST Act. Even the transfer of property in goods or in some other form for cash
+or deferred payment or for any other valuable consideration involved in execution of
+works contract had also been brought within the purview of term „sale(cid:129).
+11 In light of the above, when we examine the case of the assessee in respect of the accounting year
+1996-97, we clearly find that, handing over of the goods and material to the contractors for
+construction and laying of power grids, sub-stations and transmission lines of the assessee did not
+involve the transfer of right to use goods. Not only the ownership and dominion over the goods
+handed over to the contractors remained vested with the assessee, but the transfer or handing over
+of the goods and material to the contractors was without any consideration. It can, thus, be safely
+concluded that the transaction between the assessee and its contractor involving transfer of goods
+Indian Kanoon - http://indiankanoon.org/doc/138211308/ 6
+M/S Power Grid Corporation Of India Ltd vs Assessing Authority Sales Tax Circle D on 28 April, 2023
+was not supported by any valuable consideration and, therefore, cannot be construed as a transfer of
+right to use goods so as to bring it within the purview of term „sale(cid:129) as defined under Section 2(L) of
+the GST Act. So far so good, but an important question that arises here for consideration is, whether
+goods purchased by the assesseee from outside the State against C-forms and in its capacity as a
+registered dealer under CST Act have been used in the execution of works contract. Indisputably, the
+goods and the material purchased by the assessee against C-forms from outside the State by way of
+inter-State sale has been used in the construction and laying of power grids, sub-stations and
+transmission lines of the assessee. It is, however, not clear from the record as to whether the works
+contract executed by the assessee through its sub- contractors is actually handed over to the State or
+other utilities/undertakings. From deep scrutiny, we could only find that the assessee, after erecting
+grid stations, sub-stations and transmission lines, provides facility of transmission of electric energy
+to the State and other utilities/undertakings by levying transmission charges. Whether the works
+executed by the assessee through its sub-contractors involving the use of goods and material are
+executed for and handed over to the States, other utilities or undertakings, is not clear from the
+record. As a matter of fact, this aspect has not been considered either by the Assessing Authority or
+the two Appellate Forums under the GST Act which have heard and decided the appeals. Absent
+such material on record, it is difficult for us to make any comment, lest the parties or either of them
+may be prejudiced.
+12 On the basis of material before us and having limited scope of the reference, we are of the
+considered view that, in respect of assessing year 1996-97, there was no transfer of right to use
+goods from assessee to the contractors who constructed, set up and laid power grids, sub-stations
+and transmission lines for the assessee by utilizing the goods and material provided to them by the
+assessee itself without any consideration. 13 So far as the accounting years 1997-98 to 2001-2002
+are concerned, we have to approach the controversy in a slightly different manner, in that, by the
+Amending Act No. X of 1997, the definition of „goods(cid:129) as well as the definition of „sale(cid:129) had
+underwent substantial change. The definition of Goods w.e.f 15.05.1997 was as under:
+"Goods" means all kinds of movable property (not being actionable claim,
+newspapers, stock, shares, securities) and includes-
+[(1) food or any articles of food or other eatables or any drink (Whether or not
+intoxicating) supplied or served by way of or as part of any service or in any manner
+whatsoever, with or without any amenity (in a hotel, restaurant or any other place of
+eating by whatever name called);
+Provided that where a composite charge is payable in respect of residential
+accommodation food and drink, the sale price of food and drink included therein
+shall be determined in such manner as may be notified by the Government
+notification in the Government gazette;] [(i-a) services in the form of lodging
+facilities provided by hotels, services provided by beauty saloons, private nursing
+homes, services provided by photographers and advertisers rendered by way of or as
+part of any contract or in any other manner whatsoever involving skill and labour and
+such transaction shall be deemed to be a sale by the persons making the same].
+Indian Kanoon - http://indiankanoon.org/doc/138211308/ 7
+M/S Power Grid Corporation Of India Ltd vs Assessing Authority Sales Tax Circle D on 28 April, 2023
+(i-b) services provided in the shape of works contract, whether divisible or indivisible
+involving the transfer of property or not and such transaction shall be deemed to be
+the sale by the person making the same.
+(ii) all materials, articles and commodities, whether or not to be used in construction,
+fitting out, improvement or repair of movable or immovable property;
+(iii) growing crops, grass, trees, plants including the produce thereof and other things
+attached to or forming part of the land which are agreed to be served before sale or
+under contract of sale; and
+(iv) right to use any goods for any purpose, whether or not, for a specific period.
+14 Similarly the definition of „Sale(cid:129) during the period w.e.f 15.05.1997 to 08.11.2004 was as under:
+"„Sale(cid:129) with all its grammatical variations and cognate expressions means any
+transfer of property in goods (otherwise than by mortgage, hypothecation, charge or
+pledge) by any person for cash with or deferred payment or for any other valuable
+consideration and includes a transfer of property in goods or in some other form:
+(i) xxxxxxx
+(ii) being eatables including food or any drink (whether or not intoxicating) way of or
+as part of any service or in any other manner whatsoever with or without any other
+amenity.
+(iii) on hire purchase or any system of payment by installments notwithstanding that
+the seller retains the title to any goods as security for payment of price.
+(iv) in the course of supplies or distribution by a society or a club or any association
+or any other body of persons, whether or not incorporated; and
+(v) transfer of the right to use any goods, for any purpose (whether or not for a
+specified period), and the word 'purchase' shall be construed accordingly.
+Explanation1.
+A transfer of property in goods for cash or deferred payment or other valuable consideration,
+whether on licence, permit or otherwise shall notwithstanding that such goods are controlled goods
+be deemed to be a sale.
+Explanation 2.
+Indian Kanoon - http://indiankanoon.org/doc/138211308/ 8
+M/S Power Grid Corporation Of India Ltd vs Assessing Authority Sales Tax Circle D on 28 April, 2023
+(a)The sale of goods shall be deemed, for the purpose of this Act to have taken place in the State,
+wherever the contract of sale might have been made, if the goods are within the State:
+(i) In the case of specific or ascertained goods, at the time the contract of sale is
+made; and
+(ii) in the case of unascertained or future goods, at the time of their appropriation to
+the contract of sale by the seller, whether the assent of the other party is prior or
+subsequence to such appropriations;
+(b) where there is a single contract of sale of goods situated at more places than one,
+the provisions of clause(a) shall apply as if there were separate contracts in respect of
+the goods at each of such places] 15 When we examine the controversy at hand in the
+light of amended definitions of „goods(cid:129) and „sale(cid:129), we find that, from 15.05.1997, the
+services provided in the shape of works contract, whether divisible or indivisible,
+involving transfer of property or not, were brought within the definition of „goods(cid:129)
+and such transaction deemed to be a „sale(cid:129) by the person making the same. The right
+to use any goods for any purpose, whether or not, for a specific period which was
+earlier also existing in the definition of „goods(cid:129) remained unchanged.
+16 So far as the definition of „sale(cid:129) is concerned, the transfer of property in goods
+involved in execution of works contract came to be deleted.
+There was no other substantial change in the definition of „sale(cid:129) so far as our purpose is concerned.
+17 By the conjoint reading of amended dentitions of „goods(cid:129) and „sale(cid:129), we can safely say that w.e.f
+15.05.1997, the services provided in the shape of works contract were also brought within the
+definition of „goods(cid:129) and the transaction involving providing of such services, a deemed sale by the
+person making it.
+18 In the instant case, as have already noted, we are not sure, whether the works executed by the
+assessee through subcontractors were meant for some third person like the State,
+utilities/organizations. Anyway, this transaction between the assessee and the Government or
+organization for which the works are constructed/erected by the assessee, is not subject matter of
+adjudication before us. The transaction between the contractors and the assessee is, of course, in the
+nature of services provided by the contractors to the assessee in the shape of works contract which
+transaction shall be deemed to be a sale by the contractor.
+19 Viewed thus, it shall be the contractor, who shall be accountable for paying the sales tax on the
+services provided to the assessee in the shape of works contact. Such is also not the case set up by
+the revenue before the Forums below or even before us. This will leave us with only the transfer of
+right to use goods by the assessee to the contractors. We have already rendered our opinion
+hereinabove and reiterate that, in the given facts and circumstances, we find no transfer of right to
+use the goods provided by the assessee to the contractors for constructing, erecting or laying out the
+Indian Kanoon - http://indiankanoon.org/doc/138211308/ 9
+M/S Power Grid Corporation Of India Ltd vs Assessing Authority Sales Tax Circle D on 28 April, 2023
+power grids, sub-stations and transmission lines for the assessee. We fully concur with the findings
+of fact recorded by the Tribunal.
+20 From the definition of „sale(cid:129) as it existed up to 15.05.1997, it is abundantly clear that transfer of
+property in goods or in some other form involved in the execution of works contract was „sale(cid:129)
+within the meaning of Section 2(L) of the GST Act and therefore, exigible to tax. Similarly the
+transfer of the right to use any goods for any purpose (whether or not for a specified period) also
+falls within the purview of definition of „sale(cid:129) given in the GST Act. After 1997 and till 08.11.2004,
+clause (i) of Section 2(L) was deleted. However, the transfer of property in goods and the transfer of
+right to use any goods for any purpose, whether or not for a specific period, was retained as a part of
+definition of "Sale". However, the transfer of property in works contract came to be excluded from
+the dentition of "Sale". 21 When we view the entire controversy raised in light of the definitions of
+„Goods(cid:129) and „Sale(cid:129) as were prevalent at the relevant point of time, it clearly transpires that the
+transfer of property in goods or some other form involved in the execution of works contract was a
+sale only up to 15.05.1997. The position, however, changed by deletion of clause (i) of Section 2(L)
+by the Act No. X of 1997 w.e.f 15.05.1997. The accounting years in question are from 1996-97 to
+2001-02 and, therefore, except for the month of April and 15 days of May of the accounting year
+1996-97, the transfer of property in goods involved in the execution of works contract was not a sale
+within the meaning of the term used in the GST Act and therefore, not exigible to sales tax under the
+Act. That would clearly mean that what is being taxed by the respondents is the transaction between
+the assessee and the contractors. 22 Indisputably, the goods in question were purchased by the
+assessee from outside the State against C-forms for which it had necessary registration under the
+CST Act. These goods which on purchase had vested in the assessee were handed over/delivered or
+conveyed to the contractors engaged by the assessee for erecting and establishing transmission
+lines, sub- stations and grid stations etc. Notwithstanding the handing over of the goods and
+material to the contractors, there was no transfer of property in goods from the assessee to the
+contractors, nor was there any consideration, either in cash or in form of some other valuable
+consideration. It can also be not said that by handing over the goods to the contractors for erection
+of aforesaid utilities for the assesssee, there was, in essence, any transfer of right to use any goods
+for any purpose supported by some consideration. Needless to point out that transfer of the right to
+use any goods for any purpose whether or not for a specific period must also be for a consideration
+paid or deferred to qualify it to be a „sale(cid:129) within the meaning of Section 2(L). Mere transfer of right
+to use any goods or even transfer of goods to be used in works or not shall not be a „sale(cid:129) unless it is
+supported by consideration.
+23 In the instant case, the ownership and dominion over the goods purchased by the assessee from
+outside the State always remained with the assessee and the goods were never transferred to the
+contractors against any valuable consideration. As a matter of fact, the goods and materials
+purchased by the assessee from outside the State were utilized by the contractors as per the
+directions of the assessee in raising the construction of various transmission lines, power grids and
+sub-stations etc. 24 We may agree with the assessing authority as also the Appellate Authority that
+these works after completion were to vest in the State or in some other utilities or organizations and,
+therefore, there was a transfer in property to such utilities/organizations or State for consideration
+and the transaction was exigible to sales tax, but, in the instant case, we find from the definition of
+Indian Kanoon - http://indiankanoon.org/doc/138211308/ 10
+M/S Power Grid Corporation Of India Ltd vs Assessing Authority Sales Tax Circle D on 28 April, 2023
+sale as amended vide Act No. X of 1997 w.e.f 15.05.1997, the transfer of property in goods or in some
+other forms involved in the execution of works contract has been deleted.
+25 An argument was raised on behalf of the revenue that since the assessee is a registered dealer
+under the CST Act and has affected the inter-State purchases against C-forms, as such, cannot
+escape its liability to pay tax on the goods/material used by it in works contract. Indisputably, the
+assessee is a dealer engaged in inter-State sale and purchases and registered under Section 7 of the
+CST Act.
+26 Form a reading of Section 7 of the CST Act, it becomes abundantly clear that every dealer liable
+to pay tax would require mandatory registration under the Act. A person, who is registered under
+Section 7 of the CST Act, is necessarily a dealer liable to pay tax under the Act. A dealer, in terms of
+Section 2(b) of the CST Act, is a person who carries on business of buying, selling, supplying or
+distributing goods, directly or indirectly, for cash, or for deferred payment, or commission,
+remuneration or any other valuable consideration. In terms of Section 8 of the CST Act, every
+dealer, who in the course of inter-State trade or commerce, sells to a registered dealer goods of the
+description referred to in sub-section 3, which would include goods used in the generation or
+distribution of electricity or any other form of generation, shall be liable to pay tax under the CST
+Act which shall be 3%/4% of his turn over or at the rate applicable to the sale or purchase of such
+goods inside the appropriate State under the sales tax law of that State, whichever is lower. Section
+8(4) clearly provides that such concessional rate of tax would be available to the dealer who
+furnishes to the prescribing authority in a prescribed manner a declaration duly filled and signed by
+him. The C-form is a prescribed form for furnishing such declaration.
+27 The argument that the assessee is not a dealer under the CST Act is, thus, not available in view of
+the fact that the assessee is not only a registered dealer in terms of Section 7 of the GST Act, but has
+also availed the benefit of concessional rate of tax in the inter-State purchases made by him of the
+goods and material used in construction and laying of power grids, sub- stations and transmission
+lines etc. 28 As already noted, had it been a case of the revenue that the assessee had utilized the
+goods imported from outside the State against C-forms in the works contract, entirely different
+consideration would have prevailed. What is sought to be taxed by the revenue is the transaction of
+transferring/conveying/handing over of the goods and material purchased by it to the contractors
+engaged for constructing and laying of utilities like power grids, sub-stations and transmission lines.
+We, however, find the mechanism adopted by the assessee to defeat the provisions of the GST Act
+and to cause loss to the public exchequer, a figment of ingenuity of the assessee. The contractor, who
+is entrusted the job of constructing and laying power grid stations and transmission lines is a
+supplier also. The assessee has cleverly split a single works contract into two i.e labour contract and
+supply contract, whereas the fact remains that the labour contractor and the supplier is one and the
+same entity. The assessee, by virtue of a supply agreement, purchases the goods and material from
+the contractor to be used by the same contractor in the construction and laying of power grids,
+sub-stations and transmission lines etc of the assessee. Ordinarily, the contractor was to raise power
+grids, sub-stations and transmission lines as a whole and hand them over to the assessee for
+consideration. The consideration was to include the price of material utilized in these works. Had
+the assessee followed this usual mechanism, it would have rendered the contractor liable to pay tax
+Indian Kanoon - http://indiankanoon.org/doc/138211308/ 11
+M/S Power Grid Corporation Of India Ltd vs Assessing Authority Sales Tax Circle D on 28 April, 2023
+under the GST Act. To avoid this liability of the contractor, the assessee, in terms of a supply
+contract separately executed, purchased the goods and material from the contractor from outside
+the State and delivered the same to the self-same contractor to be used in different works of the
+assessee. Mr. Subash Dutt calls it a tax planning, but we see it as a shrewd move on the part of the
+assessee to defeat the provisions of the GST Act.
+29 We are aware that the aforesaid observations of ours may not directly impact the outcome of the
+references, but we are sure that if the Authorities under the GST Act lift the veil, they would
+certainly find that the two agreements styled as labour contract and supply contract are, in essence,
+a single composite contract to execute the works of the assessee by the contractor. If that exercise is
+done by the Authorities under the GST Act, the contractor, who has executed the works contract of
+the assessee, may fall in the GST net. In that eventuality, even the assessee, who is supposed to
+deduct the tax at source while making payments to the contractors could also be held liable. Be that
+as it may, with the aforesaid observations, we leave it to the Tax Authorities to act in the matter in
+appropriate manner. 30 Mr. Subash Dutt, learned counsel appearing for the assessee has placed
+before us voluminous case law to substantiate his submissions that none of the transactions entered
+into by the assessee is exigible to sales tax under the GST. We, however, do not find it necessary to
+advert to and discuss all these judgments for the reason that we are clear from the reading of
+definition of „sale(cid:129) and „goods(cid:129) as it existed at the relevant point of time that the transaction of
+handing over the material/goods by the assessee to the contractors is not a transaction of sale in any
+manner calling for imposition of liability of sales tax interest or penalty. We also find force in the
+argument of Mr Subash Dutt that, for the sake of maintaining consistency and discipline, the
+Assessing Authorities as well as the statutory appellate authorities must follow the law laid down by
+the Tribunal which stood at the apex of hierarchy of the quasi judicial forums created under the GST
+Act. As is brought to our notice that on the earlier occasions also, the similar question had arisen
+before the Tribunal and the Tribunal after analyzing the entire legal position had held the
+transaction between the assessee and its contractors not a „sale(cid:129) exigible to tax under the GST Act.
+This order of the Tribunal should have been followed faithfully by all the Forums subordinate to it.
+We, however, find that the Assessing Authorities had been passing the same orders time and again
+ignoring the mandate of law laid down by the Tribunal. We can understand that the Assessing
+Authority may pass a different order than the one passed by the Tribunal on a question of law, in a
+case where there is change of law or variation in fact situation. In that eventuality, it is expected of
+Assessing Authorities/Appellate Authorities to give reasons for deviating from settled position of
+law. If the Assessing Authority and the statutory appellate Authorities under the GST Act are
+permitted to ignore the legal position determined and laid down by the Tribunal, it would create not
+only judicial indiscipline, but would make the law totally uncertain. The assessees, who feel bound
+by the law declared by the Tribunal, unless it is modified or set aside by the Higher Forum, and
+regulate their conduct and transactions accordingly, would be in a state of quandary and many a
+times may be misled. This will put them to a lot of inconvenience and unsavoury adverse
+consequences. 31 In view of the discussion made above, we answer the reference in the following
+manner:
+(i) Answer to question No.1:
+Indian Kanoon - http://indiankanoon.org/doc/138211308/ 12
+M/S Power Grid Corporation Of India Ltd vs Assessing Authority Sales Tax Circle D on 28 April, 2023
+That the transaction between the assessee and the contractors whereunder the assessee has supplied
+the goods and material purchased by it from outside the State against C-Forms for the purpose of
+erecting/establishing transmission lines, sub-stations and power grids for itself did not amount to
+„sale(cid:129) as it was defined under Section 2(L) of the GST Act during the relevant period and, therefore,
+not exigible to sales tax under the GST Act. As a necessary corollary, the assessee may not be a
+dealer liable to pay tax under the GST Act in respect of aforesaid transaction.
+(ii) Answer to question No.2:
+That not only the Tribunal but all the Authorities subordinate to it are bound to
+follow and comply with the law laid down by the Tribunal. This is necessary to
+maintain judicial discipline and avoid uncertainty in law. The Tribunal may, in
+appropriate cases, take a view different from the one taken by it earlier if there is
+change in law or the fact situation in the context whereof the law was declared by it
+earlier. The Assessing Authorities or the Statutory Appellate Authorities under the
+GST Act cannot and should not take a view on question of law contrary to the view
+taken by the Tribunal. Such conduct of the Authorities shall be gross impropriety and
+indiscipline which may call for initiation of appropriate departmental action.
+29 We, however, make it clear that change in law and facts situation in context
+whereof a particular law is laid down by the Tribunal may be a good reason or
+justification for such Authorities to take a different view, but in that eventuality also,
+reasons justifying deviation must be spelt out. We, accordingly, answer the references
+in the aforesaid terms.
+Registry to send a copy of this judgment to the Tribunal who shall proceed in the matter in
+accordance with law.
+(RAJESH SEKHRI) (SANJEEV KUMAR)
+JUDGE JUDGE
+JAMMU
+28 .04.2023
+Sanjeev
+whether order is reportable:Yes
+Indian Kanoon - http://indiankanoon.org/doc/138211308/ 13

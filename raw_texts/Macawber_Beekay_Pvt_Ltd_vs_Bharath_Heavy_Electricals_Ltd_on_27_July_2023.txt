@@ -1,0 +1,1984 @@
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on
+27 July, 2023
+Bench: Chief Justice, M.G.S. Kamal
+1
+R
+IN THE HIGH COURT OF KARNATAKA AT BENGALURU
+DATED THIS THE 27TH DAY OF JULY, 2023
+PRESENT
+THE HON'BLE MR.PRASANNA B.VARALE, CHIEF JUSTICE
+AND
+THE HON'BLE MR.JUSTICE M.G.S. KAMAL
+WRIT APPEAL NO.1169 OF 2022 (GM-TEN)
+BETWEEN:
+MACAWBER BEEKAY PVT LTD.,
+A COMPANY REGISTERED UNDER
+THE PROVISIONS OF THE
+COMPANIES ACT, 1956,
+HAVING ITS REGISTERED
+OFFICE AT:
+BEEKAY HOUSE, C450-451
+SECTOR 10, NOIDA
+GUATAM BUDHA NAGAR
+UTTAR PRADESH - 201 301
+REPD. BY ITS EXECUTIVE
+DIRECTOR (CONTRACTS).
+... APPELLANT
+(BY SRI. DAMA SHESHADRI NAIDU, SR. ADVOCATE A/W
+MR. SANDEEP GROVER, MR. ADITYA NAYYAR
+MR. TARANG AGARWAL, MR. ABHISHEK ARORA &
+MR. PARASHURAM A.L., ADVOCATES)
+AND:
+1. BHARAT HEAVY ELECTRICALS LTD.,
+A COMPANY REGISTERED
+UNDER THE PROVISIONS OF THE
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 1
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+COMPANIES ACT, 1956, HAVING
+ITS CORPORATE OFFICE AT:
+2
+BHEL HOUSE, SIRI FORT
+NEW DELHI - 110 049
+REPD. BY ITS CHAIRMAN AND
+MANAGING DIRECTOR.
+2. BHARAT HEAVY ELECTRICALS LTD.,
+INDUSTRIAL SYSTEMS GROUP
+HAVING OFFICE AT: OPPOSITE
+INDIAN INSTITUTE OF SCIENCE
+PROF. CNR RAO CIRCLE
+MALLESWARAM
+BENGALURU - 560 012.
+REP. BY MS. L. BINDU
+ADDITIONAL GENERAL MANAGER (MM).
+3. BTL EPC LTD.,
+A COMPANY REGISTERED UNDER
+THE PROVISIONS OF THE
+COMPANIES ACT, 1956, HAVING
+ITS OFFICE AT: 2, JESSORE ROAD
+KOLKATA - 700028
+REP. BY ITS DIRECTOR.
+4. FUJIAN LONGKING CO. LTD.,
+HAVING ITS OFFICE AT: No.81
+LINGYUAN ROAD
+XINLUO DISTRICT LONGYAN CITY
+FUJIAN PROVINCE, PR CHINA.
+5. TELANGANA STATE POWER
+GENERATION COMPANY LTD.,
+A COMPANY REGISTERED UNDER
+THE PROVISIONS OF THE
+COMPANIES ACT, 1956
+HAVING ITS CORPORATE OFFICE AT:
+VIDYUT SOUDHA
+TSGENCO, KHAIRATABAD
+HYDERABAD, TELANGANA - 500 082
+REP. BY ITS MANAGING DIRECTOR.
+6. TATA CONSULTING ENGINEERS LIMITED
+A COMPANY REGISTERED UNDER
+3
+THE PROVISIONS OF THE
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 2
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+COMPANIES ACT, 1956, HAVING
+ITS REGISTERED OFFICE AT:
+ELPHINSTONE BUILDING, 10
+VEER NARIMAN ROAD
+MUMBAI - 400 001
+ALSO HAVING A BRANCH
+OFFICE AT No. 71
+CUNNINGHAM ROAD
+VASANTH NAGAR
+BENGALURU - 560 052.
+7. UNION OF INDIA
+MINISTRY OF FINANCE
+(DEPARTMENT OF EXPENDITURE)
+REPRESENTED BY THE JOINT SECRETARY
+PPD, 3RD FLOOR
+JEEVANDEEP BUILDING
+SANSAD MARG
+NEW DELHI - 110 001
+(AMENDED V/O DATED: 07.12.2022)
+... RESPONDENTS
+(BY SRI. SRINIVASAN RAGHAVAN V., SR. ADVOCATE A/W
+MR. P. CHINNAPPA & ABHINAY V., ADVOCATE FOR
+R1 & R2;
+SRI. M. DHYAN CHINNAPPA SR. ADVOCATE A/W
+MR. THAKUR RISHABHA RAJ, MR. SUBHANKAR
+CHAKRABORTY & SAPTARISHI BHATTACHARJEE,
+ADVOCATE FOR R-3;
+R-4 SERVED & UNREPRESENTED;
+SRI. D.L.N. RAO, SR. ADVOCATE FOR
+SRI. L. SRINIVAS, ADVOCATE FOR R5;
+MR. ANIKETH B.S., ADVOCATE FOR
+MR. GEORGE JOSEPH, ADVOCATE FOR R6;
+SRI. S. SHIVA KUMAR CGC, FOR R7)
+---
+4
+THIS WRIT APPEAL IS FILED UNDER SECTION 4 OF
+THE KARNATAKA HIGH COURT ACT, 1961, PRAYING TO
+CALL FOR RECORDS IN (a) WRIT PETITION No.20333/2022
+(GM-TEN) FILED BY THE APPELLANT BEFORE THE LEARNED
+SINGLE JUDGE OF THIS HON'BLE COURT AND (b) NOTICE
+INVITING TENDER DATED:24.06.2022 BEARING ENQUIRY
+No.77/22/6055/LSY ISSUED BY THE RESPONDENT No.2
+ii) SET ASIDE/QUASH THE IMPUGNED ORDER DATED
+02.11.2022 PASSED BY THE LEARNED SINGLE JUDGE OF
+THIS HON'BLE COURT AND CONSEQUENTLY ALLOW WP
+No.20333/2022 FILED BY THE APPELLANT AND ETC.
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 3
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+THIS APPEAL HAVING BEEN HEARD AND RESERVED,
+COMING ON FOR PRONOUNCEMENT OF ORDER, THIS DAY,
+CHIEF JUSTICE, DELIVERED THE FOLLOWING:
+JUDGMENT
+This writ appeal is directed against the order dated 02.11.2022 passed in W.P.No.20333/2022
+(GM-TEN) by which the writ petition filed by the appellant questioning award of tender by the
+respondent No.2 in favour of the respondent No.3 for supply of Ash Handling Package forming part
+of installation of a Thermal Power Station in the State of Telegana by respondent No.5 has been
+dismissed.
+2. Brief facts of the case of the appellant are as under:
+2.1 That the appellant is a company specialized in providing Turnkey solutions with
+respect to Ash Handling Plant to various industries such as power, cement, alumina,
+steel including thermal power station with solution to reduce environmental
+pollution with conservation of energy.
+2.2 That respondent No.5- Telangana State Power Generation Company Ltd., with an
+object of setting up of a Thermal Power Station of 4,000 MW capacity (5 units of MW
+each) at Yadadri, Nalagunda District, Telegana awarded a contract in the year 2017 to
+the respondent No.1 company for design, engineering, supply, erection and
+commissioning. A portion of which for Ash Handling Plant and Coal Handling Plant
+is being executed by respondent No.2- Bharath Heavy Electronics Ltd.,. That the
+entire Plant was to be completed and commissioned by October 2021.
+However, the same has not been completed as of date. Respondent No.6- Tata Consulting Engineers
+Limited has been appointed as a consultant for the aforesaid work.
+2.3 Issue in the present appeal pertains to sub- contract sought to be awarded by respondent No.2
+for setting up of Ash Handling Plant in the said Thermal Power Station at Yadadri. Initially,
+respondent No.2 had issued Notice Inviting Tender dated 22.08.2018 in which appellant and three
+others had participated. However, the said tender was cancelled. Thereafter, respondent No.2 had
+issued another Notice Inviting Tender on 05.03.2020 wherein appellant and one M/s.Indure
+Private Limited had participated. Though in the said process the contract was awarded to
+M/s.Indure Private Limited since the said company did not perform the contract, the same was
+terminated. As such, the respondent No.2 issued yet another Notice Inviting Tender dated
+06.01.2022. The appellant company along with one M/s.DC Industrial Plant Service Pvt. Ltd., had
+participated. Though, appellant company was found capable and suitable to carry out the project
+work the contract was not awarded and the tender was recalled and cancelled. Subsequent to
+cancellation as above, respondent No.2 issued present Notice Inviting Tender dated 24.06.2022
+(hereinafter referred to as NIT for reference) produced at Annexure-C. Respondent No.2 had also
+issued Pre-Qualification Requirement (PQR) for bidders along with the said NIT. The General
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 4
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+conditions and Special conditions of the contract are also produced as Annexures-D, E and F
+respectively.
+2.4. In furtherance to the Notice Inviting Tender two participants namely, appellant-company and a
+consortium of Respondent No.3 and Respondent No.4 submitted their technical and price bids
+which were opened on 27.07.2022 and 26.08.2022 respectively and were evaluated thereafter.
+2.5. That since respondent No.3 did not possess required technical qualification, it entered into a
+Consortium Agreement with respondent No.4. Thus, the consortium of respondent Nos. 3 and 4 is a
+partnership of an Indian company namely, M/s.BTL EPC Ltd., and a Chinese company namely,
+M/s.Fujian Longking Company Ltd., formed specifically for the purpose of participating in the
+project. Copy of the Consortium Agreement is produced at Annexure-G. 2.6. It is the case of the
+appellant that the respondent No.2, with an intention of victimizing the appellant by denying the
+award of contract to the appellant, is hastily seeking to award the contract to the consortium of
+respondent Nos. 3 and 4 though they did not technically qualify and had not complied with the
+essential conditions of the Tender documents. It is alleged that the respondent No.2 has violated
+various provisions of Pre Qualification Requirement (PQR) (Annexure-D) General conditions of
+contract (Annexure-E) and Special Conditions of Contract (Annexure-F) and the Office orders
+issued by the Government.
+2.7. It is further alleged by the appellant that the award of tender to the consortium of respondent
+Nos. 3 and 4 is against the fundamental policy of the Indian law, in that, the Ministry of Finance,
+Department of Expenditure, Public Procurement Division in its Office Order dated 23.07.2020 has
+imposed certain restrictions on a bidder from a country which shares a land border with India. That
+the said Office Order also provides for a detailed procedure for its registration specifying therein its
+purpose with competent authority namely, Registration Committee constituted by Department of
+Promotions of Industries on internal trade. The copy of the Office Order dated 23.07.2020 issued by
+the Ministry of Finance, Department of Expenditure, Public Procurement Division is produced at
+Annexure-H. It is alleged by the appellant that the respondent No.4 as well as the consortium of the
+respondent Nos. 3 and 4 have failed to get registered in compliance of Office Order dated
+23.07.2020. In this regard appellant- company by letters dated 12.07.2022, 04.09.2022, 12.09.2022
+and 30.09.2022 produced as Annexure-J, J1, J2 and J3 respectively had made representations to
+the respondent No.2 of various short comings and violations of the tender conditions in the
+technical bid submitted by the consortium of the respondent Nos. 3 and 4. It is also contended by
+the appellant that respondent No.6 had declared consortium of respondent Nos.3 and 4 as
+technically non-qualified bidder and that though the appellant had sought for information in this
+regard under Right to Information Act, there has been no response in that regard. Thus, being
+aggrieved, the appellant approached this Court by filing writ petition on various grounds
+enumerated thereunder seeking following reliefs;
+1. Call for records pertaining to notice inviting tender dated:24.06.2022 bearing Enquiry
+No.77/22/6055/LSY (Annexure -C) issued by the 2nd Respondent;
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 5
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+2. Declare that the bid submitted by the consortium of Respondent Nos.3 and 4 as non- compliant
+and an invalid bid.
+3. Declare that the issuance of letter of intent on 29.09.2022 by the 2nd Respondent to the
+consortium of the 3rd and 4th Respondents is non- est in the eyes of the law and wholly illegal;
+4. Quash the issuance of letter of intent on 29.09.2022 by the 2nd Respondent to the consortium of
+the 3rd and 4th Respondents.
+5. Declare the petitioner as the only valid bidder;
+6. Direct the 2nd Respondent to award the contract to the appellant in pursuance of the notice
+inviting tender dated:24.06.2022 bearing Enquiry No.77/22/6055/LSY (Annexure -C);
+7. Grant such other reliefs that this Hon'ble Court deems fit in the facts and circumstances of the
+case; and
+8. Grant costs of these proceedings. Case of respondent Nos. 1 and 2:
+3. Respondent Nos. 1 and 2 filed statement of objections denying the writ petition
+averments and contending inter alia;
+3.1 That a judicial review of a decision to accept or reject a bid for a tender is
+extremely narrow and the Courts ordinarily ought not to interfere for mere asking or
+merely because a different view is possible.
+3.2 That the appellant has failed to show that the decision of the respondent No.2 is
+contrary to public interest. It is also contended that the employer of the project being
+the author of the tender documents is the best person to understand and appreciate
+its requirement and interpret the same and that the Courts are encouraged to defer to
+this understanding and appreciation of the tender documents unless there is malafide
+or perversity in the understanding or appreciation or in the application of the terms
+of tender conditions by the tender authorities. That in the instant case respondent
+No.2 has inspected and found respondent No.3 having adequate manufacturing
+facility in accordance with PQR and that it has found the bid submitted by
+respondent No.3 to be in compliance with all tender conditions. As such, appellant
+cannot seek to call in question the decision of respondent No.2 to award tender to the
+respondent No.3 by substituting its own view.
+3.3 That both the appellant and respondent No.3 fulfilled technical qualifications
+while the price bids of respondent No.3 was lower than the price quoted by the
+appellant. As such, respondent No.2 proceeded to issue letter of intent dated
+29.09.2022 in favour of respondent No.3 for supply of Ash Handling package. That
+the respondent No.2 has applied its mind acted fairly, reasonably and impartially and
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 6
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+in public interest and only thereafter awarded the tender to respondent No.3.
+3.4 That as per PQR though the respondent No.3 did not fulfill the requirements
+under clause 01.01.01 on their own they were still permitted to participate in the
+tender process if they fulfilled the conditions stipulated under clause 01.01.02 and
+they collaborate/associate with parties who meet the requirements under clause
+01.01.01.
+3.5 That clause 01.01.02 of PQR stipulates that the bidder who do not meet the
+requirements of clause 01.01.01 (a)(b)(c) and/or (d) in part or full can participate
+provided they meet requirements of clause 01.01.02 and collaborate/associate with
+parties who met that 01.01.01 which the bidder itself is not able to meet. That as
+respondent No.3 did not meet the requirement under 01.01.01 but met the
+requirement under clause 01.01.02, respondent No.3 has collaborated with
+respondent No.4 to meet the requirement of clause 01.01.01 (a)(b)(c) and with
+M/s.Weir Minerals Netherlands B.V. to meet the requirement under clause 01.01.01
+(d) which it could not do itself.
+3.6 That to meet the requirement as above respondent No.3 has entered into an
+agreement styled as "Consortium Agreement" with respondent No.4 as per
+Annexure-G. On bare perusal of the said agreement it can be seen that the nature of
+the agreement is a "collaboration agreement" which is in the nature of service
+contract where each party has a demarcated their separate role. While the agreement
+bears the nomenclature of a "Consortium Agreement", it is not one in the traditional
+sense of the term and the nature of association between respondent No.3 and
+respondent No.4 is not the same as consortium described in clause 7.2 of PQR.
+3.7 That the agreement clearly sets out that the respondent No.3 is the bidder while
+respondent No.4 is only an 'associate'. Respondent No.3 is to undertake complete
+work as detailed in NIT which includes detailed engineering, manufacturing, supply,
+erection, testing, commissioning, trial run, demonstration of TG test and handing
+over for complete ash handling plant.
+On the other hand respondent No.4 will be engaged only in basic design, vetting of details, support
+in manufacturing and supervision in erection and commissioning.
+3.8 The bid submitted by respondent No.3 was not in the nature of consortium bidding but was
+submitted by respondent No.3 alone. That the Letter of Intent was executed only in favour of
+respondent No.3 who alone is accountable and responsible to respondent No.2 to ensure
+performance of the contract in its entirety. All manufacturing and capital expenditure are to be
+undertaken by respondent No.3 alone.
+Pleading as above, dismissal of the petition was sought.
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 7
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+Case of Respondent No.3:
+4. Respondent No.3 in its statement of objections, broadly reiterating the stand taken by the
+respondent Nos. 1 and 2 in their statement of objections, has specifically contended that the writ
+petition suffers for the reasons supprio veri and suggestio falsi, as on the one hand appellant relied
+upon the Office Order dated 23.07.2020 bearing No.OM F.6/18/2019-PPD passed by Department of
+Expenditure, Ministry of Finance, Government of India which places restriction on sub-contracting
+of work to a contractors from a country which shares a land border with India and mandates such
+contractors to register with competent authority, while on the other hand, the appellant, has
+suppressed the Official Memorandum dated 08.02.2021 bearing No.F18/37/2020 PPD issued by
+Department of Expenditure, Ministry of Finance, Government of India which relaxed the
+requirement of registration with competent authority of a contractor sharing land border with India
+for procurement of goods and services etc. Hence, sought for dismissal of the petition.
+5. On hearing learned counsel for the parties and on perusal of records, learned Single Judge framed
+the following point for its consideration;
+"Whether the impugned tender process is shrouded with such illegality that it would
+become voilative of Article 14 of the Constitution of India and would thus be
+amenable to scrutiny under Article 226 of the Constitution of India"?.
+6. Learned Single Judge on examining the General Conditions contained in the Tender document,
+prequalification criterias and also contents of Consortium Agreement, Official Memorandum etc.,
+came to the conclusion that the petition lack merits and accordingly dismissed the same by the
+impugned order dated 02.11.2022. Being aggrieved by the same, appellant is before this Court by
+way of present appeal.
+Submission on behalf of the Appellant:
+7. Sri. Dama Sheshadri Naidu, learned Senior counsel appearing for the appellant reiterating the
+grounds urged in the memorandum of appeal and extensively referring to the contents of NIT, PQR,
+Consortium Agreement, Official Memorandum, Office Order and the clarification issued by the
+Government of India submitted that;
+7.1. The decision of respondent No.2 to accept bid of the consortium of respondent Nos.3 and 4,
+apart from being contrary to the terms and conditions of the tender has also flagrantly violated the
+mandatory requirement of registration required in terms of Office Order dated 23.07.2020 issued by
+the Government of India, Ministry of Finance, Department of Expenditure.
+7.2 He insisted that the respondent No.3 admittedly not having the required qualification as
+prescribed under 01.01.01 of PQR had entered into the Consortium Agreement with respondent
+No.4 which is a Chinese entity warranting mandatory registration with the competent authority.
+Thus, he submitted non- compliance of this mandatory condition makes respondent Nos.3 and 4
+ineligible to participate in the tender.
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 8
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+7.3 Referring to Clause 01.01.02 of PQR he submitted that though the said clause enables an entity
+not having required experience of ash handling as stipulated under Clause 01.01.01 (a)(b)(c), but
+which supplies bulk material handling system, to participate in the tender process by collaborating/
+associating itself with another entity, which satisfies requirement of Clause 01.01.01 (a)(b)(c). It can
+be done only by entering into an Consortium Agreement as provided in Annexure-A to the PQR.
+That in the instant case respondent No.3 who did not possess the eligibility criteria contained in
+Clause 01.01.01(a)(b)(c) has admittedly entered into Consortium Agreement with respondent No.4
+only to qualify and meet the technical criteria mandated in the PQR. It is for this purpose entering
+into Consortium Agreement was an indispensable factor to meet the requirement of Clause 01.01.01
+(a)(b)(c) of the PQR which are considered to be critical requirement. He also referred to Clause
+01.01.01 (d) which provides for "Agreement of support" which is of a non- critical nature and
+pursuant to which respondent No.3 has entered into an agreement with a Netherlands Entity.
+Referring to the contents of the Consortium Agreement entered into between respondent No.3 and
+4, he submitted that there is specific mandatory requirement of clauses pertaining to joint and
+several liabilities. This is to meet the critical requirement of Clause 01.01.01
+(a)(b)(c) which has to be carried out only by a bidder and not through any external agency as
+emphasized in Clause 01.01.03. While in the case of non critical requirement provided under Clause
+01.01.01 (d) which is an activity of design and engineering could be carried out by the bidder or
+through any external agency like Netherlands entity with whom respondent No.3 has entered into
+an Agreement of support. Thus, he submitted that Consortium Agreement entered into between
+respondent No.3 and 4 is an essential and indispensable requirement of the terms of PQR.
+7.4 Referring to contents of Consortium Agreement and Annexure provided thereto learned Senior
+counsel submitted that the respondent Nos.3 and 4 constituted themselves into consortium not just
+for the purpose of participation in the process of bidding but also to carry out the works being
+conscious of their joint and several liability to the extent of works to be carried out by them.
+Referring to the Indemnity document executed by respondent Nos.3 and 4 he submitted that such
+document indemnifying jointly and severally for any loss to be suffered by respondent No.2 is an
+essential feature of the consortium.
+7.5 Drawing attention to the Office Memorandum and the Office Order dated 23.07.2020 issued by
+Ministry of Finance, Government of India learned Senior counsel submitted that the object of
+passing of the Office Order which was issued under Rule 144(xi) of the General Financial Rules,
+2017 empowering the department of Expenditure is to impose restrictions including prior
+registration and/or screening on procurement from bidders from foreign country or countries on
+the ground of defense of India or matters directly or indirectly related thereto including national
+security. That there cannot be any procurement in violation of such restrictions.
+7.6. That pursuant to the insertion of Rule 144
+(xi) in GFRS, the Office Order came to be passed imposing restriction of prior registration on any
+"Bidder" and /or "Bidder from a country which shares a land border with India" to be eligible to bid
+in any tender process. Thus, he submitted respondent No.4 which is a Chinese entity has been
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 9
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+allowed to participate in the tender process by respondent Nos. 1 and 2 as a part of consortium with
+respondent No.3 without complying requirement of registration from competent authority as
+mandatorily required under the Office Order dated 23.07.2020. As the said mandatory requirement
+of the registration goes to the root of the matter. The same amounts to flouting of mandatory
+directives issued by the Government of India and thereby compromising national interest and
+security of the nation. That the said restrictions are required to be followed by every Public Sector
+Undertaking in every procurement process in letter and spirit. Thus, by overlooking compliance of
+mandatory directives issued by the Government of India, respondent No.2 has favoured the
+consortium of respondent Nos. 3 and 4, who are ineligible to bid the tender and has thereby violated
+the tender conditions and the Officer Order.
+7.7. Referring to the reasons assigned in the impugned order, more particularly, paragraphs 4,18,19
+and 25 of the impugned order learned Senior counsel submitted that though learned Single Judge
+has accepted the fact of respondent Nos. 3 and 4 had entered into a Consortium Agreement for the
+purpose of bidding and participated jointly in the tender process, has however did not consider
+requirement of compliance with the mandatory condition of prior registration with the competent
+authority.
+7.8. Learned Senior Counsel further submitted that the interpretation placed by learned Single
+Judge to the contents of Office Memorandum dated 08.02.2021 to hold that prohibition contained
+in the said Office Memorandum is applicable only in respect of supply of finished products and not
+for procuring raw material is incorrect. He also submitted that the further reliance placed on the
+clarification to paragraph 11 of the Office Order relating to "Sub-Contracting" in work contracts by
+the learned Single Judge is incorrect as the same is not applicable to the instant case, inasmuch as
+the said clarification relates to 'sub-contract' which comes into force only after execution of contract.
+Thus, he submitted the clarification cannot be made applicable as the respondent Nos. 3 and 4 who
+had jointly participated in the tender process.
+7.9. That respondent No.4 submitted the Consortium agreement dated 12.07.2022 entered into
+between respondent Nos. 3 and 4 with an intention to undertake the work pertaining to NIT. That in
+terms of Consortium Agreement respondent No.4 is required to provide certain vital support and
+service to respondent No.3 including support in manufacturing, supervision of erection, vetting of
+detailed engineering etc., Therefore, the terms "Bidder" and "Bidder from the country which shares
+a land border with India" as defined in the Office Order would include respondent No.4 warranting
+registration with the competent authority to be eligible to bid with the tender process.
+7.10. That the Office Order had been issued by Government of India taking into consideration
+national security and interest and as such accountability of the statutory bodies to scrutinize and
+screen the eligibility of the participants in the tender process is much higher which is absent in the
+instant case and also raises question about the decision making process adopted by respondent
+No.2.
+7.11. That non compliance of techno commercial requirement by respondent Nos.3 and 4 and
+complete overlooking of this eligibility stipulations envisaged under the terms of the contract by
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 10
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+respondent No.2 and also overlooking the Office Memorandum issued by the Government of India
+with regard to eligibility of the bidders in the bidding process would only lead to the conclusion of
+bias and favoritism on the part of respondent No.2 in awarding the contract to respondent Nos.3
+and 4 over the appellant. As such, the entire decision making process adopted by respondent No.2 is
+questionable requires to be interfered with as it is in clear violation of its own tender documents.
+7.12. Learned Senior counsel also referred to two separate copies of Consortium Agreement
+produced by respondent Nos.3 and 4 found at page Nos.700 to 703 and at page Nos.838 to 840 of
+the writ appeal submitted that though the said two documents bear even date and same stamp
+paper, the text and signature are different and that the respondents had not placed any explanation
+for such difference. Taking through the said variation in the documents including the style and size
+of the letters and seals found affixed on the documents, learned Senior counsel submitted that a
+inference could be drawn that a fraud has been played by respondent No.3 and 4 in collusion with
+respondent No.2 which had allowed them to change portion of Consortium Agreement requiring
+taking of cognizance of clandestine arrangement between respondent No.2, 3 and 4 to somehow
+award the contract to respondent No.3 and to avoid the appellant.
+7.13. Learned Senior Counsel vehemently emphasized that appellant possesses technical
+qualification as prescribed under PQR and that mere fact that financial bid of the respondent No.3 is
+lesser than that of the financial bid of the appellant cannot be the criteria for awarding contract to
+respondent No.3 who admittedly did not possess critical technical criteria.
+7.14. In support of his submissions, learned Senior counsel relied upon the following decisions;
+1. Haji T.M. Hassan Rawther V. Kerala Financial Corporation- [1988] 1 SCR 1079
+2. Meerut Development Authority v. Association of Management Studies & Anr., (2009) 6 SCC 171
+3. New Horizons Ltd., v. Union of India (1995)1 SCC 478
+4. DSPC Engineering Pvt. Ltd., V. MECON LTD., 2021 SCC online Del 1320.
+5. Afcons Infrastructure Ltd v. Nagpur Metro Rail Corporation, (2016) 16 SCC 818
+6. Tata Cellular v. Union of India, (1994) 6 SCC 651
+7. New Horizons Ltd., v. Union of India (1995) 1 SCC 478
+8. Royal Power Turnkey Implements Pvt., Ltd., v. Maharashtra Industrial Development Corporation
+at 2014 (5) Mh.L.J 399
+9. Gajanana Engineers v. The Principal Secretary to Government Energy Department and ors., ILR
+2005 KARNATAKA 3973.
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 11
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+Hence, seeks for allowing of the appeal. Submission on behalf of Respondent Nos.1 & 2:
+8. Sri. Srinivasa Raghavan, learned Senior counsel appearing for the respondent Nos.
+1 and 2 refuting the contentions of the appellant submitted;
+8.1. That the present petition is filed by the Appellant/Appellant who is an
+unsuccessful bidder on misconceived facts and misunderstanding of the terms of
+tender document with ulterior intentions.
+8.2. Taking through the conditions stipulated under clause 01.01.01, 01.01.02,
+01.01.03 and 01.01.07 of the PQR, learned Senior counsel submitted that there is no
+prohibition for respondent No.3 to participate in the tender process by entering into
+an arrangement in the nature of a "Tie-up" or "An Association" with any entity which
+satisfies the qualification criteria required under 01.01.01. Clause 01.01.02 of the
+PQR itself provide for entering into arrangement such as 'collaboration' or
+'association'.
+8.3. That though respondent Nos. 3 and 4 have submitted a document styled as
+"Consortium Agreement" it is not a consortium in its strict sense. It is merely an
+agreement of "Collaboration" or a "Tie-
+Up". Taking through the contents of Consortium Agreement dated 12.07.2022, learned Senior
+counsel submitted that nomenclature of the document is not the determinative factor in interpreting
+the relationship of the parties. He submitted that the agreement clearly specifies the respective roles
+of respondent Nos. 3 and 4 by separately identifying their work and responsibility. That in terms of
+Annexure-1 to the agreement, respondent No.3 is required to undertake complete work which
+includes detailed engineering, manufacturing, supply, erection, testing and commissioning, trial
+run, demonstration of PG test and handing over for complete Ash handing plant, while respondent
+No.4 is required to provide only basic design, vetting of details, support in manufacturing and
+supervision in erection and commissioning.
+8.4. Referring to clause 7 of the PQR, learned Senior counsel submitted that the 'bidding
+consortium' has to be understood in the manner set out in these clauses. He submitted that as per
+clause 7.2 of the PQR a member of a consortium should hold atleast 51% of equity/ownership stakes
+to be nominated as a 'Lead member' and as per clause 7.3 of the PQR a consortium member whose
+financial capacity to be evaluated for the purpose of award of the project shall hold atleast 26% stake
+in consortium. Thus, referring to these two clauses learned senior counsel submitted that no such
+arrangement is existing between the respondent Nos. 3 and 4 to term them as consortium bidders.
+That in the absence of such essential requirements, he submitted that the relationship between the
+respondent Nos. 3 and 4 is merely that of an 'association'.
+8.5. Learned Senior counsel referring to a definition of "Bidder" as provided in Office Memorandum
+submitted that the reading of the same means "any person or firm or company, including any
+member of a consortium or joint venture that is an association or several persons or firm or
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 12
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+companies". Emphasizing the terms "That Is And Association Of Several Persons" as provided
+therein learned Senior counsel submitted that even the said definition of `bidder' includes and
+provides clarification regarding "Association of Several Persons" which do not necessarily mean a
+"Consortium" in its traditional sense.
+8.6. That the Office Order has to be read with contents of clause 7.2 and 7.3 of the PQR. Read as
+such, he submitted that the arrangement between respondents 3 and 4 is only that of a 'mere
+collaboration' or a 'tie-up' or an association and not a 'consortium'.
+8.7. He further submitted that in the instant case, respondent No. 3 is the sole bidder. Letter of
+intent and purchase order was issued only in favour of respondent No.3 and not to the consortium
+of respondent Nos.3 and 4.
+8.8. Learned Senior counsel referring to an affidavit dated 29.05.2023 filed by the authorized
+representative of respondent Nos. 1 and 2 submitted that substantial portion of works have already
+been completed. As on date, 99% of engineering work for Wet Ash System has been completed by
+respondent No.3 and respondent Nos. 1, 2 and 5 have approved 155 engineering documents of the
+162 mechanical documents submitted by respondent No.3. Several items have already been
+procured and orders for several orders have been placed by respondent Nos. 1 and 2 based on
+specification and drawings of respondent No.3. That the civil construction works by respondent
+Nos. 1 and 2 is on going and about 50% of the main structure of the Power Station is already on
+place and that reinitiating fresh tender process at a stage Wet Substantial Work are completed
+would be contrary to the public interest as it would cause immense delay and financial burden on
+the public exchequer. He submitted that judicial review of tender process should not be to protect
+interest at the cost of public interest and larger public interest ought to be looked at while deciding
+whether intervention in tender process is required.
+8.9 In support of his submissions learned Senior counsel relied upon following decisions:
+(1) Tata Cellular vs. Union of India (1994) 6 SCC 651, (2) Michigan Rubber (India)
+Ltd., vs. State of Karnataka and others (2012) 8 SCC 216, (3) Afcons Infrastructure
+Limited vs. Nagpur Metro Rail Corporation Limited and another (2016) 16 SCC 818,
+(4) Silppi Constructions Contractors Vs. Union of India and another (2020) 16 SCC
+489 (5) N.G. Projects Ltd. Vs Vinod Kumar Jain and others -(2022) 6 SCC 127 (6)
+State of Orissa Vs. Titaghur Paper Mills Co.
+Ltd and Anr. (1985) (Supp) SCC 280.
+(7) Yellapu Uma Maheswari and Anr.
+V. Buddha Jagadheeswararao and others (2015) 16 SCC 787.
+(8) C.I.T. Punjab and Haryana, J&K, H. P. And Union Territory of Chandigarh V. Panipat Woollen
+and General Mills Co. Ltd.
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 13
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+(1976) 2 SCC 5 (9) C.C., C.E. & S.T., Bangalore (Adjudication) and others vs. Northern Operating
+Systems Pvt. Ltd. AIR 2022 SC 2450.
+(10) Korukonda Chalapathi Rao and Another v.
+Korukonda Annapurna Sampath Kumar 2021 SCC online 847.
+(11) New Horizons Ltd. And Anr. V. Union Of India and others. (1995) 1 SCC 478. (12) Linde AG v.
+Deputy Director of Income Tax 2014 SCC online Del 1558.
+(13) Rajasthan Roller Flour Mills Association and Anr. V. State of Rajasthan and others.. 1994 Supp
+(1) SCC 413.
+(14) State of Karnataka and others Vs. Balaji Computers and others (2007) 2 SCC 743 (15) Tata
+Motors Ltd. V. Brihan Mumbai Electric Supply and Transport Undertaking and others., 2023 SCC
+online SC 671.
+Hence, sought for dismissal of Appeal. Submission on behalf of Respondent No.3:
+9. Sri.Dhyan Chinnappa, learned Senior counsel appearing for respondent No.3 broadly agreeing
+and adopting the submission of learned counsel Srinivasa Raghavan learned Senior counsel for
+respondent Nos. 1 and 2, submitted that;
+9.1. That respondent No.3 is a sole bidder and there is no joint bidding by respondent Nos. 3 and 4
+as contended by the petitioner.
+9.2. That in terms of clause 7.2 of PQR a tenderer can take many forms such as a 'sole bidder', a
+'joint venture company' or a 'contractual joint venture' or a 'simple joint bidding'.
+9.3. That the Consortium Agreement in the instant case is merely a format provided by respondent
+No.2 in furtherance to clause 01.01.03(g) which is required when a foreign party submits a bid for
+the purpose of erection and commissioning and is not in compliance with 7.02 and 7.03 of the PQR
+to be read as a consortium as there is no 26% stake held by respondent No.4 in the Consortium
+Agreement. Since, respondent No.4 a foreign entity has joined with respondent No.3 for the purpose
+of erection and commissioning it cannot be construed as a consortium.
+9.4. Referring to Letter of Intent and Purchase Order, learned Senior counsel submitted that
+respondent No.2 recognized respondent No.3 alone as the bidder and has never recognized
+respondent No.4 as a bidder. As such respondent No. 4 cannot be termed as joint bidder with
+respondent No.3.
+9.5. That the total value of the purchase order placed by respondent No.2 on respondent No.3 is
+valued at Rs.3,78,64,48,224/- while the value of the contract to be rendered by respondent No.4 is
+US dollars 95,000/- which is 0.2% of the entire contract value. Therefore, there is no 26% interest
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 14
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+or stake in the joint bidding by respondent No.4.
+9.6. He further submitted that all that the respondent No.4 is providing is designs and is neither
+supplying any raw material nor finished products. As such, there is no requirement of registration.
+That even clause 01.01.02 of the PQR enables a bidder to have a tie-up with any person having
+technical know- how and mere understanding to avail technology would not render the arrangement
+to be one of a consortium, more particularly, in the absence of existence of requirement of clause
+7.02 and 7.03 of the PQR. As there is no restriction stipulated in the Government Order regarding
+procurement of goods and services, a transfer of technology by respondent No.4- a Chinese
+company to respondent No.3-an Indian Company do not require a registration and as such there is
+no violation of mandatory requirement.
+9.7. That respondent No.3 has the capacity to put up bulk handling facility and it has entered into an
+agreement with respondent No.4 for the purpose of availing services in the nature of design and
+technical know-how to manufacture at the facility of respondent No.3 plant to be set up by
+respondent No.2-BHEL. This arrangement is in compliance of clause 01.01.01 and 01.01.02 of the
+PQR and as such the contentions of the appellant, respondent No.3 has no qualification to
+participate in the bid cannot be countenanced.
+9.8. That the respondent No.3 has satisfied both technical and financial PQR and has thus been
+rightly awarded the contract by respondent No.2 without any violation of the terms of the contract.
+9.9. Learned Senior counsel relied upon the following judgment of the Apex Court in the case of
+MONTECARLO LIMITED VS. NATIONAL THERMAL POWER CORPORATION LIMITED (2016)
+15 SCC 272, which reads as under;
+25. Recently in Afcons Infrastructure Ltd. v. Nagpur Metro Rail Corporation Ltd.a two-Judge Bench
+eloquently exposited the test which is to the following effect:-
+"We may add that the owner or the employer of a project, having authored the tender
+documents, is the best person to understand and appreciate its requirements and
+interpret its documents. The constitutional Courts must defer to this understanding
+and appreciation of the tender documents, unless there is mala fide or perversity in
+the understanding or appreciation or in the application of the terms of the tender
+conditions. It is possible that the owner or employer of a project may give an
+interpretation to the tender documents that is not acceptable to the constitutional
+Courts but that by itself is not a reason for interfering with the interpretation given."
+26. We respectfully concur with the aforesaid statement of law. We have reasons to do so. In the
+present scenario, tenders are floated and offers are invited for highly complex technical subjects. It
+requires understanding and appreciation of the nature of work and the purpose it is going to serve.
+It is common knowledge in the competitive commercial field that technical bids pursuant to the
+notice inviting tenders are scrutinized by the technical experts and sometimes third party assistance
+from those unconnected with the owner's organization is taken. This ensures objectivity. Bidder's
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 15
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+expertise and technical capability and capacity must be assessed by the experts. In the matters of
+financial assessment, consultants are appointed. It is because to check and ascertain that technical
+ability and the financial feasibility have sanguinity and are workable and realistic. There is a
+multi-prong complex approach; highly technical in nature. The tenders where public largesse is put
+to auction stand on a different compartment. Tender with which we are concerned, is not
+comparable to any scheme for allotment. This arena which we have referred requires technical
+expertise. Parameters applied are different. Its aim is to achieve high degree of perfection in
+execution and adherence to the time schedule. But, that does not mean, these tenders will escape
+scrutiny of judicial review. Exercise of power of judicial review would be called for if the approach is
+arbitrary or mala fide or procedure adopted is meant to favour one. The decision making process
+should clearly show that the said maladies are kept at bay. But where a decision is taken that is
+manifestly in consonance with the language of the tender document or subserves the purpose for
+which the tender is floated, the court should follow the principle of restraint. Technical evaluation or
+comparison by the court would be impermissible. The principle that is applied to scan and
+understand an ordinary instrument relatable to contract in other spheres has to be treated
+differently than interpreting and appreciating tender documents relating to technical works and
+projects requiring special skills. The owner should be allowed to carry out the purpose and there has
+to be allowance of free play in the joints.
+Hence, seeks for dismissal of the appeal. Submission on behalf of Respondent No.5:
+10. Sri. D.L.N.Rao, learned Senior counsel appearing for respondent No.5 submitted
+that;
+10.1. A writ appeal under Section 4 of the High Court Act, 1961 is not an appeal as
+understood under Section 96 of the Civil Procedure Code and it is confined only to
+examine if the order impugned is perverse or arbitrary.
+10.2. That judicial scrutiny in matters pertaining to tender process is only limited to
+decision making process of acceptance or rejection of its bids based on the grounds of
+perversity or arbitrariness or irrationality and the Court must defer to the
+understanding and appreciation of the tender document as given by the owner or
+employer of the contract which in the instant case is the respondent No.2. A
+disagreement in the decision making process or decision of the authority would not
+give room for judicial review and in the instant case, there is no perversity or
+arbitrariness or illegality in the tender process and the same has been exercised in
+most transparent manner.
+10.3. That the project was originally conceived by the respondent No.5 in the year
+2017 and the entire cost of the project was estimated to be Rs.30,000 Crores. The
+project was to be completed by October, 2021. That the present litigation by the
+appellant has cost hindrance to the construction and commissioning of Thermal
+Power Station. That the delay in setting up the plant has resulted in delay of works
+pertaining to the Thermal Power Station and its operation.
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 16
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+10.4. That admittedly respondent No.2 has awarded the contract to respondent No.3.
+That more than 50% of the Thermal Power Station work has been completed by
+spending over 17,000 crores by generating funds from public exchequers and also
+from borrowers. That every month Rs.300 Crores being paid to the Banks as the
+interest amount and any further delay would inflate the cost of the project.
+10.5. That there is a daily requirement of energy requirement of Telangana is 270
+million units out of which upon completion of the project would meet the demand of
+90 million units. That there is power deficit in the State of Telangana and the
+completion of project would make Telangana a self sufficient State without being
+dependant on the external sources.
+10.6. That bid put forth by the respondent No.3 is lower than the bid submitted by
+the appellant and is also lower than the engineering estimate for setting up of Ash
+Handling plant. As such, awarding of contract to respondent No.3 which possess all
+technical and financial qualified would ensure completion of Ash Handling Plant in
+cost effective manner and also in the public interest.
+10.7. That the respondent No.2 has complied with all terms and condition of the
+tender document before issuing Letter of Intent to the respondent No.3 and the
+respondent No.5 was kept informed by respondent No.2 of all its action which
+respondent No.5 fully affirms and approves. There is no iota of arbitrariness,
+illegality, unreasonableness or perversity in decision making.
+10.8. That time and cost that would be incurred in redoing the tender process would
+result in unbudgeted expenditure and inflated cost for the thermal power station as a
+whole and the people of Telangana would be deprived of infrastructure apart from
+being saddled with additional cost.
+Hence, seeks for dismissal of the appeal. Analysis:
+11. We have heard learned counsel for the parties. Perused the records as well as
+written submissions filed by the parties in furtherance to the above oral submissions.
+12. The entire thrust of the case of the appellant is that respondent No.3 not
+possessing critical qualification as prescribed under Clause 01.01.01 (a)(b)(c) of PQR;
+that since respondent No.3 did not possess requisite qualification it entered into a
+"Consortium Agreement" with respondent No.4 which is a Chinese entity thereby
+both respondent Nos. 3 and 4 jointly participated in the bidding process; that
+entering into Consortium Agreement between respondent No.3 and 4 falls within the
+ambit of definition of "Bidder" and "Bidder from a country which shares a land
+border with India" as defined in the Office order dated 23.07.2020 requiring
+registration with the competent authority as mandated thereunder;
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 17
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+that respondent No.2 overlooking the aforesaid aspect in awarding the contract to the respondent
+Nos. 3 and 4 has thereby vitiated the entire process requiring interference under Article 226 of the
+Constitution of India.
+13. The response of the respondents to the above contentions of the appellant is that the Clause
+01.01.02 of the PQR itself enables respondent No.3 to enter into an arrangement of
+collaboration/association with respondent No.4 to satisfy the requirement of 01.01.01 (a)(b)(c) of
+PQR and such an arrangement is not an Agreement of Consortium in its strict sense. As such, there
+is no requirement of registration with the competent authority more particularly when a
+clarification in this regard has been issued by the authority. That there is no arbitrariness or bias in
+awarding the contract. That there shall judicial restraint in the matters of administrative actions
+with deference to the choice and decisions of the authorities in the matter pertaining to awarding of
+contracts through tender process.
+14. Law with regard to judicial review in the matters of administrative actions particularly in
+awarding contract, is well settled. Even as extensively taken note of by learned Single Judge at
+paragraphs 13 to 15 of the impugned order the Apex Court has broadly laid down the law in the cases
+of (i) TATA CELLULAR VS. UNION OF INDIA (1994) 6 SCC 651, (ii) MICHIGAN RUBBER (INDIA)
+LTD., VS. STATE OF KARNATAKA AND OTHERS (2012) 8 SCC 216, (iii) AFCONS
+INFRASTRUCTURE LIMITED VS. NAGPUR METRO RAIL CORPORATION LIMITED AND
+ANOTHER (2016) 16 SCC 818, (iv) SILPPI CONSTRUCTIONS CONTRACTORS VS. UNION OF
+INDIA AND ANOTHER (2020) 16 SCC 489 AND (v) N.G. PROJECTS LTD. VS VINOD KUMAR
+JAIN AND OTHERS (2022) 6 SCC 127 with regard to scope of judicial intervention in the matter of
+administrative actions wherein it is held;
+"that the judicial review in the contractual matter is restricted to decision making
+process and not the decision itself and in the decision making process, the presence
+of bias, malafides, arbitrariness and irrationality should be necessarily present and
+that there shall be judicial restrain in administrative action and the Court does not sit
+as a Court of appeal but merely reviews the manner in which the decision was made
+and that the Court would not interfere in the administrative actions involving
+contractual matters unless a clear case of arbitrariness or malafide or bias or
+irrationality is made out".
+15. It is equally well settled law that unless the order under challenge suffers from perversity or
+arbitrariness the Courts shall not interfere. Since the core issue involved in this matter pertains to
+bidder possessing prescribed qualification criteria, it is necessary to refer to following Judgments of
+the Apex Court;
+16. In the case of BSN JOSHI AND SONS LIMITED VS. NAIR COAL SERVICES LIMITED (2006) 11
+SCC 548 and another the Apex Court at paragraphs 65 and 66 has held as under;
+65. We are not oblivious of the expansive role of the superior courts in judicial review.
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 18
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+66. We are also not shutting our eyes towards the new principles of judicial review which are being
+developed; but the law as it stands now having regard to the principles laid down in the
+aforementioned decisions may be summarised as under:
+(i) if there are essential conditions, the same must be adhered to;
+(ii) if there is no power of general relaxation, ordinarily the same shall not be
+exercised and the principle of strict compliance would be applied where it is possible
+for all the parties to comply with all such conditions fully;
+(iii) if, however, a deviation is made in relation to all the parties in regard to any of
+such conditions, ordinarily again a power of relaxation may be held to be existing;
+(iv) the parties who have taken the benefit of such relaxation should not ordinarily be
+allowed to take a different stand in relation to compliance with another part of tender
+contract, particularly when he was also not in a position to comply with all the
+conditions of tender fully, unless the court otherwise finds relaxation of a condition
+which being essential in nature could not be relaxed and thus the same was wholly
+illegal and without jurisdiction;
+(v) when a decision is taken by the appropriate authority upon due consideration of
+the tender document submitted by all the tenderers on their own merits and if it is
+ultimately found that successful bidders had in fact substantially complied with the
+purport and object for which essential conditions were laid down, the same may not
+ordinarily be interfered with;
+(vi) the contractors cannot form a cartel. If despite the same, their bids are
+considered and they are given an offer to match with the rates quoted by the lowest
+tenderer, public interest would be given priority;
+(vii) where a decision has been taken purely on public interest, the court ordinarily
+should exercise judicial restraint.
+17. In the case of RAUNAQ INTERNATIONAL LIMITED VS. I.V.R. CONSTRUCTION LIMITED
+(1999) 1 SCC 492 the Apex Court at paragraphs 9, 10 and 11 has held as under;
+9. ...... In arriving at a commercial decision considerations which are of paramount importance are
+commercial considerations. These would be :
+(1) The price at which the other side is willing to do the work;
+(2) Whether the goods or services offered are of the requisite specifications;
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 19
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+(3) Whether the person tendering has the ability to deliver the goods or services as
+per specifications.
+When large works contracts involving engagement of substantial manpower or requiring specific
+skills are to be offered, the financial ability of the tenderer to fulfil the requirements of the job is also
+important;
+(4) the ability of the tenderer to deliver goods or services or to do the work of the requisite standard
+and quality;
+(5) past experience of the tenderer, and whether he has successfully completed similar work earlier;
+(6) time which will be taken to deliver the goods or services; and often (7) the ability of the tenderer
+to take follow up action, rectify defects or to give post contract services. Even when the State or a
+public body enters into a commercial transaction, considerations which would prevail in its decision
+to award the contract to a given party would be the same. However, because the State or a public
+body or an agency of the State enters into such a contract, there could be, in a given case, an element
+of public law or public interest involved even in such a commercial transaction.
+10. What are these elements of public interest ? (1) Public money would be expended for the
+purposes of the contract;
+(2) The goods or services which are being commissioned could be for a public purpose, such as,
+construction of roads, public buildings, power plants or other public utilities.
+(3) The public would be directly interested in the timely fulfilment of the contract so that the
+services become available to the public expeditiously. (4) The public would also be interested in the
+quality of the work undertaken or goods supplied by the tenderer. Poor quality of work or goods can
+lead to tremendous public hardship and substantial financial outlay either in correcting mistakes or
+in rectifying defects or even at times in re-doing the entire work - thus involving larger outlays or
+public money and delaying the availability of services, facilities or goods. e.g. A delay in
+commissioning a power project, as in the present case, could lead to power shortages, retardation of
+industrial development, hardship to the general public and substantial cost escalation.
+11. When a writ petition is filed in the High Court challenging the award of a contract by a public
+authority or the State, the court must be satisfied that there is some element of public interest
+involved in entertaining such a petition. If, for example, the dispute is purely between two tenderers,
+the court must be very careful to see if there is any element of public interest involved in the
+litigation. A mere difference in the prices offered by the two tenderers may or may not be decisive in
+deciding whether any public interest is involved in intervening in such a commercial transaction. It
+is important to bear in mind that by court intervention, the proposed project may be considerably
+delayed thus escalating the cost far more than any saving which the court would ultimately effect in
+public money by deciding the dispute in favour of one tenderer or the other tenderer. Therefore,
+unless the court is satisfied that there is a substantial amount of public interest, or the transaction is
+entered into mala fide, the court should not intervene under Article 226 in disputes between two
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 20
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+rival tenderers".
+18. It is also pertinent to refer to the judgment of the Apex Court in the case of STERLING
+COMPUTERS LIMITED VS. M&N PUBLICATION LIMITED (1993) 1 SCC 445 wherein at
+paragraphs 18 and 19 the Apex Court has held as under;
+"18.While exercising the power of judicial review, in respect of contracts entered into
+on behalf of the State, the Court is concerned primarily as to whether there has been
+any infirmity in the "decision making process". In this connection reference may be
+made to the case of Chief Constable of the North Wales Police v. Evans [(1982) 3 All
+ER 141] where it was said that: (p. 144a) "The purpose of judicial review is to ensure
+that the individual receives fair treatment, and not to ensure that the authority, after
+according fair treatment, reaches on a matter which it is authorised or enjoined by
+law to decide for itself a conclusion which is correct in the eyes of the court." By way
+of judicial review the court cannot examine the details of the terms of the contract
+which have been entered into by the public bodies or the State. Courts have inherent
+limitations on the scope of any such enquiry. But at the same time as was said by the
+House of Lords in the aforesaid case, Chief Constable of the North Wales Police v.
+Evans [(1982) 3 All ER 141] the courts can certainly examine whether "decision-
+making process" was reasonable, rational, not arbitrary and voilative of Article 14 of
+the Constitution.
+19. If the contract has been entered into without ignoring the procedure which can be
+said to be basic in nature and after an objective consideration of different options
+available taking into account the interest of the State and the public, then Court
+cannot act as an appellate authority by substituting its opinion in respect of selection
+made for entering into such contract. But, once the procedure adopted by an
+authority for purpose of entering into a contract is held to be against the mandate of
+Article 14 of the Constitution, the courts cannot ignore such action saying that the
+authorities concerned must have some latitude or liberty in contractual matters and
+any interference by court amounts to encroachment on the exclusive right of the
+executive to take such decision".
+POINTS FOR CONSIDERATION:
+19. In the light of the aforesaid settled position of law with regard to the scope of judicial review in
+the administrative actions and at the same time the law with regard to the requirement of
+compliance with essential prequalification/eligibility by a tenderer, the points that arise for our
+consideration in the instant case are ;
+"1. Whether as contended by the Appellant, respondent No.3 and 4 are ineligible to
+participate in the tender process for non- compliance with the terms of
+Pre-qualification Requirement and the Office Order dated 23.07.2020;
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 21
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+or Whether as contended by the Respondents, the Respondent No.3 is the only
+Bidder and therefore there is no requirement of any registration as mandated under
+the Office Order dated 23.07.2020 particularly in view of clarification issued under
+Official Memorandum dated 08.02.2021?
+2. Whether in the circumstance of the case awarding of contract by respondent No.2
+to respondent No.3 is vitiated by vices of arbitrariness, malafides, bias or
+irrationality?
+3. Whether on the facts and in the circumstances, the impugned order suffers from
+any perversity warranting interference"?
+REGARDING ESSENTIAL QUALIFICATION PRESCRIBED UNDER PQR:
+20. To appreciate the rival contentions, namely, whether respondent No.3 possessed technical
+criteria prescribed under clause 01.01.01 (a)(b)(c) of PQR and whether the said qualification is
+critical for performance of the subject contract and whether the Respondent Nos.3 and 4 had indeed
+entered into Consortium Agreement or it is only an arrangement of "tie-up" or "association", it is
+imperative to refer to certain clauses of PRQ which are extracted hereunder:
+01.00.00- TECHNICAL CRITERIA:
+The bid is open for participation to those bidders who satisfy the following technical
+requirements;
+01.01.01. The bidder should have executed atleast one (1) number Ash Handling
+Plant (AHP) In India/abroad for a thermal power station using sea water/plain water
+involving design, engineering, manufacture/procurement, supply, erection &
+commissioning (or supervision of erection & commissioning) comprising the
+following systems which should be in successful operation for at least (1) year as on
+date of submission of the bid:
+a. Bottom ash handling system comprising jet pump system in conjunction with
+water impounded bottom ash hopper designed for minimum 50 TPH (on dry ash
+basis) capacity or more for pulverized coal fired boilers.
+AND b. First stage fly ash handling system for conveying fly ash from ESP hoppers to
+Intermediate Surge Hopper (ISH) by vacuum conveying system designed for
+minimum 30 TPH capacity (dry ash basis) per stream.
+AND c. Second stage fly ash handling system for conveying fly ash from Intermediate Surge Hopper
+(ISH) to Fly ash silos by pressure conveying system designed for minimum 20 TPH capacity (dry
+ash basis) per line for a distance not less than 500 mtrs.
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 22
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+AND d. High Concentration Ash Slurry Disposal (HCSD) System for minimum 40 TPH capacity (dry
+ash basis) per line.
+The above Clauses 01.01.01 (a), (b), (c) and (d) can be in one single plant or in a combination of
+plants.
+01.01.02 Bidder who is a supplier of bulk material handling system but does not meet the
+requirements under clause 01.01.01 above in part or in full can also participate provided he has
+executed atleast the following systems design, engineering, manufacture, supply, erection &
+commissioning (or supervision of erection & commissioning):
+a). Fly Ash Handling System for conveying Fly Ash from ESPs in dry form (vacuum
+conveying or pressure conveying system) or in wet slurry mode.
+OR
+b). Bulk material handling system, comprising of belt conveyors having a minimum design capacity
+of 800 TPH The systems mentioned at 01.01.02 (a) or (b) above should be in successful operation in
+atleast two(2) plants for at least two (2) years as on date of submission of bid and should have been
+installed pulverized coal fired boiler units in India/abroad generating not less than 40 TPH of Ash
+per boiler units in India/abroad generating not less than 40 TPH OF Ash per boiler.
+AND Collaborate(s) Associate(s) with party (ies) who meet(s) either the total requirement under
+01.01.01 (a) (b) and (c) above or any of the above requirements under 01.01.01
+(a), (b) and (c), which the bidder himself is not able to meet.
+In such a case, the Bidder shall be required to furnish consortium agreement jointly executed by the
+Bidder and the collaborator(s)/ Associate(s) and each executant, shall be jointly and severally liable
+to employer for successful performance of the relevant system, as per the format (Annexure- A)
+enclosed along with bid. The collaboration agreement should be submitted along with the bid. In
+such a case, each Collaborate /Associate shall be required to furnish a bank guarantee at the time of
+placement of order as follows:
+i) INR 10 Lakh (Rupees Ten Lakh) for Collaborator/Associate for jet pumping system.
+ii) INR 25 Lakh (Rupees Twenty Five Lakh) for Collaborator/Associate for Vacuum conveying
+system
+ii) INR 25 Lakh (Rupees Twenty Five Lakh) for Collaborator/Associate for Pressure Transportation
+system AND Collaborate(s)/Associate(s) with party who meets the requirement under 01.01.01 (d)
+above which the bidder himself is not able to meet. In such a case, the Bidder shall be required to
+furnish Agreement of Support jointly executed by the Bidder and the collaborator/Associate for
+successful performance of the HCSD system as per the format (Annexure-B) enclosed along with
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 23
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+bid. The Agreement of Support should be submitted along with the bid.
+In case bidder collaborates/associates for more than one system with a party, then the
+Collaborators/Associate shall be required to furnish a bank guarantee for an amount arrived at by
+adding up the amounts for the relevant systems as above.
+01.01.03. The activity of design and engineering under 01.01.01 (a), (b) and (c) should have been
+carried out by bidder and not through any external design agency/agencies. The activity of design
+and engineering under 01.01.01 (d) should have been carried out by the bidder or through any
+external design agency having experience for HCSD system. For design and engineering activity
+referred under paras 01.01.02 the activity should have been carried out by either the bidder or
+through design agency/agencies having experience for reference systems. In case of
+collaborator(s)/associate(s) meeting the balance part of total requirement under clause 01.01.01 (a),
+(b), (c) and (d) the activity of design and engineering for the reference systems should have been
+carried out by them. Bidders qualifying under SI No. 01.01.02 and collaborating/associating with
+party(s) meeting total/balance part of 01.01.01 (a), (b), (c) and (d) shall follow the following for
+supply and manufacturing of equipment. Bidder shall manufacture from their manufacturing setup
+based on collaborator(s)/associate(s) drawing for the clause which bidder himself is not meeting the
+requirement but the collaborator(s)/associate(s) is meeting the requirement, then the
+collaborator(s) /associate(s) shall approve bidder's manufacturing facilities and manufacturing
+quality standards. Also after the manufacture of the items, the product shall be inspected by the
+respective collaborator(s)/associate(s) and furnish certificate of conformance (COC) for the product.
+Also, BHEL/Customer shall approve manufacturing facilities of the equipment of the vendor's self-
+manufacturing items in case the items are being manufactured by bidder as per
+collaborator(s)/associate(s) design and manufacturing drawing.
+Bidder shall submit the following documents along with bid for pre-qualification requirement. Non-
+submission of below mentioned documents along with bid is liable for rejection. Hence all bidder(s)
+shall adhere to submission of following documents for meeting Pre-qualification requirement.
+a) List of experience for the system
+described above.
+b) Manufacturing facilities, equipment,
+manpower details duly signed by bidder
+shall be furnished
+c) Bidder shall provide documentary
+evidence in support of his claim for
+having experience in design,
+manufacture, testing and supply, E&C,
+performance of AHP meeting the
+requirements mentioned in
+Sl.Nos.01.01.01 or 01.01.02 for Ash
+Handling Plants which are in operation
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 24
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+as on date of submission of the bid.
+Following documentary evidence (as given below) for supply of items as mentioned in clause no.
+01.01.01 or 01.01.02 shall be submitted along with bid:
+d) Letter of Award (Purchase order
+copies)
+e) End customer's address and contact
+details (ph.no, emails) to be furnished.
+f) Performance Certificate from Customer.
+g) If the bidder is a foreign party, he shall
+make a collaboration/consortium
+agreement with an Indian agency for
+erection and commissioning at site. Such bidders shall submit collaboration /consortium agreement
+as per enclosed Annexure-A enclosed.
+B. Pre-Qualification Requirement: (Financial)
+1. The bidder shall have Rs 50 crore or more as Average annual financial turnover during any the
+three consecutive Financial Years (FYs) from the immediately preceding four FYs as of 31st Mar
+2021. (Example: FY to be considered shall be 2017-18, 2018-19 & 2019-20 OR 2018-19 & 2019- 20 &
+2020-21)
+2. The Bidder shall also have annual financial turnover not less than Rs.100 Crore (Rupees One
+Hundred Crores Only), in any one of the three years in the consecutive three years considered as
+under clause B-1 stated above.
+3. Bidder should submit financial accounts (audited, if applicable comprising of Audit report,
+Balance Sheet, Profit & Loss A/c Statement for FY 2017-18, 2018-19 & 2019-20 OR 2018-2019,2019-
+2020 & 2020-2021. If financial statements are not required to be audited statutorily, then instead of
+audited financial statements, financial statements are required to be certified by registered
+Chartered Accountant/Statutory Auditor for Companies.
+4. Other Income shall not be considered for arriving at Annual Turnover/Sales.
+5. Financial pre-qualification of the foreign bidder (other than Indian bidders) may also be
+evaluated on the basis of the report from a reputed third party business rating agency like Dun &
+Bradstreet, Credit reform etc. The foreign bidder is to submit the report from reputed third party.
+All Foreign language documents either shall be translated to English language by a certified agency
+or translated verification by an authorized agency. Credit rating certificate also shall be furnished for
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 25
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+financial credibility of the organization.
+6. For PQ evaluation of foreign bidder, exchange rate (TT selling rate of SBI) as on scheduled data of
+tender opening (Part-1 bid in case of two part bid) shall be considered.
+7. Bidder may collaborate/tie up in any legal form with other parties. Minimum eligibility criteria for
+financial capability has to be complied either by a bidding Company or by a lead Consortium one of
+the member of a bidding Consortium.
+7.1. Offers of the JV companies/ Joint Bidders/bidders having collaboration agreement/MOUS shall
+be evaluated as follows; 7.1a. If bidder happens to be the Joint Venture Company, then the
+credentials of any/both of JV partners can be also considered for meeting PQR 7.1b. If bidder
+happens to bid jointly with their partner, then credentials of the partners will be considered for
+meeting Financial PQR, proportionate to the scope of work / stake in the Partnership.
+7.1.c. If bidder happens to be the having valid collaboration agreement/ MOU with some other
+company, then the credentials of collaborator/ MOU partner can also be considered for meeting
+PQR proportionate to the scope of work / stake in the consortium. In all such cases, lead bidder as
+specified in bid documents shall be responsible for overall execution of the contract and all
+guarantee/ warranty.
+7.1.d. If bidder happens to be an Indian subsidiaries of foreign OEM, then the credentials of the
+foreign OEM can also be considered for meeting PQR.
+7.2. The members of bidding Consortium should have entered into a Memorandum of Association
+("MOA") between themselves. One of the members of Consortium, holding at least 51% of the
+equity/ownership stake shall be authorized and nominated as the Lead member (Lead Member) to
+act and represent an the members of the Consortium for bidding and implementation of the Project.
+7.3 Consortium Member whose financial capacity will be evaluated for the purposes of award of the
+Project shall hold at least 26% (twenty six per cent) stake in consortium.
+7.4 A Bidder or a member of a Consortium can be a member in only one Consortium. If a
+Bidder/member participates in more than one Bid for the same site / space, all Bids of which it is a
+part shall be summarily rejected.
+7.5 All members of the Consortium shall be jointly and severally liable for the execution of the
+Project as per NIT terms.
+7.6 Replacement of the Lead Member shall not be allowed at any time during the execution of the
+contract.
+7.7. Bidder to note that the arrangement of bidding (joint bid partners/ collaborator/ MOU partner)
+once offered to BHEL as a part of bidding documents cannot be changed till the execution of the
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 26
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+project.
+8. Consideration of offer shall be subject to customer's approval of bidders.
+21. On a careful reading of the aforementioned clauses of PQR requirement of prequalification set
+out in clauses 01.01.01, 01.01.02 and 01.01.03 operate distinctly and differently. While, clause
+01.01.01 deals with requirement of experience in "Ash Handling System", Clause 01.01.02 deals with
+requirement of experience in "Bulk Handling System". Clause 01.01.03 lays down the procedure of
+carrying out the activities and responsibility of Bidder carrying out such activities in the event of
+there being situation of collaboration/association. Clause 01.01.01 mandates a bidder to satisfy the
+Technical Qualification and experience in Ash Handling System specifically prescribed in 01.01.01
+(a) (b) (c) & (d) which are essential for participation in the bidding process.
+22. Reading of clause 01.01.02 which enables entering into arrangement for "collaborate/associate"
+makes it clear that a bidder who is not able to meet the requirements of 01.01.01(a),
+(b) and (c) of PQR is required to furnish agreement of support jointly executed by the
+bidder and collaborators /associate and each executant shall be jointly and severally
+liable to the employer for successful performance of the relevant system.
+23. Clause 01.01.03 further clarifies that the activity of design and engineering under clause 01.01.01
+(a)(b)and (c) of PQR should have been carried out by the bidder "and not through any external
+design agency/agencies". REGARDING ELIGIBILITY OF RESPONDENT No.3:
+24. It is an admitted fact that the respondent No.3 did not possess the qualification
+prescribed under clause 01.01.01 (a) (b) & (c) of PQR. The contention of appellant is
+that respondent No.3 in order to participate in the bid entered in the Consortium
+Agreement with respondent No.4 is disputed by the respondents. To ascertain if
+respondent No.3 fulfilled the Qualification prescribed under Clause 01.01.01
+(a)(b)(c) of the PQR on its own or only through entering into an Consortium
+Agreement with respondent No.4 is relevant to refer to contents of document in
+support of PQR-Technical (produced at page No.709 of the Appeal compilation in
+tabular form) wherein following has been stated;
+Project: ASH HANDLING PACKAGE FOR 5X800 MW TSGENCO YADADRI TPS Offer Ref:
+BTL/MHD.601/BHEL-
+YADADRI/AHP/22-23 CLIENT: BHEL ISG POR TECHNICAL PQR (TECHNICAL) FOR ASH
+HANDLING PROJECT 5X800MW YADADRI TPS, NALGONDA Referred Qualification Criteria
+Requirement Bidder's Response Clause No As per TS 01.00.00 TECHNICAL CRITERIA
+Pre-qualification Requirements 01.01.01 The bidder should have executed at least We "BTL EPC
+LTD" have one (1) number Ash Handling Plant (AHP) in entered into a consortium India/abroad for
+a thermal power station agreement for meeting using sea water / plain water involving the PQ
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 27
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+criteria.
+design, engineering, manufacture /
+procurement, supply, erection &
+commissioning (or supervision of erection & commissioning) comprising the following systems
+which should be in successful operation for at least (1) year as on date of submission of the bid:
+a. Bottom ash handling system comprising jet pump system in conjunction with
+water impounded bottom ash hopper designed for minimum 50 TPH (on dry ash
+basis) capacity or more for pulverized coal fired boilers.
+AND b. First stage fly ash handling system for conveying fly ash from ESP hoppers to
+Intermediate Surge Hopper (ISH) by vacuum conveying system designed for
+minimum 30 TPH capacity (dry ash basis) per stream.
+AND c. Second stage fly ash handling system for conveying fly ash from Intermediate
+Surge Hopper (ISH) to Fly ash silos by pressure conveying system designed for
+minimum 20 TPH capacity (dry ash basis) per line for a distance not less than 500
+mtrs.
+AND d. High Concentration Ash Slurry Disposal (HCSD) System for minimum 40
+TPH capacity (dry ash basis) per line.
+01.01.02 Bidder who is a supplier of bulk material We "BTL EPC LIMITED having handling system
+but does not meet the the experience of executing requirements under clause 01.01.01 above in
+numbers of bulk material part or in full can also participate provided he handling system on EPC
+has executed at least the following systems Basis. Our responsibility design, engineering,
+manufacture, supply, involves design, engineering, erection & commissioning (or supervision
+manufacture, supply, commissioning): of erection & erection & commissioning (or commissioning.
+supervision of erection
+commissioning) on EPC basis
+a.Fly Ash Handling System for conveying Fly a. To meet the PQ
+Ash from ESPs in dry form (vacuum criteria we have
+conveying or pressure conveying system) or entered into a
+in wet slurry mode. consortium agreement
+with "M/S FUJIAN
+Or LONGKING CO. LTD"
+who have executed
+b. Bulk material system, comprising handling Ash Handling System
+of belt (vacuum conveying as
+well as pressure
+conveying system) for
+Power plants on EPC
+basis.
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 28
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+Following Document of
+"M/S FUJIAN LONGKING
+CO. LTD Enclosed vide
+Attachment - 1:-
+1. Letter of
+Award/Purchase order
+copy.
+ii) End customer address
+and contact details.
+iii. Performance
+Certificate from customer.
+conveyors having a minimum design capacity b. We 'BTL EPC Limited' had
+of 800 TPH Designed, Supplied and
+erected number of integrated
+The systems mentioned at 01.01.02 (a) or
+(b) above should be in successful operation bulk material handling plant in at least two (2) plants for
+at least two (2) on EPC basis, details of years as on date of submission of bid and relevant project for
+fulfilling should have been installed for pulverized coal the Criteria Qualification fired boiler units in
+India/abroad generating not less than 40 TPH of Ash per boiler enclosed AND Following Document
+of "BTL EPC LTD" Enclosed vide Collaborate(s)/Associate(s) with party (ies) Attachment-2:-
+who meet(s) either the total requirement under 01.01.01 (a), (b) and (c) above or any
+i. Letter of Award/Purchase of the above requirements under 01.01.01 order copy
+(a), (b) and (c), which the bidder himself is not able to meet ii. End customer address
+and contact details In such a case, the Bidder shall be required to furnish consortium
+agreement jointly executed by the Bidder and the iii. Performance Certificate
+collaborator(s) Associate(s) and each from customer.
+executant, shall be jointly and severally liable to employer for successful performance of We "BTL
+EPC LTD" have the relevant system, as per the format entered into a consortium (Annexure- A)
+enclosed along with bid. The agreement with "M/S collaboration agreement should be submitted
+FUJIAN LONGKING CO. along with the bid LTD" to meet the criteria.
+AND
+Duly filled in signed and
+stamped Consortium
+Collaborate(s)/Associate(s) with party who agreement as per
+meets the requirement under 01.01.01 (d) Annexure-A enclosed
+above which the bidder himself is not able (vide Attachment-3).
+to meet.
+To meet the qualification
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 29
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+In such a case, the Bidder shall be criteria under clause no
+required to furnish Agreement of Support 01.01.01 (d) we have
+jointly executed by the Bidder Minerals entered into a Agreement
+and the collaborator / Associate for with M/s Weir Minerals
+successful performance of the HCSD Netherlands b.v.
+system as per the format (Annexure-B) enclosed along with bid. The Agreement of Following
+Document of "M/s Support should be submitted along with Weir Netherlands b.v the bid Enclosed
+vide Attachment-4:-
+1. Duly filled in, signed and stamped Agreement as per Annexure-B enclosed.
+2.Performance Certificate issued by client enclosed 01.01.03. The activity of design
+and engineering Noted and Confirmed under 01.01.01 (a), (b) and (c) should have
+been carried out by the bidder and not through any external design
+agency/agencies.....
+For design and engineering activity referred under paras 01.01.02 the activity should have been
+carried out by either the bidder or through design agency/agencies having experience for reference
+systems. In case collaborator(s)/ associate(s) meeting the balance part of total requirement of under
+clause 01.01.01 (a),
+(b), and (d) the activity of design and engineering for the reference systems should have been
+carried out by them. Bidders qualifying under Sl No. 01.01.02 and collaborating/associating with
+party(s) meeting total/balance part of 01.01.01
+(a), (b), (c) and (d) shall follow the following for supply and manufacturing of equipment. Bidder
+shall manufacture from their manufacturing setup....
+Bidder shall submit the following a. Enclosed (Refer
+documents along with bid for pre- Attachment-5)
+qualification requirement. Non-
+submission of below mentioned b. Will furnish the details
+documents along with bid is liable for after award of contract (in
+rejection. Hence all bidder(s) shall adhere case of successful bidder)
+to submission of following documents for meeting Pre- qualification requirement. c. Refer to
+Attachment-1 and a. List of experience for the system described above. d. Refer to Attachment-1 and
+b. Manufacturing facilities, equipment, manpower details duly signed by bidder e. Refer to
+Attachment-1 and c. Bidder shall provide documentary f. Refer to Attachment-1 and evidence in
+support of his claim for having 2. experience in design, manufacture, testing and supply, E&C,
+performance of AHP g. Not Applicable meeting the requirements mentioned in sl. Nos. 01.01.01 or
+01.01.02 for Ash Handling Plants which are in operation as on date of submission of the bid.
+Following documentary evidence (as given below) for supply of items as mentioned in clause no.
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 30
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+01.01.01 or 01.01.02 shall be submitted along with bid:
+d. Letter of Award (Purchase order copies).
+e End customer's address and contact details (ph.no, emails) to be furnished.
+f. Performance Certificate from Customer. If the bidder is a foreign party, he
+9. shall make a collaboration/ consortium agreement with an Indian agency for
+erection and commissioning at site. Such bidders shall submit collaboration/
+consortium agreement as enclosed with an Indian agency for erection and
+commissioning at site. Such bidders shall submit collaboration/consortium
+agreement as per enclosed Annexure -A enclosed.
+25. Also relevant to refer to a letter dated 18.07.2022 issued by respondent No.4
+under the caption " TO WHOMSOEVER IT MAY CONCERN", which is an under;
+TO WHOM SO EVER IT MAY CONCERN Dated 18-07-2022 We are under consortium agreement
+with M/s BTL EPC LTD., Kolkata, India and are going to participate the tender of Ash Handling
+Project of 5X800 MW Thermal Power Project BHEL ISG. After award of the contract M/s BTL EPC
+LTD. shall manufacture all shop manufactured items under our technical support and guidance for
+achieving the satisfactory performance of the system.
+Regards LONGKING CO. LTD No. 81, Lingyuan Road, Xinkuo District Longyan City.
+Fujian Province, PR China.
+26. Thus, the aforesaid material on record makes it clear that respondent No.3 who admittedly did
+not fulfill the prequalification requirement in the Technical Criteria defined under clause
+01.01.01(a)(b)and (c) of PQR entered into Consortium Agreement with respondent No.4- a Chinese
+entity, for the purpose of participating in the bidding process.
+27. Learned counsel for the appellant emphatically submitted that the technical qualification
+contemplated under clause 01.01.01 (a)(b)and (c) of the PQR is essential and critical for the
+performance of the contract and that only bidder is required to carry out the said activity since
+respondent No.3 and 4 participated as consortium bidders both are jointly and severally liable for
+the performance of the activity contemplated in terms of Clause 01.01.03. While it is the case of the
+respondents that respondent No.3 is the only Bidder and all that respondent No. 4 is offering is
+design and engineering which is just an intangible component of the entire project and which is
+even specified in annexure to the Consortium Agreement.
+28. It is necessary in this regard to note that as per the terms of Clause 01.01.02 of the PQR in the
+case of bidder entering into collaboration/association to meet the technical requirement of Clause
+01.01.01.(a)(b)and (c) there is a mandatory requirement of furnishing of Consortium Agreement as
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 31
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+contemplated under Clause 01.01.02 in the format as per Annexure -A. This in addition to executing
+bank guarantee. Since respondent No.3 and 4 entered into a Consortium Agreement to satisfy the
+essential qualification criteria as already noted above, Clause 01.01.03 insists that the activity of
+design and engineering as envisaged under Clause 01.01.01
+(a)(b)and (c) should have been carried out by the bidder "and not through any external design
+agency/agencies". Therefore the joint and several responsibility contemplated under clause 01.01.02
+of the PQR comes into picture.
+29. The respondents on the other hand are contending that respondent No.4 has no significant role
+to play except providing designs and engineering and that respondent No.3 is solely liable and
+responsible for performance of the contract. REGARDING NATURE OF CONSORTIUM
+AGREEMENT BETWEEN RESPONDENT No.3 AND 4:
+30. Learned Senior counsel for the respondents referring to the Clauses 01.01.02, 01.01.03 and
+clause 7 of the PQR and also referring the definition of "Bidder" as provided under Office Order
+dated 23.07.2020 emphatically submitted that agreement though termed as Consortium Agreement
+it is not so in its strict but merely a 'tie-up' or an 'association' only for the limited purpose of availing
+the services in the nature of design and engineering. Extensive and elaborative submission are made
+by learned counsel for respondent Nos. 1 and 2 with regard to nature of agreement/arrangement
+entered into between respondent Nos.3 and 4. In support of his submission, learned Senior counsel
+for the respondent Nos. 1 and 2 relied upon the following judgment in the case of New Horizons
+Limited vs. Union of India (1995) 1 SCC 478, wherein at paragraphs 24 and 39 it has been held as
+under;
+24. The expression "joint venture" is more frequently used in the United States. It connotes a legal
+entity in the nature of a partnership engaged in the joint undertaking of a particular transaction for
+mutual profit or an association of persons or companies jointly undertaking some commercial
+enterprise wherein all contribute assets and share risks. It requires a community of interest in the
+performance of the subject-matter, a right to direct and govern the policy in connection therewith,
+and duty, which may be altered by agreement, to share both in profit and losses. (Black's Law
+Dictionary, 6th Edn., p.
+839) According to Words and Phrases, Permanent Edn., a joint venture is an association of two or
+more persons to carry out a single business enterprise for profit (p. 117, Vol. 23). A joint venture can
+take the form of a corporation wherein two or more persons or companies may join together. A joint
+venture corporation has been defined as a corporation which has joined with other individuals or
+corporations within the corporate framework in some specific undertaking commonly found in oil,
+chemicals, electronic, atomic fields. (Black's Law Dictionary, 6th Edn., p. 342) Joint venture
+companies are now being increasingly formed in relation to projects requiring inflow of foreign
+capital or technical expertise in the fast developing countries in East Asia, viz., Japan, South Korea,
+Taiwan, China, etc. [See Jacques Buhart : Joint Ventures in East Asia Legal Issues (1991).] There has
+been similar growth of joint ventures in our country wherein foreign companies join with Indian
+counterparts and contribute towards capital and technical know-how for the success of the venture.
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 32
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+The High Court has taken note of this connotation of the expression "joint venture". But the High
+Court has held that NHL is not a joint venture and that there is only a certain amount of equity
+participation by a foreign company in it. We are unable to agree with the said view of the High
+Court.
+39. On behalf of the respondents reliance has been placed on the decision of the Delhi High Court in
+Paharpur Cooling Towers Ltd., v. Banbaigon Refinery and Petrochemicals Ltd. wherein it has been
+held that the expression "tenderer should possess such experience" would mean the experience of
+the tenderer itself and not that of its collaborator. It has been pointed out that SLP (C) No. 1484 of
+1994 filed against the said judgment has been dismissed by this Court by order dated 28-1-1994. It
+has been urged that on the same logic the experience of a shareholder would not be included within
+the expression "experience of the tenderer". We fail to appreciate the relevance of this judgment.
+There can be no comparison between a collaborator who has no stake in the business of the
+company and a constituent of a company, such as NHL, constituted as a joint venture, wherein the
+constituents in the joint venture have a substantial stake in the success of the venture.
+31. To justify the contention that respondent Nos.3 and 4 are separate entities and are not a
+consortium, learned Senior counsel relied upon LINDE AG, LINDE ENGINEEERING DIVISION
+AND ANOTHER VS. DEPUTY DIRECTOR OF INCOME TAX reported in 2014 SCC Online Delhi
+1558, wherein while referring to the memorandum of understanding subject matter of the said case
+the Apex Court at paragraphs 38,39 40,47,48 and 51 has held as under:
+38. The intention of the members of the Consortium is discernable from the various
+clauses of the MOU which are quoted above. Clause 4.8 of the MOU expressly
+provided that "the CONSORTIUM shall constitute an unincorporated arrangement
+established for the limited purpose of representations and dealing with ONGC/OPAL
+with independent and separate scope of work as set forth" in the MOU. Clause 3.1 of
+the MOU clearly specifies that each consortium member would be responsible for
+performance of its responsibilities and services as stipulated in the MOU. Clause 3.4
+of the MOU further specified that each consortium member would be responsible for
+its share of work and would also provide the information, data and material required
+for performance of work by the other member.
+39. Insofar as the execution of the contract is concerned, the responsibilities of each
+member were separate and independent. Neither of the members had any role to play
+with respect to the scope of work which was allocated to the other member. The
+equipment/material to be supplied and the works to be executed by each member
+under the MOU as well as under the Contract entered into with OPAL was well
+defined and the members were to act separately and in accordance with the
+respective work allocated to them. The opening recitals as recorded in the MOU
+indicate that the Linde was required to perform Basic Engineering, supply Selected
+Key Equipment and the related Detail Engineering. Detail Engineering and
+Procurement of Cracking Furnaces, parts of Technical Supervision Services,
+Commissioning, Testing, Conducting Performance Tests and Post-
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 33
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+Commissioning Services of the Project. Samsung was required to perform Detailed Engineering of
+DFCU Recovery Section and AU, supply of Equipment, Construction, Erection and Pre-
+Commissioning of DFCU and AU and parts of Technical Supervision Services of the Project.
+40. The allocation of the work was done in such a manner that each member was required to
+perform work which was within its field of expertise and could not be performed by the other party.
+The work to be performed by both the members was separate, definite and divisible. Therefore, as
+far as execution of the project was concerned, each party had to work independent of the other. The
+only area of cooperation and management envisaged under the MOU was in respect of sharing of
+information and material, to enable the other member to perform its work. In terms of the MOU,
+each member was obliged to provide the necessary information to the other which was necessary for
+the other member to perform its work. This level of cooperation is necessary for execution of any
+project where multiple agencies are involved. Even in cases where the agencies involved in execution
+of a project are not related, it would be necessary that they cooperate with each other in providing
+Information so that each agency can work in a coordinated manner. The said MOU formed an
+integral part of the Contract entered into between Linde, Samsung and OPAL and was appended as
+Annexure J to the said Contract. And, to that extent OPAL also recognized the relationship between
+Linde and Samsung.
+47. It is material to note that even, as per the terms of the Contract, the scope of work to be executed
+by Linde and Samsung was separate and was accordingly specified in the annexures to the Contract.
+The payments to be made for separate items of work were also specified. The currency in which the
+payments were to be made was also separately indicated. Thus, insofar as execution of the work was
+concerned, even OPAL recognised that different items constituting the Contract would be performed
+independently by Linde and Samsung. The consideration for the work performed was to be made
+directly to the concerned member of the Consortium in accordance with the work performed by him.
+Annexure C of the Contract specified the payment schedule i.e. the amount to be paid for the supply
+of goods and services rendered by both the members of consortium. Linde and Samsung were to be
+paid on the basis of the separate invoices raised by them respectively. There was no arrangement for
+sharing of profits and losses between Linde and Samsung. And, each of them would make profits or
+incur losses based on the price as agreed by them and the costs incurred by them for performance of
+the contract falling within their independent scope of work.
+48. It follows from the above, that Linde and Samsung had joined together to (a) bid for the
+contract; (b) present a façade of a consortium to OPAL for execution of the contract and accept joint
+and several liability towards OPAL for due performance of the contract and completion of the
+project; and (c) put in place a management structure for inter se coordination and execution of the
+project. However, in all other respects, both Linde and Samsung were independent of each other
+and were responsible for their own deliverables under the Contract, without reference to each other.
+51. A plain reading of the said Contract clearly indicates that insofar as OPAL is concerned, the
+consortium members were treated as a single party for due performance of the Contract. However,
+the annexures to the contract provided for the split of the Contract between the consortium
+members and amounts payable to each of the consortium members is detailed separately. The scope
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 34
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+of work of each of the members was also separately listed. The Contract specified that an
+organisation structure would be set up which would facilitate OPAL in dealing with the consortium
+members collectively and not separately. The only conclusion one can draw is that while OPAL
+treated the consortium members as a single entity for imposing liability for due performance of the
+Contract, OPAL also recognized that each consortium member would perform the items of work
+falling within their respective scope of work, independently.
+32. Drawing attention of this court to the terms "That is to say" as found in the definition of term
+"Bidder" learned Senior counsel relied upon the judgment of the Apex Court in the case of
+RAJASTHAN ROLLER FLOUR MILLS ASSOCIATION AND ANOTHER VS. STATE OF
+RAJASTHAN AND OTHERS -(1994) Supp. (1) SCC 413, reads as under;
+16. The learned counsel for the States also appear to be justified in emphasizing the meaning and
+significance of the phrase "that is to say"
+occurring in clause (i) of Section 14. The clause reads: "(i) cereals, that is to say, -(i)
+paddy (ii)rice
+(iii) wheat...". The meaning and purport of the words "that is to say" is explained by a
+four-Judge Bench of this Court in State of T.N. v. Pyare Lal Malhotra. Beg, J.,
+speaking for the Bench first quoted the meaning of the words "that is to say"
+assigned in Stroud's Judicial Dictionary (Fourth Edn,) Vol. 5 at page 2753 to the following effect:
+"That is to say.- (1) 'That is to say' is the commencement of an ancillary clause which
+explains the meaning of the principal clause. It has the following properties: (1) it
+must not be contrary to the principal clause; (2) it must neither increase nor diminish
+it; (3) but where the principal clause is general in terms it may restrict it: see this
+explained with many examples, Stukeley v. Butler, (1614) Hob, 171:80 ER 316".
+33. To appreciate the submission made on behalf of the Respondents it is necessary to note the
+Definition of 'Bidder' as provided under Office Order dated 23.07.2020 reads as under;
+"Bidder" (including the term 'tenderer', 'consultant' or 'service provider' in certain
+contexts) means any person or firm or company, including any member of a
+consortium or joint venture (that is an association of several persons, or firms or
+companies), every artificial juridical person not falling in any of the descriptions of
+bidders stated hereinbefore, including any agency branch or office controlled by such
+person, participating in a procurement process".
+34. It is also relevant to refer to the terms of Consortium Agreement entered into between
+Respondent Nos.3 and 4, which is extracted hereunder;
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 35
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+CONSORTIUM AGREEMENT THIS AGREEMENT is made and executed on this 12th day of July
+2022 by and between (1) M/s BTL EPC LTD., (The First Party. I.e, the Bidder) a company
+incorporated under the Company's Act 1956, having its registered office at 2 Jessore Road,
+Kolkata-700028 (herein after called the "Bidder", which expression shall include its' successors,
+administrators, executors and permitted assigns) and (2) M/s FUJIAN LONGKING CO. LTD.(The
+Second Party, ie, the associates), a company incorporated under the Company's Act 1956, having its
+registered office at No. 81, Lingyuan Road, Xinluo District, Longyan City, Fujian Province PR China
+a company incorporated under Business License No. 13500007053171557 (herein after called the "
+Associates", which expression shall include its' successors, administrators, executors and permitted
+assigns).
+WHEAEAS the Purchaser, Bharat Heavy Electricals Ltd, a Government of India Undertaking,
+proposes to issue / issued an NIT (herein after referred to as the said NIT) inviting bids from the
+individual Bidders for undertaking the work of Design, Engineering, Manufacturing, Supply, E&C &
+PG Test of Ash Handling Plant (AHP) Package at Yadradri, Nalgonda Dist. Telangana State herein
+after referred to as the said works).
+WHEREAS the said NIT enables submission of a bid by a Consortium subject to fulfilment of the
+stipulations specified in the said NIT.
+AND WHEREAS M/s BTL EPC Ltd., Kolkata (The First Party, ie, the Bidder) will submit its
+proposal in response to the aforesaid invitation to "Design, Engineering, Manufacturing, Supply,
+E&C & PG Test of Ash Handling Plant (AHP) Package at Yadradri, Nalgonda Dist. Telangana State"
+bid by the Purchaser Bharat Heavy Electricals Ltd. for 5x800 MW Yadadri Thermal Power Station
+as detailed in the Bid doc. no. TENDER REF 77/22/6055/LSY dated 24-06-2022.
+AND WHEREAS M/s BTL EPC LTD. (The First Party, i.e., the Bidder) itself is meeting all the
+qualifying requirements except the qualifying requirements of 01.01.01 a. Bottom ash handling
+system comprising jet pump system in conjunction with water impounded bottom ash hopper
+designed for minimum 50 TPH (on dry ash basis) capacity or more for pulverized coal fired boilers.,
+1.01.01 b. First stage fly ash handling system for conveying fly ash from ESP hoppers to
+Intermediate Surge Hopper (ISH) by vacuum conveying system designed for minimum 30 TPH
+capacity (dry ash basis) per stream and 1.01.01 c. Second stage fly ash handling system for conveying
+fly ash from Intermediate Surge Hopper (ISH) to Fly ash silos by pressure conveying system
+designed for minimum 20 TPH capacity (dry ash basis) perline for a distance not less than 500
+mtrs. as detailed in the NIT) and in order to fully meet the qualifying requirements of NIT, this tie-
+up agreement is being entered into with M/s FUJIAN LONGKING CO. LTD (The Second Party, the
+Associates), who fully meet the balance part of the said works. WHEREAS the First Party and the
+Second Party are contractors engaged in the business of carrying out various items of works.
+WHEREAS the two parties have agreed to constitute themselves into a consortium for the purpose
+of carrying out the said works, and that the consortium will be continued till the completion of the
+works in all respects. WHEREAS the parties have agreed to certain terms and conditions in this
+regard:
+NOW THEREFORE THIS AGREEMENT
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 36
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+WITNESSE AS FOLLOWS:
+1. First and second parties hereby
+constitute themselves into a Consortium for the purpose of bidding and undertaking the said works
+pursuant to the said NIT as hereinafter stated.
+2. The First Party will be the leader (Lead Partner) and will be responsible for the entire works.
+3. The First Party shall undertake the following part(s) of work detailed in the NIT as detailed in
+Annexure -1which forms part of this Consortium Agreement.
+4. The Second Party shall undertake the following part(s) of work detailed in the said NIT as
+detailed in Annexure -1 which forms part of this Consortium Agreement.
+5. The parties hereby declare and confirm that each of them will fulfil the required minimum
+qualifying requirements as prescribed in the said NIT for the works agreed to be undertaken by
+them as stated here-in-above.
+6. It is also agreed between the parties hereto that all of them shall be individually and severally
+responsible for the completion of the said works as per the schedule. Further, if the
+Employer/Purchaser sustains any loss or damage on account of any breach of the Contracts, we the,
+Consortium partners individually and severally undertake to promptly indemnify and pay such
+losses /damages caused to the Employer/Purchaser on its written demand without any demur,
+reservation, contest or protest in any manner whatsoever.
+7. The parties hereby agree and undertake that they shall provide adequate finances, suitable Tools,
+Plants, Tractors, Trailers, other transportation equipment, other Tools & Plants, Measuring &
+Monitoring Equipments (MMES), Men and Machinery etc. for the proper and effective execution of
+the works to be undertaken by them as specified here-in-above.
+8. It is agreed interse between the parties hereto that all the consequences liabilities etc., arising out
+of any default in the due execution of the said works shall be borne by the party in default, that is by
+party in whose area of works default has occurred, provided however, so far as M/s Bharat Heavy
+Electricals Limited is concerned, all the parties shall be liable jointly and severally.
+IN WITNESS HEREOF the parties above named have signed this agreement on the day month and
+year first above written at China (Place).
+WITNESS: (FIRST PARTY)
+NAME: P.K. CHAKRABORTY
+ADDRESS :2, JESSORE ROAD, DUM DUM
+KOLKATA - 700 028.
+AMITAVA GUIN
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 37
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+EXECUTIVE DIRECTOR
+2, JESSORE ROAD,
+DUM DUM
+KOLKATA - 700 028.
+For FUJIAN LONGKING CO. LTD.,
+WITNESS:
+NAME: JAX CHEN
+ADDRESS : No.81, Lingyuan road
+Xinluo District, Longyan City
+Fujian Province, P.R. China.
+DR.REHNU RAN
+No.81, Lingyuan Road
+Xinluo District, Longyan City
+Fujian Province, P.R. China.
+Annexure -1
+1. The first party (M/s BTL EPC Ltd., Kolkata) Shall undertake complete works as detailed in NIT
+which includes detailed design & engineering manufacturing, supply, erection, testing,
+commissioning, trial run, demonstration of PG test and handing over for complete ash handling
+plant.
+2. The second Party (M/s Fujian Longking China) Shall undertake basic design, vetting of detail
+engineering, Support in Manufacturing, Support/Supervision of erection, commissioning & PG test
+for complete AHP (excluding HCSD system)".
+35. On a careful, holistic reading the terms and conditions of Prequalification Requirement,
+definition of 'Bidder' and the contents of 'Consortium Agreement' in the context of requirement of
+its submission as required under Clause 01.01.02 and the obligation of carrying out the activity as
+stated in Clause 01.01.03 of PQR it is difficult to accept the contentions of the respondents that it is
+not a Consortium Agreement in its strict sense. In the decisions relied upon by the learned Senior
+counsel for the respondents there has been no requirement of entering into a Consortium
+Agreement in the context and as mandatorily required under the terms of PQR to be eligible to
+participate in the bidding process by a party who does not fulfill the requirement of Clause
+01.01.01(a)(b) and (c) of PQR, as in the instant case. Requirement of entering to a Consortium
+Agreement is not just for the commercial terms of the parties to the contract but as an undertaking
+to the Tendering Authority assuring due performance of the contract, which factor is
+overwhelmingly present throughout the tender documents in the present case. This in our opinion is
+a distinguishable feature in this case and critical and essential for due performance of the contract.
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 38
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+36. Further Clause 7 of the PQR requiring lead member holding 51% equity or 26% stake in the
+project operates in a Prequalification Requirement relating to 'financial capacity' of a bidder. In
+other words a bidder who though fulfills the technical qualification and lacks financial qualification
+may enter into a joint venture or may make joint bidding having collaboration agreement. It is in
+this context a lead bidder as specified in the bid document is held to be responsible for the over all
+execution of contract. This in any case cannot be read into to obliterate the requirement of being
+jointly and severally responsible for employer for successful performance of relevant system
+contemplated under the circumstances set out under Clause 01.01.02.
+37. It is also necessary to note that learned Single Judge at paragraphs 17, 18, 19 and 20 of the
+impugned order while taking note of requirement of pre-qualification of the tender as provided
+under the heading 'Technical Criteria' and 'Prequalification Requirement: (Financial)' and also
+taking note of contents of Office Order and Official Memorandum, particularly clarification and also
+taking note of contents of Consortium Agreement and the jobs and responsibilities of the parties
+found at Annexure to the Consortium Agreement has held that the respondent Nos. 3 and 4 have
+indeed entered into a Consortium Agreement dated 12.07.2022 and had submitted their respective
+bids and that the entire process of submission of bid is inconsonance with the tender notification.
+Learned Single Judge has thus in a way negated the contention of the respondents that there is no
+"Consortium Agreement" in its strict sense and that it was only an arrangement or a loose tie-up
+between respondent Nos.3 and 4 requiring no registration as mandated under the Office Order. This
+finding of the learned Single Judge has not been questioned by the respondents.
+38. Further the learned Single Judge at paragraph 20 of the impugned order takes note of
+respondent Nos.3 and 4 participating in the tender process by uploading all documents including
+Consortium Agreement.
+39. For the aforesaid reasons and analysis we are of the considered view that respondent No.3 who
+admittedly did not possess requisite technical qualification prescribed under Clause 01.01.01
+(a)(b)(c) indeed entered into the Consortium Agreement referred to hereinabove. Conversely if
+respondent No.3 had not entered into the Consortium Agreement with respondent No.4 it would not
+have been eligible to participate in the bidding process in the first instance. Therefore the
+contentions of the respondents to the contrary cannot be countenanced. Regarding mandatory
+requirement of registration with competent authority.
+40. There is no dispute about the fact that respondent No.4 -a Chinese entity and the country of its
+origin shares land border with India. There is also no dispute about requirement of registration of a
+bidder sharing land border with India. The question is how this requirement is understood in the
+context of the dispute between the parties.
+41. It is necessary at this juncture to refer to Office Order dated 23.07.2020 which reads as under;
+F.No.6/18/2019-PPD Ministry of Finance Department of Expenditure Public Procurement Division
+161, North Block, New Delhi 23rd July, 2020 Office Memorandum Subject: Insertion of Rule 144
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 39
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+(xi) in the General Financial Rules (GFRs), 2017 Rule 144 of the General Financial Rules 2017
+entitled 'Fundamental principles of public buying', has been amended by inserting sub- rule (xi) as
+under:
+Notwithstanding anything contained in these Rules, Department of Expenditure may,
+by order in writing, impose restrictions, including prior registration and/or
+screening, on procurement from bidders from a country or countries, or a class of
+countries, on grounds of defence of India, or matters directly or indirectly related
+thereto including national security; no procurement shall be made in violation of
+such restrictions.
+Sd/-
+(Sanjay Prasad) Joint Secretary (PPD) Email: js.pfc2.doe@gov.in Tel.: 011-23093882
+42. The enclosure to the aforesaid Office Memorandum at paragraph 1 under the heading
+REQUIREMENT OF REGISTRATION, at paragraph 11 under the heading SUB-CONTRACTING IN
+WORKS CONTRACTS and at paragraph 12 under the heading CERTIFICATE REGARDING
+COMPLIANCE of Office Order provides as under;
+Requirement of registration:
+1. Any bidder from a country which a shares a land border with India will be eligible
+to bid in any procurement whether goods, services (including consultancy services)
+or works (including turnkey projects) only if the bidder is registered with a
+competent authority, specified in Annexure-
+I. "Sub-Contracting in works contracts "11. In works contracts, including turnkey contracts,
+contractors shall not be allowed to sub- contract works to any contractor from a country which
+shares a land border with India unless such contractor is registered with the Competent Authority.
+The definition of "contractor from a country which shares a land border with India"
+shall be as in paragraph 8 above. This shall not apply to sub-contracts - already
+awarded on or before the date of this Order.
+Certificate regarding compliance
+12. A certificate shall be taken from bidders in the tender documents regarding their compliance
+with this Order. If such certificate given by a bidder whose bid is accepted is found to be false, this
+would be a ground for immediate termination and further legal action in accordance with law"
+43. Clarification in the nature of Office Memorandum dated 08.02.2021 issued to the
+aforesaid Office Order is also relevant, which reads as under ;
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 40
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+No. F. 18/37/2020-PPD Government of India Ministry of Finance Department of
+Expenditure Procurement Policy Division 512, Lok Nayak Bhawan, New Delhi.
+Dated the 8th February 2021 OFFICE MEMORANDUM Subject: Restrictions under
+Rule 144 (xi) of the General Financial Rules (GFRs), 2017.
+Attention is invited to this Department's Order (Public Procurement No.1) issued
+vide OM F.No.6/18/2019- PPD dated 23.07.2020, As per para 11 of the Order, in case
+of Works contracts, including turnkey contracts, contractors shall not be allowed to
+sub-contract works to any contractor from a country which shares a land border with
+India unless such contractor is registered with the Competent Authority. However, no
+such restriction is stipulated in the Order regarding other procurements i.e.,
+procurement of Goods, Services, etc.
+2. This office is in receipt of representations seeking clarification whether it is
+permitted for the bidders to procure raw material or components/ sub-assemblies or
+the finished goods etc. from the vendors from the countries sharing land borders with
+India.
+3. In this context following is hereby clarified:
+i) A bidder is permitted to procure raw material, components, sub-
+assemblies etc. from the vendors from countries which shares a land border with India. Such
+vendors will not be required to be registered with the Competent Authority, as it is not regarded as
+"sub-contracting".
+ii) However, in case a bidder has proposed to supply finished goods procured directly/indirectly
+from the vendors from the countries sharing land border with India, such vendor will be required to
+be registered with the Competent Authority.
+4. This is issued with the approval of Secretary (Expenditure).
+Sd/-
+Kotturu Narayana Reddy Deputy Secretary to the Govt. of India Tel.: 24621305 Email:
+kn.reddy@gov.in
+44. A careful reading of the Office Order dated 23.07.2020 and Office Memorandum Dated
+08.02.2021 makes a mark difference of the terms "Bidder", "contractor" and "Vendors from the
+countries sharing land border with India" used therein.
+45. Thus, what is clarified is with regard to 'bidder' being permitted to procure raw material,
+components, sub-assemblies etc., from "Vendors from countries which shares a land border with
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 41
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+India"
+without being required to be registered with the competent authority and in the case
+of supply of finished goods, vendors from the countries sharing land border with
+India being required to be registered with the competent authority. This is only in
+respect of " Sub-Contracts". There is no clarification, modification or relaxation
+either in Office Order dated 23.07.2020 as regards requirement of eligibility criteria
+in the context of Clauses 01.01.01 (a)(b) and (c), clause 01.01.02, 01.01.03 of PQR or
+of the requirement of bidder sharing land border with India to be registered with the
+competent authority.
+46. The clarification is in respect of paragraph 11 of the Office Order under the heading "Sub-
+Contracting in Works Contracts". The language used therein is that contractors shall not be allowed
+to sub- contract works to any contractor from a country which shares land border with India unless
+such contractor is registered with competent authority. The said clause further refers to definition of
+contractor from the country which shares a land border with India as provided in paragraph 8 of the
+Office Order which includes a Consortium or Joint Venture where any Member of Consortium or
+Joint Venture falls under any one of description provided in paragraph 8(a) to 8(f) of the Order. As
+rightly pointed out by learned Senior Counsel for the appellant sub-contractor would come into
+effect after the award of contract and clarification of procurement whether raw material or finished
+product, has to be read and seen in that view.
+47. It is necessary to note that the respondents do not dispute the requirement of registration if
+there is a participation in the bidding process by a bidder from the country sharing land border with
+India. All that the respondents are contending is that in the instant case there is no joint bidding and
+that there is no Consortium Agreement in its strict sense. Therefore, there is no requirement of
+registration as mandated in Office Order dated 23.07.2020 and as such there is no violation of terms
+of tender documents. As already noted in view of the aforesaid provisions of the bid documents and
+the mandatory requirement of registration in Office Order dated 23.07.2020 it cannot be accepted
+that there is no violation of terms of the office order or tender document.
+48. Learned Single Judge though has referred to the aforesaid bidding documents of the PQR has
+however not adverted to essential and intrinsic feature of Clauses 01.01.01, 01.01.02 and 01.01.03 of
+PQR in the context of performance of the relevant system by respondent Nos. 3 and 4. Learned
+Single Judge at paragraphs 18 to 22 of the impugned order has merely referred to the clarification
+provided in Office Order dated 08.02.2021 to the paragraph 11 of the Office Order dated 23.07.2020
+and came to the conclusion that the clarification issued in the Official Memorandum makes it clear
+that even raw material can be procured from the bordering countries and what is prohibited is
+finished products and since there is no agreement between respondent Nos. 3 and 4 in the nature of
+procuring raw materials and there is no requirement of registration. This in our opinion incorrect as
+the said reasoning of the learned Single Judge has missed out the essentials of entering into a
+'Consortium Agreement'.
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 42
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+49. Learned Single Judge declining to accept the contention of the appellant made by placing
+reliance upon the judgment of the Delhi high Court in the case of DSPC Engineering Private Limited
+(supra), held that factually the issue involved in the said case is of a supporting company which was
+100% subsidiary of Indian Company registered in China and housed in China and as such the same
+was not applicable to the facts at hand and that in the instant case prequalification condition itself
+permitted entering into consortium agreement.
+Regarding decision making process of respondent No.2:
+50. In the light of our conclusion of Respondent No.3 not being eligible and qualified to participate
+in the bidding process without the active participation of the respondent No.4 by entering into a
+Consortium Agreement and in the absence of compliance with prior registration contained in clause
+1 of the office order 2020 being mandatory requirement and the impugned order not taking note of
+this aspect the matter, the point that now requires to be considered is whether the Decision making
+process by the respondent No.2 in awarding the contract to respondent No.3 is arbitrary and
+unreasonable. In this regard it is necessary to refer the law laid down by the Apex court and this
+court which are as under.
+51. This Court in the case of GAJANANA ENGINEERS VS. THE PRINCIPAL SECRETARY TO
+GOVERNMENT reported in ILR 2005 KAR. 3973 at paragraphs 26,27 and 31 has held as under;
+26. The other defence raised by the BESCOM authorities to support their action despite violation of
+qualifying conditions by the contesting respondents is that the price offered by them is less than the
+price offered by the appellant- petitioner and therefore, the BESCOM would be beneficial
+financially. That defence raised by BESCOM. authorities and accepted by the learned single Judge,
+in our considered opinion, is not well- founded. It is well -settled that price need not always be the
+sole criterion for awarding a contract. It is so held by the Apex Court in Air India Limited v. Cochin
+Int. Airport Ltd and Ors. (supra) and several other judgments to follow. The mere difference in the
+prices offered by the two tenderers may not be decisive in deciding whether any public interest is
+involve or ensured. If all things are equal in terms of law and procedure, public interest may be
+served well in awarding a contract to a tenderer who has offered lesser rate for the service and that
+principle has no application where a tenderer though offers lesser rate for service has not complied
+with or satisfied the essential qualifying conditions of tenders. In its pleading, the
+appellant-petitioner has stated that the prices offered by the contesting respondents are unworkable
+and, in fact, efficient work cannot be done at the prices quoted by the contesting respondents. It is
+further alleged that the contesting respondents have failed to carry out the work awarded to them. It
+is said about respondent No. 2 that it has entrusted the work and got 4000 Distribution
+Transformers repaired through other agencies giving the rate more than what was quoted by the
+appellant in respect of repairs of 25 KVA, 63 KVA and 100 KVA Distribution Transformers.
+27. The action of the BESCOM authorities in opening the second cover containing the Price Bids of
+the contesting respondents 4 to 6 cannot be sustained in law, because, we have found them
+disqualified in the Technical and Commercial Bids. In concluding thus, we may derive support from
+the judgment of the Supreme Court in the case of West Bengal Electricity Board v. Patel Engineering
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 43
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+Co. Ltd. . In that case, the West Bengal State Electricity Board (Employer) raised a global tender for
+a project worth over three thousand crores. tenders were invited only from bidders who have
+satisfied the pre-qualifications. The instruction to the bidders (ITB) issued by the employer required
+the bidder to fill in rates and prices for all items of the works described in the Bill of Quantities both
+in figures and words. With regard to the currencies of the bid, the ITB directed that unit rates and
+prices shall be quoted by the bidder in Indian Rupee (INR) and either in U.S. Dollar or Japanese
+Yen. In regard to modification and withdrawal of bids the mandate of the ITB was that no bid shall
+be modified by the bidder after the deadline for submission of bids. The ITB enabled the employer
+or its authorised representative ask any or all bidders for clarification of his/their bids, including
+breakdowns of unit rates, technical information, documents, and materials after opening of the bid.
+The said clause however prohibited seeking, offering or permitting any change in the price or
+substance of the bid after opening of the price bid. The exception provided to that mandate is
+correction of arithmetic errors discovered by the employer's authorised representative in the
+evaluation of the bids. The clause in ITB which provided for correction of errors in the bid stipulated
+that in case of a discrepancy between the unit rate and the line item total resulting from multiplying
+the unit rate by the quantity, the unit rate as quoted wil1 govern; and in case of a discrepancy
+between figures and in words of any unit rate, the unit rate as quoted in words will govern. The
+respondent tenderer who was the lowest tenderer when the bids were opened informed the
+employer that in his bid there was 'a repetitive systematic computer typographical transmission
+failure' and requested that it be corrected. The nature of the error sought to be corrected was that
+the unit price filled in by the bidder was that the unit price filled in by the bidder in the first line
+against an item is repeated in two lines-in the second line of the same item and in the first line of
+next item. The second line, in an entry should contain unit rate in U.S. Dollar which is rupee
+equivalent of the unit rate mentioned in the first line. This was sought to be corrected. The
+respondent sought correction of the entries in the third line also which is the first line against next
+work item. It was plain against that work item the entries in the first line were quite different. The
+quantity column were blank. In that line also the entries in the first line were repeated. There the
+correction sought was that the figure column should read as 84.21 both in figure and words. It was
+stated that in the second line the unit rate 1.92 both in figures and words, represented U.S. Dollar
+equivalent of 84.21 Indian Rupee which was sought to be inserted. The respondents also claimed
+that the quantities stated in the quantity column of serial item No. 3 on each and every page of the
+bid has been erased. The employer evaluated the bid and informed the respondent that during
+checking a good number of arthematic errors were discovered. Copies of the duly corrected
+documents were also sent by the employer to respondent for their response in writing. All this was
+done without seeking clarification from respondents.
+31. Having regard to the facts of this case and the law on the point, we hold that the Tender Inviting
+Authority had no authority and/or discretion to open the Financial Bid covers of the contesting
+respondents 4 to 6 as they had not been qualified when their Technical Bid covers were opened on
+16.02.2004. The Tender Inviting Authority, notwithstanding the above position, on 20th March
+2004 opened Financial Bid covers of all tenderers and this procedure is ex facie illegal contrary to
+the condition, of Tender Notification as well as the statutory provisions of the Act and the Rules. The
+BESCOM authorities are not justified in rejecting the tender of the appellant which was in order and
+accepting the tenders of the contesting respondents 4 to 6 which were not in order as pointed out
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 44
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+supra and awarding contract to them.
+52. The Apex Court in the case of HAJI T.M. HASSAN RAWTHER VS KERALA FINANCIAL
+CORPORATION, reported in (1988) 1 SCR 1079 at paragraph 14 has held as under;
+"14. The public property owned by the State or by any instrumentality of the State
+should be generally sold by public auction or by inviting tenders. This Court has been
+insisting upon that rule, not only to get the highest price for the property but also to
+ensure fairness in the activities of the State and public authorities. They should
+undoubtedly act fairly. Their actions should be legitimate. Their dealings should be
+above board. Their transactions should be without aversion or affection. Nothing
+should be suggestive of discrimination. Nothing should be done by them which gives
+an impression of bias, favouritism or nepotism. Ordinarily these factors would be
+absent if the matter is brought to public auction or sale by tenders. That is why the
+Court repeatedly stated and reiterated that the State owned properties are required to
+be disposed of publicly. But that is not the only rule. As O.Chinnappa Reddy, J.
+Observed "that though that is the ordinary rule, it is not an invariable rule." There
+may be situations necessitating departure from the rule, but then such instances
+must be justified by compulsions and not by compromise. It must be justified by
+compelling reasons and not by just convenience.
+53. The Apex Court in the case of MEERUT DEVELOPMENT AUTHORITY VS ASSOCIATION OF
+MANAGEMENT STUDIES AND ANOTHER reported in (2009) 6 SCC 171 at paragraphs 26,27 and
+28 has held as under;
+26. There cannot be any disagreement that unjustified discriminations violate the Constitution and
+unreasonable decisions are susceptible to be interfered with and corrected in judicial review
+proceedings. But general propositions do not decide concrete cases as has been famously put by
+Justice Oliver Wendell Holmes in Lochner Vs. New York.17 It remains to be decided which acts of
+discrimination are justified and which are not. It is for the court to decide in the given facts and
+circumstances whether [198 U.S. 45,76 (1995)]. the action complained of is unreasonable? How to
+do that is always a complex and complicated one. It would be unnecessary to burden this judgment
+of ours with various precedents and super- precedents cited at the bar in support of the general
+propositions that the authority's action must be free from arbitrariness. It always depends upon the
+contextual facts. In law, context is everything. We shall bear these parameters in mind and proceed
+to determine the question whether the decision of the Authority is vitiated by any abuse of power.
+27. It was submitted on behalf of AMS that the decision of MDA dated 15.3.2002 undoing its earlier
+decision dated 7.7.2002 and changing land use of the disputed plot from `educational' to `housing'
+is unreasonable, unprincipled and capricious and violative of Article 14 of the Constitution. This was
+done for making higher financial gain and profit and that too, at the instance of an alleged
+unverified extraneous person overlooking the demands of public interest as well as law and order
+problems that may arise on account of peculiar location of the plot in the midst of existing higher
+education campuses belonging to AMS. We find no merit in this submission. The claim of AMS, in
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 45
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+our considered opinion came to an end on 17.9.2001 when it had intimated the MDA to delete its
+offer in respect of the disputed plot on the ground that the cost of that land as stipulated is not a
+viable one. This was followed by its letter dated 3.1.2002, once again stating that it was injustice to
+fix Rs. 690/- per sq. meter for the disputed land while adjoining plots were allotted for Rs. 500/- per
+sq. meter and Rs. 560/- per sq. meter respectively. There were no further negotiations and any
+response from MDA to the said letter dated 3.1.2002. The letter dated 4.3.2002 from AMS to MDA
+indicating the acceptance of Rs. 690/- per sq. meter only after one Harpal Singh Chowdhary on
+behalf of the Officer's Class Housing Society had mentioned a higher price of Rs. 775/- per sq. meter
+in his representation. There is nothing on record to suggest that impugned decision has been taken
+only for making higher financial gain and profit. But what is wrong even if any such effort was made
+by MDA to augment its financial resources. We are, however, of the opinion that the effort, if any,
+made by MDA to augment its financial resources and revenue itself cannot be said to be
+unreasonable decision. It is well said that the struggle to get for the State the full value of its
+resources is particularly pronounced in the sale of State owned natural assets to the private sector.
+Whenever the Government or the authorities get less than the full value of the asset, the country is
+being cheated; there is a simple transfer of wealth from the citizens as a whole to whoever gets the
+assets `at a discount'. Most of the times the wealth of a State goes to the individuals within the
+country rather than to multi- national corporations; still, wealth slips away that ought to belong to
+the nation as a whole. Society's repeated representations are of no consequence and the MDA was
+not under any legal obligation to reopen the tender process which otherwise stood terminated. The
+MDA, in its meeting dated 15.3.2002 considered the request of the Society as well as the alternative
+offer but neither of them was accepted. The MDA after careful deliberation decided to dispose of the
+land through fresh tender-cum-auction for residential use after giving wide publicity.
+28. The learned senior counsel relied upon the decision in Bangalore Medical Trust Vs. B.S.
+Muddappa18 in which this Court observed:
+"Financial gain by a local authority at the cost of public welfare has never been
+considered as legitimate purpose even if the objective is laudable. Sadly the law was
+thrown to winds for a private purpose." The observations were made in the context
+where this Court found the entire proceedings before the State Government [(1991) 4
+SCC 54] suffered from absence of jurisdiction. Even the exercise of powers was
+vitiated and ultra vires. The orders of the Government to convert the site reserved for
+public park to civic amenity and to allot it for private nursing home was null, void
+and without jurisdiction and when the same was sought to be justified on the ground
+of financial gain; the court made the observations in that context. The impugned
+action of the authority in the present case did not suffer from absence of jurisdiction
+nor was vitiated and ultra vires. Financial gain was not at the cost of any social
+welfare.
+54. The Apex Court in the case of New Horizons Ltd vs Union Of India reported in
+1995 SCC (1) 478 at paragraph 17 has held as under;
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 46
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+17.At the outset, we may indicate that in the matter of entering into a contract, the
+State does not stand on the same footing as a private person who is free to enter into
+a contract with any person he likes. The State, in exercise of its various functions, is
+governed by the mandate of Article 14 of the Constitution which excludes
+arbitrariness in State action and requires the State to act fairly and reasonably. The
+action of the State in the matter of award of a contract has to satisfy this criterion.
+Moreover a contract would either involve expenditure from the State exchequer or
+augmentation of public revenue and consequently the discretion in the matter of
+selection of the person for award of the contract has to be exercised keeping in view
+the public interest involved in such selection. The decisions of this Court, therefore,
+insist that while dealing with the public, whether by way of giving jobs or entering
+into contracts or issuing quotas or licences or granting other forms of largesse, the
+Government cannot act arbitrarily at its sweet will and like a private individual, deal
+with any person it pleases, but its action must be in conformity with the standards or
+norms which are not arbitrary, irrational or irrelevant. It is, however, recognised that
+certain measure of "free play in the joints" is necessary for an administrative body
+functioning in an administrative sphere [See : Ramana Dayaram Shetty v.
+International Airport Authority of India2 (SCR p. 1034 : SCC pp. 505-06, para 12);
+Kasturi Lal Lakshmi Reddy v. State of J & K3 (SCR p. 1355 : SCC pp. 11- 2 (1979) 3
+SCC 489: (1979) 3 SCR 1014 3 (1980) 4 SCC 1 :(1980) 3 SCR 1338 12, para 11); Fasih
+Chaudhary v. Director General, Doordarshan4 (SCR p. 286 : SCC p. 92,); Sterling
+Computers Ltd. v. M & N Publications Ltd.1; Union of India v. Hindustan
+Development Corpn.5 (at p. 513)].
+55. The High Court of Bombay in the case of ROYAL POWER TURNKEY
+IMPLEMENTS PVT. LTD.
+VS MAHARASHTRA INDUSTRIAL DEVELOPMENT CORPORATION reported in
+2014 (4) ABR 799, 2014 (5) MAH.LJ. 399 at paragraphs 10 and 14 has held as under;
+10. What is sought by the petitioner is judicial review of the decision taken by the
+respondent Corporation in cancelling the earlier tender process initiated vide tender
+Notice No. 17/2013-14. The principles of judicial review are undoubtedly applicable
+to the exercise of contractual powers by State, in order to prevent arbitrariness or
+favouritism. However, such review is not that of merit of the decision. It is a review of
+the decision making process. Undoubtedly, respondent MIDC is an instrumentality
+or agency of the State Government. While exercising its powers or discretion, it is
+subjected to some constitutional limitations to which the State is subjected to. While
+dealing with public in entering into contract, action of respondent Corporation,
+therefore, needs to be free from arbitrariness and must be rational, fair and
+transparent. Article 14 of the Constitution speaks of equality before law and equal
+protections of laws. Therefore, in the matter of public contract, the respondent
+Corporation cannot choose to exclude a person by adopting extraneous or irrelevant
+consideration. If it does so, that will tantamount to denial of equality. Respondents
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 47
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+MIDC, therefore, cannot act arbitrarily in entering into contractual relationship or
+refusing to enter into contractual relationship.
+14. We agree with the observations of Mathew, J., in V. Punnan Thomas v. State of
+Kerala (MANU/KE/0020/1969 : AIR 1969 Ker 81 (FB) that:
+"The Government is not and should not be as free as an individual in selecting the
+recipients for its largess. Whatever its activity, the Government is still the
+Government and will be subject to restraints, inherent in its position in a democratic
+society. A democratic Government cannot lay down arbitrary and capricious
+standards for the choice of persons with whom alone it will deal". The same point was
+made by this court in Erusian Equipment and Chemicals Ltd. v. State of West Bengal
+(MANU/SC/0061/1974 : AIR 1975 SC 266) where the question was whether
+blacklisting of a person without giving him an opportunity to be heard was bad? Ray,
+C.J., speaking on behalf of himself and his colleagues on the Bench pointed out that
+blacklisting on a person not only affects his reputation which is in Poundian terms an
+interest both of personality and substance, but also denies him equality in the matter
+of entering into contract with the Government and it cannot, therefore, be supported
+without fair hearing. It was argued for the Government that no person has a right to
+enter into contractual relationship with the Government and the Government, like
+any other private individual, has the absolute right to enter into contract with any one
+it pleases. But the Court, speaking through the learned Chief Justice, responded that
+the Government is not like a private individual who can pick and choose the person
+with whom it will deal, but the Government is still a Government when it enters into
+contract or when it is administering largess and it cannot, without adequate reason,
+exclude any person from dealing with it or take away largess arbitrarily. The learned
+Chief Justice said that when the Government is trading with the public, "the
+democratic form of Government demands equality and absence of arbitrariness and
+discrimination in such transactions. The activities of the Government have a public
+element and, therefore, there should be fairness and equality. The State need not
+enter into any contract with anyone, but if it does so, it must do so fairly without
+discrimination and without unfair procedure." This proposition would hold good in
+all cases of dealing by the Government with the public, where the interest sought to
+be protected is a privilege. It must, therefore, be taken to be the law that where the
+Government is dealing with the public, whether by way of giving jobs or entering into
+contracts or issuing quotas or licences or granting other forms of largess, the
+Government cannot act arbitrarily at its sweet will and, like a private individual, deal
+with any person it pleases, but its action must be in conformity with standard or
+norms which is not arbitrary, irrational or irrelevant. The power or discretion of the
+Government in the matter of grant of largess including award of jobs, contracts,
+quotas, licences etc., must be confined and structured by rational, relevant and non-
+discriminatory standard or norm and if the Government departs from standard or
+norm in any particular case or cases, the action of the Government would be liable to
+be struck down, unless it can be shown by the Government that the departure was not
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 48
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+arbitrary, but was based on some valid principle which in itself was not irrational,
+unreasonable or discriminatory".
+56. The Apex Court in the case of TATA CELLULAR VS UNION OF INDIA reported in 1996 AIR 11,
+1994 SCC (6) 651 at paragraphs 70, 71, 73 and 74 has held as under;
+70. It cannot be denied that the principles of judicial review would apply to the exercise of
+contractual powers by Government bodies in order to prevent arbitrariness or favouritism.
+However, it must be clearly stated that there are inherent limitations in exercise of that power of
+judicial review. Government is the guardian of the finances of the State. It is expected to protect the
+financial interest of the State. The right to refuse the lowest or any other tender is always available to
+the Government. But, the principles laid down in Article 14 of the Constitution have to be kept in
+view while accepting or refusing a tender. There can be no question of infringement of Article 14 if
+the Government tries to get the best person or the best quotation. The right to choose cannot be
+considered to be an arbitrary power. Of course, if the said power is exercised for any collateral
+purpose the exercise of that power will be struck down.
+71. Judicial quest in administrative matters has been to find the right balance between the
+administrative discretion to decide matters whether contractual or political in nature or issues of
+social policy; thus they are not essentially justifiable and the need to remedy any unfairness. Such an
+unfairness is set right by judicial review.
+73. Observance of judicial restraint is currently the mood in England. The judicial power of review is
+exercised to rein in any unbridled executive functioning. The restraint has two contemporary
+manifestations. One is the ambit of judicial intervention; the other covers the scope of the court's
+ability to quash an administrative decision on its merits. These restraints bear the hallmarks of
+judicial control over administrative action.
+74. Judicial review is concerned with reviewing not the merits of the decision in support of which
+the application for judicial review is made, but the decision-making process itself.
+57. Admittedly, appellant has required technical qualification while the respondent No. 3 does not
+possess technical qualification. In the aforesaid decision, it is very clear that mere quoting lower bid
+amount is not sufficient unless essential technical qualification required for the performance of the
+contract is possessed by a bidder.
+58. In the light of the aforesaid law laid down by the Apex Court, the action of respondent No.2 in
+awarding the contract to respondent No.3 who admittedly, did not possess required technical
+qualification which is essential and critical for the performance of the contract and merely because
+the financial bid quoted by the respondent No.3 is lesser than the financial bid quoted by the
+appellant, it cannot be said that there has been no arbitrariness and unreasonableness in awarding
+the contract. The very fact that a critical contract of this nature requires expertise in the field and the
+respondent No.2 being the author of the tender documents, not verifying and scrutinizing the
+eligibility criteria of respondent No. 3 in the light of mandatory requirements of clause 01.01.01,
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 49
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+01.01.02 and 01.01.03 of PQR cannot be heard to say that the Respondent No3 is fully eligible and it
+is the lone bidder recognized by the Respondent No2 and that the Respondent No 2 has not
+recognized the Respondent No.4 for any purpose whatsoever and that it is an internal arrangement
+between the Respondent No3 and 4 for availing certain intangible services of non critical nature.
+Thus, in our considered view, the decision making process adopted by the respondent No 2 is
+vitiated by arbitrariness and unreasonableness requiring interference at the hands of this court.
+Regarding hardship and prejudice:
+59. As regards the contention of the respondents that 50% of project has been
+completed with 90%, of the designs having been approved apart from expending
+huge amount of money in the process and that initiating the process at the instance of
+the appellant at this juncture could cause severe financial burden on the respondent
+No 5 state which would eventually cause untold hardship and misery to the public at
+large. It is necessary at this juncture to refer the admitted facts and the circumstances
+available on record. The NIT which is subject matter of the present writ petition is the
+fourth in the row. Earlier notices inviting tenders which were floated by respondent
+No.2 have not been acted upon for the reasons referred to in the earlier portion of the
+order. The appellant herein being aggrieved by the award of contract in favour of
+respondent No.3 in the factual background referred to herein above had approached
+this court on 10.10.2022 by filing the present writ petition which was disposed of by
+the impugned order on 02.11.2022. There was an interim order operating in favour of
+the appellant.
+After dismissal of the writ petition when the appellant approached this court by filing this writ
+appeal, this Court on 07.12.2022 passed the following order;
+"ORDER IN THE MAIN WRIT APPEAL Xxxx As certain arguable points are raised in
+the appeal. The appeal is admitted.
+Issue notice to the respondent Nos. 4 and 6. List the appeal for further consideration
+on 24.01.2023.
+We make it clear that any action initiated pursuant to the impugned order passed by
+the learned Single Judge is subject to the final outcome of the appeal".
+60. Thus in view of this factual aspect of the matter, as rightly contended by the learned Senior
+counsel for the appellant, respondents cannot find appellant to be responsible for the delay in
+execution of the project.
+61. Submission on behalf of Respondent as regards the issue pertaining to the public interest is
+concerned, it is necessary to note that the Office Order dated 23.07.2020 has been issued in exercise
+of Rule 144 in the defense interest of the Nation. Needless to mention that this court cannot be
+oblivious of the fact that respondent No.4 is a Chinese entity from a country which shares land
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 50
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+border with India. Considering the nature of the transaction and the nature of work to be carried out
+by the respondent Nos. 3 and 4 and also the mandatory requirement of registration with the
+competent authority not having been complied with a mere claim of public interest getting adversely
+affected cannot be pitted against the national interest. As taken note of by the Delhi High Court the
+in case of DPSC Engineering Private Limited (supra) and the reasoning assigned there which we are
+in complete agreement with and as the facts and circumstances of present case similar to one
+involved therein, it cannot be said, that the reinitiating the tender process would be against the
+public interest. Respondent No. 2 ought have ensured that there is complete compliance with the
+Office Order which has been issued in the interest of National security from the defense perspective
+which assumes greater national significance, than the public interest as sought to be made out by
+the Respondent . CONCLUSION:
+62. For the aforesaid reasons and analysis we answer the points raised as under:
+Respondent No.3 not being technically qualified entered into Consortium Agreement
+with the jointly submitted and participated as Bidders in the Tender Process.
+Respondent No 4 or the consortium of Respondent No.3 and 4 not having complied
+with mandatory requirement of registration with competent authority as required
+under the Office Order dated 23.07.2020 and acceptance of their bid by the
+respondent No.2 is vitiated by arbitrariness and unreasonableness. Consequently, the
+contention of respondents that the respondent No.3 is a lone bidder and that there is
+no requirement of any registration mandated under the Office Order in view of the
+clarification issued vide Official Memorandum cannot be accepted.
+63. In view of the reasons assigned above, the entire process of awarding the contract
+by respondent No.2 in favour of Respondent No.3 cannot be accepted as valid.
+Appellant an Indian entity admittedly possess technical qualifications essential for
+the performance of the contract. The respondent-authorities in the circumstances
+may consider the bid of the appellant as per the notice inviting tender. Since the
+aforesaid crucial aspects of the matter have missed the attention of the learned Single
+Judge, appellant has made out grounds for interference. Appellant is an Indian
+entity, admittedly possess technical qualification essential for the performance of the
+contract. The respondent authorities in the circumstances may consider the bid of the
+appellant.
+64. Hence, the following;
+ORDER (1) Writ Appeal is allowed. Order dated 02.11.2022 passed by the Learned Single Judge in
+W.P.No.20333/2022 is set aside.
+(2)Bid submitted by consortium of
+respondents 3 and 4 with the
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 51
+Macawber Beekay Pvt Ltd vs Bharath Heavy Electricals Ltd on 27 July, 2023
+respondent No.2 is held to be invalid. Consequently, Letter of Intent dated 29.09.2022 issued by
+respondent No.2 in favour of respondent No.3 is set aside.
+(3) Respondent No.2 is directed to consider the bid of the appellant pursuant to the Notice Inviting
+Tender dated 24.06.2022 bearing enquiry No.77/ 22/ 6055/ LSY as per Annexure-C and convey its
+decision within a period of four weeks from the date of receipt of the certified copy of this order.
+No order as to cost.
+Sd/-
+CHIEF JUSTICE Sd/-
+JUDGE RU
+Indian Kanoon - http://indiankanoon.org/doc/93348519/ 52

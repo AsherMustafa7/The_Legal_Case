@@ -1,0 +1,693 @@
+M/S Flipkart Internet Private Limited vs The Deputy Commissioner Of Income Tax on 24 June, 2022
+M/S Flipkart Internet Private Limited vs The Deputy
+Commissioner Of Income Tax on 24 June, 2022
+Author: S. Sunil Dutt Yadav
+Bench: S. Sunil Dutt Yadav
+1
+R
+IN THE HIGH COURT OF KARNATAKA AT BENGALURU
+DATED THIS THE 24TH DAY OF JUNE 2022
+BEFORE
+THE HON'BLE MR.JUSTICE S. SUNIL DUTT YADAV
+WRIT PETITION NO.3619/2021 (T-IT)
+BETWEEN:
+M/S. FLIPKART INTERNET PRIVATE LIMITED
+ALYSSA, BEGONIA &
+CLOVER EMBASSY TECH VILLAGE,
+OUTER RING ROAD,
+DEVARABEESANAHALLI VILLAGE,
+BANGALORE - 560 103
+THROUGH ITS AUTHORISED SIGNATORY
+MS. NEHA AGARWAL.
+... PETITIONER
+(BY SRI TARUN GULATI, SENIOR ADVOCATE FOR
+SRI KISHORE KUNAL, SRI PARTH,
+MS.ANKITA PRAKASH & SRI PRADEEP NAYAK,
+ADVOCATES)
+AND:
+1. THE DEPUTY COMMISSIONER OF INCOME TAX
+(INTERNATIONAL TAXATION),
+CIRCLE - 1(1)
+ROOM NO.441, 4TH FLOOR,
+BMTC BUILDING,
+80TH ROAD,
+KORAMANGALA,
+BANGALORE - 560 095.
+2
+Indian Kanoon - http://indiankanoon.org/doc/69732097/ 1
+M/S Flipkart Internet Private Limited vs The Deputy Commissioner Of Income Tax on 24 June, 2022
+2. THE COMMISSIONER OF INCOME TAX-1,
+(INTERNATIONAL TAXATION),
+BMTC BUILDING,
+KORAMANGALA,
+BANGALORE - 560 095.
+3. THE JOINT COMMISSIONER OF INCOME TAX-1,
+C.R. BUILDING NO.1,
+QUEENS ROAD,
+BANGALORE - 560 001.
+4. CENTRAL BOARD OF DIRECT TAXES
+THROUGH THE SECRETARY
+DEPARTMENT OF REVENUE,
+MINISTRY OF FINANCE,
+GOVERNMENT OF INDIA,
+CENTRAL SECRETARIAT,
+NORTH BLOCK,
+NEW DELHI - 110 001.
+... RESPONDENTS
+(BY SRI K.V.ARAVIND, ADVOCATE)
+***
+THIS WRIT PETITION IS FILED UNDER ARTICLE 226 OF
+CONSTITUTION OF INDIA, PRAYING TO QUASH THE
+IMPUGNED ORDER WITH DIN AND LETTER DATED 01.05.2020
+ANNEXURE-A PASSED BY R-1 BEING ILLEGAL AND ARBITRARY
+AND ETC.
+THIS WRIT PETITION HAVING BEEN HEARD AND
+RESERVED ON 16.06.2022 AND COMING ON FOR
+PRONOUNCEMENT OF ORDERS, THIS DAY, THE COURT MADE
+THE FOLLOWING:
+3
+ORDER
+S. SUNIL DUTT YADAV. J This order has been divided into the following Sections to facilitate
+analysis:
+IV Analysis (A) Whether the application of the petitioner dated 15 15.01.2020 filed
+under Section 195(2) of the Income Tax Act was not maintainable?
+(B) Whether the petitioner is required to deduct 25 TDS under Section 195(2) read with Article 12(4)
+of the convention between Government of United States of America and the Government of
+Republic of India for the avoidance of Double Taxation and the prevention of FISCAL evasion?
+Indian Kanoon - http://indiankanoon.org/doc/69732097/ 2
+M/S Flipkart Internet Private Limited vs The Deputy Commissioner Of Income Tax on 24 June, 2022
+(C) Deduction under Section 195(2) of I.T. Act on 31 the 'sum chargeable under this Act' (F)
+Distinguishing the Judgment in Centrica India 42 Offshore (P.) Ltd. v. Commissioner of Income
+Tax-I, New Delhi The petitioner has called in question the validity of the order dated 01.05.2020
+passed by the first respondent at Annexure-'A' whereby the application for 'Nil TDS Certificate' has
+been rejected and the petitioner has been directed to deduct tax at source at the applicable rate. The
+conclusion arrived at, in the impugned order is as follows:-
+"Conclusion:
+49. In the preceding paragraphs, the need for secondment, nature of services
+provided by seconded employees, employer-employee relationship and the taxability
+of the payments have been discussed elaborately and the following has been
+established;
+1. There is no employer-employee relationship between M/s Flipkart Internet Private
+limited India and secondees seconded by assessee.
+2. The services rendered/provided by the seconded employees are in the nature of
+technical services, both under IT Act and under DTAA as well.
+3. Deduction u/s 192 does not result in double deduction nor does it obviate the need
+to deduct u/s 195.
+4. Once the income is in the nature of FTS/FIS, it is to be taxed on gross basis; there
+is no need to examine whether or not income element is embedded in the said
+payment."
+2. Consequent to the grant of relief at prayer (a), the petitioner has sought for issuance of writ of
+mandamus to direct the first respondent to issue 'Nil Tax Deduction at Source Certificate' to the
+petitioner under Section 195(2) of the Income Tax Act, 1961 ['I.T. Act' for brevity]. I. BRIEF FACTS:-
+3. The petitioner is stated to be engaged in the business of providing Information Technology
+Solutions and Support Services for e-commerce industry. In the course of its business, the petitioner
+is stated to have made payments in the nature of "pure reimbursements" to M/s.Walmart Inc.,
+Delaware, USA (hereinafter referred to as 'Walmart Inc.') for the Assessment Year 2020-2021 and in
+that regard had requested the Department for issuance of a 'Certificate of No Deduction of Tax at
+Source'. The payment of salaries to the deputed expatriate employees were stated to have been made
+by 'Walmart Inc.' for administrative convenience and the petitioner had made reimbursements to
+'Walmart Inc.' With respect to such payments, the petitioner had sought for granting of Certificate
+under Section 195 of the I.T. Act.
+4. 'Walmart Inc.' and Flipkart Singapore had entered into an Inter-Company Master Services
+Agreement (M.S.A.) dated 28.05.2019 for secondment of employees and provision of services. In
+terms of the M.S.A., either of the parties or its affiliates could use the seconded employees.
+Indian Kanoon - http://indiankanoon.org/doc/69732097/ 3
+M/S Flipkart Internet Private Limited vs The Deputy Commissioner Of Income Tax on 24 June, 2022
+5. That Clause 4.2 provides that the party placing the secondees will invoice the compensation and
+the wage cost of secondees incurred in the Home Country.
+6. It is pointed out that the M.S.A. has two distinct parts - (i) relating to provision of services and (ii)
+secondment of employees. The present petition is concerned only with the secondment of
+employees.
+7. It is the stand of the petitioner that in terms of the M.S.A., 'Walmart Inc.' had seconded four
+employees to the petitioner and had entered into a 'Global Assignment Arrangement' with the
+seconded employees, which provided that the seconded employees would work for the benefit of the
+petitioner.
+8. The petitioner is stated to have issued the letters of appointment confirming the employment of
+seconded employees with the petitioner and in such letters of appointment, the details of
+responsibilities of the seconded employees has been detailed.
+9. It is stated that the petitioner makes contribution to the Provident Fund Authorities as an
+'employer of seconded employees' and that the said employees are working in India on 'Employment
+VISA' wherein, the petitioner is declared to be an 'employer'.
+10. In response to the invoices raised by 'Walmart Inc.' as regards the payments made towards
+salaries of the seconded employees, the petitioner had intended to make payments to 'Walmart Inc.',
+and in that context, had made an application at Annexure-'G' under Section 195(2) of the I.T. Act
+requesting for allowing the remittance of cost-to-cost reimbursements to be made by the petitioner
+without deduction of tax at source.
+11. It is also submitted that 'Indo-US Double Taxation Avoidance Agreement ('DTAA' for brevity)
+would be of relevance, as double taxation at source where a non-resident earns income in India and
+is liable for being taxed for such income in the Country of residence, is to be avoided.
+12. However, the said application came to be rejected while directing the petitioner to deduct tax at
+source on the premise as found in the conclusion of the impugned order reproduced supra at para-1.
+II. CONTENTIONS OF PETITIONER:-
+13. The petitioner is not required to deduct tax under Section 195 on payments which are in the
+nature of reimbursement, as 'withholding obligations' under Section 195 arise only when the 'sum
+paid' to the non-resident is 'chargeable to tax' under the Act. Reliance is placed on the judgment in
+the case of GE India Technology Centre Private Limited v. Commissioner of Income Tax and
+Another1. (2010) 10 SCC 29
+14. As per Article 12 of the 'DTAA', the sums paid could not be regarded as Fee for Technical Services
+(hereinafter referred to as 'FTS') and accordingly, there will be no income of 'Walmart Inc.'
+chargeable to tax in India.
+Indian Kanoon - http://indiankanoon.org/doc/69732097/ 4
+M/S Flipkart Internet Private Limited vs The Deputy Commissioner Of Income Tax on 24 June, 2022
+15. The 'Memorandum of Understanding' (MoU) dated 12.09.1989 entered into between the
+Government of India and U.S.A. which is stated to be forming part of the 'DTAA' provides that Fee
+for Included Services (hereinafter referred to as 'FIS'), which 'make available to the person acquiring
+the services', only would be amenable to tax.
+Accordingly, it is submitted that any service that does not make technology available to the person
+acquiring the service would not fall in the category of 'make available' and accordingly, would stand
+excluded from the provision of Article -12 of 'DTAA.'
+16. The payments in the nature of reimbursement cannot be charged as income under the Act. In the
+present case, the petitioner has paid only the actual cost of salaries of the seconded employees and
+there is no 'mark-up' which is retained by 'Walmart Inc.' on such costs. Reliance is placed on the
+judgment of Hon'ble Supreme Court in Director of Income Tax (IT)-I v. A.P. Moller Maersk A S , as
+also the judgment in Commissioner of Income Tax v. Kalyani Steels Ltd.,3.
+17. It is further contended that the payment made by the petitioner to 'Walmart Inc.' are mere
+reimbursement of salaries paid to the seconded employees and once such payments are salaries, the
+same falls outside the purview of 'FIS' in terms of Article 12 and 16 of DTAA. In light of the law laid
+down by the Apex Court in Union of India and Another v. Azadi Bachao Andolan and Another4 and
+Engineering Analysis Centre of Excellence Private Limited v. Commissioner of Income Tax &
+Another5 provisions of 'DTAA' insofar as it is more beneficial to the assessee would prevail over the
+domestic law and as payments in question being in the nature of salaries under Article 16 cannot be
+treated as (2017) 5 SCC 651 (2018) 254 Taxmann 350 (Kar) (2003) 263 ITR 706 (SC) (2021) 432
+ITR 471 'FIS' by the respondent Authorities by applying Section 9 of the I.T. Act.
+18. It is submitted that the stand of Revenue that Certificate under Section 195 is only tentative and
+a non-conclusive opinion, is not a legally tenable stand. The prima facie deduction of tax and
+contingency of refund at a later stage cannot make original levy to be valid, when liability to deduct
+tax is in excess of jurisdiction.
+19. It is submitted that as per Clause 3.1 of M.S.A., the petitioner was granted unconditional right to
+terminate the employment of seconded employee and looking into the nature of control exercised by
+the petitioner over the employees, the petitioner would qualify to be the real and economic employer
+of the seconded employees.
+20. 'Walmart Inc.' being a tax resident of U.S.A., the disputed transaction will be governed by the
+provisions of 'DTAA' in view of Section 90(2) and whether the payments made by the petitioner to
+'Walmart Inc.' amounts to 'FTS' / 'FIS' will have to be determined as per the provisions of Article 12
+of 'DTAA.' While placing reliance on the judgment in Commissioner of Income-Tax, Central Circle v.
+De beers India Minerals (P) Ltd6, it is contended that the terms of Article 12 is only to those
+payments which are made for rendering the technical or consultancy services and making the
+technical knowledge, experience available to the recipient which only are covered within the
+meaning of 'FIS'.
+Indian Kanoon - http://indiankanoon.org/doc/69732097/ 5
+M/S Flipkart Internet Private Limited vs The Deputy Commissioner Of Income Tax on 24 June, 2022
+21. Once the transaction is admittedly in the nature of payment of salaries, same is excluded from
+purview of Section 195 and cannot be subjected to further deduction.
+22. The reliance placed by the respondents in Centrica India Offshore (P.) Ltd. v. Commissioner of
+Income Tax-I, New Delhi7 is misplaced and erroneous. The case is distinguishable insofar as in
+Centrica India Offshore (supra), the non-resident entity had seconded its employees to the new
+incorporated Indian subsidiary and the Indian (2012) 346 ITR 467 (KAR) (2014) 227 Taxmann 368
+(SC) subsidiary was specifically incorporated to provide back office support services in relation to
+third party vendors in India. However, in the present case, the petitioner was incorporated on
+01.10.2012 and had a well developed and established business model in India much before 'Walmart
+Inc.' became majority equity interest holder in Flipkart Singapore in August 2018.
+III. CONTENTIONS OF RESPONDENTS:-
+23. Section 195(2) of the I.T. Act provides for determination of appropriate portion of sum
+chargeable and does not contemplate 'Nil deduction of tax at source' and accordingly, Section 195(2)
+is not applicable.
+24. The Assessing Officer has duly considered all the contentions including the relationship of
+seconded employee with 'Walmart Inc.' and has arrived at the conclusion that there is no
+'employer-employee' relationship between M/s.Flipkart Internet Private Limited and the seconded
+employee. It has further held that the services rendered by the seconded employees are in the nature
+of technical services under the Income Tax Act and 'DTAA', which findings are well considered and
+do not call for interference in exercise of limited power of judicial review.
+25. The mere deduction of tax at source under Section 192 does not obviate the need to deduct tax at
+source under Section 195, as tax at source is to be deducted on the gross payment and the question
+of examining the income element embedded therein in the payment does not arise.
+26. As the Agreement entered into is between two related parties, even if consideration is agreed on
+cost-to-cost basis, the character of payment would not be altered.
+27. The terms of Agreement would reveal that the payment made is consideration for rendering of
+technical consultancy services.
+28. The purpose of payment if looked into would fall within the ambit of 'FTS' in terms of Section 9
+as well as in terms of 'DTAA'.
+29. The contention that provision of services rendered by the seconded employees would not fall
+within the ambit of 'FTS' is to be rejected, as the services are provided by seconded employees, who
+were offered senior positions in the Management and such employees were assigned by 'Walmart
+Inc.' to the petitioner only because of their experience in managerial and consultancy skills required
+by the petitioner and accordingly, the payment made ought to be construed as 'FTS' as defined in
+Section 9(1)(vii) of the I.T. Act.
+Indian Kanoon - http://indiankanoon.org/doc/69732097/ 6
+M/S Flipkart Internet Private Limited vs The Deputy Commissioner Of Income Tax on 24 June, 2022
+30. The examination of documents would reveal that the seconded employees remain the employees
+of 'Walmart Inc.' even during the period of secondment.
+31. The deduction of tax at source under Section 192 will not take away the applicability of the
+appropriate Section. IV. ANALYSIS:-
+32. In light of the above factual matrix, the following points arise for consideration:-
+(A) Whether the application of the petitioner dated 15.01.2020 filed under Section
+195(2) of the Income Tax Act was not maintainable?
+(i) It is the contention of Revenue that the application under Section 195(2) is maintainable only in
+the event of composite payment and that where a 'NIL Deduction Certificate' is sought for, recourse
+is to be made under Section
+197.
+(ii) It must be noted that the Deputy Commissioner of Income Tax (DCIT) while passing the
+impugned order has not dealt with such aspect and has rejected the application on its merits. In the
+present proceedings, wherein the petitioner has sought for setting aside of the impugned order,
+submission is made by the Revenue that Section 195(2) could not have been invoked.
+(iii) If it were the stand that the application was not maintainable, the DCIT ought to have recorded
+such finding while rejecting the application. In the absence of any finding regarding the
+non-maintainability of the application, it is not open for the Revenue to canvass such point in the
+proceedings instituted by the petitioner. The judicial review of the order of DCIT cannot be enlarged
+by considering fresh contentions which would have the effect of altering the impugned order by
+reading into its substantive aspects which were not considered by the DCIT.
+(iv) As rightly pointed out by the petitioner, such a contention as raised finds a cursory and fleeting
+mention in the statement of objections filed by the Revenue and cannot be raised for the first time in
+the present proceedings. Even otherwise, the scope of Section 197 being distinct from that of Section
+195(2), as Section 197 would come into operation on an application by the recipient of an income,
+which is not the factual scenario in the present case.
+(v) As per Rule 29BA of Income Tax Rules, 1962, an application can be made by the payer in Form
+No.15E for grant of Certificate determining appropriate proportion of sum chargeable to tax in the
+case of payment made to non-resident recipient under Section 195 (2) of the Act.
+The relevant extract of Rule 29BA and Form No.15E have been extracted hereinbelow :
+"29BA. Application for grant of certificate for determination of appropriate
+proportion of sum (other than Salary), payable to non-resident, chargeable in case of
+the recipients.
+Indian Kanoon - http://indiankanoon.org/doc/69732097/ 7
+M/S Flipkart Internet Private Limited vs The Deputy Commissioner Of Income Tax on 24 June, 2022
+(1) An application by a person for determination of appropriate proportion of sum
+chargeable in the case of non-resident recipient under sub-section (2) or sub-section
+(7) of section 195 shall be made in Form 15E electronically,-
+i) under digital signature; or
+ii) through electronic verification code.
+"[FORM No. 15E [See rule 29BA] [e-Form] Application by a person for a certificate
+under section 195(2) and 195(7) of the Income-tax Act, 1961, for determination of
+appropriate proportion of sum (other than salary) payable to non-resident,
+chargeable to tax in case of the recipient. To, The Assessing Officer, ............................
+I ______________ being the person responsible for making payment to a
+non-resident or to a foreign company any sum (not being income chargeable under
+the head "Salaries") do, hereby, request that a certificate may be issued to me after
+determining the appropriate proportion of such sum chargeable to tax in the case of
+the recipient (if any) and authorise me to deduct income-tax on such appropriate
+proportion (if any). ..."
+(vi) As per Rule 28 of Income Tax Rules, 1962, a person can file an application in Form No.13 for
+grant of a Certificate for deduction of income tax at any lower rates or no deduction of income tax
+under Section 197(1). Form No.13 prescribes the format of application that is to be made by the
+recipient/payee for no deduction of tax at source or lower rate for deduction of tax at source and the
+relevant portion of the Form is extracted as follows :
+[See rules 28 and 37G] [e-Form] Application by a person for a certificate under
+section 197 and/or sub-section (9) of section 206C of the Income-tax Act, 1961, for no
+deduction of tax or deduction or collection of tax at a lower rate To The Assessing
+Officer,
+1. I, ............................................................... of ...............................................................
+do, hereby, request that a certificate may be issued to the person responsible for
+paying me the incomes/sum, authorising him, not to deduct/deduct income-tax at
+lower rate, at the time of payment of such income/sum to me. The details are
+specified in Annexure-I. and/or I, ............................................................... of
+............................................................... do, hereby, request that a certificate may be
+issued to me for receiving the incomes/sum:-
+(i) after deduction of income-tax at lower rate as I do not have the details of the
+person making payments and their number is likely to exceed ..........................
+(ii) without deduction of income-tax as this application is made for the person/entity
+specified in rule 28AB.
+Indian Kanoon - http://indiankanoon.org/doc/69732097/ 8
+M/S Flipkart Internet Private Limited vs The Deputy Commissioner Of Income Tax on 24 June, 2022
+The details are specified in Annexure-II.
+and/or I, ............................................................... of ............................................................... do,
+hereby request that a certificate may be issued to the Seller/Lessor/Licensor, authorising him to
+collect income- tax at lower rate at the time of debit of such amount to my account or receipt thereof
+from me, as the case may be. The details are specified in Annexure-III. XXXXX "
+Accordingly, the Income Tax Rules and the relevant Form makes it clear that the
+application under Section 195 is at the instance of the person making the payment,
+while the application under Section 197 is at the instance of the recipient.
+(vii) This Court in Commissioner Of Income-Tax, International Taxation v. Bovis
+Lend Lease (India) (P.) Ltd.8 has reiterated this position at Para 12, which is as
+follows:
+"12. .......As is clear from Sub-Section (2) of Section 195 of the Act, if the person
+responsible for paying any amount chargeable under this Act to a non-resident,
+considers that the whole of such sum would not be income chargeable in the case of
+the recipient, he may [2012] 208 Taxmann 168 (Kar) make an application to the
+assessing officer to determine the appropriate portion of such sum so chargeable and
+upon such determination, tax shall be deducted under Sub-Section (1) only on that
+proportion of the sum which is so chargeable. However, if the assessing authority is
+of the view that no tax is chargeable, a certificate to that effect could be issued to the
+person responsible for making payment. Once a certificate is issued, the liability of
+the person responsible for paying under the aforesaid provision ceases and without
+any deduction he may make payment to the non-resident. Insofar as Section 197 is
+concerned it provides for a similar application being made by the recipient of the
+income. On such an application being made under Section 197(1), the assessing
+officer can give to him such certificate as may be appropriate. If such certificates
+states no tax is deductible, until such certificate is cancelled by the assessing officer,
+the person responsible for paying the income is under "No obligation" to deduct tax
+while making payment. In fact the language employed is "Shall". Therefore, it is
+mandatory in nature. What is the effect of such a certificate was the subject matter of
+interpretation."
+Accordingly, it is clear that Section 197 can be invoked by the recipient and accordingly, the
+contention that present application under Section 195(2) is not maintainable, is liable to be rejected.
+(viii) The Apex Court in Transmission Corpn. of A.P. Ltd. v. Commissioner of Income-Tax9 at
+para-8 has held as follows:-
+"8. ...Thereafter, section 195 deals with deduction of tax in cases where payment is to
+be made to a non-resident which inter alia provides:-
+Indian Kanoon - http://indiankanoon.org/doc/69732097/ 9
+M/S Flipkart Internet Private Limited vs The Deputy Commissioner Of Income Tax on 24 June, 2022
+(a) Any person responsible for paying to a non-resident, any interest, or any sum,
+chargeable under the provisions of this Act (other than interest on securities and
+salary), shall, at the time of payment, deduct income-tax thereon at the rates in force.
+Sub-section (1) of Section 195 excludes from its operation the sum which is to be paid
+as interest on securities or the sum which is chargeable under the head "Salaries" as
+the deduction on such sum would be governed by other sections, namely, sections
+192 and 193.
+[1999] 105 Taxmann 742 (SC)
+(b) Where the person responsible for paying any sum chargeable under the Act to a non-
+resident considers that the whole or such sum would not be chargeable in the case of the recipient,
+he may make an application to the Assessing Officer to determine "the appropriate proportion of
+such sums so chargeable"; upon such determination, tax shall be deducted under sub-section (1)
+only on that portion of the sum which is so chargeable.
+(c) Not only this, but sub-section (3) provides that any person entitled to receive any interest or
+other sum on which income- tax is to be deducted under sub-section (1) may make an application in
+the prescribed form to the Assessing Officer for the grant of certificate authorising him to receive
+such interest or other sum without deduction of tax under the sub-section.
+(d) Further, section 197 provides that recipient can file an application to the Assessing Officer for a
+certificate that the total income of the recipient justify the deduction of income-tax at any lower
+rates or no deduction of income tax and the Assessing Officer, if satisfied, can grant such certificate
+as may be appropriate."
+(emphasis supplied)
+(ix) It is the further contention of the respondent that, if the petitioner was of the view that the
+amount is not chargeable under the provisions of the Act, the question of obtaining certification
+under Section 195(2) or Section 197 does not arise.
+(x) The object of Section 195(2) and Section 197 of the Act are in the nature of safeguards for the
+assessee and are to be invoked to avoid consequences of a finding eventually that the payer ought to
+have made deduction after assessment and in such case, it would be open to treat the assessee as "an
+assessee in default" in terms of Section 201 of the I.T. Act, leading to prosecution being initiated
+under Section 276B against the payer and disallowance of expenses under Section 40(a)(ia) of the
+I.T. Act.
+(xi) Keeping in mind that the determination under Section 195(2) or under Section 197 by grant of
+Certificate being tentative in nature, the assessee must be permitted to invoke such provision and
+seek for certificate in order to avoid consequences of non-deduction as enumerated above. It cannot
+be stated that the assessee is debarred from invoking such a provision if he were of the view that the
+Indian Kanoon - http://indiankanoon.org/doc/69732097/ 10
+M/S Flipkart Internet Private Limited vs The Deputy Commissioner Of Income Tax on 24 June, 2022
+payment being made was not chargeable under the provisions of the I.T. Act. To place such a heavy
+burden of adjudication upon the assessee before invoking the tentative determination under Section
+195(2), considering the nature of proceedings, may not be called for. Accordingly, the recourse to
+Section 195(2) is perfectly in consonance with the object of Section 195 and cannot be faulted.
+(B) Whether the petitioner is required to deduct TDS under Section 195(2) read with Article 12(4) of
+the convention between Government of United States of America and the Government of Republic
+of India for the avoidance of Double Taxation and the prevention of FISCAL evasion?
+(i) At the outset, it ought to be noted that Section 90(2) of the I.T. Act provides that where the
+Central Government has entered into an agreement with a country outside India for the purpose of
+granting relief of tax or for avoidance of double taxation in relation to the assessee, provisions of the
+Act would apply to the extent they are more beneficial to the assessee.
+(ii) The Apex Court in Engineering Analysis Centre of Excellence Private Limited v. Commissioner
+of Income Tax and Another10 has clarified that where the provisions of the 'DTAA' is more
+beneficial than the provisions of the I.T. Act, it is the 'DTAA' that should be treated as the law that
+requires to be followed and applied. The observations at Para-176 would be of relevance, which
+reads as follows:-
+"176. The conclusions in the aforestated paragraph have no direct relevance to the
+facts on hand as the effect of Section 90 (2) of the Income Tax Act, read with
+Explanation IV thereof, is to treat the DTAA provision as the law that must be
+followed by Indian Courts, notwithstanding what may be contained in the Income
+Tax Act to the contrary, unless more beneficial to the Assessee. "
+(iii) Article 12(1) of 'DTAA' provides for taxation of Royalties and 'FIS' arising in a Contracting State
+and paid to a resident of other Contracting State. Further, Article 12(2) 2021 SCC OnLine SC 159
+provides that Royalties and 'FIS' may also be taxed in the Contracting State in which they arise.
+(iv) 'FIS' is defined in Article 12(4) as follows:-
+"4) For purposes of this Article, "fees for included services" means payments of any
+kind to any person in consideration for the rendering of any technical or consultancy
+services (including through the provision of services of technical or other personnel)
+if such services:
+(a) xxx
+(b) make available technical knowledge, experience, skill, know-how, or processes, or
+consist of the development and transfer of a technical plan or technical design."
+(v) There must be a comparison between the provisions of the I.T. Act and the provisions of 'DTAA'
+and a finding that 'DTAA' is better in light of the provision under Article 12(4) for the purpose of
+Indian Kanoon - http://indiankanoon.org/doc/69732097/ 11
+M/S Flipkart Internet Private Limited vs The Deputy Commissioner Of Income Tax on 24 June, 2022
+determining whether the payment made by the petitioner to 'Walmart Inc.' would constitute 'FIS',
+requires determination.
+(vi) Section 195(2) places an obligation on the petitioner to make deduction of tax under sub-section
+(1) where payment of "any such sum chargeable under this Act" is being made to a non-resident.
+(vii) The words chargeable under this Act if read in conjunction with provision of Article 12(4) of
+'DTAA' and the obligation under Section 195(2) is looked at, it becomes clear that 'FIS' as defined
+under Article 12(4) are more beneficial to the assessee insofar as his obligation to deduct the tax.
+Accordingly, Article 12(4) requires to be applied to determine liability to deduct tax.
+(viii) It is clear that 'FIS' under Article 12(4) would refer to payments of any kind to any person in
+consideration for rendering of technical or consultancy services (including through the provision of
+services of technical or other personnel) if such services make available technical knowledge,
+experience, skill, know-how or processes or consists of development or transfer of technical plan or
+technical design.
+(ix) In terms of Article 12(4)(b) for the purpose of construing 'FIS', it is necessary that the rendering
+of technical or consultancy services must make available technical knowledge, experience, skill,
+know-how or processes. Further, it may also consist of development and transfer of a technical plan
+or technical design.
+(x) Accordingly, it is not a mere rendering of technical or consultancy services, but the requirement
+of make available in terms of Article 12(4)(b) requires to be fulfilled. In light of the above legal
+requirement whether the present payment would amount to 'FIS' requires to be determined.
+(xi) The DCIT while passing the impugned order at Para-36 has concluded that payment made to
+'Walmart Inc.' will fall in the category of payments made to any person in consideration for
+rendering technical, consultancy services through the provision of services of technical or other
+personnel. It is observed that 'Walmart Inc.' has through the seconded employees provided technical
+services to Flipkart Internet Private Limited (India), as technical services would also include
+provision of services of personnel. In the impugned order what has been lost sight of is the
+requirement of "make available" in terms of Article 12(4)(b). A perusal of M.S.A. entered on
+29.05.2019 would refer to:-
+"(a) Clause 2.1.1 - The use of certain services described in Annexure-A are in the
+Scope of Work concluded between the parties or their Affiliates for the relevant
+Service;
+(b) Clause 2.1.2 - The use of certain Secondees on terms and conditions described in
+Annexure-B unless the parties agree to the contrary in respect of the particular
+secondment in the relevant Scope of Work."
+Indian Kanoon - http://indiankanoon.org/doc/69732097/ 12
+M/S Flipkart Internet Private Limited vs The Deputy Commissioner Of Income Tax on 24 June, 2022
+(xii) The M.S.A., if subjected to scrutiny as regards the aspect of secondment does not reveal the
+satisfaction of the requirement of 'make available' which is a sine qua non for being a 'FIS'.
+(xiii) The DCIT has proceeded to pass the impugned order without examining this aspect. The fact
+that the employees seconded have "the requisite experience, skill or training capable of completing
+the services contemplated in Secondment" (Clause 6.2.4 of M.S.A.) by itself is insufficient to treat it
+as 'FIS' as has been concluded, de hors the satisfaction of 'make available.'
+(xiv) The proceeding under Section 195 results in a tentative finding more as a safeguard to the
+payee and if such determination exempts the payee from making a deduction at that stage, such
+tentative deduction, it must be emphasized is still subject to final determination of taxability qua the
+recipient.
+(xv) Accordingly, the contention of respondents raised at the time of oral arguments that the
+enquiry regarding 'make available' still remains to be determined and is based on further material to
+be submitted regarding the requisition of the employees by the petitioner is an enquiry that is not
+called for. As the M.S.A. does not support 'make available', further enquiry beyond that may not be
+called for, considering the nature and scope of proceedings.
+(C) Deduction under Section 195(2) of Income Tax Act on the 'sum chargeable under this Act':-
+(i) As discussed above, it is the provision of 'DTAA' that would be of only relevance in
+determining the necessity of deducting tax. However, de hors the 'DTAA', the
+question of deduction would only arise where the payee is seeking to make payment
+to the non-resident of a sum chargeable under the I.T. Act.
+(ii) The DCIT has grossly erred while concluding that where the payment is made for
+the services rendered, then whether the charge for the services rendered is equivalent
+to the cost or not becomes irrelevant. The finding that the services rendered fall
+within the description of services as in Explanation-2 in Section 9(1)(vi) and that the
+element of profit is not an essential ingredient of receipt, to make it taxable is
+erroneous.
+(iii) It must be noted that as observed above, the provisions of the I.T. Act, will have
+to give way to the provisions of 'DTAA' when 'DTAA' is more beneficial to the
+assessee. It is in this context that the reliance on Explanation-2 in Section 9(1)(vii)
+may not be of relevance.
+The aforesaid provision of the I.T. Act which deals with 'FTS' is different from the concept of 'FIS'
+under Article 12(4). The 'make available' requirement that is mandated under Article 12(4) grants
+benefit to the petitioner and accordingly, the question of falling back on the provisions of Section 9
+of the I.T. Act does not arise. On this score alone, the conclusion in the impugned order of the
+payment for the service falling within the description under Section 9 of the I.T. Act as 'deemed
+income', is to be rejected.
+Indian Kanoon - http://indiankanoon.org/doc/69732097/ 13
+M/S Flipkart Internet Private Limited vs The Deputy Commissioner Of Income Tax on 24 June, 2022
+(D) Whether Deduction is on gross receipts?
+(i) The contention of learned counsel Sri. K.V.Aravind is that normally the deduction is on gross
+receipts as in cases of Section 194J and Section 194C of the I.T. Act and in light of the principle laid
+down in Associated Cement Co. Ltd. v. Commissioner of Income-Tax11, in the present case also the
+deduction should be on the gross remittance.
+(ii) Section 194C provides for deductions "at the time of credit of such sum to the account of the
+contractor or at the time of payment thereof in cash....". Similarly, Section 194J provides for
+deduction "at the time of credit of such sum to the account of the payee or at the time of payment
+thereof in cash....."
+(1993) 67 Taxmann 346 (SC)
+(iii) In the case of Associated Cement Company Ltd. (supra), the question was as regards deduction
+of tax under Section 194C(1) and as to whether deduction was to be confined to the income
+component of that sum was under
+consideration. The Apex Court has observed that it was neither possible nor
+permissible to the payer to determine what part of the amount paid by him to the
+contractor constitutes income of the latter. It was further observed that permitting
+such ascertainment of income component would result in placing an impossible
+burden upon the payer and would result in 'an impractical and unworkable
+provision'. This would not further the case of the Revenue as Section 194C(1) refers to
+deduction at the time of credit of 'such sum', which is in contradistinction to Section
+195 where the deduction is on 'any other sum chargeable under the provisions of the
+I.T. Act'
+(iv) What needs to be noticed is that the logic of deduction of tax on the gross amount
+as has been held in respect to Section 194C and Section 194J cannot be extended to
+Section 195 which specifically uses the term "any other sum chargeable under the
+provisions of this Act." Such terminology is absent in Section 194C and Section 194J
+of the I.T. Act.
+The difficulty of ascertainment of income component as being an impossible burden on the payer in
+the context of Section 194C as observed by Apex Court is obviated in the present case, as Section
+195(2) provides for a mechanism whereby the Assessing Officer may be called upon to determine
+"proportion of the sum which is so chargeable." In fact, in GE India Technology Centre (P) Ltd.
+(supra), the Apex Court at para-14 has specifically recorded the distinction abovementioned as
+follows:-
+"14. One more aspect needs to be highlighted. Section 195 falls in Chapter XVII which
+deals with collection and recovery. Chapter XVII-B deals with deduction at source by
+the payer. On analysis of various provisions of Chapter XVII one finds the use of
+Indian Kanoon - http://indiankanoon.org/doc/69732097/ 14
+M/S Flipkart Internet Private Limited vs The Deputy Commissioner Of Income Tax on 24 June, 2022
+different expressions, however, the expression "sum chargeable under the provisions
+of the Act" is used only in Section 195. For example, Section 194-C casts an obligation
+to deduct TAS in respect of "any sum paid to any resident".
+Similarly, Sections 194-EE and 194-F inter alia provide for deduction of tax in respect of "any
+amount" referred to in the specified provisions. In none of the provisions we find the expression
+"sum chargeable under the provisions of the Act", which as stated above, is an expression used only
+in Section 195(1). Therefore, this Court is required to give meaning and effect to the said expression.
+It follows, therefore, that the obligation to deduct TAS arises only when there is a sum chargeable
+under the Act."
+Accordingly, the contention of learned counsel for the Revenue regarding deduction on gross
+amount deserves to be rejected.
+(E) Secondment and reimbursement of costs:
+(i) In the impugned order, the DCIT has construed the secondment where services
+are provided and payment made thereon as being within the ambit of tax liability.
+As discussed supra, the 'FIS' in terms of the 'DTAA' would not include any payment towards
+provision of mere rendering of service and there must be a sine qua non of 'make available.' Further,
+the payment must be one chargeable under the provisions of I.T. Act.
+(ii) The payment is pursuant to M.S.A. and the payment in the present case relates to the
+secondment of employees. The following clauses of the M.S.A. would be of relevance:-
+(a) Clause 1.7 defines secondment as the relationship of assigning a secondee by a
+party to the other party as contemplated under the Agreement. The payment under
+the Agreement is also only in respect of the secondment.
+(b) Clause 1.5 defines the scope of work
+relating to the secondment.
+(c) Clause 3.1 which provides that Flipkart
+may terminate the services of the secondees.
+(d) Clause 4.2 provides that the party placing the secondees can invoice the party
+receiving the service, the secondment costs, expenses and incidental costs borne by
+the Home Country.
+(iii) While passing the impugned order, the DCIT has concluded that there is no
+employer-employee relationship between the petitioner and the seconded employees.
+Such a conclusion is arrived at while noticing that.-
+Indian Kanoon - http://indiankanoon.org/doc/69732097/ 15
+M/S Flipkart Internet Private Limited vs The Deputy Commissioner Of Income Tax on 24 June, 2022
+(a) 'Walmart Inc.' has the power to decide on continuance of the services with
+'Walmart Inc.' in U.S.A. after termination of their secondment in India. (see para 11.1
+of the impugned order),
+(b) 'Walmart Inc.' raises invoice after incurring the secondment costs (as per Clause
+4.2 of M.S.A.),
+(c) The equity eligibility of the seconded employee continues to be tied to 'Walmart
+Inc.'.
+(iv) However, what would be of significance is the relationship between the petitioner
+and the seconded employees during the period of secondment that has been lost sight
+of while passing the impugned order. Accordingly, after the period of secondment or
+its termination, the fact that 'Walmart Inc.' has the power to decide on the employees'
+continuance with 'Walmart Inc.' would not make any difference, as it would relate to
+a service condition post the period of secondment. That the equity eligibility of the
+seconded employee which was a pre-existing benefit (even prior to the secondment)
+ought not to alter the relationship of employer and employee between the petitioner
+and the employee. Further, the mere payment by 'Walmart Inc.' to the seconded
+employees would not alter the relationship between the petitioner and the seconded
+employees, as the petitioner only seeks to make payment to 'Walmart Inc.' of its
+payment to the seconded employee which is stated to be by way of reimbursement.
+(v) It ought to be noted that the petitioner as an entity was incorporated on
+01.10.2012 and had established an online market place for consumer goods. Only
+subsequently in 2018 'Walmart Inc.' acquired majority shareholding in the petitioner
+Company.
+(vi) It is not a case where the petitioner is merely acting as a back office for providing
+support service to the overseas entity, whereby the overseas entity could be treated as
+an employer.
+(vii) The petitioner issues the appointment letter, the employee reports to the
+petitioner, the petitioner has the power to terminate the services of the employee. For
+the purpose of a limited finding under Section 195 on the basis of the available
+material, it could be concluded that the petitioner is the employer.
+(viii) The Revenue has relied upon the judgment of the Apex Court in C.C., C.E. &
+S.T.-Bangalore (Adjudication) etc. v. M/s.Northern Operating Systems Pvt. Ltd.12
+where the Apex Court has interpreted the concept of a secondment agreement taking
+note of the contemporary business practice and has indicated that the traditional
+control test to indicate who the employer is may not be the sole test to be applied.
+Indian Kanoon - http://indiankanoon.org/doc/69732097/ 16
+M/S Flipkart Internet Private Limited vs The Deputy Commissioner Of Income Tax on 24 June, 2022
+The Apex Court while construing a contract whereby employees were seconded to the assessee by
+foreign group of Companies, had upheld the demand for service tax holding that in a secondment
+arrangement, a secondee would continue to be employed by the original employer.
+(ix) The Apex Court in the particular facts of the case had held that the Overseas Co., had a pool of
+highly skilled employees and having regard to their expertise were seconded to the assessee and
+upon cessation of the term of secondment would return to their overseas employees, while returning
+Civil Appeal Nos.2289-2293/2021 such finding on facts, the assessee was held liable to pay service
+tax for the period as mentioned in the show cause notice.
+(x) It needs to be noted that the judgment rendered was in the context of service tax and the only
+question for determination was as to whether supply of man power was covered under the taxable
+service and was to be treated as a service provided by a Foreign Company to an Indian Company.
+But in the present case, the legal requirement requires a finding to be recorded to treat a service as
+'FIS' which is "make available" to the Indian Company.
+(xi) Accordingly, any conclusion on an interpretation of secondment as contained in the M.S.A. to
+determine who the employer is and determining the nature of payment by itself would have no
+conclusive bearing on whether the payment made is for 'FIS' in light of the further requirement of
+"make available."
+(F) Distinguishing the Judgment in Centrica India Offshore (P.) Ltd. v. Commissioner of Income
+Tax-I, New Delhi13
+(i) The petitioner had challenged the order of the 'Authority for Advance Ruling' dated 14.03.2012
+by virtue of which the Authority had held that the income accruing to the Overseas Entities in view
+of the existence of a Service Permanent Establishment (Service PE) in India and that tax was liable
+to be deducted under Section 195.
+(ii) The question referred for advance ruling was as to whether the reimbursements made by the
+petitioner to the Overseas Entities of the actual costs of expenses incurred under the Secondment
+Agreement is in the nature of income accruing to the Overseas Entities.
+(iii) In the challenge before the High Court, the High Court had framed the issue for consideration
+as to whether the secondment of employees falls within provision of 'DTAA' which embodies the
+concept of 'Service PE' (see para-29).
+(2014) 227 Taxmann 368 (SC)
+(iv) The Delhi High Court has recorded a finding which however is a finding on facts:
+(a) That the rendition of service constituted "included service" that made available
+skill behind that service to the other party.
+Indian Kanoon - http://indiankanoon.org/doc/69732097/ 17
+M/S Flipkart Internet Private Limited vs The Deputy Commissioner Of Income Tax on 24 June, 2022
+(b) That the control over the employment by the Overseas Entity was overriding and
+has approved broadly regarding the existence of Service PE in India.
+(c) That the reimbursement is a matter to be demonstrated and the nomenclature
+cannot be determinative and mere payment of costs where the Entities are related
+would not take such payment out of the consideration of necessity to deduct.
+(v) It must be noted that the conclusion in Centrica (supra) does not further the case
+of Revenue, as the decision was rendered in the context of facts and on the basis of
+the material available.
+(vi) It must be noted that there was a reiteration of the necessity of demonstration of
+'make available' apart from rendering of the requisite service for satisfaction of 'FIS'.
+(vii) As regards reimbursement is concerned, the Court has merely reiterated that it
+is not the nomenclature that it is indeed an actual reimbursement that is required.
+Further, the Court, in light of the material has recorded a finding of the existence of
+Service PE by implication.
+(viii) All such findings do not take away from the requirement of establishing that:
+(a) The Domestic Entity was the real employer, that there was no Service PE in the
+local Country.
+(b) That there was indeed a reimbursement in the true sense and that cost payment
+among related Entities was to be ignored.
+(c) That 'FIS' satisfied the 'make available' test.
+Finally, the judgment in Centrica is on the facts and material on record.
+V. CONCLUSION:-
+33. In the present case, the stand taken on the material available is on the
+construction of legal position. As pointed out in the discussion earlier that the
+understanding of the legal position being erroneous, the only conclusion that could
+be arrived at is to allow the application.
+34. Though the Revenue has raised numerous contentions that further information is
+required to record a detailed finding, such stand is taken up for the first time in the
+present proceedings. A perusal of the file of the Department does not make out any
+instance where the Department had sought for further information which was not
+furnished. On the contrary, the petitioner has made out detailed representation on
+the legal position and record does not reflect any requisition for further information
+Indian Kanoon - http://indiankanoon.org/doc/69732097/ 18
+M/S Flipkart Internet Private Limited vs The Deputy Commissioner Of Income Tax on 24 June, 2022
+remaining unanswered. In fact, the Apex Court in 'GE India Technology Centre
+Private Limited' (supra) has rightly observed at para-16 as follows:-
+"16. The fact that the Revenue has not obtained any information per se cannot be a
+ground to construe Section 195 widely so as to require deduction of TAS even in a
+case where an amount paid is not chargeable to tax in India at all..."
+35. Further, it must be noticed that the finding as regards deduction of tax at source under Section
+195 of the I.T. Act is tentative insofar as the Revenue is concerned. Even if the Revenue orders that
+there was no obligation to make deduction under Section 195, the question of liability of the
+recipient still remains to be decided subsequently. Accordingly, the question of prejudice to the
+Revenue at the stage of Section 195 order is unavailable to it.
+36. Curiously, the file contains a note by the same DCIT who has eventually passed the impugned
+order, which note dated 10.03.2020 addressed to the C.I.T. seeks for granting approval for granting
+deduction of TDS at the rate of zero per cent on cost-to-cost reimbursement. However, the opinion
+was directed to be reconsidered as per the endorsement found in the file and eventually an order
+was passed by DCIT contrary to the earlier view and has rejected the application.
+37. Accordingly, the findings in the impugned order and the conclusion regarding the
+employer-employee relationship is based on a wrong premise and is liable to be set aside. As
+observed by this Court in Director of Income Tax (International Taxation) v. Abbey Business
+Services India (P.) Ltd.14, "it is also pertinent to note that the Secondment Agreement constitutes an
+independent contract of services in respect of employment with assessee." Hence, the DCIT in the
+impugned order has missed this aspect of the matter and has proceeded to consider the aspect of
+rendering of service as to whether it was 'FIS'.
+38. In light of setting aside of the impugned order in the context of legal position as noticed, the only
+order that can now be passed is of one granting 'nil tax deduction at source.'
+39. Accordingly, in light of the above discussion, the impugned order at Annexure-A dated
+01.05.2020 is set aside (2020) 122 Taxmann.Com 174 (Kar) and the respondent No.1 is directed to
+issue a Certificate under Section 195(2) of I.T. Act to the effect of 'Nil Tax Deduction at Source' as
+regards the petitioner's application dated 15.01.2020.
+Sd/-
+JUDGE VGR/NP
+Indian Kanoon - http://indiankanoon.org/doc/69732097/ 19

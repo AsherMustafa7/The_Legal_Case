@@ -1,0 +1,1059 @@
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+The Principal Commissioner vs M/S Obulapuram Mining on 17
+March, 2023
+Author: K.Somashekar
+Bench: K.Somashekar
+R
+IN THE HIGH COURT OF KARNATAKA, DHARWAD BENCH
+DATED THIS THE 17TH DAY OF MARCH, 2023
+PRESENT
+THE HON'BLE MR JUSTICE K.SOMASHEKAR
+AND
+THE HON'BLE MR JUSTICE UMESH M ADIGA
+ITA NO 100012 OF 2017
+BETWEEN:
+1 . THE PRINCIPAL COMMISSIONER
+OF INCOME TAX (CENTRAL)
+QUEENS ROAD, BENGALURU.
+2. THE DEPUTY COMMISSIONER OF
+INCOME TAX
+CENTRAL CIRCLE, 1(3)
+BENGALURU.
+... APPELLANTS
+(BY SRI.Y.V. RAVIRAJ, ADV.)
+AND:
+M/S OBULAPURAM MINING
+COMPANY PVT. LIMITED
+NO.6/4, RAGHAVACHARI ROAD
+BALLARI-583101
+PAN: AAACO5753D.
+... RESPONDENT
+(BY SRI. MAYANK JAIN, ADV.)
+THIS ITA IS FILED UNDER SECTION 260A OF THE INCOME
+TAX ACT, 1961, PRAYING TO SET ASIDE THE ORDERS PASSED BY
+THE INCOME TAX APPELLATE TRIBUNAL, BENGALURU BENCH 'C'
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 1
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+IN IT (TP) A NO.182 (BANG) 2014 DATED 20.10.2016 AND
+CONFIRM THE ORDER DATED 31.12.2013 PASSED BY THE
+2
+DEPUTY COMMISSIONER OF INCOME TAX CENTRAL CIRCLE 1 (3),
+BENGALURU.
+THIS ITA HAVING BEEN HEARD AND RESERVED FOR
+JUDGMENT ON 08.02.2023, COMING ON FOR PRONOUNCEMENT
+OF JUDGMENT THIS DAY, K.SOMASHEKAR J., DELIVERED THE
+FOLLOWING:
+JUDGMENT
+1.This appeal is filed by the revenue challenging the order dated 20.10.2016 passed by the Income
+Tax Appellate Tribunal, Bengaluru Bench 'C' in IT (TP) A No.182 (BANG) 2014 and thereby seeking
+to confirm the order dated 28.02.2013 passed by the Deputy Commissioner of Income Tax Central
+Circle 1(3), Bengaluru.
+2. Heard the learned Standing Counsel Sri.Y.V.Raviraj for the appellant / Revenue and the learned
+counsel Sri.Mayank Jain for the respondent / Assessee. Perused the order passed by the Income Tax
+Appellate Tribunal, Bengaluru including the order passed by the Deputy Commissioner of Income
+Tax, Central Circle 1(3), Bengaluru.
+3. The factual matrix of the case is that the assessee e-filed its return of income for the assessment
+year 2009-10 declaring an income of Rs.486,38,96,690/-. The case was selected for scrutiny and the
+assessment was completed under Section 143(3) read with Section 144C(13) of the Income Tax Act
+on 31.12.2013, determining total income at Rs.10,86,34,35,052/- by making various additions,
+which reads as under:
+Additional / Issues Rs.
+Transfer pricing adjustments 112,20,92,081/-
+Claim of bogus transportation expenses of 86,43,47,335/-
+iron ore 40% attributable towards illegal
+mining.
+Disallowance of expenses claimed under 387,76,69,992/-
+section 37(1) towards illegal mining.
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 2
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+4. Aggrieved by the above additions, the assessee preferred an appeal before the Tribunal against the
+additions made hereinabove, which came to be allowed.
+5. It is stated in the appeal that during the assessment proceedings, it was observed that, M/s GLA
+Trading International Pvt. Ltd, is an 'associated enterprise' (for short 'AE') of the assessee
+respondent within the meaning of section 92A based on the fact that Sri.Gali Janardhana Reddy,
+Director of tax payer company was appointed as Director of M/s.GLA Trading International Pvt.
+Ltd., on 19.12.2007. Subsequently, on 21.12.2007, issued and paid-up shares of the company (of the
+value of 1 Singapore dollar), which was hitherto held by Sri.Arangannal, was transferred to M/s.GJR
+Holdings International Ltd., another company registered in the Isle of Man of which Sri.Gali
+Janardhana Reddy is one of the Directors as confirmed by Sri.Gali Janardhana Reddy, in his
+statement recorded on 29.12.2009, before the Deputy Commissioner of Income Tax, Central
+Circle-1(3), Bengaluru. It was seen that the entire issued and paid-up share capital of M/s.GLA
+Trading International Pvt. Ltd., was held by M/s.GIR Holdings International Company (M/s.GJR
+Holdings International), where he had control over the activities and management of the said
+company. In brief, these facts clearly established that the assessee respondent company and
+M/s.GLA Trading Pvt. Ltd., Singapore, are AEs. within the meaning of section 92A of the income
+Tax Act, 1961.
+6. It is further stated that the matter was referred to the Transfer Pricing Officer and subsequently
+an order under Section 92CA came to be passed on 23.01.2013 making the following adjustment to
+the admitted value of international transactions.
+(a) In respect of sale of iron ore 111,48,68,440/-
+In respect of Helicopter
+(b) Hiring Charges 72,23,641/-
+Total adjustments Rs.112,20,92,081/-
+7. It is further stated that the draft assessment order came to be passed under section
+144C read with Section 143(3) of the Income Tax Act, 1961 by adopting the above
+adjustments to the value of the international transactions and the income of the
+assessee came to be upwardly revised by an amount of Rs.112,20,92,081/-. The
+assessee filed an appeal before the 'Dispute Resolution Panel' (DRP) Bengaluru,
+which by its order dated 29.11.2013, upheld the adjustments proposed in the draft
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 3
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+order. Accordingly, the assessment was completed by upwardly revising the income
+of the assessee to the extent of Rs.112,20,92,081/-.
+8. However, an appeal came to be filed against the above order before the Income Tax
+Appellate Tribunal. The Tribunal placed reliance on its order in the case of Page
+Industries Ltd., vs. DCIT in ITA No.163/bang/2015. The Tribunal held that only
+because one of the directors of the assessee company and of GLATIPL is common,
+Section 93CA is not applicable. The Tribunal also held that in order to constitute a
+relationship of an AE, the parameters laid down in both subsections (1) and (2)
+should be fulfilled. As per explanation, amendment carried out in sub-section (2) of
+section 92A by the Finance Act, 2002 w.e.f., 01.04.2002, mere participation of one or
+more persons in the management or control or capital of both the enterprises shall
+not make them AE unless the criteria specified in sub Section (2) is fulfilled and since
+the parameters laid down in sub Sections (1) and (2) of Section 92A are not fulfilled,
+there is no relationship of AE between the Assessee Company and GLATIPL and
+therefore, the provisions of chapter X of the Income Tax Act, are not applicable.
+9. It is further stated as regards the issue of claim of bogus transportation expenses of
+iron ore at Rs.86,43,47,335/- that during the assessment proceedings, the assessing
+authority made enquiries with regard to the genuineness of the claim of
+transportation expenses of Rs.648,41,29,000/- made by the assessee which was far in
+excess compared to the immediate previous year. The assessee respondent also could
+not furnish any evidence in support of its claim of expenditure in the form of
+invoices, goods carriage number or details of transport permit issued by the Director
+of Mines and Geology and Forest authorities. The enquiries made with the
+transporters to whom the assessee respondent is claimed to have paid transportation
+charges and deducted TDS, stated that they have not rendered any services to the
+assessee. It was found that some of them never owned any transportation vehicles
+and some of them did not have any means. Further, some of the vehicles were not
+transport vehicles but were autos, scooters, ambulances and school buses etc.
+However, on an examination of the bank accounts of the alleged transporters, it was
+also found that the amounts deposited in their accounts had been immediately
+withdrawn in cash. And finally, the expenditure claimed against the name of the
+parties, wherein enquiries had been done came to be disallowed by the assessing
+authority while completing the assessment. However, the Tribunal granted relief to
+the assessee by deleting the additions made on this issue by following its earlier order
+in the case of assessee for the assessment year 2010-11 on the ground that the
+assessing authority had not made available the persons for cross examination of the
+assessee despite its request. The Tribunal while granting relief had relied upon the
+judgment of the Delhi High Court in the case of CIT Vs. SMC Share brokers Ltd, (288
+ITR 345 (DEL), wherein the revenue had not made available the persons for cross-
+examination of the assessee despite of his request.
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 4
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+10. It is further stated regarding disallowance of claim of expenses attributable towards illegal
+mining Rs.387,76,69,992/- that during the assessment proceedings, the Assessing Authority noticed
+that the respondent was carrying on illegal mining activities by carrying out mining activities in
+areas other than those permitted by the Government. In this regard, the CBI, Hyderabad had also
+conducted an investigation and had filed a charge-sheet. The assessee company had incurred
+expenses towards shifting the permanent boundary pillars in order to encroach upon un-allotted
+area for illegal mining and formed illegal roads to transport the ore extracted illegally and during the
+year the assessee respondent had shown a total production of 57,10,000 Mts., out of which 22,81,141
+Mts, was held to be illegal and the illegal production worked out to 40% of the total production.
+While completing the assessment, for the reasons given in detail, the assessing authority disallowed
+40% of the total expenditure claimed towards transportation expenses at Rs.387,76,69,992/- under
+Section 37(1) of the Act. However, the Tribunal granted relief to the Assessee by deleting the
+additions made on this issue by following its earlier order in the case of assessee for the assessment
+year 2010-11. The tax effect in the present case is Rs.273,39,03,77,056/- and fulfills the criteria of
+monetary limits prescribed by the Board. Aggrieved by the same, the appellant / revenue has filed
+this appeal by challenging the order dated 20.10.2016 passed by the Income Tax Appellate Tribunal,
+Bengaluru Bench 'C' in IT (TP) A No.182 (BANG) 2014 and to confirm the order dated 31.12.2013
+passed by the Deputy Commissioner of Income Tax Central Circle 1(3), Bengaluru.
+11. Learned standing counsel Sri.Y.V.Raviraj for the appellants/revenue contends that with regard to
+the issue of transfer pricing adjustment, the Tribunal has grossly erred in not appreciating the
+categorical finding of facts made out by the revenue authorities that M/s. GLAT International P.
+Ltd., is an 'associated enterprise' of the assessee company. The Tribunal has erred in not considering
+the detailed finding of fact made out by the Commissioner of Income Tax in his order dated
+30.03.2012 passed under u/s 263 of the Act in the case of the respondent assessee for the
+assessment year 2008-09 identical to the facts of the present year, wherein it was clearly established
+that M/s. GLAT International Pvt. Ltd., is an associated enterprise of the assessee company.
+12. The Tribunal ought to have appreciated that, in order to determine whether an entity is an
+associate enterprise, control is not merely in terms of shareholding but participation in management
+and decision making, as held in the following decisions:
+i) 52 Taxmann.Com 520(Delhi) (2015) - First American securities (P) Ltd., Vs.
+Addl.CIT.
+ii) 57 Taxmann.Com 62 (Mumbai Trib) (2015) -
+Kaybee (P) Ltd., V. ITO.
+iii) 13 Taxmann.Com 62 (Mumbai) (2011) -
+Diageo India (P) Ltd. V.DCIT.
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 5
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+13. It is further contended that on the issue of claim of bogus transportation expenses, the Tribunal
+has grossly erred in rejecting various findings of fact gathered by the assessing authority before
+arriving at the conclusion to disallow a portion of the claim of transportation expenses as bogus.
+14. Further, the Tribunal has grossly erred in relying upon the judgment of the High Court of Delhi
+in the case of M/s. SMC Share Brokers Ltd., the facts of which are clearly distinguishable as in the
+said case, the assessee had made multiple requests with the assessing officer for cross-examination
+of the party. Whereas in the present case, a request had been made only a week before the
+completion of assessment proceedings and when the assessment was getting barred by limitation.
+15. The Tribunal has grossly erred in relying upon the judgment of the High Court in the case of CIT
+Vs. Pradeep Kumar as the facts of the case are distinguishable and the addition made by the
+assessing officer amounting to Rs.4,34,000/- related to agricultural income shown by the assessee.
+The above said case was also decided by the Hon'ble High Court by considering the monetary limits
+for the purpose of filing the appeal and decided in favor of the assessee. Whereas in the present case,
+the Tribunal ought to have appreciated that the additions have been made in well reasoned order.
+16. It is further contended that the Tribunal ought to have appreciated the addition towards
+disallowance of claim of transportation expenses which has been made by the Assessing Officer
+relying upon the independent evidence collected from the Transport Department and the banks and
+not merely on the basis of the transporters from whom statement under Section 131 was recorded
+and as such the additions made are sustainable even without the reliance on the statements
+recorded under Section
+131. The Tribunal has grossly erred in not considering the judgment of the Hon'ble Apex Court in the
+case of ITO vs. M.Pirai Choodi (20 Taxmann.com 733 (2012) (SC), wherein it was held that the
+order of assessment passed without granting an opportunity to the assessee to cross-examine,
+should have been set aside by the High Court, and consequently the Tribunal should have remanded
+the matter directing the Assessing Officer to grant an opportunity to the assessee to cross-examine
+the concerned party and re-do the assessment.
+17. However, in the present case, the Tribunal has grossly erred in deleting the additions made
+instead of remanding the matter back to the Assessing Officer to grant an opportunity to the
+assessee to cross-examine the party concerned in order to meet the ends of justice.
+18. It is further contended that the Tribunal ought to have taken into consideration the judgment of
+the Hon'ble High Court of Delhi in the case of Nath International Sales vs. UOI, JAIR (1992 (Del)
+295) HC) wherein the Hon'ble Court has clearly held that right of cross-examination is not an
+absolute right. Further, in the case of State of J & K vs. Bakshi Gula Mahammad [AIR 1967 SC 122]
+the Hon'ble Apex Court has held that the right of hearing does not necessarily include right of cross-
+examination.
+19. It is further contended that on the issue of Disallowance under Section 37(1), the Tribunal has
+grossly erred in deleting the addition made by the Assessing Authority under section 37(1) of the Act
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 6
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+towards the expenses claimed on its illegal mining activity. The Tribunal has grossly erred in
+rejecting the finding of facts on record relied upon by the Assessing Authority while making this
+addition.
+20. Based upon the facts and the order passed by the Income Tax Appellate Tribunal, Bengaluru
+including the order passed by the Deputy Commissioner of Income Tax Central Circle 1(3),
+Bengaluru, this appeal was admitted on 15.03.2019 to consider following substantial question of
+law:
+"1. Whether on the facts and circumstances of the case and in law, the Tribunal is
+correct in holding that there is no relationship of 'associated enterprise' between the
+assessee respondent company and GLAT International P Ltd and provisions of
+Chapter X of Income Tax are not applicable as parameters laid down in sub section
+(1) and (2) of section 92A are not fulfilled?
+2. Whether on the facts and circumstances of the case and in law, the Tribunal is
+correct in holding that there is no relationship of 'associated enterprise' between the
+assessee respondent company and GLA International P Ltd when the said GLA
+International P Ltd is a one dollar company with a single share and there is evidence
+of participation, management and control by the common director, holding more
+than 26% share in the assessee company and as such the findings of the Tribunal
+perverse?
+3. Whether on the facts and circumstances of the case and in law, the Tribunal is
+correct in deleting the additions of Rs.86,43,47,335/- made by the Assessing Officer
+on account of bogus claim of expenditure on transportation made by the assessee,
+particularly when the Assessing Officer has arrived at the additions based on
+independent enquiries and evidence collected from the transport department, the
+banks and not merely on the statements recorded from the transporters?
+4. Whether on the facts and circumstances of the case and in law, the Tribunal is
+correct in deleting the additions of Rs.86,43,47,335/- made by the Assessing Officer
+on account of bogus claim of expenditure on transportation made by the assessee by
+relying on the decisions of the Hon'ble Delhi high Court in the case of CIT VS. SMC
+Share Brokers Ltd, and in the case of CIT Vs. Pradeep Kumar Gupta, the facts and
+circumstances of the cases are distinguishable?
+5. Whether on the facts and in the circumstances of the case and in law, the Tribunal
+is justified in deleting the additions made by the Assessing Officer u/s 37(1) on
+account of illegal mining by disallowing the expenditure of Rs.387,76,69,992/-,
+wherein such disallowance has been made by the Assessing Officer on the basis of
+evidence from CBI, Hyderabad, Special Committee set up by the Andhra Pradesh
+Government and through investigation, thereby holding that there is illegal
+production of 22,81,141 mts i.e., @ 40% of admitted production of 57,10,000 Mts and
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 7
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+accordingly disallowing @40%, the expenses on the same?"
+21. Learned Standing Counsel Sri.Y.V.Raviraj has facilitated the order of the ITAT in IT(TP) A
+No.182 (Bang) 2014 of the assessment year 2009-10, wherein the ITAT has held that the assessee's
+appeal directed against the assessment order passed by the A.O. under Section 144C (13) as per the
+directions of the DRP for the assessment year 2008-09. Before the ITAT, learned AR of the assessee
+submitted that even if the allegation of the A.O. is accepted that this company i.e. M/s (GLAITPL) is
+an AE of the assessee company for this reason that entire share capital i.e. one Share of M/s
+(GLAITPL) was transferred by Shri Arangannal to M/s (GJRHIL) on 21.12.2007, then also it is an
+AE of the assessee company for two days only because the said one share of GLATIPL was
+transferred by GJRHIL to Inter Link Services Group Ltd. ILSGL on 22.12.2007 and with this
+company or its directors, the assessee company or its directors has no relationship. It was submitted
+by the learned AR of the assessee that regarding TP issues, this is the submission that TP provisions
+cannot be applied in the present case because the parameters specified u/s 92A (2) of the I.T. Act are
+not attracted, where reliance was placed on the tribunal order rendered in the case of Page
+Industries Limited vs. DCIT in ITA No. 163/Bang/2015, copy of which is available on pages 15 to 38
+of the paper book. It was also submitted that on pages 5 to 14 of the same paper book is a copy of
+Notarial certificate issued to Inter Link Services Group Limited and in particular, where the
+attention of the ITAT was drawn to page 11 as per which, on the date 12.05.2011, the current director
+of Inter Link Services Group Limited was Arangannal S/o Kathamuthu and he was appointed on
+24.04.2001 and the current shareholder on that date was Iyer Corporate Services Pvt. Ltd.
+(Formerly known as Crest Services Pvt. Ltd.,). Thereafter, it was submitted that as per the
+assessment order, the A.O. has held that M/s GLA Trading International Pte Ltd. (GLATIPL) is an
+AE of the assessee company as per section 92A of the I.T. Act and his decision is on this basis that
+Sri G. J. Reddy, a director of the assessee company was appointed as a director of (GLATIPL) on
+19.12.2007 and thereafter, on 21.12.2007, the entire share capital of (GLATIPL) being only one
+share of the value of 1 Singapore Dollar was transferred to GJR Holdings International Ltd.
+(GJRHIL) registered in the isle of MAN and Shri G. J. Reddy is one of the directors of that co. also
+i.e. (GJRHIL). Thereafter, it was submitted that the said one share of (GLATIPL) was transferred by
+GJRHIL to Inter Link Services Group Ltd. (ILSGL) on 22.12.2007 and the necessary evidence in this
+regard is available on page 169 of the paper book. It was submitted that in the present year i.e.
+during 01.04.2008 to 31.03.2009, the only one share of GLATIPL was held by ILSGL and neither
+the assessee company nor its directors are holding any share of that co. i.e. ILSGL and the directors
+of the assessee company are not a director in that co. i.e. ILSGL and hence, provisions of section 92A
+are not applicable under these facts and in view of the order rendered by the tribunal in the case of
+Page Industries Limited vs. DCIT (Supra). As against this, learned DR of the revenue supported the
+assessment order, TPO's order and the order of DRP. On consideration of the rival submissions, the
+ITAT reproduced the provisions of Section 92A of the I.T. Act as it contains the definition of the
+Term "Associated Enterprise" i.e., AE. These are as under:-
+"92A.(1) For the purposes of this section and Sections 92, 92B, 92C, 92D, 92E and
+92F, "associated enterprise", in relation to another enterprise, means an enterprise-
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 8
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+(a) which participates, directly or indirectly, or through one or more intermediaries,
+in the management or control or capital of the other enterprise; or
+(b) in respect of which one or more persons who participate, directly or indirectly, or
+through one or more intermediaries, in its management or control or capital, are the
+same persons who participate, directly or indirectly, or through one or more
+intermediaries, in the management or control or capital of the other enterprise.
+22. The ITAT took note of the objections of the A.O., assessee's explanations and relevant facts in
+this regard. The objections of the A.O. as reproduced above are these that Shri GJR, one of the
+directors of the assessee company was appointed a director of (GLATIPL) also on 19.12.2007 and on
+21.12.2007, the entire share capital of (GLATIPL) being one equity share was transferred to
+(GJRHIL) in which, Shri GJR is one of the directors. Hence, as per the objections of the A.O., the
+entire share capital of (GLATIPL) is held by (GJRHIL) on 21.12.2007 and on that date, Shri GJR,
+one of the directors of the assessee company is director of (GJRHIL) also being a company holding
+entire share capital of (GLATIPL). It is further submitted that whether these facts make (GLATIPL)
+an AE of the assessee company and see that whether during the period from 01.04.2008 to
+31.03.2009 also, the facts were same or not because if the facts are not same in this later period,
+then even if it is held that (GLATIPL) is AE of the assessee company on 21.12.2007, it will not help
+the revenue in the present year. As per the subsequent developments for which evidence is also
+available on record, the said one share of (GLATIPL) was transferred by (GJRHIL) to Inter Link
+Services Group Ltd. (ILSGL) on 22.12.2007 and the necessary evidence in this regard is available on
+page 169 of the paper book. Hence, on and from 22.12.2007, (ILSGL) is the shareholder of
+(GLATIPL) holding its entire share capital and the only director of (ILSGL) as per Notarial
+certificate issued to (ILSGL) on 12.05.2011, the current director of Inter Link Services Group
+Limited was Arangannal S/o Kathamuthu and he was appointed on 24.04.2001 and the current
+shareholder on that date was Iyer Corporate Services Pte Ltd. (Formerly known as Crest Services Pte
+Ltd.). Hence, it is seen that from 22.12.2007 till 12.05.2001 at least, the entire share capital of
+(GLATIPL) was held by (ILSGL) and with this company, the assessee company or its directors has
+no relationship.
+23. On considering the rival submissions, the ITAT held that since the learned DR of the revenue
+could not point out any difference in facts, we find no reason to take a contrary view in the present
+year. Hence in line with the Tribunal order in A.Y. 2010-11 in assessee's own case, ITAT deleted first
+two disallowances i.e., 1) Disallowance of Transportation charges, and
+2) Disallowance of Expenses under Explanation to section 37(1) and in respect of third issue i.e.,
+addition made on account of sale of Land, the ITAT set-aside the order of CIT (A) on that issue and
+restored the matter to A.O. for a fresh decision with the same directions as were given by the
+tribunal in A.Y. 2010-11 and ground No.6 was allowed and the appeal of the assessee was allowed.
+24. Learned Standing Counsel Sri.Y.V.Raviraj for the appellant / revenue has also produced the
+proceedings of the Dispute Resolution Panel dated 29.11.2013 under Section 144C(5) read with
+Section 144C(8) of the I.T. Act for the assessment year 2009-10, wherein the grounds of objections
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 9
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+raised where the A.O. ought not to have made the reference to the TPO under Section 92CA of the
+Act since the assessee has not entered into any international transactions defined under Section 92B
+of the Act and the A.O. and also the TPO ought to have appreciated that the assessee company is not
+an associated enterprise of M/s. GLA Trading International Pvt. Ltd., as defined in Section 92A of
+the Act. The Dispute Resolution Panel accordingly held that, "the assessee has entered into a
+complicated arrangement whereby a helicopter owned by an AE at Singapore is shown to be leased
+out to two Indian charter companies which in turn hire out the same helicopter to the assessee itself.
+By this mechanism, the hire charges, though apparently paid to the charter companies actually and
+practically benefitted to the AE which owned the helicopter. It is a kind of circular transaction
+wherein the veil of obfuscation of the actual transactors has been lifted by the TPO who has rightly
+treated the transaction as an international transaction and benchmarked the same. Here too, the
+ratio of the Mcdowell case referred to earlier has a bearing. The tax authority does retain the
+prerogative to go behind the form of a transaction to determine its actual nature Therefore, the
+action of the TPO is justified and duly upheld by this panel.
+Based on the above discussion, the directions of the Panel as per the provisions of Section 144C(5) of
+the IT Act hereby are communicated to the assessee and the Departmental authorities concerned."
+25. On controvert to the arguments advanced by the learned Standing counsel Sri.Y.V.Raviraj for the
+appellants / revenue, learned counsel Sri.Mayank Jain has taken us through various contentions by
+urging the reliance of the Patna High Court in the case of Kanak Kumari vs. Commissioner of
+Income Tax reported in (1955) 28 ITR 462, relating to the scope of Section 133(4) of the Income Tax
+Act, wherein it is held that Section 133(4) has granted a very wide statutory discretion to the Income
+Tax Appellate Tribunal in disposing of an appeal but the discretion given under this section to the
+Income Tax Appellate Tribunal is a judicial discretion which must be exercised in accordance with
+legal principles, and not in an arbitrary or capricious manner. Discretion means when it is said that
+something is to be done within the discretion of the authorities that something is to be done
+according to the rules of reason and justice, not according to private opinion. It is to be, not
+arbitrary, vague and fanciful, but legal and regular. It must be exercised within the limit, to which an
+honest man competent to the discharge of his office ought to confine himself.
+26. Learned counsel Sri.Mayank Jain for the respondent / assessee further placed reliance on a
+decision in the case of Rajesh Babubhai Damania vs. Commissioner of Income Tax reported in
+(2001) 251 ITR 541, wherein at para 7 it is held as under:
+"7. The Tribunal totally overlooked the assessment of evidence done by the
+Commissioner of Income-tax (Appeals) and dealt with the matter as if it was
+entertaining an appeal against the order of the Assessing Officer. There was no
+question of giving "one more innings" to the Assessing Officer. The appeals are not to
+be decided for giving "one more innings", to the lower authorities. In the appellate
+jurisdiction the appellate court has to consider whether there is justification for
+upsetting the order against which the appeal is filed. In this case, where the assessee
+had repeatedly produced the creditors before the Income-tax Officer and had filed
+affidavits in support of the credit entries and also filed confirmations and given
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 10
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+names and addresses of the concerned parties as well as proved repayment of the
+amounts by account payee cheques and done all that was within his power to prove
+the genuineness of the loans, the finding arrived at by the appellate authority on the
+basis of such reliable material could not have been so cursorily dealt with by the
+Tribunal for the purpose of giving "one more innings" to the Assessing Officer. It was
+the duty of the Tribunal to ascertain the reasons which were given by the
+Commissioner of Income-tax (Appeals) in whose order the order of the Assessing
+Officer had merged and not to base its decision merely on "a bit of negligence" of the
+Assessing Officer in not cross-examining the parties who were produced before him
+four to five times. In our opinion, the Tribunal has reached the conclusion which
+cannot reasonably be reached by anyone, and there is no warrant for restoring the
+matter to the Assessing Officer on such specious grounds as are given by the
+Tribunal.
+27. Learned counsel Sri.Mayank Jain for the respondent / assessee contended that it is the case of
+the revenue that protective assessments have been passed in the hands of transporters, where it is
+quantified that no transportation has taken place. Therefore, it is deemed that assessee has not
+transported iron ore during the current assessment year. In order to substantiate this claim, revenue
+produced three orders i.e., i) the provisional assessment order dated 28.03.2012, where
+provisional/protective assessment passed in the hands of Rageni Gangadhar, under Section 143(3)
+of the Income Tax Act, ii) the order passed by the Commissioner (Appeals) (Karnool) dated
+12.07.2012 which upheld the order of assessment. However, held that the assessment is on
+substantive basis and iii) the order of the Tribunal (Hyderabad) dated 14.12.2012 wherein it set
+aside both the orders of the assessment and appellate Commissioner.
+28. It is further contended that under the Old Income Tax Act, 1922, provisional / protective
+assessments were provided for u/s. 23-B of the IT Act, 1922. This provisional assessment was a
+prelude to an advance tax or to regular assessments. In other words, if an Assessing Officer desires
+to pass a provisional assessment he had to do it u/s. 23-B of the IT Act, 1922. The Hon'ble Supreme
+Court had an occasion to deal with this provision in two judgments which are as under:
+a. Lalji Haridas Vs. ITO & Ors., (1961) 43 ITR 387 (SC) b. ITO Vs. Bachu Lal Kapoor
+(1966) 60 ITR 74 (SC) "15. Some argument was advanced on the question of the
+validity of what are called protective or precautional assessments" Reference was
+made to Jagannath Hanumanbux us TO (1957) 31 ITR 603 (Cal) and to the decision
+of this Court in Lals Haridas us. ITO (1961) 43 ITR 387 (SC) In the former, the
+validity of protective assessment was approved and in the latter, this Court though
+the question of assessment was raised, did not express its final opinion thereon. This
+Court held that when there was a doubt as to which person among two was liable to
+be assessed, parallel proceedings might be started against both; and it also laid down
+an equitable procedure to be followed in that situation. In this case, the question of
+protective assessment does not call for our decision and we do not express our
+opinion thereon."
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 11
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+29. It is further contended that in the New Income Tax Act, 1961, provisional / protective
+assessments were provided u/s 141 of the IT Act, 1961, which contemplated provisional assessment
+for the purpose of computing advance tax. This provision came up for interpretation before the
+Hon'ble Supreme Court, in the case of Jaipur Udyog Ltd., & Anr., Vs. CIT & Anr., reported in (1969)
+71 ITR 799 (SC) wherein it was held as under:
+"10. We are unable to accept the opinion of the High Court if it be assumed that
+provisional assessment has to be made in accordance with and subject to the
+provisions of the Act, distinction between a provisional assessment and a regular
+assessment gets completely blurred. The scheme of s. 141 is to call upon the assessee
+to pay tax provisionally at the appropriate rate on what he admits is his taxable
+income, subject to the benefit of the ounces under subs (2) The section by the
+assessee exceeds the amount admitted by him, nor whether the allowances or
+deductions claimed are admissible. If there be a discrepancy between the return
+made and the accounts and documents accompanying the return, the ITO may ask
+the assessee to explain the discrepancy. but he must make a professional assessment
+on the basis of the return initially made or clarified and the accounts and documents
+filed. He cannot make a provisional assessment by holding that certain claims made
+by the assessee are in law unjustified. It is transpired that the assessee has without
+reasonable cause concealed particulars of his income or has furnished inaccurate
+particulars of his income, it may be open to the ITO to impose penalty upon him after
+the regular assessment is completed. But it is not open to him to determine whether
+there has been any concealment of particulars of income or to decide whether claims
+which have been made are unwarranted. In the view we have expressed, the ITO was
+not justified in holding that the claim made by the company for carrying forward and
+seeking to debit against Rs.74 lakhs odd an amount of Rs.103 lakhs odd was liable to
+be rejected.
+30. Learned counsel for the respondent / assessee contended that therefore, the provisional /
+protective assessment order passed by the Assessing Officer (Ananthpur), which was confirmed by
+the Appellate Commissioner is without jurisdiction and has no legs to stand on and cannot be
+enforced. It is without "authority of law" as contemplated under Article 265 of the Constitution of
+India. Hence, the order of the Assessing Officer (Ananthpur), Appellate Commissioner's order
+(Karnool), Tribunal's order (Hyderabad) is without jurisdiction and cannot be looked into.
+31. Learned counsel for the respondent / assessee facilitated the assessment order dated 31.12.2009
+for the assessment year 2008-09 and contended that the assessee has filed e-return of income for
+the assessment year 2008-09 under Section 139 on 30.09.2008 under ack. No.44479161300908
+with digital signature declaring income of Rs.764,53,84,970/-. The financial year 2007-08 is the
+year of search in the case of the assessee. Consequent to the material gathered in the case of the
+assessee searched, action under Section 153A of the Act was initiated in the assessee's case for
+earlier years. In view of this, in the case of assessee the assessment year 2008-09 falls under Section
+153B(1)(b) of the Act. Accordingly, the case was posted for hearing by issuance of notice under
+Section 143(2) on 15.09.2009.
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 12
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+32. It is further contended that GLA Trading International PTE Ltd., formerly known as MAN-GO
+PUB PTE Ltd., is a registered company in Singapore with Register No. 200414580K. On the basis of
+the Annual Report and other reports filed by GLA Trading International PTE Ltd. with Accounting
+and Corporate Regulatory Authority (ACRA), Singapore, it is seen that Shri Gali Janardhan Reddy is
+a Director of the said company with effect from 19.12.2007. At this point, it may not be out of place
+to explain a little about ACRA. ACRA is the International Regulator of Business Entities and Public
+Accountants in Singapore. ACRA also plays the role of a facilitator for the development of business
+entities and the public accountancy profession. ACRA was formed as a Statutory Board on 1 April,
+2004, following the merger of the then Registry of Companies and Business (RCB) and the Public
+Accountants Board (PAB). This authority is responsible to administer various Acts of Singapore
+including Accounting and Corporate Regulatory Authority (ACRA) Act, Accountants Act, the
+Companies Act, the Business Registration Act etc. The companies registered in Singapore are
+required to lodge/file reports regarding the changed particulars regarding Company's Directors,
+Managers, regarding change of name, change of registered office etc., to the ACRA. It is seen from
+one of such reports lodged with ACRA on 01.02.2008 by GLA Trading International PTE Ltd.,
+regarding change of particulars of company's directors that Shri Gali Janardhan Reddy was
+appointed as a Director in the company w.e.f. 19.12.2007. It was further observed that Shri Gali
+Janardhan Reddy who is the Director in the assessee company is also a Director in GLA Trading
+International PTE Ltd., Singapore. The assessee company has sold/exported iron ore as mentioned
+in the above chart to GLA International Trading PTE Limited after Shri Gali Janardhan Reddy
+became a Director. Thus it is a case of an international transaction of sale/export of iron ore
+between two associate entities with Shri Gali Janardhan Reddy as a Director in both the companies.
+Further, as seen from the chart above, it is very clear that there is gross under-invoicing in respect of
+sales/exports made by the assessee company to the associate company (GLA Trading International
+PTE Ltd).
+33. The assessee company was issued with a showcause notice requesting them to explain why the
+difference in price/rate representing under invoiced portion should not be added to the income of
+the assessee company for the Asst. Year 2008-09 under the provisions of Income Tax Act.
+34. It is further contended that in view of non-reference by the assessing officer to the TPO for
+determining Arm's Length Price (ALP) is erroneous and also prejudicial to the interest of revenue
+inasmuch as the matter could not be examined by the TPO as per the Instructions of the CBDT in
+Instruction No 3, as mentioned above, having regard to the fact that the international transaction
+was more than the specified amount.
+35. However, the submissions made by the assessee company before the Commissioner of Income
+Tax were as under:
+(a) In this case, the assessment has been completed under section 143(3) of the Act
+on 31/12/2009 by the Deputy Commissioner of Income Tax, Central Circle-1(3),
+Bangalore. During the course of assessment proceedings the Assessing Officer vide
+para No.4.1 to 7, considered the transactions done by the assessee company with GLA
+Trading Pvt. Ltd., and added a sum of Rs.86,42,88,802/- to the returned income on
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 13
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+the ground of under-invoiced sale price.
+The assessee has filed appeal against the assessment order to the CIT(Appeals) which is pending for
+disposal.
+Now the IT Commissioner is of the opinion that the assessment order is erroneous on the ground
+that C.B.D.T's Instruction No.3 of 2003, dated 20/5/2003 has not been followed. As per Ld. C.I.T.
+wherever the aggregate value of international transaction exceeds Rs.5 crore (now raised to 15
+crore), the case should be selected for scrutiny and reference under section 92CA be made to the
+transfer pricing officer for determination of arms- length price(ALP). The copy of above instruction
+has not been provided to the assessee.
+(b) Referring to Section 92CA(1), the assessee's representative contends that nowhere in the Act it is
+stated that the matter has to be referred to the Transfer Pricing officer mandatorily. The Assessing
+officer in his wisdom has applied provisions of Sec.40A(2) of the Act. Thus the AO has followed the
+law both in letter and spirit.
+(c) As per the Act the CBDT can issue instructions under section 119 of the Act. Subsection (1) of
+Section 119 of the Act provides that the Board may, from time to time, issue such orders,
+instructions and directions to other income tax authorities as it may deem fit for the proper
+administration of this Act, and such authorities and all other persons employed in the execution of
+this Act shall observe and follow such others, instructions and directions of the Board. So, the
+instruction can be issued by the CBDT for the proper administration of the Act and instruction
+cannot overrule the Act itself. As per the section 119, the subordinate Authority shall observe and
+follow instructions. The instructions are not binding on the assessee. CIT Vs. Hero Cycle Pvt. Ltd.
+228 ITR 463(SC).
+(d) Without prejudice to the above, the case does not fall under section 92CA of the Act. Section
+92CA is applicable in the cases where arm length price has to be computed under section 92C of the
+Act, in the cases relating to an international transaction. The term international transaction has
+been defined in section 92B of the Act. Subsection (1) section 92B eads as under" for the purpose of
+this Act and section 92, 92C, 92D and 92E, International transaction"
+means a transaction between two or more associated enterprises, either or both of
+whom are non residents. The term associated enterprises have been defined in
+section 92A of this Act.
+The A.R. in his submissions has reproduced Sec. 92A and contends that in the
+assessee's case Sri G. Janardhan Reddy is the director of the Assessee Company and
+GLA Trading International Private Ltd. The assessing officer has NOT established
+that Assessee Company is in the management or control or capital of the other
+enterprise. The assessing officer has not proved that G. Janardhan Reddy owns more
+than 25% of voting power in the other company. All these things show that the GLA
+Trading International Private Ltd is not an associated enterprise of the Assessee
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 14
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+Company.
+(e) Without prejudice to the above, the contracts with G LA Trading International
+Private Ltd were entered into on 4/12/2007, whereas Sri G.Janardhan Reddy became
+director of the other company only on 19/12/2007. As on the date of contract, GLA
+Trading International Private Ltd. was not an associate enterprise of Obulapuram
+Mining Company Private Ltd. After becoming the director of the GLA Trading
+International Private Ltd the assessee has only executed the contract which was
+entered into earlier. Hence the question of application of section 92CA in the present
+case does not arise.
+(f) Hon'ble ITAT Delhi in the case of CIT Delhi-IV Vs. International Travel House
+Ltd. As reported (2010) 45 DTR (Del) 249; (2010) 194 TAXMAN 324 which has been
+confirmed by the order of the Hon'ble Delhi High Court held that the order to be
+prejudicial to the interest of revenue, the loss of revenue should be glaring in the
+assessment order. In the above case it is said that, the invoking of jurisdiction under
+section 263 of the Act by the Commissioner of income tax for revising the return
+without recording a specific finding regarding the extent to which the order passed by
+the AO was prejudicial to the interest of revenue and rather asking the AO to conduct
+further inquiry to verify the net commission transferred to P&L Account afresh when
+the AO had already examined this aspect merely amounted to change of opinion
+which is not permissible u/s.263 of the Act Accordingly the order passed by the and
+hence, the order passed by the Commissioner of income tax 263 of the Act requires to
+be canceled. under section 263 of the Act is hereby canceled and the grounds of
+appeal taken by the assessee stand allowed.
+(g) In the case of Malabar Industrial Company V/S CIT 243 ITR 83, honorable
+Supreme Court has held that a bare reading of this provision makes it clear that the
+prerequisite to the exercise of jurisdiction by the Commissioner Suomoto under it, is
+that the order of the Income tax is erroneous in so far as it is prejudicial to the
+interest of the revenue. The Commissioner has to be satisfied of twin conditions,
+namely (1) the order of the assessing officer sought to be revised is erroneous; and (ii)
+it is prejudicial to the interest of the revenue. If one of them is absent - if the order of
+Income tax officer is erroneous but is not prejudicial to the revenue or if it is not
+erroneous but is prejudicial to the revenue - recourse cannot be had to section 263(1)
+of the Act.
+There can be no doubt that the provision cannot be invoked to correct each and every type of
+mistake and error committed by the assessing officer, it is only when an order is erroneous that the
+section will be attracted. incorrect assumption of facts or an incorrect application of law will satisfy
+the requirement of the order being erroneous. In the same category fall orders passed without
+applying the principles of natural justice or without application of mind.
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 15
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+The Apex Court further held that when the Assessing Officer adopted one of the courses permissible
+under law and it has resulted in loss of revenue, or where views are possible and where AO has taken
+one of the views with which the Commissioner of income tax does not agree, it cannot be treated as
+the erroneous order prejudicial to the interest of revenue, unless the view taken by the AO is
+unsustainable in law.
+(h) In the case of CIT Vs. Smt. Minalben S Parikh 215 ITR 81, Honourable Gujarat High Court held
+that, Every loss of revenue as a consequence of an order of the assessing officer cannot be treated as
+prejudicial to the interests of the revenue, for example, when an income tax officer adopted one of
+the coerces permissible in law and it has resulted in loss of revenue; or where two views are possible
+and the income tax officer has taken one view with which the commissioner does not agree, it cannot
+be treated as an erroneous order prejudicial to the interest of the revenue, unless the view taken by
+the income tax officer is unsustainable in law. It has been held by this Court that where a sum not
+earned by a person is assessed as income in his hands on his offering, the order passed by the
+assessing officer accepting the same as such will be erroneous and prejudicial to the interests of the
+revenue.
+(i) In the case of CIT V/S Ratlam Coal Ash Co.
+honorable Calcutta High Court held that, the commissioner does not have unfettered power to
+initiate proceedings by revision, re-examining the matter and directing fresh on his own whim for
+change or having a different view. He has been conferred with a quasi judicial power and the same is
+hedged with limitation and therefore, it has to be exercised within the parameters of the provisions.
+When the commissioner is himself not able to form an opinion, he cannot direct another inquiry by
+the assessing officer u/s 263 of the Act.
+(j) In the case of CIT V/S. Arvind Jewellers Honourable Gujarat High Court has held that, Section
+263 of the Act does not empower him to take action on these facts to arrive at the conclusion that
+the order passed by the Income tax Officer is erroneous and prejudicial to the interest of the
+revenue. Since the material was there on record and the said material was considered by the Income
+tax Officer and a particular view was taken, the mere fact that a different view can be taken, should
+not be the basis for an action u/s 263 of the Act and it cannot be held to justified"
+(k) In the case of CIT V/S Gabrial India Ltd Honourable Bombay High Court has held
+that, if there are no materials on record on the basis of which it can be said that the
+commissioner acting in a reasonable manner I could have come to such a conclusion,
+the very initiation of proceedings by him will be illegal and lwithout jurisdiction. The
+Commissioner cannot initiate proceedings with a view to starting fishing and roving
+enquiries in matters or orders which are already concluded. Such action will be
+against the well accepted policy of law that there must be a point of finality in all legal
+proceedings, that the issue should not be reactivated beyond a particular stage and
+that lapse of time induce other spheres of human activity.
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 16
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+36. It is further contended that the assessee filed the return of income on 30.09.2008. The Assessing
+Officer passed an order of assessment on 31.12.2009 u/s 143(3) of the IT Act. He had computed the
+transfer pricing difference in respect of all the international transactions without referring the
+matter to the transfer pricing officer. Therefore, the Commissioner exercised jurisdiction u/s 263 of
+the IT Act and directed the Assessing Officer to transfer the file to the transfer pricing officer in
+accordance with law. This order of the Commissioner was challenged before the Income Tax
+Appellate Tribunal. The Tribunal proceeded to hold that section 92CA(4) of the IT Act which came
+into effect from 01.06.2007 would be applicable only for Assessment Year 2009-10 and not for the
+current Assessment Year 2008-09 by relying on a number of judgments. Hence, the Tribunal by
+order dated:29.07.2016 held that exercise of jurisdiction u/s 263 of the IT Act was erroneous and
+allowed the appeal of the assessee.
+37. In the meantime, based on the order of the Commissioner, proceedings were initiated by the
+Assessing Officer by referring the matter to the Transfer Pricing Officer. The Transfer pricing officer
+passed an order. Consequently the Assessing Officer gave effect to this Transfer Pricing Officer's
+order by passing a separate assessment order u/s 143(3) read with Section 263 and 144C (13) of the
+IT Act. This order of the Assessing Officer was challenged before the Tribunal who proceeded to
+confirm its earlier order dated 29.07.2016 and allowed the appeal of the assessee under an order
+dated 17.10.2016.
+38. Both the orders were subject matter of appeal before this Hon'ble Court. This Hon'ble Court was
+of the view that CBDT Circular No.3 of 2003 was applicable to the facts of the case. It further held
+that the Assessing Officer was bound to refer the matter to the Transfer Pricing Officer. Therefore,
+the order passed by the Commissioner was upheld. Consequently, both the orders of the tribunal
+were set aside.
+39. The subject matter of this appeal for the Assessment Year 2008-09 is whether the Assessing
+Officer can suo-moto decide the issue regarding transfer pricing by himself or the matter has to be
+referred to the Transfer Pricing Officer. Answering this question, the Hon'ble High Court held that
+the matter should be referred to the Transfer Pricing Officer. It is submitted that this finding of this
+Hon'ble Court for the Assessment Year 2008-09 has absolutely no connection to the subsequent
+Assessment Year 2009-10. Hence, the revenue cannot trace any reliance on the order for the year
+2008-09.
+40. It is contended that there is incomplete order - Hon'ble High Court for Assessment Year
+2008-09 has set aside both the orders of the tribunal. It has also upheld the order of the
+commissioner referring the matter to the Transfer Pricing Officer. However, the subject matter of
+controversy was "jurisdiction". In respect of Whereas, the question on merits whether the
+quantification of Transfer Pricing Officer is correct or not has not been addressed. Therefore, for
+Assessment Year 2008-09 the proceedings are incomplete.
+41. It is further contended by the learned counsel for the respondent / assessee that this appeal
+under Section 260A of the IT Act by raising five substantial questions of law for consideration of this
+Hon'ble Court. The facts which arise in this appeal is addressed first and thereafter the grounds in
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 17
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+support of the order of the Tribunal dated 30.09.2009 declaring Rs.486,38,96,690/- as income of
+the assessee. Assessee during the year claimed firstly income declared on sale of iron ore abroad,
+secondly expenses claimed towards transportation of iron ore from assessee's stock yard to port and
+thirdly expenses claimed towards excavation of iron ore, processing iron ore and royalty paid to the
+Government for transportation. On 13.07.2010 notice was issued u/s. 143(2) of the IT Act for
+scrutiny of the return of income to the assessee. On 28.10.2010 Section 92CA(1) of the IT Act, first
+Reference made by Assessing Officer to TPO-2, Bangalore to compute arms length price in respect of
+export sale of iron ore to M/s. GLA Trading International P. Ltd., worth Rs.205,07,08,959/- on the
+ground that M/s. GLA Trading International P. Ltd., and assessee had common Director. On
+23.05.2012, Section 92CA(2A) of the IT Act, the second reference made by Assessing Officer relating
+to helicopter hiring charges paid to M/s OSS Air Management Pvt. Ltd., New Delhi and M/s Heligo
+Charter Pvt. Ltd, Mumbai of Rs.3,99,41,330/- on the ground that it amounted to international
+transaction. On 03.11.2010 Section 92CA(2B) of the IT Act Transfer Pricing Officer, proceeded to
+issue notice to the assessee to show cause as to why iron ore sold to GLA Trading International,
+Singapore should not be computed at "arms length price" by invoking the cup method of
+computation. On 10.12.2010, reply sent by the assessee to the Transfer Pricing Officer, stating that
+response filed to the penalty notice dated 04.02.2010 should be taken as a response to the show
+cause notice. On 23.01.2012 Section 92CA(2B) of the IT Act, the Transfer Pricing Officer, issued
+notice to the assessee proposing to treat the assessee and GLA Trading International Pte., Ltd., as
+"associated enterprises" for the previous year 01.04.2008 to 31.03.2009 i.e., AY. 2009-10.
+42. It is relevant to refer to the written submission of the learned counsel for the respondent, the
+merits regarding valuation of helicopter rentals that the rentals were paid to Indian Companies.
+Further there is no computation made regarding the arms length price as to the actual rentals to be
+paid. What is disallowed is the rental actually paid to the Indian companies. There is no foreign
+transaction involved. Further Chapter X itself is not attractive. The charge regarding domestic
+transactions, helicopter rental in this case was applicable by Finance Act, 2012 w.ef. 01.04.2013.
+Therefore, for the current Assessment Year 2009-10, domestic transactions of helicopter rentals
+cannot be made applicable. These are all the contentions made by the learned counsel for the
+respondent/assessee and on these premises, learned counsel submitted that no interference is
+required in the order passed by the Income Tax Appellate Tribunal and seeks to dismiss the appeal
+as being devoid of merits.
+43. Having heard the learned Standing Counsel Sri.Y.V.Raviraj for the appellant/revenue and the
+learned counsel Sri.Mayank Jain for the respondent / assessee, it is relevant to peruse the order
+passed by the ITAT, Bengaluru Bench "C", Bengaluru in IT (TP) A No.182 (Bang) 2014 of the
+assessment year 2009-10. The impugned order passed by the AO under Section 144C(13) as per the
+directions of the DRP for the assessment year 2008-09 has been challenged by the appellant namely
+M/s. Obulapuram Mining Company Private Limited, thereby arraigned as respondent/assessee in
+this appeal. It is also relevant to refer to Section 92A of the IT Act, 1961, as it contains the definition
+of the Term 'Associated Enterprise' i.e., AE, which is as under:
+"92A.(1) For the purposes of this section and Sections 92, 92B, 92C, 92D, 92E and
+92F, "associated enterprise", in relation to another enterprise, means an enterprise -
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 18
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+(a) which participates, directly or indirectly, or through one or more intermediaries,
+in the management or control or capital of the other enterprise; or
+(b) in respect of which one or more persons who participate, directly or indirectly, or
+through one or more intermediaries, in its management or control or capital, are the
+same persons who participate, directly or indirectly, or through one or more
+intermediaries, in the management or control or capital of the other enterprise.
+(2) For the purposes of sub-section (1), two enterprises shall be deemed to be
+associated enterprises if, at any time during the previous year,
+(a) one enterprise holds, directly or indirectly, shares carrying not less than
+twenty-six per cent of the voting power in the other enterprise; or
+(b) any person or enterprise holds, directly or indirectly, shares carrying not less than
+twenty-six per cent of the voting power in each of such enterprises;
+or
+(c) a loan advanced by one enterprise to the other enterprise constitutes not less than fifty-one
+percent of the book value of the total assets of the other enterprise, or
+(d) one enterprise guarantees not less than ten per cent of the total borrowings of the other
+enterprise; or
+(e) more than half of the board of directors or members of the governing board, or one or more
+executive directors or executive members of the governing board of one enterprise, are appointed by
+the other enterprise; or
+(f) more than half of the directors or members of the governing board, or one or more of the
+executive directors or members of the governing board, of each of the two enterprises are appointed
+by the same person or persons; or
+(g) the manufacture or processing of goods or articles or business carried out by one enterprise is
+wholly dependent on the use of know-how, patents, copyrights, trade-marks, licenses, franchises or
+any other business or commercial rights of similar nature, or any data, documentation, drawing or
+specification relating to any patent, invention, model, design, secret formula or process, of which the
+other enterprise is the owner or in respect of which the other enterprise has exclusive rights, or
+(h) ninety per cent or more of the raw materials and consumables required for the manufacture or
+processing of goods or articles carried out by one enterprise, are supplied by the other enterprise, or
+by persons specified by the other enterprise, and the prices and other conditions relating to the
+supply are influenced by such other enterprise; or
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 19
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+(i) the goods or articles manufactured or processed by one enterprise, are sold to the other
+enterprise or to persons specified by the other enterprise, and the prices and other conditions
+relating thereto are influenced by such other enterprise, or
+(i) where one enterprise is controlled by an individual, the other enterprise is also controlled by such
+individual or his relative or jointly by such individual and relative of such individual; or
+(k) where one enterprise is controlled by a Hindu undivided family, the other enterprise is
+controlled by a member of such Hindu undivided family or by a relative of a member of such Hindu
+undivided family or jointly by such member and his relative; or
+(l) where one enterprise is a firm, association of persons or body of individuals, the other enterprise
+holds not less than ten per cent interest in such firm, association of persons or body of individuals;
+or
+(m) there exists between the two enterprises, any relationship of mutual interest, as may be
+prescribed.'
+44. Keeping in view the aforesaid provision of the IT Act, 1961, and even taking into consideration
+the objections of the A.O., assessee's explanations and relevant facts in this regard, the objections of
+the A.O. as reproduced above are that Shri Gali Janardhan Reddy, one of the directors of the
+assessee company was appointed a director of (GLATIPL) also on 19.12.2007 and on 21.12.2007, the
+entire share capital of (GLATIPL) being one equity share was transferred to (GJRHIL) in which,
+Shri Gali Janardhan Reddy is one of the directors. As per the objections of the A.O., the entire share
+capital of (GLATIPL) is held by (GJRHIL) on 21.12.2007 and on that date, Shri Gali Janardhan
+Reddy, one of the directors of the assessee company is director of (GJRHIL) also being a company
+holding entire share capital of (GLATIPL). Therefore, looking into the result, whether these facts
+make (GLATIPL) an AE of the assessee company later but before that, we first examine the facts in
+the present year and see whether during the period from 01.04.2008 to 31.03.2009 also, the facts
+were same or not because if the facts are not same in this later period, then even if it is held that
+(GLATIPL) is AE of the assessee company on 21.12.2007, it will not help the revenue in the present
+year.
+45. Perusal of the provisions of sub section (2) of section 92A, for the purpose of Sub Section (1) of
+section 92A, at least one condition out of 13 conditions prescribed in sub section (2) as per clause (a)
+to (m) has to be satisfied. Since, the only one share of GLATIPL was held by ILSGL and the assessee
+company or its directors are not holding any share in that company and none of the directors of the
+assessee company is a director of ILSGL, none of the conditions specified in sub section 2 of section
+92A is being satisfied. On a specific query put to learned DR of the revenue in this regard by the
+ITAT, in reply, he stated that the condition specified in clause (j) of sub section (2) is satisfied in the
+present case. But ITAT found that even this clause is not applicable because there is no common
+director or common shareholding in the case of the Assessee Company and ILSGL. Admittedly,
+there is a common director of the assessee company and GLATIPL i.e. Shri Gali Janardhan Reddy
+but in view of this fact that the entire share capital being one share of GLATIPL is held by ILSGL
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 20
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+and there is no link or relationship between the assessee company and ILSGL or between the
+directors of the assessee company and directors of ILSGL, it cannot be said that GLATIPL is
+controlled by Shri Gali Janardhan Reddy merely because he is a director of GLATIPL without any
+shareholding in that company or without any relationship with the directors of holding company of
+GLATIPL i.e. ILSGL or with the director of ILSGL.
+46. In the light of the facts, ITAT examined the applicability of the tribunal order rendered in the
+case of Page Industries Limited vs. DCIT (Supra). Para No. 11, 11.1 and 11.2 of this tribunal order are
+relevant and hence, these paras are reproduced herein below:-
+"11. It is the case of the AO that the assessee- company and JII are AEs as they fall
+within the parameters of clause (g) of sub- sec. (2) of sec.92A of the Act. It is not the
+case of the AO that the present case falls within parameters of sub-section (1) of
+sec.92A of the Act. In this background, we are called upon to adjudicate whether both
+the entities are AEs within the meaning of sec.92A of the Act. The definition of the
+term 'AE is divided into two sub- sections (1) and (2). Sub-sec. (1) contains (
+definition of AE is parameters of management control or capital of that enterprise.
+Sub-sec. (2) contains a deeming provision and also enumerates circumstances when
+the enterprise can be deemed to be AE. The opening words of sub-sec. (2) are
+amended by Finance Act, 2002 w.e.f. 1/4/2002. The amendment was explained as
+follows by the Memorandum of Finance Bill 2002:
+(means) "It is proposed to amend sub-sec. (2) of the said section to clarify that the
+mere fact of participation of one enterprise in the management or control or capital
+of the other enterprise or the participation of one or more persons in the
+management or control or capital of both the enterprises shall not make them
+associated enterprise unless the criteria specified in sub-sec (2) are fulfilled.""
+The resultant of the amendment is thus explained that unless the requirements of
+sub-sec. (2) are fulfilled, the sub- section (1) cannot be applied at all. This implies
+that in order to constitute a relationship of an AE, the parameters laid down in both
+sub- sections (1) and (2) should be fulfilled. If we were to hold that there is a
+relationship of AE, once the requirements of sub-se (2) are fulfilled, then the
+provisions of sub-sec. (1) renders otiose or superfluous. Now, it is well settled canon
+interpretation of statutes that while interpreting the taxing statute, construction shall
+not be adopted which renders particular provision otiose When interpreting a
+provision in a taxing statute, a construction, which would preserve the purpose of the
+provision, must be adopted.
+11.1 As observed in State of Tamil Nadu v. M.K. Kandaswami [(1975) 36 STC 191, 198 (SC)], in
+interpreting a provision, a construction which would defeat its purpose and, in effect, obliterate it
+from the statute book should be eschewed. If more than one construction is possible, that which
+preserves its workability and efficacy is to be preferred to the one which would render it otiose or
+sterile. In that view of the matter, courts should not adopt construction which would upset or even
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 21
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+impair the purpose in introducing a particular provision in the statute [Calcutta Jute Manufacturing
+Co. v. CTO, (1997) 106 STC 433, 439 (SC)]. Therefore, following this principle, we hold that since
+the parameters laid down in sub-section (1) are not fulfilled, there is no relationship of AE between
+assessee-company and JII and therefore, the provisions of chapter X of the Act have no application.
+11.2 In the result, the transfer pricing adjustment made by the TPO is not valid in law."
+47. In the facts of the case, the ITAT order is squarely applicable because as per the revenue, only
+because one of the directors of the assessee company and of GLATIPL is common, section 92CA is
+applicable but it was held by the tribunal in this case that in order to constitute relationship of an
+AE, the parameters laid down in both sub sections (1) and (2) should be fulfilled. As per the
+explanation, amendment carried out in sub section (2) of section 92A by Finance Act, 2002 w.e.f.
+01.04.2002, as reproduced by the tribunal in Para 11 above, mere participation of one or more
+persons in the management or control or capital of both the enterprises shall not make them AE
+unless the criteria specified in sub section (2) are fulfilled and even as per the learned DR of the
+revenue, clause (j) of sub section (2) of section 92A is attracted but this claim is also devoid of merit
+because he could only point out that one director of the assessee company and of GLATIPL is
+common but this fact alone does not establish that the said common director is controlling GLATIPL
+when the said company is a subsidiary of ILSGL and the assessee company or its directors are not
+having any relationship with ILSGL or director of ILSGL. Hence, by respectfully following the
+Tribunal's order, that since the parameters laid down in sub section (1) and (2) of section 92A are
+not fulfilled, there is no relationship of AE between the Assessee Company and GLATIPL and
+therefore, the provisions of Chapter X of the I.T. Act has no application.
+48. The grounds relating to Corporate Tax issue as per Grounds No. 6, 9 and 10, the learned AR of
+the assessee submitted that three issues are involved in this ground i.e. 1) Disallowance of
+Transportation charges, 2) Disallowance of Expenses under Explanation to section 37 (1) and 3)
+Addition made on account of sale of Land. He submitted that all these three issues are covered in
+favor of the assessee by the tribunal order rendered in assessee's own case for A. Y. 2010-11 in ITA
+No. 653/Bang/2015 dated 29.07.2016 and accordingly, in the present year also, the disallowance
+should be deleted because facts are same. Thereafter, he submitted that Para 14 and 15 of tribunal's
+order are relevant in respect of Disallowance of Expenses under Explanation to section 37 (1), which
+was deleted by the tribunal in that year. Regarding the third issue i.e. Addition made on account of
+sale of Land, he submitted that in Para 21 of that tribunal order, the tribunal held that gross amount
+of sale proceeds cannot be taxed and the matter was restored back to the AO for a fresh decision
+with a direction that deduction should be allowed regarding cost of acquisition, if any incurred by
+the assessee. He submitted that all these three issues may be decided in the present year also on
+similar lines. Learned DR of the revenue supported the orders of the authorities below but he could
+not point out any difference in facts.
+49. On consideration of the rival submissions and first of all, Paragraph Nos. 8, 14, 15 and 21 of the
+tribunal order are extracted below for the sake of reference. The same reads as under:-
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 22
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+"8. In the next judgment of the Hon'ble Delhi High Court rendered in the case of CIT
+Vs Pradeep Kumar Gupta (Supra) also, it was held by the Hon'ble Delhi High Court
+that it was mandatory for the revenue to produce A for cross examination by the
+assessee on the specific demand in this regard and thereafter, it was held that the
+violation of the revenue to produce A for cross examination by the assessee assumes
+fatal consequences. Hence, as per these two judgments, for this reason alone that the
+revenue has not made available these persons for cross examination of the assessee
+despite such request by the assessee before the AO, these statements cannot be used
+against the assessee and without taking help from these statements of the
+transporters, the disallowance made by the AO out of transportation charges is not
+sustainable as per these two judgments relied upon by the Id. AR of the assessee and
+no contradictory judgment of the Hon'ble jurisdictional High Court or Apex Court or
+of any other High Courts could be made available by the learned DR of the revenue
+and therefore, respectfully following these two judgments of the Hon'ble Delhi High
+Court, ITAT held that in the facts of the present case, these disallowance out of
+transportation allowance is not sustainable. Ground 0.2 of the assessee is allowed.
+14. In the present case, we are not concerned as to whether he assessee is engaged in
+illegal mining or not but in the present case, because this is not the case of the AO
+that any deduction has been claimed by the assessee for facilitating to carry out the
+illegal mining alleged by the AO or for any penalty in respect of such illegal mining
+because the disallowance has been made by the AO to the extent of 40% of the total
+mining expenses and since 60% of the expenses are allowed by the AO, the remaining
+40% of the same expenses cannot be considered as expenses for the purpose of
+offense or unlawful purposes. Hence, this disallowance is not justified.
+15. Now we examine the applicability of various judgments cited by the Id. AR of the
+assessee. The first judgment cited by him is of the Hon'ble Apex Court rendered in
+the case of CIT Vs Piara Singh (Supra). In this case, it was held that loss arising from
+confiscation by Customs authorities is deductible from the income derived from
+smuggling activities. Hence, expenses incurred in course of an illegal business is
+allowable for computing income from such business but this judgment is prior to
+introduction of Explanation -1 to sec.37 of the IT Act and therefore this judgment is
+not relevant in respect of those expenses which are hit by this explanation and in our
+considered opinion, the normal mining expenses are not hit by this explanation and
+hence, this issue is covered in favor of the assessee by this judgment since the
+explanation to section 37 (1) is not attracted in the facts of the present case. Similarly,
+the other two judgments of which reliance has been placed by the ld. AR of the
+assessee are also for the period prior to introduction of Explanation-1 to sec.37 (1) of
+the Act, 1961 been and therefore, as per these judgments also, this issue is covered in
+favor of the assessee since the explanation to section 37 (1) is not attracted in the
+facts of the present case. In view of our above discussion, ground no.3 of the assessee
+is allowed.
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 23
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+21. We have heard the rival submissions. We find force in the submission of the ld. AR of the
+assessee because we find that the amount of Rs.86,60,079/- for which addition has been by the AO
+is the amount of assessee's share in the sale consideration for sale of land and hence, even if it is
+held that income on this account is to be taxed in the present year, the same cannot be to the extent
+of gross amount of sale proceeds and income has to be assessed after allowing deduction regarding
+cost of acquisition, if any incurred by the assessee but since there is no discussion on this aspect in
+the orders of the authorities below, we feel it proper that this issue should be restored back to the
+file of the AO for a fresh decision in the light of the above discussion after providing adequate
+opportunity of being heard to the assessee. We order accordingly. This ground is partly allowed for
+statistical purposes."
+50. With reference to the aforesaid reasons, the ITAT held that the learned DR of the revenue could
+not point out any difference in facts and hence we find no reason to take a contrary view in the
+present year. Hence in line with the tribunal order in A.Y. 2010-11 in assessee's own case, we delete
+first two disallowances i.e. 1) Disallowance of Transportation charges, and
+2) Disallowance of Expenses under Explanation to section 37 (1) and in respect of third issue i.e.
+Addition made on account of sale of Land, we set aside the order of CIT (A) on that issue and restore
+the matter to A.O. for a fresh decision with the same directions as were given by the tribunal in A. Y.
+2010-11. Ground No. 6 is allowed in this manner and held that the grounds raised by the assessee do
+not require any separate adjudication and the appeal of the assessee was allowed. The same has
+been challenged in this appeal by urging various grounds and also raising substantial questions of
+law.
+51. It is relevant to refer to the assessment order dated 31.12.2013 under Section 143(3) read with
+Section 144C(13) of the IT Act, for the assessment year 2009-10, wherein the export sale to GLA
+trading international Pte Ltd., claim of bogus transportation expenses of iron ore, illegal mining,
+personal expenses of directors of the assessee company, sale of land, bogus of accommodation entry
+has been taken for consideration and the Central Bureau of Investigation, Hyderabad, has
+conducted investigations into the illegal mining activity of the assessee Company and has filed a
+charge sheet in RC 17(A)/2009. It was found during investigations that the assessee in its lease area
+of 68.50 Ha. in AGK Mines had shifted permanent boundary pillars of station No.8 to Western
+direction about 40 mtrs. and constructed a permanent pillar in order to encroach unallotted area for
+illegal mining. It was also found that the permanent pillar of station No. 10 was removed. The
+assessee company has formed illegal roads for transportation of ore to join station No.7 instead of to
+station No.8. They have also formed illegal roads near station No.1 in the reserved forest area
+outside the lease area, over a distance of 2.95 kms. During investigations, it was also found that the
+assessee company has extracted iron ore illegally by encroaching upon the adjacent forest lands and
+adjacent mines of other leaseholders. These are the things which are considered by the ITAT and the
+same has been challenged under this appeal by the appellant/revenue.
+52. It is the case of the revenue that protective assessments have been passed in the hands of the
+transporters, wherein it is quantified that no transportation has taken place. Therefore, it is deemed
+that the assessee has not transported the iron ore during the current assessment year. In order to
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 24
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+substantiate this claim, the revenue has produced certain orders dated 28.03.2012, 12.07.2012 &
+14.12.2012. Admittedly the assessment order passed by the assessing officer, Ananthapura is
+provisional/protective assessment and this order is passed without authority of law as contemplated
+under Article 265 of the Constitution of India, which stipulates that no tax shall be levied except
+authority of law. Whereas, the learned counsel for the respondent/assessee contended that the
+provisional/protective assessment order passed by the assessing officer, Ananthapura which was
+confirmed by the Appellate Commissioner is without jurisdiction and has no legs to stand and
+cannot be enforced. Further, it is without authority of law as contemplated under Article 265 of the
+Constitution of India. This contention is made by the learned counsel for the respondent/assessee
+for consideration and for dismissal of the appeal as being devoid merits.
+53. It is further contended that the respondent/assessee has filed return of income on 30th
+September 2008, the assessing officer passed an order of assessment on 31.12.2009 under Section
+143(3) of the I.T. Act. He is competent to transfer all international transactions without referring the
+matter to the Transfer Pricing Officer. Therefore, the Commissioner exercised jurisdiction under
+Section 265 of the I.T. Act and directed the assessing officer to transfer the file to the transfer
+pricing officer in accordance with law. This order of the commissioner was challenged by the
+Tribunal and the Tribunal proceeded to hold that Section 92(c)(a)(4) of the I.T. act, which came into
+effect on 01.06.2007 would be applicable only for the assessment year 2009-10 and not for the
+current assessment year 2008-09 by relying several judgments and an order dated 29.07.2006 and
+held that the exercise of jurisdiction under Section 263 of the I.T. Act was erroneous. On this
+premise, allowed the appeal of the assessee.
+54. The subject matter of this appeal is that the assessing officer was bound to refer the matter to the
+Transfer Pricing Officer. Therefore, the order passed by the Commissioner was upheld.
+Consequently, both the orders of the Tribunal were set aside. Further, the subject of this appeal for
+the assessment year 2008-09 is whether the assessing officer can suo motu decide the issue
+regarding transfer pricing that the matter has to be referred to the Transfer Pricing Officer; the
+assessment year 2008-09 has absolutely no connection to the subsequent assessment year 2009-10.
+The revenue cannot trace any reliance on the order passed for the assessment year 2008-09.
+However, the subject matter of the controversy was in respect of jurisdiction. Whereas the question
+on merits whether intervention of the Transfer Pricing Officer is correct or not has not been
+addressed. Therefore, for the assessment year 2008-09, the proceedings are incomplete. As this
+contention is also made by the learned counsel for the respondent/assessee, even different
+provisions of Section 37(1) of the I.T. Act made declaration of Rs.3/- crores to cover up the expenses
+which calls for disallowances.
+55. However, keeping in view the contention made by the learned Standing Counsel Shri Y.V.
+Raviraj for the appellant / Revenue and so also the learned counsel Shri Mayank Jain for the
+respondent / Assessee, at the cost of repetition, it is relevant to state that the counsel for the
+respondent / Assessee had relied the judgment of THE COMMISSIONER OF INCOME TAX AND
+ORS. Vs. MANJUNATHA COTTON AND GINNING FACTORY AND ORS. (MANU / KA/
+2416/2012), wherein a Co-ordinate Bench of this Court has extensively addressed the issues relating
+to the provisions of the IT Act, 1961 and more particularly, has addressed the issues relating to
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 25
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+Section 271(1)(c) of the IT Act, 1961, by referring to so many reliances.
+56. Similarly, another Co-ordinate Bench of this Court in the case of PR. COMMISSIONER OF
+INCOME TAX & ANR vs. M/S. ENNOBLE CONSTRUCTION (I.T.A.No.383 OF 2016) dated
+20.07.2022, has addressed the issues relating to the provisions of Section 260A of the IT Act, 1961
+referring to various reliances to arrive at a conclusion relating to the response to the substantial
+question of law in the given facts and circumstances of the case and so also relating to the concept of
+Section 37 of the IT Act, 1961 as well as the burden of proof and impossibility of its discharge and so
+also relating to Legal maxim 'Lex Non Cogit Ad Impossibilia (Co.Litt. 231 b.) - The law does not
+compel a man to do that which he cannot possibly perform..."
+57. These are all the issues that have been addressed by the Co-ordinate Benches of this Court. The
+aforesaid reliances are squarely applicable to the present case on hand in the given facts and
+circumstances of the case. Therefore, it is said that the various contentions made by the counsel for
+the appellant / Revenue do not hold any substance to question the impugned order passed by the
+Income Tax Appellate Tribunal.
+58. At a cursory glance of the impugned order passed by the ITAT, it is seen that the assessee's
+authorized representative, during the course of hearing on 27.02.2013 has stated that the land is
+kept as stock in trade and that the assessee's share of the sale proceeds has been kept as advance.
+The balance sheet as at the end of the year when the sale transaction has been completed by way of
+registration of sale deed that the assessee's action treating the sale proceeds as advance as incorrect.
+Therefore the sale proceeds amounting to Rs.3,09,74,266/- is brought to tax as the assessee's
+business income. As per the golden rule of interpretation two views are possible and the view
+favorable to the assessee has to be adopted. Tax can be imposed only if a case falls within the words
+of the statute and it does not avail to said that it comes within the spirit of statutes Intention of the
+legislature to be found in the words of the statute and any omission cannot be supplied vide
+Padmanatha Rao vs. CIT reported in 255 ITR 147 (SC). One has only to look at the words of the
+statute and nothing should be implied so as to supply any assumed deficiency, but a deeming
+provision should be strictly construed and given the settled legal position, the TPO gets no
+jurisdiction at all since he has unable to show under which specific provision of law there is an
+associated enterprise as defined by Section 92A of the I.T. Act. It is stated that the TPO is unable to
+show which specific clause under Section 92A(1) or 92A(2) is attracted in the case of the assessee,
+and that the only ground taken by the TPO in support is that M/s GLA Trading Intl. Pvt. Ltd., (GLA)
+is an AE of the assessee that the transactions are hit by Section 92B(2). These are all the
+observations made in the impugned order and arrival of conclusion to determine the arms length
+price (ALP) has to be selected based upon the availability of the data application of method as well
+as the degree of comparability between the international transactions. Even the company had
+similar contemporaneous transactions with other unrelated parties as well price date of such
+uncontrolled transactions (INTERNATIONAL CUP) can be applied to determine the arms length
+nature of your international transaction with your AE. Iron ore being a widely traded commodity,
+data relating to the same are available in public domain. These are all the observations that have
+been made to the arrival of conclusion keeping in view the provision of Section 144(c)(5) of the I.T.
+Act. Even the order passed by the Commissioner of Income Tax, Director of Income Tax
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 26
+The Principal Commissioner vs M/S Obulapuram Mining on 17 March, 2023
+(International Taxation & Transfer Pricing), Ahmedabad and Director of Income Tax (International
+Taxation & Transfer Pricing), Kolkata communicated to the respondent/assessee namely M/s.
+Obulapuram Mining Company Pvt. Ltd., therefore, this appeal even raises substantial questions of
+law based upon the grounds as urged but the same has been considered by the ITAT extensively.
+Therefore, keeping in view of the ratio of reliance which facilitated by the learned counsel for the
+respondent/assessee and even the reliance placed by the learned Standing counsel namely
+Sri.Y.V.Raviraj for appellant/ revenue but keeping in view the contention made by the learned
+counsel of the respondent/assessee are concerned, it is said that the appeal preferred by the
+appellant/ revenue by urging various grounds and even facilitated various reliance do not hold any
+force in it, which calls for any interference.
+59. In terms of the aforesaid reasons and findings as opined, the appeal deserves to be rejected as
+being devoid of any merits and accordingly the substantial questions of law raised in this appeal are
+answered.
+ORDER The appeal preferred by the appellant/revenue is hereby rejected. Consequently, the order
+passed by the ITAT, Bengaluru Bench 'C' in IT(TP)A No.182(Bang)2014, dated 20.10.2016 is hereby
+confirmed.
+Before parting with this judgment, this court places on record its deep appreciation for the able
+research and assistance rendered by its Research Assistants-cum-Law Clerk, Mr.Pranav.K.B. Sd/-
+JUDGE Sd/-
+JUDGE Vnp & Rsh
+Indian Kanoon - http://indiankanoon.org/doc/135800456/ 27

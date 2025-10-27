@@ -1,0 +1,312 @@
+district,state,count
+Ranchi,Jharkhand,318
+Jammu,Jammu and Kashmir,291
+Lucknow,Uttar Pradesh,234
+Patna,Bihar,219
+Cuttack,Odisha,200
+,Karnataka,181
+Chennai,Tamil Nadu,179
+Jabalpur,Madhya Pradesh,176
+Kozhikode,Kerala,154
+Imphal West,Manipur,130
+,Manipur,122
+Gwalior,Madhya Pradesh,105
+Kannur,Kerala,105
+Srinagar,Jammu and Kashmir,103
+Ernakulam,Kerala,100
+Madurai,Tamil Nadu,91
+Indore,Madhya Pradesh,84
+Mysuru,Karnataka,77
+'match_context': None,'score_breakdown': {}},66
+Thoubal,Manipur,64
+Thiruvananthapuram,Kerala,61
+Imphal East,Manipur,58
+Dharwad,Karnataka,47
+Prayagraj,Uttar Pradesh,45
+Muzaffarpur,Bihar,43
+Agra,Uttar Pradesh,42
+Varanasi,Uttar Pradesh,39
+Dhanbad,Jharkhand,39
+Kanpur Nagar,Uttar Pradesh,35
+Gorakhpur,Uttar Pradesh,32
+Bhagalpur,Bihar,31
+,Odisha,30
+Coimbatore,Tamil Nadu,27
+Meerut,Uttar Pradesh,27
+Jaunpur,Uttar Pradesh,27
+Siwan,Bihar,26
+Kalaburagi,Karnataka,26
+Ghaziabad,Uttar Pradesh,26
+Bishnupur,Manipur,25
+Bhopal,Madhya Pradesh,23
+Buxar,Bihar,23
+Aligarh,Uttar Pradesh,22
+Moradabad,Uttar Pradesh,22
+Darbhanga,Bihar,22
+Tirunelveli,Tamil Nadu,22
+,Madhya Pradesh,21
+Gaya,Bihar,21
+Thrissur,Kerala,20
+Begusarai,Bihar,20
+Churachandpur,Manipur,19
+Mathura,Uttar Pradesh,19
+Madhubani,Bihar,19
+Samba,Jammu and Kashmir,18
+Jhansi,Uttar Pradesh,18
+Firozabad,Uttar Pradesh,18
+Aurangabad,Bihar,18
+Udhampur,Jammu and Kashmir,18
+Kathua,Jammu and Kashmir,17
+Belagavi,Karnataka,17
+Hazaribagh,Jharkhand,16
+Bareilly,Uttar Pradesh,16
+Mandya,Karnataka,15
+Bijnor,Uttar Pradesh,14
+West Champaran,Bihar,14
+Samastipur,Bihar,14
+Ukhrul,Manipur,14
+Godda,Jharkhand,14
+Reasi,Jammu and Kashmir,14
+Bengaluru Rural,Karnataka,14
+Basti,Uttar Pradesh,14
+Azamgarh,Uttar Pradesh,13
+Ballia,Uttar Pradesh,13
+Senapati,Manipur,13
+Ramgarh,Jharkhand,13
+Mirzapur,Uttar Pradesh,13
+Khunti,Jharkhand,13
+Salem,Tamil Nadu,13
+Kakching,Manipur,13
+Chandel,Manipur,13
+Krishnagiri,Tamil Nadu,12
+Davanagere,Karnataka,12
+Nawada,Bihar,12
+Anantnag,Jammu and Kashmir,12
+Rampur,Uttar Pradesh,11
+Auraiya,Uttar Pradesh,11
+Erode,Tamil Nadu,11
+Giridih,Jharkhand,11
+Namakkal,Tamil Nadu,11
+Vellore,Tamil Nadu,11
+Tiruvallur,Tamil Nadu,11
+Villupuram,Tamil Nadu,11
+Etawah,Uttar Pradesh,11
+West Singhbhum,Jharkhand,11
+Bulandshahr,Uttar Pradesh,11
+Dharmapuri,Tamil Nadu,11
+Kannauj,Uttar Pradesh,10
+Budaun,Uttar Pradesh,10
+Munger,Bihar,10
+Udupi,Karnataka,10
+Kolar,Karnataka,10
+Saharanpur,Uttar Pradesh,10
+Fatehpur,Uttar Pradesh,10
+Kancheepuram,Tamil Nadu,10
+Kottayam,Kerala,10
+Mainpuri,Uttar Pradesh,9
+Sambhal,Uttar Pradesh,9
+Saharsa,Bihar,9
+Malappuram,Kerala,9
+Sitamarhi,Bihar,9
+Gopalganj,Bihar,9
+Tiruppur,Tamil Nadu,9
+Shahjahanpur,Uttar Pradesh,9
+Ramanagara,Karnataka,9
+Hassan,Karnataka,9
+Kushinagar,Uttar Pradesh,9
+Jalaun,Uttar Pradesh,9
+Ramanathapuram,Tamil Nadu,9
+East Champaran,Bihar,9
+Deoghar,Jharkhand,9
+Dindigul,Tamil Nadu,8
+Kamjong,Manipur,8
+Jehanabad,Bihar,8
+,Tamil Nadu,8
+Vaishali,Bihar,8
+Ghazipur,Uttar Pradesh,8
+Chengalpattu,Tamil Nadu,8
+Sagar,Madhya Pradesh,8
+Tumakuru,Karnataka,8
+Pathanamthitta,Kerala,8
+,Uttar Pradesh,8
+Kangpokpi,Manipur,8
+Katihar,Bihar,7
+Tiruvannamalai,Tamil Nadu,7
+Hamirpur,Uttar Pradesh,7
+Farrukhabad,Uttar Pradesh,7
+Bhadohi,Uttar Pradesh,7
+Shamli,Uttar Pradesh,7
+Baghpat,Uttar Pradesh,7
+Vijayanagara,Karnataka,7
+Dakshina Kannada,Karnataka,7
+Koderma,Jharkhand,7
+Garhwa,Jharkhand,7
+Gumla,Jharkhand,7
+Etah,Uttar Pradesh,7
+Khagaria,Bihar,6
+Dumka,Jharkhand,6
+Chitradurga,Karnataka,6
+Ballari,Karnataka,6
+Bidar,Karnataka,6
+Chikkamagaluru,Karnataka,6
+Khordha,Odisha,6
+Deoria,Uttar Pradesh,6
+Bhind,Madhya Pradesh,6
+Kaushambi,Uttar Pradesh,6
+Chandauli,Uttar Pradesh,6
+Nalanda,Bihar,6
+Virudhunagar,Tamil Nadu,6
+Araria,Bihar,6
+,Punjab,6
+Hathras,Uttar Pradesh,6
+Hapur,Uttar Pradesh,6
+Gonda,Uttar Pradesh,6
+Mandsaur,Madhya Pradesh,5
+Pilibhit,Uttar Pradesh,5
+Shivpuri,Madhya Pradesh,5
+Morena,Madhya Pradesh,5
+Vidisha,Madhya Pradesh,5
+Ayodhya,Uttar Pradesh,5
+Saran,Bihar,5
+Supaul,Bihar,5
+Tiruchirappalli,Tamil Nadu,5
+Mau,Uttar Pradesh,5
+,Delhi,5
+Baramulla,Jammu and Kashmir,5
+Chikkaballapur,Karnataka,5
+Tengnoupal,Manipur,5
+Shivamogga,Karnataka,5
+Rewa,Madhya Pradesh,5
+Puducherry,Puducherry,5
+Latehar,Jharkhand,5
+Rohtas,Bihar,5
+Thanjavur,Tamil Nadu,4
+Bokaro,Jharkhand,4
+Kollam,Kerala,4
+Gautam Buddha Nagar,,4
+Kasganj,Uttar Pradesh,4
+Vijayapura,Karnataka,4
+Satna,Madhya Pradesh,4
+Panna,Madhya Pradesh,4
+Patiala,Punjab,4
+Katni,Madhya Pradesh,4
+Banda,Uttar Pradesh,4
+Dhar,Madhya Pradesh,4
+Muzaffarnagar,Uttar Pradesh,4
+Noney,Manipur,4
+Ujjain,Madhya Pradesh,4
+Bandipora,Jammu and Kashmir,4
+,Maharashtra,4
+Datia,Madhya Pradesh,3
+Chatra,Jharkhand,3
+Bulandshahr,,3
+Wayanad,Kerala,3
+,Kerala,3
+Alappuzha,Kerala,3
+Lohardaga,Jharkhand,3
+Pakur,Jharkhand,3
+Palamu,Jharkhand,3
+Sahebganj,Jharkhand,3
+Budgam,Jammu and Kashmir,3
+Kulgam,Jammu and Kashmir,3
+Mumbai,Maharashtra,3
+,Ladakh,3
+Pulwama,Jammu and Kashmir,3
+Simdega,Jharkhand,3
+Palakkad,Kerala,3
+Madhepura,Bihar,3
+Biswanath,Assam,3
+Kupwara,Jammu and Kashmir,3
+Tamenglong,Manipur,3
+Sant Kabir Nagar,Uttar Pradesh,3
+Cuddalore,Tamil Nadu,3
+Krishna,Andhra Pradesh,3
+Kodagu,Karnataka,3
+Ganjam,Odisha,3
+New Delhi,Delhi,3
+Banka,Bihar,3
+Thoothukudi,Tamil Nadu,3
+Chitrakoot,Uttar Pradesh,3
+Damoh,Madhya Pradesh,3
+Nagapattinam,Tamil Nadu,2
+Kishanganj,Bihar,2
+Jharsuguda,Odisha,2
+Sundargarh,Odisha,2
+Jamui,Bihar,2
+,Bihar,2
+Kanpur Dehat,Uttar Pradesh,2
+Barabanki,Uttar Pradesh,2
+Kaimur (Bhabua),Bihar,2
+Maharajganj,Uttar Pradesh,2
+Muzaffarnagar,,2
+Amroha,Uttar Pradesh,2
+Gautam Buddha Nagar,Uttar Pradesh,2
+Mahoba,Uttar Pradesh,2
+Rayagada,Odisha,2
+Bengaluru Urban,Karnataka,2
+Bagalkot,Karnataka,2
+Sambalpur,Odisha,2
+Raisen,Madhya Pradesh,2
+Anand,Gujarat,2
+,Haryana,2
+,Rajasthan,2
+Jajpur,Odisha,2
+Bolangir,Odisha,2
+Gadag,Karnataka,2
+Rajgarh,Madhya Pradesh,2
+Sheikhpura,Bihar,2
+Sidhi,Madhya Pradesh,2
+Singrauli,Madhya Pradesh,2
+Seoni,Madhya Pradesh,2
+Arwal,Bihar,2
+Lakhisarai,Bihar,1
+Kushinagar,,1
+,West Bengal,1
+Shopian,Jammu and Kashmir,1
+,Jammu and Kashmir,1
+Saraikela,Jharkhand,1
+Idukki,Kerala,1
+Ahmedabad,Gujarat,1
+Bahraich,Uttar Pradesh,1
+Mayurbhanj,Odisha,1
+Subarnapur,Odisha,1
+Jiribam,Manipur,1
+Dhenkanal,Odisha,1
+Nabarangpur,Odisha,1
+Koraput,Odisha,1
+Raichur,Karnataka,1
+Koppal,Karnataka,1
+Hubli-Dharwad,Karnataka,1
+Bargarh,Odisha,1
+Daman,,1
+Sirohi,Rajasthan,1
+Barwani,Madhya Pradesh,1
+Betul,Madhya Pradesh,1
+Sheopur,Madhya Pradesh,1
+Ratlam,Madhya Pradesh,1
+Narmada,Gujarat,1
+Anuppur,Madhya Pradesh,1
+Neemuch,Madhya Pradesh,1
+Siddharthnagar,Uttar Pradesh,1
+Kandhamal,Odisha,1
+,Jharkhand,1
+Nayagarh,Odisha,1
+Haveri,Karnataka,1
+Ashoknagar,Madhya Pradesh,1
+Sehore,Madhya Pradesh,1
+Narsinghpur,Madhya Pradesh,1
+Chhatarpur,Madhya Pradesh,1
+Jalandhar,Punjab,1
+Bhojpur,Bihar,1
+Purnia,Bihar,1
+,,1
+Karur,Tamil Nadu,1
+Hardoi,Uttar Pradesh,1
+Latur,Maharashtra,1
+Ariyalur,Tamil Nadu,1
+Nilgiris,Tamil Nadu,1
+Puri,Odisha,1
+Thiruvarur,Tamil Nadu,1
+,Chandigarh,1
+Lakhimpur Kheri,Uttar Pradesh,1
+Perambalur,Tamil Nadu,1

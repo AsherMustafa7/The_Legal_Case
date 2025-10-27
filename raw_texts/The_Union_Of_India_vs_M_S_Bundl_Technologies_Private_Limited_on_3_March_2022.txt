@@ -1,0 +1,488 @@
+The Union Of India vs M/S Bundl Technologies Private Limited on 3 March, 2022
+The Union Of India vs M/S Bundl Technologies Private Limited
+on 3 March, 2022
+Bench: Alok Aradhe, M.G.S. Kamal
+1
+IN THE HIGH COURT OF KARNATAKA AT BENGALURU R
+DATED THIS THE 3RD DAY OF MARCH 2022
+PRESENT
+THE HON'BLE MR. JUSTICE ALOK ARADHE
+AND
+THE HON'BLE MR.JUSTICE M.G.S.KAMAL
+W.A. No.1274 OF 2021 (T-RES)
+IN
+W.P.No.4467 OF 2021 (T-RES)
+BETWEEN:
+1. THE UNION OF INDIA
+REP. BY THE SECRETARY
+DEPARTMENT OF REVENUE
+MINISTRY OF FINANCE
+128-A/NORTH BLOCK
+NEW DELHI - 110 001.
+2. DIRECTORATE GENERAL OF GOODS
+AND SERVICES TAX INTELLIGENCE
+NEW DELHI
+5TH FLOOR, MTNL TELEPHONE EXCHANGE
+BUILDING, 8, BHIKAJI CAMA PLACE
+NEW DELHI- 110 066.
+3. SENIOR INTELLIGENCE OFFICER
+DIRECTORATE GENERAL OF GOODS
+AND SERVICES TAX INTELLIGENCE
+HYDERABAD ZONAL UNIT - 500 016
+H NO. 1-11-222/4 LANE OPP HDFC BANK
+HYDERABAD-560016.
+4. DEPUTY DIRECTOR
+DIRECTORATE GENERAL OF GOODS
+AND SERVICES TAX INTELLIGENCE
+2
+Indian Kanoon - http://indiankanoon.org/doc/124175504/ 1
+The Union Of India vs M/S Bundl Technologies Private Limited on 3 March, 2022
+HYDERABAD ZONE UNIT - 500 016
+H NO. 1-11-222/4
+LANE OPP HDFC BANK
+HYDERABAD 560016.
+5. ADDITIONAL DIRECTOR
+DIRECTORATE GENERAL OF GOODS
+AND SERVICES TAX INTELLIGENCE
+HYDERABAD ZONE UNIT - 500 016
+H NO. 1-11-222/4 LANE OPP HDFC BANK
+HYDERABAD 560016.
+6. PRINCIPAL ADDITIONAL DIRECTORATE GENERAL
+DIRECTORATE GENERAL OF GOODS
+AND SERVICES TAX INTELLIGENCE
+HYDERABAD ZONE UNIT - 500 016
+H NO. 1-11-222/4 LANE OPP HDFC BANK
+HYDERABAD 560016.
+... APPELLANTS
+(BY MR. M.B. NARGUND, ADDL. SOLICITOR GENERAL A/W
+MR. AMIT ANAND DESHPANDE, ADV.,)
+AND:
+1. M/S. BUNDL TECHNOLOGIES PRIVATE LIMITED
+A COMPANY REGISTERED UNDER THE
+INDIAN COMPANIES ACT
+HAVING ITS REGISTERED OFFICE AT NO.55
+SY. NO. 8-14, GROUND FLOOR
+I AND J BLOCK, EMBASSY TECH VILLAGE
+OUTER RING ROAD, DEVARBISANAHALLI
+BENGALURU - 560 103
+(REP. BY ITS DIRECTOR
+PANDURANGA ACHARYA
+DIRECTOR - LEGAL).
+2. THE STATE OF KARNATAKA
+THROUGH ITS PRINCIPAL SECRETARY
+FINANCE DEPARTMENT
+VIDHANA SOUDHA
+BENGALURU-560001.
+3
+3. COMMISSIONER OF STATE TAX
+GOODS AND SERVICE TAX
+BENGALURU-560071.
+Indian Kanoon - http://indiankanoon.org/doc/124175504/ 2
+The Union Of India vs M/S Bundl Technologies Private Limited on 3 March, 2022
+... RESPONDENTS
+(BY MR. LAKSHMI KUMARAN, ADV., FOR
+MR. RAVI RAGHAVAN, ADV.,
+MR. SYED M. PEERAN, ADV.,
+MR. SIDDHARTH BALVE, ADV.,)
+---
+THIS WRIT APPEAL IS FILED U/S 4 OF THE KARNATAKA
+HIGH COURT ACT, PRAYING TO SET ASIDE THE ORDER OF THE
+LEARNED SINGLE JUDGE PASSED IN WP NO.4467/2021 DATED
+14.09.2021.
+THIS WRIT APPEAL HAVING BEEN HEARD AND RESERVED
+FOR JUDGMENT ON 24.02.2022, COMING ON FOR
+PRONOUNCEMENT OF JUDGMENT THIS DAY, ALOK ARADHE J.,
+MADE THE FOLLOWING:
+JUDGMENT
+This intra Court appeal takes an exception to order dated 14.09.2021 passed by the learned Single
+Judge by which the writ petition preferred by the respondent No.1 has been disposed of with the
+direction to the appellants to consider the applications for refund submitted by the respondent No.1
+and to pass suitable orders thereon within a period of four weeks, in the light of observations made
+in the order. In order to appreciate the appellants' grievance, relevant facts need mention.
+2. The respondent No.1 namely M/s. Bundl Technologies Pvt. Ltd. (hereinafter referred to as 'the
+Company' for short) operates an e-commerce platform under the brand name of 'Swiggy'. On the
+aforesaid platform, the consumers can place orders for delivery of food from nearby restaurants,
+which is made through delivery partners which include pick up and delivery partner (PDP) who are
+directly engaged by the Company as well as temporary delivery executives (Temp DEs) whose
+services are procured by the Company through third party service providers. During normal
+operations, the deliveries are carried out by the PDPs which accounts for 90% of the total food
+deliveries. However, on account of sudden spike in food orders during holidays, festive season and
+weekends, the company engages Temp DEs from third party service providers to cater to sudden
+spike in food orders.
+3. In case of PDPs who are directly engaged by the Company, no goods and services tax (hereinafter
+referred to as 'the GST' for short) is charged as they are below the threshold limit for registration.
+However, third party service providers charge the Company the consideration paid to Temp DEs
+along with mark up 5.5 - 10% along with GST on the entire consideration. The Company entered
+into an agreement dated 20.05.2017 and 14.11.2017 with a third party service provider namely
+Green Finch Team Management (P) Ltd. (Green Finch). Under the aforesaid agreement, Green
+Finch provided temporary DEs to the Company on a cost-plus mark-up basis and also charged GST
+on the entire sale consideration. Green Finch is a Company incorporated under the provisions of
+Companies Act on 08.02.2016 and its Annual General Meeting was held on 31.03.2021 as per the
+official website of Ministry of Corporate Affairs portal. For the period under the investigation i.e.
+Indian Kanoon - http://indiankanoon.org/doc/124175504/ 3
+The Union Of India vs M/S Bundl Technologies Private Limited on 3 March, 2022
+2017-20, Green Finch provided 10,31,464 Temp DEs to the Company which in turn provided
+2,91,75,667 food deliveries through them.
+4. For providing aforesaid services, Green Finch raised valid tax invoices on the Company and
+charged applicable GST which was paid to Green Finch which deposited the same with the
+Department by filing GSTR-3B return. The Company availed input tax credit in terms of Section 16
+of Central Goods and Services Tax, 2017 (hereinafter referred to as 'the CGST' for short).
+5. An investigation was initiated by the Department with regard to services provided to the
+Company by third party service providers namely Green Finch by Director General of Goods and
+Services Tax Intelligence, Hyderabad Zonal Unit (hereinafter referred to as 'the DGGI' for short) on
+the ground that Green Finch was a non-existent entity and accordingly, the input tax credit availed
+by the Company and the GST component paid by it to Green Finch against the invoices raised by
+Green Finch were fraudulent. The Officers of the Department entered the premises of the Company
+on 28.11.2019 at 10.30 a.m. During the course of the investigation from 28.11.2019 till 30.11.2019,
+DGGI Officers issued spot summons to the Directors and employees of the Company and their
+statements were recorded by the DGGI Officers. On 30.11.2019 at about 4.00 a.m., a sum of Rs.15
+Crores was deposited by the Company under the GST cash ledger. On 30.11.2019 itself the Officers
+of the Company handed over the documents to DGGI officers between 6.45 a.m. to 8 a.m.
+6. Thereafter, the Directors of the Company received summon to appear before DGGI office at
+Hyderabad on 26.12.2019. The Directors of the Company namely Mr.Harsha Majety, Mr.Bharat
+Arora, Director (Finance and Accounts), Mr.Mehul Shah, Senior Manager (Taxation) and
+Mr.G.Prahalad, Advocate, visited the office of the DGGI at 11 a.m. Thereafter, statements of
+Mr.Harsha Majety was recorded. Mr.Rahul Jaimini appeared before DGGI Officers on 26.12.2019 in
+response to the summons issued to him. The statement of aforesaid Mr.Rahul Jaimini was recorded.
+Thereafter, Mr.Obul Lakshminandan Reddy appeared at around 4 p.m. on 26.12.2019 in the DGGI
+office. It is averred that the Directors were present till late hours on 26.12.2019 in the DGGI office
+and about 8 p.m. were locked in DGGI office. It is also averred that threats of arrest were held out to
+them during the investigation and they were not allowed to leave till early hours of 27.12.2019. The
+Officers of the Company therefore made a further sum of Rs.12,51,44,157/- at about 1 a.m. in order
+to secure the release of three directors of the company. Thus, in all, a sum of Rs.27,51,44,157/- was
+illegally collected from the Company during the course of investigation under the threat and
+coercion without following the procedure prescribed under the CGST Act.
+7. Despite a lapse of about 10 months of initiation of investigation, no show cause notice was issued
+to the Company. The Company therefore submitted a letter dated 29.09.2020 seeking refund of the
+amount of Rs.27,51,44,157/-. Thereafter, the Company also filed an application on 16.12.2020 before
+the jurisdictional GST office. However, the application submitted by the petitioner failed to evoke
+any response. The Company thereupon filed the petition seeking a writ of mandamus directing the
+Department to forthwith refund the amount of Rs.27,51,44,157/- along with interest at the rate of
+12% from the date of deposit till its refund. The petitioner also assailed the validity of Section
+16(2)(c) of the CGST Act as well as Karnataka Goods and Services Tax Act, 2017 as unconstitutional
+on the ground that it is violative of Article 14, 19(1)(g) and 300A of the Constitution.
+Indian Kanoon - http://indiankanoon.org/doc/124175504/ 4
+The Union Of India vs M/S Bundl Technologies Private Limited on 3 March, 2022
+8. The appellants filed a detailed statement of objections in which inter alia it was pleaded that
+investigation was initiated in exercise of powers conferred under the Act relating to wrongful
+availment of input tax credit during which it was noticed that Green Finch, so also its suppliers were
+non-existent entities and in the course of such investigation, summons were issued to the Directors
+and Officers of the Company. It is also asserted that during the course of the investigation, the
+deposit of the amount was voluntarily made by the Company.
+9. The learned Single Judge, by an order dated 14.09.2021 inter alia held that payment of the
+amount made by the Company during the course of investigation was involuntary. It was further
+held that Court does not desire to place any sort of fetter on the power of investigation of the officers
+of the Department. However, it was held that consideration of the right to seek refund of the amount
+deposited by the Company is independent of the process of investigation and two cannot be linked
+together. Accordingly, the writ petition was disposed of with the direction to consider and pass
+suitable orders on the applications for refund filed by the Company within a period of four weeks
+from the date of release of the order. The Department was directed to consider the applications for
+refund in the light of the observations made in the order. In the aforesaid factual background, this
+appeal has been filed.
+10. Learned ASGI for the appellants submitted that input was received by the Department that
+Green Finch is a non-existing company and huge input tax credit is being credited to the company.
+It is further submitted that respondent did not receive any services from Green Finch or its inward
+suppliers and is therefore not entitled to claim input tax credit on the same. It is also submitted that
+the Company did not disclose that it has deposited an amount of Rs.4.74 Crores during investigation
+in respect of a different issue which was not claimed as refund and therefore, has not approached
+this Court with clean hands. It is urged that Company voluntarily paid an amount of
+Rs.27,51,44,157/- on self-ascertainment basis in terms of Section 74(5) of CGST Act. It is contended
+that allegations of threat and coercion are misconceived as the DGGI Officers had no power to arrest
+the Directors of the Company which is evident from spot summons issued to the Directors which
+clearly state that Officers of the Company were summoned to give evidence under Section 71 of the
+CGST Act.
+11. It is further contended that in any case, neither the issue of coercion can be examined in a writ
+proceeding nor any finding can be recorded on the said issue as the same is a question of fact. It is
+also pointed out that the Company approached this Court by filing a writ petition after a period of 15
+months from which an inference can safely be drawn that allegations of threat and coercion are
+clearly an after thought. Lastly it is contended that a time limit be prescribed for issuance of notice
+under Section 74 of the Act and the amount deposited by the company be made subject to outcome
+of the proceeding. In support of aforesaid submissions, reliance has been placed on the decision of
+High Courts of Kerala and Gujarat in 'SURESH KUMAR P.P. VS. DY.DIRECTORATE GENERAL OF
+GST INTELLIGENCE (DGGI), THIRUVANANTHAPURAM', 2020 (41) G.S.T.L. 17 (KER.),
+'COMMISIONER OF CCC & ST HYD. - 11 VS. PEERS TECHNOLOGIES PVT. LTD.', 2019 (27)
+G.S.T.L. TIOL (TRI. HYD), 'CEGAT, SOUTHERN REGIONAL BENCH, MADRAS - S.P.A.M.
+KRISHNA CHETTIAR VS.
+Indian Kanoon - http://indiankanoon.org/doc/124175504/ 5
+The Union Of India vs M/S Bundl Technologies Private Limited on 3 March, 2022
+COLLECTOR OF CUSTOMS AND CENTRAL EXCISE MADURAI', 1985 (22) E.L.T. 63
+(TRIBUNAL).
+12. On the other hand, Learned Senior Counsel for the company submitted that Greenfinch is a
+company in existence which is evident from the official website of the ministry of corporate affairs
+portal and has obtained GST registration from the Department. It is also pointed out that the
+aforesaid company has periodically filed its returns until September 2019. It is also pointed out that
+on the basis of the stand taken by the department, the company had suspended the services availed
+by it from Greenfinch with effect from 09.12.2018 and had terminated the agreement. Thereupon
+Greenfinch initiated arbitration proceedings viz., CMP No.155/2021 for appointment of an
+Arbitrator, which is pending before this court. It is also pointed out that Greenfinch raised valid tax
+invoices on the company charging applicable GST. Therefore, the allegation that Greenfinch is an
+non existing entity and that the company had not received any services from Greenfinch is factually
+incorrect. It is also urged that the amounts were recovered from the company on 30.11.2009
+between 6.00 am to 6.30 a.m. and in the mid night hours of 26.12.2019 / 27.12.2019 and the
+company was compelled to deposit the amount in electronic cash ledger. Thus, it is also urged that
+under the apprehension of arrest and imprisonment, the amount was recovered from the company.
+13. It is contended that recovery of tax during the investigation is illegal and unconstitutional and
+therefore, the company is entitled to refund of the amount deposited by it under threat and
+coercion. Our attention has also been invited to the communication dated 30.11.2019 sent by the
+company to the department and it has been pointed out that the company reserves its rights to claim
+the refund and the same cannot be treated as admission of its liability. Therefore, it is contended
+that the amounts has not been deposited in term of Section 71(5) of the Act. It is pointed out that
+Section 54 of the act provides for time limit of two years from the date of payment for the claim of
+refund and the same was filed with the department within time on 16.12.2020. It is urged that the
+company initially sought refund from the department and thereafter filed the writ petition, as the
+attempts of the company to seek refund failed to evoke any response from the department.
+Therefore, in the facts of the case there is no delay in filing the writ petition. It is contended that
+action of DGGI officers in detaining the Directors of the company till late in the night and in
+coercing the company to deposit the amount at odd hours during the course of investigation is high
+handed and arbitrary and honest tax payers like officers of the company have to be treated with
+dignity. In support of aforesaid submissions, reliance has been placed on the decisions in 'DABUR
+INDIA LTD. Vs. STATE OF UTTAR PRADESH' (1990) 4 SCC 113, 'D.K.BASU Vs. STATE OF WEST
+BENGAL' (1997) 1 SCC 416 AND 'MAKEMYTRIP (INDIA) PVT. LTD. Vs. UNION OF INDIA' (2016)
+44 S.T.R.481 (Del.).
+14. The CGST Act is a code in itself and provides for complete and detailed machinery for levy,
+collection and recovery of tax. Section 39 of the CGST Act deals with furnishing of returns. Section
+54 provides for refund of tax, and mandates a claimant to make an application before the expiry of
+two years from the relevant date.
+15. In the obtaining factual matrix following issues arise for our consideration:-
+Indian Kanoon - http://indiankanoon.org/doc/124175504/ 6
+The Union Of India vs M/S Bundl Technologies Private Limited on 3 March, 2022
+(I) Whether the amount was voluntarily paid during the investigation by the
+company under section 74(5) of CGST Act?
+(II) Whether the amount was recovered from the company during investigation
+under the coercion and threat of arrest?
+(III) Whether the DGGI officers conducted in a High handled and arbitrary manner
+during the course of investigation?
+(IV) Whether writ petition filed by company suffers from delay or laches?
+16. Now we may proceed to deal with issues ad- seriatim.
+(I) WHETHER THE AMOUNT PAID DURING INVESTIGATION BY THE COMPANY WAS
+VOLUNTARILY PAID, UNDER SECTION 74(5) OF THE CGST ACT?
+17. Section 74 of the Act deals with determination of tax not paid or short paid or erroneously
+refunded or input tax credit wrongly availed or utilized by reason of fraud or any willful
+misstatement or suppression of facts. The relevant extract of section 74 reads as under:-
+74. (1) Where it appears to the proper officer that any tax has not been paid or short
+paid or erroneously refunded or where input tax credit has been wrongly availed or
+utilised by reason of fraud, or any wilful-misstatement or suppression of facts to
+evade tax, he shall serve notice on the person chargeable with tax which has not been
+so paid or which has been so short paid or to whom the refund has erroneously been
+made, or who has wrongly availed or utilised input tax credit, requiring him to show
+cause as to why he should not pay the amount specified in the notice along with
+interest payable thereon under section 50 and a penalty equivalent to the tax
+specified in the notice.
+XXX (5) The person chargeable with tax may, before service of notice under sub-section (1), pay the
+amount of tax along with interest payable under section 50 and a penalty equivalent to fifteen per
+cent. of such tax on the basis of his own ascertainment of such tax or the tax as ascertained by the
+proper officer and inform the proper officer in writing of such payment.
+Thus Section 74(5) of the Act gives an option to a person to make payment of tax, along with interest
+and 15% of penalty on its own ascertainment of the tax ascertained by proper officer and inform him
+in writing about such payment.
+18. It is pertient to note that a division bench of Gujarat High Court in M/S BHUMI ASSOCIATE VS.
+UNION OF INDIA by an interim order directed the Central Board Of Indirect Taxes And Customs
+was directed to enforce the following guidelines by issuing suitable circular / instructions:
+(1) No recovery in any mode by cheque, cash e-
+Indian Kanoon - http://indiankanoon.org/doc/124175504/ 7
+The Union Of India vs M/S Bundl Technologies Private Limited on 3 March, 2022
+payment or adjustment of input tax credit should be made at the time of search / inspection
+proceedings under Section 67 of the Central / Gujarat Goods and services Tax Act, 2017 under any
+circumstances.
+(2) Even if the assessee comes forward to make voluntary payment by filing Form DRC 03, the
+assesee should be asked / advised to file such Form DRC 03 on the next day after the end of search
+proceedings and after the officers of the visiting team have left the premises of the assessee. (3)
+Facility of filing complaint / grievance after the end of search proceedings should be made available
+to the assessee if the assessee was forced to make payment in any mode during the pendency of the
+search proceedings.
+(4) If complaint / grievance is filed by assessee and officer is found to have acted in defiance of the
+afore stated directions, then strict disciplinary action should be initiated against the concerned
+officer.
+The guidelines issued by the division bench are intended to regulate the powers of officers carrying
+out search and seizure as well as to safeguard the interest of the assessee.
+19. The issue which arises for consideration is whether amount of Rs.27,51,44,157/- has been paid by
+the company on its own ascertainment under section 74(5) of the Act. In the instant case, there is no
+material on record to indicate that the amount of Rs.15 Crores and an amount of Rs.12,51,44,157/-
+which were paid at about 4AM and 1PM on 30.11.2019 and 27.12.2019 respectively were paid on
+admission by the Company about its liability. There is no communication in writing from company
+to the proper officer about either self ascertainment or admission of liability by company to infer
+that such a payment was made under Section 74(5) of the Act. The company intimated the
+Department vide Communication dated 30.11.2019 that it reserves its right to claim refund of the
+amount and the same should not be treated as admission of its liability. The relevant extract of
+communication dated 30.11.2019 reads as under:-
+BUNDL TECHNOLOGIES PRIVATE LIMITED Registered Office, 4th Floor, Annex
+Building, Maruthi Chambers, Survey No.17/9B Begur Hobli, Roopana Agrahara,
+Bengaluru, Karnataka, India 560068 CIN:U74110KA2013PTC096530 November 30,
+2019 To, The Office of the Commissioner, Directorate General of Goods and Service
+Tax Intelligence, Hyderabad H.No.1-11-222/4, Lane Opp.HDFC Bank Nalli Silks,
+Begumpet, Hyderabad-500016. Sub: Submission related to investigation Ref:
+Inspection dt:28/29 November 2019 by DGGSTI Officials at BTPL's offices situated
+at Bangalore, Gurugram and Hyderabad.
+Dear Sir, XXXXX As an extension of our goodwill conduct and bonafide, we have
+deposited INR 15,00,00,000/- (Rupees Fifteen Crores Only) with the Exchequer of
+Government during the pendency of inspection proceedings. The above deposit is
+without prejudice to and with full reservation of our rights and contentions to seek
+necessary refund at the appropriate time and therefore, should not be regarded as an
+admission of liability. The challan of payment of the aforesaid deposit is enclosed
+Indian Kanoon - http://indiankanoon.org/doc/124175504/ 8
+The Union Of India vs M/S Bundl Technologies Private Limited on 3 March, 2022
+herewith for your ready reference as Annexure E. We assure you of our full
+co-operation in this matter going forward.
+20. The company has also reiterated its stand in GST DRC-03 generated on
+2.12.2019, the relevant portion of which is reproduced below:
+FORM GST DRC - 03 [See Rule 142(2) & 142(3)] Intimation of payment made
+voluntarily or made against the show cause notice (SCN) or statement
+ARN:AD291219000080K Date: 02.12.2019
+1. GSTIN 29aafcb7707d1zq
+2. Name Bundl Technolgies Private Limited
+3. Cause of payment Others
+4. Section under which voluntary Others payment is made
+5. Details of show cause notice, if Reference No.NA Date of issue: NA payment made
+within 30 days of its issue
+6. Financial year 2017-18
+7. Details of payment made including interest and penalty if applicable (Amount in
+Rs.) Tax Act Place of Tax / Interest Penalty if Others Total Ledger Debit Date of Sr.
+period supply cess applicable utilized entry debit No (Cash / No. entry Credit)
+1. Jul 2017 ITST Karnatak 5,056, 0.00 0.00 0.00 5,056 Cash DC29 02/12/201
+- a 604.0 ,604. 12190 9 Mar 2018 0 00 00330
+8. Reasons, if any:
+The above payment is made as an extension of our goodwill and bonafide. It is
+without prejudice to and with full reservation of our rights and contentions to seek
+necessary refund at the appropriate time and therefore should not be regarded as an
+admission of liability.
+21. Thus it is evident that payments have not been made admitting the liability. On
+the other hand, the company reserved its right to seek refund and made it expressly
+clear that payment of the amount should not be treated as admission of its liability.
+Besides the aforesaid, there is no material on record to establish that guidelines
+issued by division bench of High Court of Gujarat were followed.
+Indian Kanoon - http://indiankanoon.org/doc/124175504/ 9
+The Union Of India vs M/S Bundl Technologies Private Limited on 3 March, 2022
+Thus for the aforementioned reasons, the first issue is answered in the negative and it is held that
+the amount was not paid voluntarily under Section 74(5) of the CGST Act. (II) WHETHER THE
+AMOUNT WAS RECOVERED FROM THE COMPANY DURING INVESTIGATION UNDER THE
+COERCION AND THREAT OF ARREST?
+22. The officers of the Department have power of Inspection, search and seizure u/s 67(1) of CGST
+Act whereas Section 70 of the Act confers the power on the authority to summon person to give
+evidence as well as to adduce evidence. The relevant extract of Section 67(1) and Section 70 of the
+Act read as under:
+67. Power of inspection, search and seizure.
+(1) Where the proper officer, not below the rank of Joint Commissioner, has reasons
+to believe that -
+(a) a taxable person has suppressed any transaction relating to supply of goods or
+services or both or the stock of goods in hand , or has claimed input tax credit in
+excess of his entitlement under this Act or has indulged in contravention of any of the
+provisions of this Act or the rules made thereunder to evade tax under this Act; or
+(b) any person engaged in the business of transporting goods or an owner or operator
+of a warehouse or a godown or any other place is keeping goods which have escaped
+payment of tax or has kept his accounts or goods in such a manner as is likely to
+cause evasion of tax payable under this Act.
+He may authorise in writing any other officer of central tax to inspect any places of business of the
+taxable person or the persons engaged in the business of transporting goods or the owner or the
+operator of warehouse or godown or any other place.
+70. Power to summon person to give evidence and produce documents.
+(1) The proper officer under this Act shall have power to summon any person whose attendance he
+considers necessary either to give evidence or to produce a document or any other thing in any
+inquiry in the same manner, as provided in the case of a civil court under the provisions of the Code
+of Civil Procedure, 1908 (5 of 1908).
+(2) Every such inquiry referred to in sub-section (1) shall be deemed to be a "judicial proceedings"
+within the meaning of section 193 and section 228 of the Indian Penal Code (45 of 1860).
+23. In VODAFONE ESSAR SOUTH LTD VS. UNION OF INDIA', 2009 (237) ELT 35 (BOM) it was
+held by Division Bench of Bombay High Court that without adjudication of liability, during the
+course of an investigation the assessee should not be forced to pay any amount. Similar view was
+taken by Delhi High Court in MAKEMYTRIP (INDIA) PVT. LTD. VS. UNION OF INDIA, 2016 (44)
+STR 481 DEL and it was held that amount collected during investigation proceeding without any
+Indian Kanoon - http://indiankanoon.org/doc/124175504/ 10
+The Union Of India vs M/S Bundl Technologies Private Limited on 3 March, 2022
+adjudication is liable to be refunded. In CENTURY KNITTERS (INDIA) LTD. VS. UNION OF
+INDIA', 2013 (293) ELT 504 (P & H) it was held that any amount illegally collected cannot be
+retained without issuance of show cause notice and adjudication of liability and such amount is
+liable to be refunded. Similar view was taken in CONCEPTS GLOBAL IMPEX VS. UNION OF
+INDIA, 2019 (365) ELT 32 (P & H).
+24. In the instant case, an investigation was initiated by DGGI officers and they entered the
+premises of the Company on 28.11.2019 at 10.30 a.m. in exercise of powers u/s 67(1) of CGST Act.
+On 30.11.2019 at about 4.00 a.m., a sum of Rs.15 Crores was deposited by the Company under the
+GST cash ledger. Thereafter summons were issued to officers of company under section 70 of the
+Act. The officers of the company made a further deposit of Rs.12,51,44,157/- at about 1.00 a.m. The
+aforesaid amounts were not deposited under section 74(5) of the Act. The amounts were deposited
+by the company at odd hours, without admitting its liability. The company has been regularly filing
+service tax returns. There is no iota of material on record to indicate that on the day that the
+company made payment of the amount, any amount was due to the department. Therefore, it can
+safely be inferred that payment of the amount was made involuntarily. There is also no material on
+record to hold that any threat of arrest was extended to officers of the company.
+25. The question whether any threat was extended to officers of the company is a question of fact
+which can't be adjudicated in a summary proceeding under Article 226 of the Constitution of India.
+Liberty is reserved to the parties to agitate the issue of threat and coercion in an appropriate
+proceeding. Accordingly the second issue is answered by stating that amounts were paid by the
+company involuntarily.
+(III) WHETHER THE DGGI OFFICERS CONDUCTED IN A HIGH HANDLED AND ARBITRARY
+MANNER DURING THE COURSE OF INVESTIGATION?
+26. DGGI officers have invoked the provisions under section 67(1) of the CGST Act relating to
+inspection, search and seizure and have issued summons under Section 70 of CGST Act to officers of
+the company to give evidence. The company has taken a stand in the writ petition that during the
+course of investigation, the DGGI officers have acted in a high handed and arbitrary manner and
+that the officers locked the door and extended threats of arrest to Directors of the Company.
+However, the Department has disputed the aforesaid stand in its objections and has asserted that
+investigation took place in a cordial atmosphere in which officer of the company co-operated with
+DGGI officers. It is pertinent to note that company in the writ petition has neither attributed any
+specific role to officers of DGGI by name nor has impleaded them in the writ petition. Therefore, the
+same being a question of fact cannot be adjudicated in a summary proceeding under Article 226 of
+the constitution of India.
+27. Before parting with the issue we would like to state that no one in a society governed by rule of
+law can take resort to a course of action not permissible in law. A Statutory power has to be
+exercised reasonably and in good faith, and for the purpose for which it is conferred. The power
+vested in any Authority by law has to be exercised in consonance with the spirit as well as letter of
+the Act. The broader the sweeper ambit of the power, the more caution and circumspection is
+Indian Kanoon - http://indiankanoon.org/doc/124175504/ 11
+The Union Of India vs M/S Bundl Technologies Private Limited on 3 March, 2022
+required while invoking such power. A statutory power has to be exercised within a system of
+controls and has to be exercised by relevance and reason. It needs reiteration that a statutory power
+should not be exercised in a manner, so as to instill fear in the mind of a person.
+However, the facts and circumstances of the case the third issue is kept open to be agitated in an
+appropriate proceeding.
+IV Whether the Writ Petition filed by the Company, suffers from Delay or laches:-
+28. The rule which says that this Court in exercise of its power under Article 226 of the Constitution
+may not enquire into belated and stale claims is not a rule of law but a rule of practice based on
+sound and proper exercise of discretion. The question of delay has to be decided in the facts of each
+case. The principle on which relief to a party on the grounds of delay and laches is denied is that
+rights may have accrued to others by reason of delay in filing the Writ Petition should not be allowed
+to be disturbed unless there is a reasonable explanation for the delay. The lapse of time is not
+attributable to any laches or negligence. The test to decide the question of delay is not physical
+running of time (SEE: DEHRI ROHTAS LIGHT RLY CO. LTD V. DISTRICT BOARD BHOJPUR
+(1992) 2 SCC 598 AND ROYAL ORCHID HOTELS V. G. JAYARAM REDDY (2011) 20 SCC
+608).
+29. Section 54 of CGST Act deals with refund of tax. Section 54(1) of the Act is extracted below:
+54. Refund of Tax: (1) Any person claiming refund of any tax and interest, if any, paid
+on such tax or any other amount paid by him, may make an application before the
+expiry of two years from the relevant date in such form and manner as may be
+prescribed:
+Thus, an application seeking refund of any tax and interest if any, under the Act has
+to be made within a period of two years.
+30. In the backdrop of well settled legal principles and the statutory provision we may advert to the
+facts of case in hand. The Company deposited a sum of Rs.15 Crores at about 4.00 a.m. on
+30.11.2019 and a sum of Rs.12,51,44,157/- on 27.12.2019. The company filed an application seeking
+refund on 29.09.2020. Thereafter the company filed an application seeking refund on 16.12.2020 on
+16.12.2020 before jurisdictional GST authority. The Company requested the department to refund
+the amount. When the attempts of the company to seek refund did not yield any result, the writ
+petition was filed on 25.02.2021. Section 54 of the CGST Act provides for a time limit of two years to
+claim refund. The company not only filed the claim for refund within two years but the writ petition
+as well. No rights have accrued to the department, as the claim for refund made by the company is
+well within time. Therefore in the light of legal principles referred to in the preceding paragraph, it
+can not be said that there was any delay or laches in filing writ petition. Therefore the fourth issue is
+answered by stating that there is no delay or laches in filing the writ petition.
+Indian Kanoon - http://indiankanoon.org/doc/124175504/ 12
+The Union Of India vs M/S Bundl Technologies Private Limited on 3 March, 2022
+31. The submission by the company that Green Finch is neither a non existent entity nor that the
+company has rightly availed input tax credit is concerned need not be adverted to in this proceeding,
+as the same is pending investigation. Article 265 of the Constitution mandates that collection of tax
+has to be by the authority of law. If tax is collected without any authority of law, the same would
+amount to depriving a person of his property without any authority of law and would infringe his
+right under Article 300A of the Constitution of India as well. In the instant case, the only provision
+which permits deposit of an amount during pendency of an investigation is section 74(5) of CGST
+Act, which is not attracted in the fact situation of the case. Therefore, it is evident that amount has
+been collected from Company in violation of Article 265 and 300-A of the Constitution. Therefore,
+the contention of the Department that amount under deposit be made subject to the outcome of the
+pending investigation can not be accepted. The Department, therefore, is liable to refund the
+amount to the Company.
+For the aforementioned reasons, we concur with the conclusion recorded by the learned Single
+Judge. To the aforesaid extent, the findings recorded by the learned Single Judge are modified.
+In view of preceding analysis, we do not find any merit in this appeal. The same fails and is hereby
+dismissed.
+Sd/-
+JUDGE Sd/-
+JUDGE SS
+Indian Kanoon - http://indiankanoon.org/doc/124175504/ 13

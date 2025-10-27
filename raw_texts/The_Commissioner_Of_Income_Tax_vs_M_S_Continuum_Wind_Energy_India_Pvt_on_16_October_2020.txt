@@ -1,0 +1,295 @@
+The Commissioner Of Income Tax vs M/S.Continuum Wind Energy (India) Pvt ... on 16 October, 2020
+The Commissioner Of Income Tax vs M/S.Continuum Wind
+Energy (India) Pvt ... on 16 October, 2020
+Author: T.S.Sivagnanam
+Bench: T.S.Sivagnanam, V.Bhavani Subbaroyan
+T.C.A.No.345 of 2020
+IN THE HIGH COURT OF JUDICATURE AT MADRAS
+DATED : 16.10.2020
+CORAM
+THE HONOURABLE MR.JUSTICE T.S.SIVAGNANAM
+and
+THE HONOURABLE MRS.JUSTICE V.BHAVANI SUBBAROYAN
+T.C.A.No.345 of 2020
+The Commissioner of Income Tax
+Chennai .. Appellant
+Versus
+M/s.Continuum Wind Energy (India) Pvt Ltd
+(Formerly known as M/s.Surajbari Windfarm
+Development Pvt Ltd) South Wing, 4th floor,
+Kakani Towers, No.15, Khader Nawaz Khan Road
+Nungambakkam, Chennai – 600 006
+PAN: AAKCS8353F .. Respondent
+Prayer:- Tax Case Appeal filed under Section 260-A of the Income Tax Act,
+1961, against the order of the Income Tax Appellate Tribunal, Chennai 'A'
+Bench, dated 16.06.2017 made in I.T.A.No.3344/Mds/2016 relating to the
+Assessment Year 2013-14.
+For Appellant : M/s.R.Hemalatha
+Senior Standing counsel
+1/16
+http://www.judis.nic.in
+(cid:12) T.C.A.No.345 of 2020
+Indian Kanoon - http://indiankanoon.org/doc/191340146/ 1
+The Commissioner Of Income Tax vs M/S.Continuum Wind Energy (India) Pvt ... on 16 October, 2020
+JUDGMENT
+[Order of the Court was made by T.S.SIVAGNANAM, J.] This appeal has been filed by the Revenue
+under Section 260 A of the Income Tax Act, 1961 ('the Act' for brevity), challenging the order dated
+16.06.2017 passed by the Income Tax Appellate Tribunal, Chennai, 'A' Bench ('the Tribunal' for
+brevity) in I.T.A.No.3344/Mds/2016 for the Assessment Year 2013-14. The Revenue has raised the
+following Substantial Questions of Law for consideration:
+“1. Whether on the facts and in the circumstances of the case, the Tribunal was right
+in directing the AO to allow depreciation by adding the premium on forward contract
+to the cost of the asset, especially when the assets had not been acquired from any
+country outside India which is a pre requisite as per the provisions of Section 43A?
+2. Whether the premium paid on forward contract is to be allowed even in cases
+where it is not even remotely connected with the cost of any assets, since no assets
+was brought into existence leading an enduring benefit to the Assessee?
+3. Whether the benefit provided in Section 43A of the http://www.judis.nic.in I.T.Act
+which relates to the additions made to the cost of assets on account of Exchange
+fluctuation could be extended to a case where no assets was purchased outside the
+country and there was no addition to the block of the assets which require allowance
+of depreciation to be granted?”
+2. We have heard M/s.R.Hemalatha, learned Senior Standing counsel for the
+appellant / Revenue.
+3. Before We make a decision in respect of the Substantial Questions of Law raised
+for consideration, it is to be pointed out that the respondent / assessee had
+challenged the very same order passed by the Tribunal in T.C.A.No.171 of 2019. The
+said appeal was filed, raising the Substantial Questions of Law as to whether the
+Tribunal was right in law in disallowing the amount of Rs.36,33,333/- paid towards
+the premium for hedging foreign exchange fluctuations on loans taken for the
+purpose of appellant's business is a capital loss by treating it as capital expenditure
+under Section 43A of the Act when an asset was purchased in India. The said
+question was answered against the assessee by our judgment dated
+http://www.judis.nic.in 05.10.2020. The operative portion of the judgment reads as
+follows:
+“11. Though, on a cursory reading of the said judgment, it appears that it is a case
+arising under Section 43A of the Act as pointed out by the learned counsel appearing
+for the appellant, on a closer reading and more particularly the finding rendered in
+paragraph 8, the Hon'ble Supreme Court, before analyzing Section 43A of the Act,
+prefaced its judgment in the following manner :
+Indian Kanoon - http://indiankanoon.org/doc/191340146/ 2
+The Commissioner Of Income Tax vs M/S.Continuum Wind Energy (India) Pvt ... on 16 October, 2020
+“8. Before analysing the Section quoted above, by way of preface, we need to state
+that exchange differences are required to be capitalized if the liabilities are incurred
+for acquiring the fixed asset, like plant and machinery. It is the purpose for which the
+loan is raised that is of prime significance. Whether the purpose of the loan is to
+finance the fixed asset or working capital is the question which one needs to answer
+and in order to ascertain that purpose, the facts and circumstances of the case,
+including the relevant loan agreement and the correspondence between the parties
+concerned are required to be looked into. In the present case, it appears that the
+relevant contract and correspondence has not been produced by the assessee. We are
+proceeding on the basis that the purpose of the loan taken by the assessee from ICICI
+was to finance the purchase of plant and machinery. ”
+12. The findings/observations made by the Hon'ble Supreme Court in the said
+judgment would squarely cover the case of the assessee. In fact, the nature of
+transaction in the said http://www.judis.nic.in judgment was identical to that of the
+transaction done by the assessee herein. Therefore, we have to necessarily hold that
+the exchange difference is required to be capitalized because liability has been
+incurred by the assessee for the purpose of acquiring fixed asset namely plant and
+machinery.
+13. The decision of the Hon'ble Supreme Court in the case of Elecon Engineeing Co.
+Ltd., was followed in the decision of the Bombay High Court in the case of CIT Vs.
+Indian Rayon & Industries Ltd. [reported in (2011) 336 ITR 0479]. The decision of
+the Hon'ble Supreme Court in the case of Punjab State Industrial Development
+Corporation Ltd. Vs. CIT [reported in (1997) 225 ITR 0792] would also support the
+stand taken by the Revenue by treating the expenditure as capital expenditure.
+14. In the decision of this Court in the case of Tube Investments of India Vs. JCIT
+[reported in (2014) 45 Taxmann.com 78], to which, one of us (TSSJ) was a party, the
+question was as to whether the Tribunal was right in confirming the disallowance of
+interest and additional expenditure incurred on account of exchange fluctuation. It
+was held that if any part of the loan was not used for purchase of a capital asset, the
+corresponding loss had to be treated as a capital expenditure.
+The relevant portions are as follows :
+“15. The facts of the case have been set out in extenso in http://www.judis.nic.in the
+preceding paragraphs. At the time when the appeal was heard by the first Appellate
+Authority, the assessee appears to have taken a different stand than the stand taken
+at the time of filing the appeal by stating that the money generated out of GDR issue
+had funded the capital expenditure and that the foreign exchange loan had been used
+only for Revenue purpose. The first Appellate Authority while concurring with the
+view taken by the Assessing Officer pointed out that the value of capital goods
+imported during the accounted year 1995-96 was Rs.3,41,42,000/- and during the
+Indian Kanoon - http://indiankanoon.org/doc/191340146/ 3
+The Commissioner Of Income Tax vs M/S.Continuum Wind Energy (India) Pvt ... on 16 October, 2020
+current year was Rs.3,59,73,000/- and the Assessing Officer was justified in
+capitalizing the exchange fluctuation in respect of the imported machinery totaling
+Rs.7,01,15,000/- by invoking Section 43A of the Act by placing reliance on the
+decision of this Court in the case of ELGI Rubber Products Ltd.(supra). In note 12 of
+the printed balance sheet, it has been stated that (a) capital work in progress includes
+exchange fluctuation of Rs.736.01 lakhs and interest Rs.35.50 lakhs respectively;
+(b) the increase in rupee liability on account of outstanding foreign currency loan
+utilized in respect of acquisition of plant and machinery based on the exchange rate
+applicable on the date of balance sheet is Rs.537.58 lakhs (included in capital work in
+progress). As this relates to borrowed funds, the same has been considered in
+computing the provision for tax. By referring to note 12 of the printed balance sheet,
+the first Appellate Authority accepted the view of the Assessing Officer with regard to
+the applicability of Section 43A of the Act. The contention raised by the assessee that
+no capital goods were imported http://www.judis.nic.in against the RBI approved
+loan and loan had been paid not from export proceeds was rejected, as being contrary
+to note 12 of the balance sheet. The Tribunal pointed out that under Schedule 14 of
+the balance sheet, the assessee has spelt out its accounting policy regarding foreign
+exchange difference on account of foreign currency transaction, which states that
+"exchange difference arising from foreign currency transaction are dealt with in profit
+and loss account or capitalized where they relate to fixed asset. Plant and machinery
+acquired through foreign currency loans are capitalized at the rate prevalent at the
+time of purchase". In view of the said admission in the balance sheet, the Tribunal
+affirmed the view taken by the Assessing Officer that the claim of the assessee
+regarding exchange fluctuation was never held to be Revenue, as the claim was not
+supported by any material brought on record and therefore to be treated as capital.
+By referring to the decision of the Hon'ble Apex Court in the case of Tata Locomotive
+and Engg. Co Ltd. (supra) the Tribunal pointed out that if capital asset is purchased,
+capitalizing as capital work in progress, the nature of the same is to be treated as
+capital and if no assets are purchased as regards the principal devaluation of gains
+and loss due to devaluation, the allowance of loss on devaluation, if any, arising on
+the loans obtained for purchase of assets will certainly be in capital account and
+covered by Section 43A of the Act. It was further pointed out that if any part of the
+loan is not used for the purpose of purchase of assets, the corresponding loss has to
+be allowed as capital and not Revenue as the gains are not treated as Revenue income
+following the http://www.judis.nic.in principles laid down by the Hon'ble Apex Court
+in Tata Locomotive and Engg. Co Ltd. (Supra).
+16. The frequent issue, which arises for consideration is regarding the computation of business
+income, whether as particular expenditure is revenue or capital. In the long line of decision of the
+Hon'ble Supreme Court and this Court certain principles have been formulated, nevertheless each
+case has to be decided on the facts and circumstances as to whether a particular expenditure is
+allowable as a permissible deduction. The Hon'ble Supreme Court in the case of K.T.M.T.M. Abdul
+Kayoom v. CIT [1962] 44 ITR 689, held that none of the tests is either exhaustive or universal, each
+Indian Kanoon - http://indiankanoon.org/doc/191340146/ 4
+The Commissioner Of Income Tax vs M/S.Continuum Wind Energy (India) Pvt ... on 16 October, 2020
+case depends on its own facts, and a close similarity between one case and another is not enough,
+because even a single significant detail may alter the entire aspect. It was pointed out that in
+deciding such cases, one should avoid the temptation to decide cases by matching the colour of one
+case against the colour of an another. To decide, therefore, on which side of the line a case falls, its
+broad resemblance to another case is not at all decisive. It was held that what is decisive is the
+nature of the business, the nature of the expenditure, the nature of the right acquired, and their
+relationship, inter se, and this is the only key to resolve the issue in the light of the general
+principles, which are followed in such cases. In the case of CIT v. Ashok Leyland Ltd. [1969] 72 ITR
+137 (Mad), which was affirmed by the Hon'ble Supreme Court in CIT v. Ashok Leyland Ltd. [1972]
+86 ITR 549, it was pointed out that the clear-cut dichotomy cannot be laid down in the absence of
+http://www.judis.nic.in a statutory definition of "capital" and "revenue expenditure". It was held
+that the word "capital" connotes permanency and capital expenditure is, therefore, closely akin to
+the concept of securing something tangible or intangible property, corporeal or incorporeal rights,
+so that they could be of a lasting or enduring benefit to the enterprise in issue. Revenue expenditure,
+on the other hand, is operational in its perspective and solely intended for the furtherance of the
+enterprise and this distinction, though candid is susceptible to modification under peculiar and
+distinct circumstances.
+Therefore, it was held that the facts of each case, the attendant circumstances revolving round the
+expenditure, the aim, object and purpose of the same, their impact on the assessee, particularly in
+matters relating to the future of the assessee's trade and business, whether it could be sustained on
+ordinary canons of commercial expediency simpliciter, whether it is a step-in-aid of future
+expansion or prolongation of life of an existing business, whether it is to secure an enduring benefit,
+whether the expenditure constitutes conceivable nucleus to form the foundation for posterior profit
+earning, whether the expenditure could be viewed as an integral part of the conduct of the business
+and potential future and these were all held to be the main incidents, which have a bearing on the
+decision whether, in a given case, the expenditure is capital or chargeable to revenue. Thus, it was
+held that an objective application of a judicial mind to the facts of each case is necessary.
+.........
+http://www.judis.nic.in
+18. In the decision reported in Woodward Governor India (P.) Ltd. (supra) the Supreme Court
+considered the allowability of expenditure arising out of fluctuation in rate of exchange. Referring to
+Accounting Standards-11, the Supreme Court pointed out that paragraph 9 of AS-11 recognises
+exchange differences as income or expenses in the period in which they arise. Paragraphs 10 and 11
+deal with exchange differences arising on repayment of liabilities incurred for the purpose of
+acquiring fixed assets, which topic falls under section 43A of the 1961 Act. Referring to Section 43A
+(1) opening with the non-obstante clause, the Supreme Court pointed out that Section 43A(1)
+applies where, as a result of change in rate of exchange, there is an increase or reduction in the
+liability of the assessee in terms of Indian Rupee to pay the price or any asset payable in foreign
+exchange or to repay the money in foreign currency taken specifically for the purpose of acquiring
+an asset. Section 43A, as it stood originally, would have application in a case where an asset is
+Indian Kanoon - http://indiankanoon.org/doc/191340146/ 5
+The Commissioner Of Income Tax vs M/S.Continuum Wind Energy (India) Pvt ... on 16 October, 2020
+acquired and the liability existed before the change in the exchange rate takes place. Adjustments in
+the cost are thus made depending on the fluctuation in the currency rate. Thus the cost of the
+equipment assumes significance in the matter of working out the depreciation allowance. Referring
+to the amendment to Section 43A by the Finance Act of 2002, the Supreme Court pointed out that
+Under the unamended section 43A, adjustment to the actual cost took place on the happening of
+change in the rate of exchange and the Section did not require as a condition that there should be
+actual payment of the http://www.judis.nic.in increased/decreased liability as a consequence of the
+exchange variation, whereas, under the amended section 43A, the adjustment in the actual cost is
+made on actual payment. Thus the Section applies where as a result of change in the exchange rate
+there is a reduction or increase in the liability, that the adjustment of increase or decrease in the
+liability relating to acquisition of asset on account of the exchange rate fluctuation is reflected as
+part of the actual cost of the asset acquired in foreign currency and the depreciation is to be allowed
+accordingly.
+19. Learned Standing Counsel appearing for the Revenue placed reliance on this decision only to
+re-emphasize the fact that as far as the assessee was concerned, it had no doubt purchased
+machinery in foreign exchange to the extent of Rs.7.01 crores in all during the Accounting Year
+1995-96 and 1996- 97. To the extent of exchange fluctuation, the actual cost of the purchase of
+machinery thus would include the exchange fluctuation. This would be so for the purpose of finding
+out the actual cost for the purpose of depreciation. As far as the balance of amount which had been
+borrowed is concerned, there is no denial of the fact that under the Reserve Bank of India Scheme,
+the approval was issued sanctioning the loan for the purpose of capital expenditure and
+modernization and expansion. There is no denial of fact that the amount drawn from the loan
+should be utilized for the purpose approved and strictly subject to the terms and conditions
+stipulated by the Reserve Bank of India vide their letter dated 21st September, 1994. It is also not
+denied by the assessee that http://www.judis.nic.in the loan and interest thereon have to be
+repaid/paid only from out of the net foreign exchange earnings of the borrower entity and not from
+any other source and/or the group earnings, as per the schedule of repayment/ payment indicated in
+the application. The assessee also does not deny the fact that the repayment of the loan which
+includes interest should be made through the authorized dealer only. Thus, when the object and the
+purpose of loan clearly points out to the purpose of the loan given as for capital expenditure on
+modernization and expansion, the fact that the exchange fluctuation had been added on to the cost
+under Section 43-A(1), however, does not, lead to the inference that as far as the balance amount is
+concerned, the interest payment difference on exchange fluctuation would fall under Revenue
+head.”
+15. In the light of the above, the substantial question of law framed for consideration has to be
+necessarily answered against the appellant – assessee.
+16. In the result, the above tax case appeal is dismissed and the substantial question of law framed is
+answered against the assessee. No costs.”
+4. In this appeal, the Revenue has challenged the portion of the http://www.judis.nic.in impugned
+order passed by the Tribunal, whereby, the Tribunal, while holding that the premium paid by the
+Indian Kanoon - http://indiankanoon.org/doc/191340146/ 6
+The Commissioner Of Income Tax vs M/S.Continuum Wind Energy (India) Pvt ... on 16 October, 2020
+assessee was in the course of setting up of a project. Therefore, the loss, if any, is on the capital field
+and cannot be Revenue loss and considered the alternate submission of the assessee with regard to
+the prayer for depreciation of the enhanced value, in Paragraph 8 of the impugned order, the
+Tribunal allowed the plea of depreciation by assigning the following reasons.
+''8. The assessee now claims alternatively that if it is capital loss, it will definitely go to increase the
+cost of the project, hence, the assessee shall be given depreciation on the enhanced value of asset.
+Admittedly, the loan was borrowed for setting up of plant for generation of wind energy, therefore,
+the loss suffered in foreign exchange fluctuation would definitely go to increase the cost of the
+project to the extent of loss suffered by the assessee. Hence, as rightly found by the Bangalore Bench
+of this Tribunal in JSW Steel Ltd., (supra), the assessee is entitled for depreciation on the enhanced
+value. Accordingly, while confirming the orders of the lower authorities that the loss suffered by the
+assessee is capital loss, the Assessing Officer is directed to grant depreciation to the assessee as
+applicable http://www.judis.nic.in on the enhanced value of the project after commencement of its
+business.''
+5. The learned Senior Standing counsel for the Revenue would vehemently contend that the
+Tribunal having held that the premium on forward contract was not liable as Revenue expenditure,
+the same is to be added to the cost of the capital assets on which depreciation is to be allowed is not
+a correct proposition, since there is no provision under the Act which allows such expenses. Further,
+it is contended that the assets was purchased in India based on the loan taken in Indian Currency
+only and the premium paid on forward contract is not even remotely connected with the cost of the
+asset and therefore, allowing depreciation does not arise.
+6. We are not agreeable with this contention raised by the Revenue on account of the fact that
+though initially the loan was borrowed by the assessee from State Bank of India in Indian Currency,
+subsequently, the loan was converted into a Foreign Currency loan and the assessee has paid the
+premium of Rs.1.9 lakhs and mark the premium paid over a period http://www.judis.nic.in of three
+years and one-third of premium to the extent of Rs.36,33,333/-.
+Therefore, it cannot be said that the loan borrowed in Foreign currency is not even remotely
+connected with the cost of the asset when it is an admitted position that the loan was borrowed for
+acquiring a capital asset.
+Therefore, the assessee cannot be put to disadvantage on both grounds. So far as the claim of the
+assessee that the expenses is Revenue in nature, it was rejected by the Tribunal and We have
+confirmed the said decision in T.C.A.No.171 of 2019. So far as the claim for depreciation, the
+Tribunal rightly took note of the facts of the case and observed that the loss suffered in Foreign
+Exchange Fluctuations would definitely increase the cost of the project to the extent of loss suffered
+by the assessee. Therefore, We find that the Tribunal was right in allowing the plea of depreciation
+raised by the assessee.
+http://www.judis.nic.in T.S.SIVAGNANAM, J.
+Indian Kanoon - http://indiankanoon.org/doc/191340146/ 7
+The Commissioner Of Income Tax vs M/S.Continuum Wind Energy (India) Pvt ... on 16 October, 2020
+AND V.BHAVANI SUBBAROYAN, J.
+Kak
+7. For the above reasons, We do not find any grounds to interfere with the orders passed by the
+Tribunal. Accordingly, the Tax Case Appeal is dismissed and the Substantial Questions of Law are
+answered against the Revenue. No costs.
+(T.S.S.,J) (V.B.S.,J)
+16.10.2020
+Kak
+Index: Yes / No
+Internet: Yes / No
+Speaking Order/Non-Speaking Order
+To
+The Income Tax Appellate Tribunal,
+'A' Bench, Chennai.
+http://www.judis.nic.in
+Indian Kanoon - http://indiankanoon.org/doc/191340146/ 8

@@ -1,0 +1,131 @@
+Pr Commissioner Of Income Tax - Iii vs M/S Wipro Limited on 30 November, 2020
+Pr Commissioner Of Income Tax - Iii vs M/S Wipro Limited on 30
+November, 2020
+Bench: Alok Aradhe, H T Narendra Prasad
+1
+IN THE HIGH COURT OF KARNATAKA AT BENGALURU
+DATED THIS THE 30TH DAY OF NOVEMBER 2020
+PRESENT
+THE HON'BLE MR. JUSTICE ALOK ARADHE
+AND
+THE HON'BLE MR. JUSTICE H.T.NARENDRA PRASAD
+I.T.A. NO.462 OF 2017
+BETWEEN:
+1. PR. COMMISSIONER OF INCOME TAX-III
+BMTC COMPLEX, KORAMANGALA
+BANGALORE.
+2. DEPUTY COMMISSIONER OF INCOME TAX
+CIRCLE-9(1), BANGALORE.
+... APPELLANTS
+(BY SRI. E.I. SANMATHI, ADV.,)
+AND:
+M/S. WIPRO LIMITED
+(WIPRO SPECTRA MIND SERVES LTD.,)
+DODDAKANNELLI, SARJAPUR ROAD
+BANGALORE-560076
+JPAN: AAE-CS-1943-B.
+... RESPONDENT
+(BY SRI. S. GANESH, SR. COUNSEL FOR
+SMT. ANAGHA NAIR, ADV., FOR
+SRI. R.B. KRISHNA, ADV.,)
+---
+THIS ITA IS FILED UNDER SECTION 260-A OF I.T. ACT,
+1961 ARISING OUT OF ORDER DATED 25.11.2016 PASSED IN ITA
+NO.2402/DEL/2010 FOR THE ASSESSMENT YEAR 2001-02,
+PRAYING TO:
+2
+Indian Kanoon - http://indiankanoon.org/doc/170290407/ 1
+Pr Commissioner Of Income Tax - Iii vs M/S Wipro Limited on 30 November, 2020
+(I) DECIDE THE FOREGOING QUESTION OF LAW AND/OR
+SUCH OTHER QUESTIONS OF LAW AS MAY BE FORMULATED BY
+THE HON'BLE COURT AS DEEMED FIT.
+(II) SET ASIDE THE APPELLATE ORDER DATED 25-11-2016
+PASSED BY THE ITAT, 'C' BENCH, BENGALURU IN APPEAL
+PROCEEDINGS ITA NO.2402/DEL/2010 AND GRANT SUCH OTHER
+RELIEF AS DEEMED FIT, INTEREST OF JUSTICE.
+THIS ITA COMING ON FOR HEARING, THIS DAY,
+ALOK ARADHE J., DELIVERED THE FOLLOWING:
+JUDGMENT
+This appeal under Section 260A of the Income Tax Act, 1961 (hereinafter referred to as the Act for
+short) has been preferred by the revenue. The subject matter of the appeal pertains to the
+Assessment year 2001-02. The appeal was admitted by a bench of this Court vide order dated
+05.07.2018 on the following substantial question of law:
+Whether in the given facts and circumstances of the case, the Tribunal is correct in law in holding
+that the assessee is claim of carry forward of losses under section 72 of the Act even when the
+assessee had filed declaration as required under section 10B(8) of Act after due date of filing original
+return of income date is over and therefore, the assessee cannot claim the benefit of carry forward of
+losses and provisions of section 10B(8) are contravened?
+2. The factual background, in which the aforesaid substantial question of law arises for
+consideration, needs mention. The assessee is a software company. The assessee had filed the return
+for the Assessment Year 2001-02 on 31.10.2001 i.e., on the due date prescribed under Section 139(1)
+of the Act. In the return, exemption under Section 10B of the Act was claimed, thereafter, by a
+communication dated 24.10.2002, filed before the Assessing Officer, the exemption was withdrawn
+before completion of the assessment i.e., 31.03.2004. Subsequently, revised return was filed on
+23.12.2002, in which exemption under Section 10B of the Act was not claimed. In the return of
+income, loss of Rs.15,47,76,990/- was declared. The case was selected for scrutiny and notice under
+Section 143(2) of the Act was issued and an order of assessment was passed on 31.03.2004 by
+making various additions. One such addition was made in respect of denial of claim of carrying
+forward of losses under Section 72 of the Act.
+3. The assessee in respect of the denial of the aforesaid claim filed an appeal before the
+Commissioner of Income Tax (Appeals) who by an order dated 19.01.2009 partly allowed the appeal
+preferred by the assessee. Being aggrieved, the assessee as well as the revenue filed an appeal before
+the Income Tax Appellate Tribunal (hereinafter referred to as 'the tribunal' for short). The tribunal
+by an order dated 25.11.2016 has partly allowed both the appeals and has granted the relief to the
+assessee in respect of its claim for carrying forward of losses under Section 72 of the Act. In the
+aforesaid factual background, the revenue is in appeal before us.
+Indian Kanoon - http://indiankanoon.org/doc/170290407/ 2
+Pr Commissioner Of Income Tax - Iii vs M/S Wipro Limited on 30 November, 2020
+4. Learned counsel for the revenue submitted that the tribunal erred in holding that the assessee is
+entitled to claim of carrying forward of losses under Section 72 of the Act even when the assessee
+had filed the declaration as required under Section 10B(8) of the Act after due date of filing original
+return of income was over. It ought to have been appreciated by the tribunal that the assessee
+cannot claim the benefit of carrying forward of losses as the provisions of Section 10B(8) of the Act
+were contravened. On the other hand, learned Senior counsel for the assessee while inviting the
+attention of this court to Section 10B(8) of the Act contended that as per the aforesaid provision,
+submission of declaration is mandatory, whereas, date of submission of declaration is a directory
+requirement and the assessee had complied with the requirement of submission of declaration
+before completion of the assessment and therefore, the tribunal has rightly held the assessee to be
+entitled for benefit of carrying forward of losses under Section 72 of the Act. In support of aforesaid
+submissions, learned Senior counsel has referred to judgment of Delhi High Court dated 14.05.2008
+in COMMISSIONER OF INCOME TAX, DELHI-III, NEW DELHI VS. MOSER BAER INDIA LTD.,
+'COMMISSIONER OF INCOME TAX VS. RANA POLYCOT LTD.', 347 ITR 466 (P&H) and decision
+of Supreme Court in 'COMMISSIONER OF INCOME TAX VS. G.M.KNITTING INDUSTRIES (P.)
+LTD.', 376 ITR 456 (SC).
+5. We have considered the submissions made by learned counsel for the parties and have perused
+the record. Section 10B of the Act deals with special provisions in respect of newly established 100%
+export oriented undertakings. Before proceeding further, it is apposite to take note of Section 10B(8)
+of the Act, which is reproduced below for facility of reference:
+(8) Notwithstanding anything contained in the foregoing provisions of this section,
+where the assessee, before the due date for furnishing the return of income under
+sub-
+section (1) of section 139, furnishes to the Assessing Officer a declaration in writing that the
+provisions of this section may not be made applicable to him, the provisions of this section shall not
+apply to him for any of the relevant assessment year.
+Thus from perusal of aforesaid provision, it contains twin requirements viz., the filing of a
+declaration and submission of such a declaration.
+6. The constitution bench of the Supreme Court in SARDAR AMRJIT SING KALARA VS. PRAMOD
+GUPTA, (2003) 3 SCC 272 has held that procedural laws have always been viewed as handmaid of
+justice and not to hamper the cause of justice. It has further been held that technical objection which
+tend to be stumbling blocks to defeat and delay substantial and effective justice should be viewed
+strictly for being discouraged except when mandate of law inevitably necessitates it. (ALSO SEE:
+SAMBHAJI VS. GANGABAI, (2008) 17 SCC 117, RAJENDRA PRASAD GUPTA VS. PRAKASH
+CHANDRA MISHRA (2011) 11 SCALE 469 and RAMJI GUPTA AND ORS. VS. GOPI KRISHAN
+AGRAWAL (D) AND ORS. AIR 2013 SC 3099). In STATE OF BIHAR AND ORS. VS. BIHAR RAJYA
+BHOOMI VIKAS BANK SAMITHI, (2018) 9 SCC 472, it has been held that if infraction of
+procedural provision does not provide for any consequences, such a provision has to be construed as
+directory. In the instant case, Section 10B of the Act does not provide for non compliance of
+Indian Kanoon - http://indiankanoon.org/doc/170290407/ 3
+Pr Commissioner Of Income Tax - Iii vs M/S Wipro Limited on 30 November, 2020
+submission of declaration. Therefore, the requirement of submission of declaration in terms of
+Section 10B(8) of the Act has to be treated as mandatory whereas, the requirement of submission of
+declaration by a time limit has to be treated as directory as the provision does not provide for any
+consequence by non filing of the declaration by the time limit. In any case, in the instant case, the
+declaration has been filed before the completion of assessment. Similar view has been taken by High
+Court of Delhi In Moser Baer India Ltd. with which we respectfully concur.
+In view of preceding analysis, the substantial question of law framed a bench of this court is
+answered against the revenue and in favour of the assessee. In the result, we do not find any merit in
+this appeal, the same fails and is hereby dismissed.
+Sd/-
+JUDGE Sd/-
+JUDGE ss
+Indian Kanoon - http://indiankanoon.org/doc/170290407/ 4

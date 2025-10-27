@@ -1,0 +1,304 @@
+Pr. Commissioner Of Income Tax vs M/S The J&K Bank Ltd on 13 July, 2023
+Pr. Commissioner Of Income Tax vs M/S The J&K Bank Ltd on
+13 July, 2023
+Author: Sanjeev Kumar
+Bench: Sanjeev Kumar, Javed Iqbal Wani
+HIGH COURT OF JAMMU & KASHMIR AND LADAKH
+AT JAMMU
+ITA No. 6/2017 c/w
+ITA No. 4/2017
+Reserved on 08.06.2023.
+Pronounced on 13.07.2023.
+Pr. Commissioner of Income Tax ..... appellant (s)
+Pr. Commissioner of Income Tax
+Through :- Ms Aruna Thakur Advocate with
+Ms. Pariksha Parmar Advocate
+V/s
+M/S The J&K Bank Ltd. .....Respondent(s)
+M/S The J&K Bank Ltd.
+Through :- Mr.Subash C. Dutta Advocate
+Coram: HON'BLE MR. JUSTICE SANJEEV KUMAR, JUDGE
+HON'BLE MR. JUSTICE JAVED IQBAL WANI, JUDGE
+JUDGEMENT
+Sanjeev Kumar, J.
+1. These two appeals filed by the Revenue under Section 260A of the Income Tax Act, 1961 ['the Act']
+are directed against a common order dated 28.02.2017 passed by the Income Tax Appellate
+Tribunal, Circuit Bench at Jalandhar ['ITAT'] in ITA No. 74(Asr)/2015 for the assessment year
+2010-11 and ITA No. 137 (Asr)//2015 for the assessment year 2011-12. Both the appeals have been
+admitted by this Court on the following substantial question of law:
+"Whether the ITAT committed an error of law in confirming the order passed by the
+Commissioner of Income Tax (Appeals) deleting the non deduction of TDS on
+account of interest paid to the Jammu Development Authority even when the same is
+taxable entity and as such the assessee-Bank was under an obligation to deduct the
+TDS on interest payment to Jammu Development Authority under Section 194A of
+the Income Tax Act, 1961"
+Indian Kanoon - http://indiankanoon.org/doc/52610065/ 1
+Pr. Commissioner Of Income Tax vs M/S The J&K Bank Ltd on 13 July, 2023
+2. For both the assessment years i.e 2010-11 and 2011-12, the Joint Commissioner of Income Tax,
+Range-1 Jammu ['the Assessing Authority'] decided the issue in favour of the Revenue and held that
+the Jammu Development Authority ['JDA'] is a Local Authority which is not exempt from payment
+of tax and, therefore, the assessee-Bank was under an obligation to deduct the TDS on the deposits
+of JDA. Reliance was placed by the Assessing Authority on the judgment of Hon'ble Supreme Court
+rendered in the case of Adityapur Industrial Area Development Authority vs. Union of India and
+others, (2006) 283 ITR 97 (SC). On appeal by the assessee-Bank against the order of assessment
+passed by the Assessing Authority, the Commissioner of Income Tax (Appeals), Jammu ['CIT(A)']
+accepted the plea of the assessee- Bank and held that, it was not required to deduct any tax at source
+on its interest payments made to the JDA. The CIT (A) relied upon an earlier judgment of ITAT,
+Amritsar Bench passed in respect of the assessee-Bank in respect of its Shalamar and Gandhi Nagar,
+Jammu Branches. 3 The issue, inter alia, fell for consideration before the ITAT, Amritsar Bench in
+the appeals filed by the Revenue as well as the assessee- bank. While dealing with the issue in
+question, the ITAT upheld the decision of the CIT (A), relying upon its earlier decision passed in the
+case of assessee for the assessment years 2007-08 and 2008-09. The ITAT had upheld the deletion
+of addition for those years by holding as under:
+"It has not been disputed that Jammu Development Authority stands incorporated by
+the J&K Development Act, 1970. CBDT Notification No. 3489 dated 27.10.1970
+issued in pursuance of the provisions of Section 194A(3)(f) of the Act, provides that
+no tax was required to be deducted on interest on deposit paid to a Corporation
+incorporated under a State Act. The position is not any different so far as regards
+JDA incorporated under the State Act, too. Therefore, the provisions of section 194A
+of the Act are not applicable due to which the provisions of Section 40(a)(ia) are also
+not attracted."
+4 This is how the plea of the bank came to be finally accepted by the ITAT while deciding the appeals
+vide its order dated 28.02.2017. It is this order of the ITAT which is subject matter of challenge in
+these appeals. 5 The appeals have been preferred on multiple grounds, but this Court, after hearing
+both the sides, has found only one substantial question of law involved for adjudication in these
+appeals which we have already reproduced hereinabove.
+6 Having heard learned counsel for the parties and perused the material on record, it is necessary to
+first set out Section 194A of the Act.
+"194A. Interest other than interest on securities--
+(I) Any person, not being an individual or a Hindu undivided family, who is
+responsible for paying to a resident any income by way of interest other than income
+by way of interest on securities, shall at the time of credit of such income to the
+account of the payee or at the time of payment thereof in cash or by issue of a cheque
+or draft or by any other mode, whichever is earlier, deduct income-tax thereon at the
+rates in force :
+Indian Kanoon - http://indiankanoon.org/doc/52610065/ 2
+Pr. Commissioner Of Income Tax vs M/S The J&K Bank Ltd on 13 July, 2023
+Provided that an individual or a Hindu undivided family, whose total sales, gross
+receipts or turnover from the business or profession carried on by him exceed the
+monetary limits specified under clause (a) or clause (b) of section 44-AB during the
+financial year immediately proceeding the financial year in which such income by
+way of rent is credited or paid, shall be liable to deduct income-tax under this
+section..
+Explanation.--For the purposes of this section, where any income by way of interest
+as aforesaid is credited to any account, whether called 'Interest payable account' or
+'Suspense account or by any other name, in the books of account of the person liable
+to pay such income, such crediting shall be deemed to be credit of such income to the
+account of the payee and the provisions of this section shall apply accordingly.
+(3) The provisions of Sub-section (1) shall not apply--
+(i) where the amount of such income or, as the case may be, the aggregate of the
+amounts of such income credited or paid or likely to be credited or paid during the
+financial year by the person referred to in Sub-section (1) to the account of, or to, the
+payee,does not exceed-
+(a) forty thousand rupees, where the payer is a banking company to which the
+Banking Regulation Act, 1949 (10 of 1949) applies ( including any bank or banking
+institution, referred to in Section 51 of that Act).
+(b) forty thousand rupees, where the payer is a cooperative society engaged in carrying on the
+business of banking; © forty thousand rupees, on any deposit with post office under any scheme
+framed by the Central Government and notified by it in this behalf; and
+(d) five thousand rupees in any other case.
+Provided that in respect of the income credited or paid in respect of--
+(a) time deposits with a banking company to which the Banking Regulation Act, 1949 (10 of 1949),
+applies (including any bank or banking institution referred to in Section 51 of that Act) ; or
+(b) time deposits with a co-operative society engaged in carrying on the business of banking ;
+(c) deposits with a public company which is formed and registered in India with the main object of
+carrying on the business of providing long-term finance for construction or purchase of houses in
+India for residential purposes and which is for the time being approved by the Central Government
+for the purpose of Clause (viii) of Sub-section (1) of section 36.
+Provided further that the amount referred to in the first proviso shall be computed with reference to
+income credited or paid by the banking company or the cooperative society or the public company as
+Indian Kanoon - http://indiankanoon.org/doc/52610065/ 3
+Pr. Commissioner Of Income Tax vs M/S The J&K Bank Ltd on 13 July, 2023
+the case may be, where such banking company or the cooperative society or the public company has
+adopted core banking solutions Provided also that in case of payee being a senior citizen, the
+provisions of sub clauses (a),(b) and (c) shall have effect as if for the words forty thousand rupees,
+the words fifty thousand rupees had been substituted.
+Explanation- For the purposes of this clause, senior citizen means an individual resident in India
+who is of the age of sixty years or more at any time during the relevant previous year.
+(iii) to such income credited or paid before to-
+(a) any banking company to which the Banking Regulation Act, 1949 (10 of 1949), applies, or any
+co-operative society engaged in carrying on the business of banking (including a co-operative land
+mortgage bank), or
+(b) any financial corporation established by or under a Central, State or Provincial Act, or
+(c) the Life Insurance Corporation of India established under the Life Insurance Corporation Act,
+1956 (31 of 1956), or
+(d) the Unit Trust of India established under the Unit Trust of India Act, 1963 (52 of 1963), or
+(e) any company or co-operative society carrying on the business of insurance, or
+(f) such other institution, association or body or class of institutions, associations or bodies which
+the Central Government may, for reasons to be recorded in writing, notify in this behalf in the
+Official Gazette ;
+(iv) to such income credited or paid by a firm to a partner of the firm;
+(v) to such income credited or paid by a co-operative society to a member, thereof or to any other
+co-operative society ;
+(vi) to such income credited or paid in respect of deposits under any scheme framed by the Central
+Government and notified by it in this behalf in the Official Gazette ;
+(vii) to such income credited or paid in respect of deposits (other than time deposits made on or
+after the 1st day of July, 1995) with a banking company to which the Banking Regulation Act, 1949
+(10 of 1949), applies (including any bank or banking institution referred to in Section 51 of that Act)
+;
+(viia) to such income credited or paid in respect of,--
+(a) deposits with a primary agricultural credit society or a primary credit society or a co-operative
+land mortgage bank or a cooperative land development bank ;
+Indian Kanoon - http://indiankanoon.org/doc/52610065/ 4
+Pr. Commissioner Of Income Tax vs M/S The J&K Bank Ltd on 13 July, 2023
+(b) deposits (other than time deposits made on or after the 1st day of July, 1995) with a co-operative
+society, other than a co- operative society or bank referred to in sub-Clause (a), engaged in carrying
+on the business of banking ;
+(viii) to such income credited or paid by the Central Government under any provision of this Act or
+the Indian Income-tax Act, 1922 (11 of 1922), or the Estate Duty Act, 1953 (34 of 1953), or the
+Wealth-tax Act, 1957 (27 of 1957), or the Gift-tax Act, 1958 (18 of 1958), or the Super Profits Tax Act,
+1963 (14 of 1963), or the Companies (Profits) Surtax Act, 1964 (7 of 1964), or the Interest- tax Act,
+1974 (45 of 1974).
+Explanation.--For the purposes of Clauses (i), (vii) and (viia), 'time deposits' means deposits
+(excluding recurring deposits) repayable on the expiry of fixed periods.
+(4) The person responsible for making the payment referred to in subsection (1) may, at the time of
+making any deduction, increase or reduce the amount to be deducted under this section for the
+purpose of adjusting any excess or deficiency arising out of any previous deduction or failure to
+deduct during the financial year". 7 From a plain reading of sub-section (1) of Section 194A of the
+Act, it clearly transpires that any person except when he is an individual or Hindu undivided family
+who is responsible for paying to a resident any income by way of interest, other than the income by
+way of interest on securities is under an obligation to deduct income tax at source at the time of
+credit of such income to the account of payee. The provisions of sub section (1) of Section 194A,
+however, shall not apply to interest income credited or paid amongst others to the following:
+(a) any banking company to which the Banking Regulation Act, 1949 applies, or any
+co-operative society engaged in carrying on the business of banking;
+(b) any financial corporation established by or under a Central, State or Provincial
+Act, or
+(c) the Life Insurance Corporation of India established under the Life Insurance
+Corporation Act, 1956, or
+(d) the Unit Trust of India established under the Unit Trust of India Act, 1963 or
+(e) any company or co-operative society carrying on the business of insurance, or
+(f) such other institution, association or body or class of institutions, associations or
+bodies which the Central Government may, for reasons to be recorded in writing,
+notify in this behalf in the official Gazette.
+8 In the exercise of powers conferred upon the Central Government under Section 194A(3)(iii)(f) of
+the Act, the Central Government has issued a Notification SO 3489 dated 22.10.1970 which reads
+thus:
+Indian Kanoon - http://indiankanoon.org/doc/52610065/ 5
+Pr. Commissioner Of Income Tax vs M/S The J&K Bank Ltd on 13 July, 2023
+"In pursuance of sub-clause (f) of clause (iii) of sub-section (3) of section 194A of the
+Income-tax Act, 1961 (43 of 1961), the Central Government hereby notifies the
+following for the purposes of the said sub-clause:-
+(i) any corporation established by a Central, State or Provincial Act;
+(ii) any company in which all the shares are held (whether singly or taken together)
+by the Government or the Reserve Bank of India or a Corporation owned by that
+Bank; and
+(iii) any undertaking or body, including a society registered under the Societies
+Registration Act, 1860 (21 of 1860), financed wholly by the Government.
+9 From a conjoint reading of Section 194A of the Act and SO 3489 dated 22.10.1970, it becomes
+abundantly clear that, apart from others, a corporation established by a Central, State or Provincial
+Act is exempt from the operation of sub section (1) of Section 194A of the Act and such corporation
+is, thus, not obliged to deduct TDS on the interest payment made by it to the payee.
+10 If we could conclude that JDA is a corporation established by the State Act, then inescapable
+conclusion would be that the assessee-bank shall not be obliged to deduct TDS from the interest
+payments made to the JDA on its amount kept in FDRs. We could have ventured into a detailed
+discussion as to whether the JDA is a corporation established by or under the State Act, but we
+would refrain from doing so, for the simple reason that the issue raised before us is no longer res
+integra. Hon'ble Supreme Court of India has dealt with the similar issue in the case of
+Commissioner of Income Tax (TDS), Kanpur vs. Canara Bank, (2018) 9 SCC 322.
+11 In the aforesaid case, the Apex Court was dealing with New Okhla Industrial Development
+Authority ['NOIDA'], constituted by a Notification dated 17.04.1976 issued under Section 3 of the
+Uttar Pradesh Industrial Area Development Act, 1976. The Canara Bank was the banker of the
+Authority. The Bank made a payment of Rupees Twenty cores ten lacs as interest to NOIDA on fixed
+deposits for the financial year 2005-06. The Canara Bank, however, did not deduct TDS in terms of
+Section 194A of the Act. The notices were issued by the Assessing Authority to Canara Bank to show
+cause for not deducting the TDS. The ITAT held that the payment of interest by the bank to the
+NOIDA did not require any TDS in terms of section 194A(3)(iii)(f). The order of the ITAT was not
+accepted by the revenue and the same was taken in an appeal before the Division Bench of High
+Court of Allahabad under Section 260A of the Act. The Division Bench dismissed the appeal. This is
+how the matter landed before the Hon'ble Supreme Court. The Hon'ble Supreme Court, after
+elaborate discussion as to what constitute a corporation and how the same can be said to have been
+established by or under an Act of Legislature, concluded that NOIDA was a corporation established
+by or under the Act of State Legislature and, therefore, exempt from the provisions of Section 194A
+(1) of the Act. Hon'ble Supreme Court ruled that the Canara Bank was under
+no obligation to deduct the TDS form the interest income paid by it to NOIDA on its
+fixed deposits lying with the Bank. The Supreme Court strongly relied upon the
+Indian Kanoon - http://indiankanoon.org/doc/52610065/ 6
+Pr. Commissioner Of Income Tax vs M/S The J&K Bank Ltd on 13 July, 2023
+judgment of Dalco Engineering Private Limited vs. Satish Prabhakar Padhye and
+Others (2010) 4 SCC 378. This judgment of the Supreme Court was also followed in
+the later case of Union bank of India vs. Additional Commissioner of Income Tax
+(TDS) (2022) 442 ITR 194 (SC) in respect of Agra Development Authority
+established/constituted under the provisions of Uttar Pradesh Urban Planning and
+Development Act, 1973.
+What was said by the Supreme Court in respect of Agra Development Authority may
+be set out below:
+6. The issue which is raised in the present appeals is covered by the judgment of a
+two-Judge Bench of this Court in Commissioner of Income Tax (TDS) Kanpur and
+Another vs Canara Bank. In that case, the issue pertained to the applicability of the
+notification dated 22 October 1970 in relation to payments made by Canara Bank to
+the New Okhla Industrial Development Authority, an authority constituted under
+Section 3 of the Uttar Pradesh Industrial Area Development Act 1976. The Bank had
+not deducted tax at source under Section 194-A which led to notices being issued,
+resulting in consequential action. This Court, after considering the terms of the
+notification held that NOIDA which has been established under the Act of 1976 is
+covered by the notification dated 22 October 1970. Though the statute under which
+the Agra Development Authority has been constituted is the UP Urban Planning and
+Development Act 1973, the same principle which has been laid down in the judgment
+of this Court in Canara Bank (supra), would govern the present case".
+12 When we apply the ratio of the aforesaid two judgments of the Supreme Court to the case in
+hand, we find that the JDA is also a statutory authority constituted under Section 3 of the
+Development Act 1970 which, for facility of reference, is reproduced hereunder"
+3.Declaration of local area and constitution of Development Authority
+(i) As soon as may be after the commencement of this act, the Govt. may, by
+notification in the Government Gazette, declare any area to be local area for purposes
+of this Act and constitute therefore an authority to be called the Development
+Authority (herein-after referred to as the Authority).
+(ii) The Authority shall be a body corporate by the name of the Local Area having
+perpetual succession and a common seal with power to acquire, hold and dispose of
+property, both movable and immovable, and to contract and shall in the said name
+sue and be used.
+13 From a perusal of Section 3, it clearly transpires that it confers upon the Government power to
+constitute a Development Authority for an area to be declared by it, to be a local area for the
+purposes of this Act and this the Government would do by issuing a Notification in the Government
+Gazette. The Authority so constituted by the Government shall be a body corporate by the name of
+Indian Kanoon - http://indiankanoon.org/doc/52610065/ 7
+Pr. Commissioner Of Income Tax vs M/S The J&K Bank Ltd on 13 July, 2023
+the local area having perpetual succession and a common seal with power to acquire, hold and
+dispose of the property, both movable and immovable and to contract. The Authority shall, by its
+name, sue and be sued. This is in pursuance of the powers conferred upon the Government under
+Section 3, The Jammu Development Authority has been constituted for the Local Area of Jammu.
+The Authority is a body corporate known by the name of Jammu Development Authority and shall
+have perpetual succession and a common seal etc. That being the position, there can hardly be any
+dispute that JDA is a corporation constituted under the State Act i.e the Development Act 1970. S.O
+3489 of 1970 clearly notifies a corporation established by a Central, State or Provincial Act exempt
+from the operation of sub-section (1) of Section 194A of the Act. The JDA is not incorporated like the
+company which is incorporated under the Companies Act or the Cooperative Society which is
+registered under the Cooperative Societies Act. The JDA is a statutory body which owes its origin to
+the Development Act 1970 and is regulated in its functions by the provisions of Development Act
+1970 and the rules framed thereunder.
+14 In view of the clear exposition of law made by the Supreme Court in the aforesaid two judgments,
+it would be a superfluous exercise for us to go into the issue in detail once again.
+15 The JDA is similar to the Agra Development Authority constituted under the provisions of Uttar
+Pradesh Urban Planning and Development Act, 1973 and NOIDA established under Uttar Pradesh
+Industrial Area Development Act, 1976. Both the aforesaid Authorities too have been constituted
+under the similar Development Acts legislated by the State of Uttar Pradesh.
+16 The judgment relied upon by Ms Thakur learned counsel appearing for the Revenue in the case of
+Adityapur Industrial Area Development Authority (supra), which is a judgment relied upon by the
+Assessing Authority also, is totally off the point. In the said case, the Supreme Court was dealing
+with a different question i.e whether the income of Adityapur Industrial Area Development
+Authority could be termed as income of the Government and, therefore, exempt from the payment
+of tax for the purposes of Article 289 (1) of the Constitution. The Supreme Court was neither
+confronted with, nor did it consider the issue in the context of provisions of Section 194A of the Act.
+In the said case, the Supreme Court did hold that Adityapur Industrial Area Development Authority
+was an autonomous institution and the income of the said Authority was its own income and not the
+income of the State. The aforesaid judgment relied upon by the revenue in support of its contentions
+is, thus, not applicable to the case in hand. 17 For the foregoing reasons, we hold that ITAT
+committed no error of law in confirming the order of CIT(A) deleting the non deduction of TDS on
+account of interest on fixed deposits paid to the Jammu Development Authority even when JDA is a
+taxable entity. We further hold that the assessee was under
+no obligation to deduct TDS on interest payments made to the JDA on its fixed
+deposits in terms of Section 194A of the Act. The JDA being a corporation established
+by the State Act. i.e the Development Act 1970 was, thus, outside the purview of
+sub-section (1) of Section 194A.
+18 For the aforesaid reasons, we find no merit in these appeals. Accordingly, both the appeals are
+dismissed.
+Indian Kanoon - http://indiankanoon.org/doc/52610065/ 8
+Pr. Commissioner Of Income Tax vs M/S The J&K Bank Ltd on 13 July, 2023
+(JAVED IQBAL WANI) (SANJEEV KUMAR)
+JUDGE JUDGE
+Jammu
+13.07.2023
+Sanjeev
+Whether order is reportable:Yes
+Indian Kanoon - http://indiankanoon.org/doc/52610065/ 9

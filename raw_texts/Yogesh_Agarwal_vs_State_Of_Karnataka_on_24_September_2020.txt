@@ -1,0 +1,966 @@
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+Equivalent citations: AIRONLINE 2020 KAR 1896
+-1-
+IN THE HIGH COURT OF KARNATAKA AT BENGALURU
+DATED THIS THE 24TH DAY OF SEPTEMBER, 2020
+R
+BEFORE
+THE HON'BLE MR.JUSTICE B.A.PATIL
+CRIMINAL PETITION NO.3197/2020
+BETWEEN :
+1. Yogesh Agarwal
+Aged about 30 years
+S/o.Bhagwati Prasad Agarwal
+R/at. Villa No.20, Gran Carmen
+Sarjapur Road
+Opp. Decathlon, Mulluru
+Carmelaram
+Bengaluru-560 035
+2. Kulin Shah
+Aged about 37 years
+S/o.Chandrakant Jamnadas Shah
+R/at. Flat No.E-311, Pine Block
+Raheja Residency, 7th Cross
+3rd Block, Koramangala
+Bengaluru-560 034
+3. Bhagwati Prasad Agarwal
+Aged 62 years
+R/at. No.12A, Duad Ali Dutta
+Sarani Sukeas, Row
+Calcutta Central Div.
+West Bengal-700 006
+-2-
+4. Uma Agarwal
+Aged about 59 years
+Wife of Bhagwati Agarwal Prasad
+R/At. No.12A, Daud Ali Dutta
+Sarani Sukeas, Row
+Calcutta Central Div.
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 1
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+West Bengal-700 006
+5. Sunita Poddar
+Aged about 33 years
+W/o.Yogesh Agarwal
+R/at Villa No.20
+Gran Carmen, Sarjapur Road
+Opp.Decatholon, Mulluru
+Carmelaram
+Bengaluru-560 035
+... Petitioners
+(By Sri Uday Holla, Senior Counsel for
+Sri Smaran Shetty, Advocate)
+AND :
+1. State of Karnataka
+Rep. herein by:
+The Investigation Officer
+Cyber Crime Police Station (CID)
+Rep.by SPP
+High Court Building
+Bengaluru-560 001
+2. Mr.Ashwin Ramaswamy
+Authorized representative of
+Acko General Insurance Limited
+S/o. K.K.Ramaswamy
+Major
+No.A-301, Manthri Classic Apartment
+1st Main, 8th Cross
+-3-
+Koramangala, 4th Block
+Bengaluru-560 034 ... Respondents
+(By Sri H.R.Showri, HCGP for R1
+Sri C.V.Nagesh, Senior Counsel for
+Sri/Smt.Chinmayi J. Mirji, Advocate for R2)
+This Criminal Petition is filed under Section 482 of
+of Cr.P.C praying to quash the entire proceedings in
+CR.No.7219/2020 presently on the file of the I ACMM,
+Bengaluru including the complaint and FIR in
+CR.No.6/2020 on the file of the Cyber Crime Police
+Station (CID), for the offences punishable under Sections
+403, 406, 408, 426, 120B r/w.34 of IPC and Sections 66
+and 72 of IT Act.
+This Criminal Petition having been heard and
+reserved on 08.09.2020 coming on for pronouncement of
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 2
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+orders this day through 'Video Conference', the Court
+made the following:-
+ORDER
+This petition is filed by accused Nos.1 to 5 under Section 482 of Cr.P.C. praying to quash the entire
+proceedings in Crime No.7219/2020, pending on the file of I Additional Chief Metropolitan
+Magistrate, Bengaluru, arising out of Crime No.6/2020 of Cyber Crime Police Station (CID) for the
+offences punishable under Sections 403, 406, 408, 426, 120B r/w.34 of IPC and Sections 66 and 72
+of Information Technology Act, 2000.
+2. I have heard Sri Uday Holla, learned Senior Counsel on behalf of Sri Smaran Shetty for the
+petitioners-accused No.1 to 5, Sri C.V.Nagesh, learned Senior Counsel on behalf of Smt. Chinmayi
+Mirji, for respondent No.2-complainant virtually and Sri H.R.Showri, learned HCGP for respondent
+No.1-State
+3. Though this case is listed for orders, with the consent of both parties, the same is taken up for
+final disposal.
+4. Brief facts of the case are that the complainant Acko General Insurance Limited is a Company
+incorporated under the provisions of the Companies Act, 2013. It is wholly owned by subsidiary of
+Acko Technology and Services Private Limited (Acko Tech). It is further alleged Acko GI is engaged
+in the business of manufacturing and selling insurance and is an entity licensed by Insurance
+Regulatory and Development Authority of India. Acko GI was founded in the year 2016 and has
+invested more than 800 Crores of rupees and within two years of its establishment, is able to
+develop unique developed complex actuarial and data science models which predicts various key
+metrics across sectors like travel, health, mobile, commerce. It has also developed very sensitive
+information including list of clients, business models, business strategy and other trade secrets. All
+these data and formulae form part of confidential information of Acko Group. It is further alleged
+that confidential information is proprietary information of Acko Group exclusively owned by it.
+5. It is further alleged that the petitioner No.1- accused No.1 joined Acko GI as its full time employee
+in the position of Actuarial Associate on 17.3.2017. Later he resigned and started his own firm and
+had entered into consultant agreements dated 1.8.2018 and 1.4.2019 with Acko Group. It is further
+alleged that he was working on various projects and advising Acko Group. Subsequently, accused
+No.2-petitioner No.2 was employed as Vice- President of New Business and Partnerships at Acko
+Group on 4.9.2017. They have signed corporate governance document in relation to code of conduct,
+antifraud and information and data security policies of Acko Group. Accused No.1 is bound by
+Clause-6 of the agreement about the confidential information and non- disclosure of confidential
+information. Accused No.2 is also bound by the said agreement to maintain confidentiality and
+non-compete clause under Agreement No.2. It is further alleged that accused Nos.1 and 2 during
+their tenure with Acko Group were entrusted with confidential information which they had to use
+exclusively for the benefit of Acko Group and were bound not to disclose such information to any
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 3
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+person or third party- company. Under such circumstances, accused Nos.1 and 2 in collusion with
+one Mr.Bhagwati Prasad Agarwal and Ms.Uma Agarwal Mrs.Sunita Poddar, wife of accused No.1
+hatched a criminal conspiracy to cheat and fraud Acko Group to steal the confidential information
+and start their own competitive business by using confidential information taken from Acko Group.
+The said information has been stolen during their course of engagement and employment. It is
+further alleged that accused No.1 through his parents and wife has set up a competitor company
+under the name "Onsurity Services Private Limited incorporated on 15.5.2019 when he was working
+with Acko Group. It is further alleged that accused Nos.1 and 2 fraudulently disclosed the
+confidential information stolen by them to Onsurity Services Private Limited to make illegal
+financial gain.
+6. It is further alleged that accused No.1 had terminated his consultancy contract with Acko Group
+on 30.9.2019. However, accused No.2 continued his employment with Acko Group with criminal
+intention to pass on the confidential information from Acko Group to accused No.1 to build a rival
+business venture. Accused No.2 continued stealing of confidential information till he had enough
+data to set up their competitor company. After they got sufficient data and information they set up a
+company under the name and style "Onsurity Technologies Private Limited on 5.2.2020 in which
+accused No.1 is the Director, accused No.2 is a co- founder and shareholder. Subsequently accused
+No.2 also gave resignation on 14.1.2020. It is further alleged that during notice period, accused No.2
+was permitted to hand over the confidential information to Acko Group which was entrusted to him.
+Accused No.2 without the permission of Acko Group unauthorisidely downloaded the confidential
+information and has illegally disclosed and transmitted to Onsurity Technologies Private Limited. It
+is further alleged that when the Google log was checked and verified, it is noticed that he has
+downloaded huge data of key confidential information from 14.2.2020 to 24.2.2020 during his
+notice period. He had an intent to conceal his illegal activities and had tampered and deleted his
+operating system from Acko Group laptop assigned to him. It is further alleged that accused Nos.1
+and 2 with an intent to set up a rivalry business after stealing confidential information from Acko
+Group, they have done the said act. It is further alleged that the said records disclosed the
+confidential information which has been stolen and they had made financial illegal gain from the
+same. It is further alleged that subsequently it came to the knowledge of the complainant that the
+accused persons replicated investor memorandum/pitch deck of Acko Group and have raised
+Rupees 20 Crores from Nexus Ventures. It is the copy of Acko Group. It is further alleged that
+accused Nos.1 and 2 in collusion with accused Nos.3 to 5 have been soliciting the existing
+clientel/investors of Acko Group through telephonic calls and personal meetings to cause
+- 10 -
+them to stop doing business with Acko Group with an intention to cause wrongful financial loss and
+hardship to the Acko Group. Accused No.2 is also using the stolen information and confidential
+information to develop the pirated products which are infringing upon the rights of Acko Group.
+The above said act has been done with conspiracy of all the accused persons with an intention to
+make gain and cause illegal loss to the complainant. On the basis of the complaint a case has been
+registered in Crime No.6/2020 of Cyber Crime Police Station (CID) for the offences punishable
+under Sections 403, 406, 408, 426, 120B r/w. Section 34 of IPC and Sections 62 and 72 of
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 4
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+Information Technology Act, 2000.
+7. It is the submission of Sri Uday Holla, learned Senior Counsel appearing on behalf of the
+petitioners- accused Nos.1 to 5 that the contents of the complaint are very vague allegations.
+Accused No.1 was appointed on 17.3.2017 and subsequently he resigned during the year
+- 11 -
+2018 and no serious allegations have been made as against him. It is his further submission that
+accused No.2 resigned on 14.1.2020. When accused No.2- petitioner No.2 got relieved through
+relieving letter dated 13.3.2020, no such objections or complaints have been alleged about misuse of
+his possession, on the contrary his work has been appreciated. Only because they have set up a
+competitor company and gained popularity, in order to tarnish their name and business, the present
+complaint has been filed. It is his further submission that the basic ingredients of the alleged offence
+have not been made out in the complaint. Under such circumstances, proceeding against the
+petitioners- accused No.1 to 5 is nothing, but an abuse of process of law. It is his further submission
+that the complaint has been registered as against accused Nos.1 and 2 after they left the
+complainant-Company 2½ years and 2½ months later respectively. The said delay has not been
+explained. It is his further submission that only to
+- 12 -
+destroy the business of the petitioners-accused vague allegations have been made. It is his further
+submission that only with vendetta to harass the accused persons the present complaint has been
+filed. It is his further submission that the complainant has approached the High Court of Judicature
+at Bombay by filing original suit seeking various reliefs. The present complaint is filed only to agitate
+civil dispute through the police though the entire matter is of a civil nature and civil transactions
+have been involved. It is his further submission that when the allegations made in the complaint do
+not disclose the commission of offence, then this Court can exercise the power under Section 482 of
+Cr.P.C. to quash the proceedings. In order to substantiate the said arguments, the learned Senior
+Counsel for the petitioners relied upon a decision in the case of Pratibha Vs. Rameshwari Devi &
+Others, reported in 2007(12) SCC 369.
+- 13 -
+8. It is his further submission that when the matter is of civil nature and if it is given a cloak of
+criminal offence and when civil remedy is available, then under such circumstances, this Court can
+exercise the power under Section 482 by holding that it is abuse of process of law. In order to
+substantiate the said arguments, he relied upon a decision in the case of Paramjeet Batra Vs. State of
+Uttarakhan and Others, reported in (2013)11 SCC 673.
+9. It is his further submission that if early reporting of occurrence of information is not there and
+there is delay in filing the complaint and in the absence of any explanation for the said delay which
+is said to be deliberate, it is fatal to the case of the complainant. Under such circumstances, the
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 5
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+Court has to quash the proceedings. In order to substantiate the said contention, he relied upon the
+decision in the case of Kishan Singh (dead) through LRs. Vs. Gurpal Singh
+- 14 -
+and Others, reported in (2010)8 SCC 775. It is his further submission that the complainant did not
+tolerate the success of the petitioners-accused and in that light, a mala fide complaint has been filed
+by the complainant. It is his further submission that when all the rights of the parties have been
+seized in the civil suit before Bombay High Court, then under such circumstances, there is no
+investigation of case by the police. What the police have investigated is a question and that itself
+creates a doubt. On these grounds, he prayed to allow the petition and to quash the proceedings.
+10. Per contra, Sri C.V.Nagesh, learned Senior Counsel for respondent No.2-complainant has
+vehemently argued and submitted that petitioners Nos.1 and 2-accused Nos.1 and 2 are the former
+employees who had been entrusted with all the confidential records and material while they were
+working in the complainant- Company. Accused No.1 resigned in the year 2018,
+- 15 -
+whereas accused No.2 continued the job. They came and joined the complainant-Company only with
+clandestine action and after downloading the confidential information illegally they got transmitted
+the said information to Onsurity Technologies Private Limited wherein accused Nos.1 to 5 who are
+all relatives only with an intention to cheat the complainant-Company have constituted the said
+Company and stolen the confidential information from Acko Group. It is his further submission that
+the contents of the complaint disclose the ingredients of the offence for having stolen the
+confidential information which has been acquired by them during the course of employment and the
+same has been misused by cheating the complainant-Company. It is his further submission that they
+have stolen the intellectual property which is the property of the complainant-company. Accused
+Nos.1 and 2 have downloaded the confidential information and subsequently they have deleted the
+data which has been dumped in their laptops, that is a matter
+- 16 -
+which requires consideration and investigation. It is his further submission that accused No.2
+though resigned on 14.2.2020, during his notice period, he logged in the confidential information
+and unauthorizedly downloaded and transmitted the same to Onsurity Technologies Private Limited
+wherein he is also one of the active partners. It is his further submission that the official laptop
+which was given to accused No.2 itself indicates downloading of confidential information by him
+and thereafter the same has been transmitted and deleted. In order to know the said aspects, the
+said records have to be retrieved by using technology which is a matter of investigation which
+cannot be considered and appreciated in commercial suit which has been filed before the Bombay
+High Court. It is his further submission that the said suit is filed only to get the stay and
+appointment of Commissioner for search and seizure. When the accused persons committed a
+criminal offence by conspiring with each other, then under such circumstances, the Court
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 6
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+- 17 -
+cannot interfere with such proceedings. It is his further submission that while exercising the power
+under Section 482 of Cr.P.C., three conditions are to be fulfilled. The injustice which comes to light
+should be of a grave, and not of a trivial character; it should be palpable and clear and not doubtful
+and there should exist no other provision of law by which the party aggrieved could have sought the
+relief. It is further submitted that if the Court is satisfied that there is prima facie case existing
+against the accused on evaluation of the material, then the Court cannot interfere by exercising the
+power under Section 482 of Cr.P.C. In order to substantiate his contention, he relied upon the
+decision in the case of Chilkamarthi Venkateshwarlu and Another Vs. State of Andhra Pradesh and
+Another, reported in 2019 SCC Online SC 948.
+11. It is his further submission that on perusal of the complaint if it discloses prima facie offence
+alleged
+- 18 -
+against the accused the correctness or otherwise of the allegations are to be decided only at the time
+of trial and not at this stage. In order to substantiate the said contention, he relied upon the decision
+in the case Kamal Shivaji Pokarnekar Vs. State of Maharashtra and Others, reported in (2019)14
+SCC 350. It is his further submission that the power given under Section 482 of Cr.P.C. is a wider
+power which requires great caution and it has to be carefully exercised by the High Court. In order
+to substantiate his arguments he relied upon the decision of this Bench in the case of Shri A.Anup
+Vs. The Station House Officer, Station Bazaar Police Station, Kalaburagi, reported in 2017 SCC
+Online Kar 3327. It is his further submission that execution of the order passed by the Bombay High
+Court through the Commissioner was done with great difficulties and the conduct of the accused in
+execution is also very much necessary to be considered for the purpose of disposal of this case. It is
+his further
+- 19 -
+submission that already Bombay High Court has issued injunction order and warrant of execution to
+execute its order. The Commissioner has also given his report for having committed the alleged
+offence by the accused which requires investigation. On these grounds, he prayed to dismiss the
+petition.
+12. By supporting the arguments of the learned Senior Counsel for respondent No.2-complainant,
+the learned HCGP has submitted that if a case is having concurrent criminal and civil liabilities,
+there is no bar to initiate criminal proceedings as against the accused. Under such circumstances,
+the proceedings cannot be quashed. In order to substantiate the said contention, he relied upon the
+decision in the case of Arun Bhandari Vs. State of U.P & others, reported in 2013(2) SCC
+801. It is his further submission that if there is dispute arising out of breach of contract and the
+offence has also been committed in the said transaction, criminal trial is
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 7
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+- 20 -
+not barred if the allegations disclose the criminal offence. In that light, he relied upon the decision in
+the case of Indian Oil Corporation Vs. NEPC India Limited & Others, reported in 2006 (6) SCC 736.
+On these grounds, he prayed to dismiss the petition.
+13. I have carefully and cautiously gone through the submissions made on behalf of both the parties
+and have given thoughtful consideration to the decisions quoted by them.
+14. It is the contention of the learned Senior Counsel for the petitioners-accused Nos.1 to 5 that the
+allegations made in the complaint are so vague and they do not disclose the commission of offence
+so also the basic ingredients of the offences have not been made out. In order to substantiate his
+contention, he relied upon the decision in the case of Pratibha Vs. Rameshwari Devi & Others (cited
+supra), wherein at paragraph-12, it has been observed as under:-
+- 21 -
+"12. From the principles laid down in the abovementioned decisions, it is clear that
+the Court is entitled to exercise its inherent jurisdiction for quashing a criminal
+proceeding or an FIR when the allegations made in the same do not disclose the
+commission of an offence and that it depends upon the facts and circumstances of
+each particular case. We also feel it just and proper to refer to a leading decision of
+this Court in State of Haryana v. Bhajan Lal [1992 Supp (1) SCC 335 : 1992 SCC (Cri)
+426] in which this Court pointed out certain categories of cases by way of illustrations
+wherein the inherent power under Section 482 of the Code can be exercised either to
+prevent abuse of the process of any court or otherwise to secure the ends of justice.
+The same are as follows: (SCC pp. 378-79, para 102) "(1) Where the allegations made
+in the first information report or the complaint, even if they are taken at their face
+value and accepted in their entirety do not prima facie
+- 22 -
+constitute any offence or make out a case against the accused.
+(2) Where the allegations in the first information report and other materials, if any, accompanying
+the FIR do not disclose a cognizable offence, justifying an investigation by police officers under
+Section 156(1) of the Code except under an order of a Magistrate within the purview of Section
+155(2) of the Code.
+(3) Where the uncontroverted allegations made in the FIR or complaint and the evidence collected
+in support of the same do not disclose the commission of any offence and make out a case against
+the accused. (4) Where, the allegations in the FIR do not constitute a cognizable offence but
+constitute only a non-cognizable offence, no investigation is permitted by a police officer without an
+order of a Magistrate as contemplated under Section 155(2) of the Code.
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 8
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+(5) Where the allegations made in the FIR or complaint are so absurd and
+- 23 -
+inherently improbable on the basis of which no prudent person can ever reach a just conclusion that
+there is sufficient ground for proceeding against the accused.
+(6) Where there is an express legal bar engrafted in any of the provisions of the Code or the Act
+concerned (under which a criminal proceeding is instituted) to the institution and continuance of
+the proceedings and/or where there is a specific provision in the Code or the Act concerned,
+providing efficacious redress for the grievance of the aggrieved party.
+(7) Where a criminal proceeding is manifestly attended with mala fide and/or where the proceeding
+is maliciously instituted with an ulterior motive for wreaking vengeance on the accused and with a
+view to spite him due to private and personal grudge."
+15. It is the contention of the learned Senior Counsel for respondent No.2-complainant that the
+accused Nos.1 and 2 are former employees of the
+- 24 -
+complainant-Company and they have stolen the confidential and secret information which was
+acquired by them and they have also stolen the intellectual property of the complainant-Company.
+What is the relevancy of the contents of the complaint and FIR for the purpose of finding out of
+cognizable offence, this Court has to exercise its power and look into the allegations made in the
+complaint as to whether prima facie case has been made out by the complainant or not. This
+proposition is also laid down in the case of Pratibha Vs. Rameshwari Devi & Others (cited supra),
+wherein at paragraph-22, it has been observed as under:-
+"22. For the reasons aforesaid, we are inclined to interfere with the order of the High
+Court and hold that the High Court in quashing the FIR in the exercise of its inherent
+powers under Section 482 of the Code by relying on the investigation report and the
+findings made therein has acted beyond its jurisdiction. For the purpose of finding
+out the commission of a cognizable
+- 25 -
+offence, the High Court was only required to look into the allegations made in the
+complaint or the FIR and to conclude whether a prima facie offence had been made
+out by the complainant in the FIR or the complaint or not."
+16. Keeping in view the submissions made by both the Senior Counsel and on perusal of the
+complaint, it indicates that it is not in dispute that accused Nos.1 and 2 are the former employees of
+the complainant- Company and subsequently they have resigned to the said posts. They have also
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 9
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+established a Company under the name style "Onsurity Services Private Limited". It is also not in
+dispute that accused Nos.3 and 4 are the parents of accused No.1 and accused No.5 is the wife of
+accused No.1. It is alleged in the complaint that unauthorizedly accused No.2 has downloaded the
+confidential information and has illegally disclosed and transmitted the same to Onsurity
+Technologies Private
+- 26 -
+Limited. When the Google log was checked, it was seen that accused No.2 has downloaded huge
+data, dumped up key confidential information from 14.2.2020 to 24.2.2020 during his notice period
+after his resignation. The laptop and other things are going to disclose the said fact. When there are
+specific allegations made for having cheated the complainant and accused Nos.1 and 2 stolen the
+confidential information, then under such circumstances, without expressing anything on merits of
+the case, I am of the considered opinion that there appears to be prima facie case made out in the
+complaint in this behalf.
+17. It is the contention of the learned Senior Counsel for the petitioners that when a civil dispute is
+filed before the Bombay High Court and the present dispute is also of a civil in nature, then this
+Court has to see whether a dispute which is essentially of a civil nature is given a cloak of criminal
+offence. If the dispute
+- 27 -
+is essentially of a civil nature and is given a cloak of criminal offence, then under such
+circumstances, the proceedings initiated have to be quashed. In order to support his arguments he
+relied upon the decision in the case of Paramjeet Batra Vs. State of Uttarakhan and Others (cited
+supra), wherein at paragraph-12, it has been observed as under:-
+"12. While exercising its jurisdiction under Section 482 of the Code the High Court
+has to be cautious. This power is to be used sparingly and only for the purpose of
+preventing abuse of the process of any court or otherwise to secure ends of justice.
+Whether a complaint discloses a criminal offence or not depends upon the nature of
+facts alleged therein. Whether essential ingredients of criminal offence are present or
+not has to be judged by the High Court. A complaint disclosing civil transactions may
+also have a criminal texture. But the High Court must see whether a dispute which is
+essentially of a civil nature is given a cloak of criminal offence. In such a situation, if a
+civil
+- 28 -
+remedy is available and is, in fact, adopted as has happened in this case, the High
+Court should not hesitate to quash the criminal proceedings to prevent abuse of
+process of the court."
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 10
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+18. It is his further submission that the pending civil suit will take care of all the issues including
+forging, fabricating and stealing of the said information and continuation of criminal proceedings is
+abuse of process of law. In that light, he also relied upon the very same decision, i.e., Paramjeet
+Batra Vs. State of Uttarakhan and Others (cited supra), wherein at paragraphs-13 and 14, it has been
+observed as under:-
+"13. As we have already noted, here the dispute is essentially about the profit of the
+hotel business and its ownership. The pending civil suit will take care of all those
+issues. The allegation that forged and fabricated documents are used by the appellant
+can also be dealt with in the said suit. Respondent 2's attempt to file similar
+complaint against the
+- 29 -
+appellant having failed, he has filed the present complaint. The appellant has been
+acquitted in another case filed by Respondent 2 against him alleging offence under
+Section 406 IPC. Possession of the shop in question has also been handed over by the
+appellant to Respondent 2. In such a situation, in our opinion, continuation of the
+pending criminal proceedings would be abuse of the process of law. The High Court
+was wrong in holding otherwise.
+14. In the circumstances, the impugned order dated 29-9-2011 [Paramjeet Batra v.
+State of Uttaranchal, Criminal Miscellaneous Application No. 287 of 2005, order
+dated 29-9-2011 (Utt)] passed by the Uttarakhand High Court is set aside. The entire
+proceedings of Criminal Case No. 723 of 2005 (Charge-sheet No. 32 of 2005), and the
+order of cognizance dated 22-3-2005 passed thereon by the Judicial Magistrate,
+Khatima, District Udham Singh Nagar against the appellant, Respondents 3 and 4
+and against accused Rajpal for the offences punishable under
+- 30 -
+Sections 406, 420, 467, 468, 471, 447, 448 read with Section 34 IPC are quashed and
+set aside. This order will however have no effect on the pending civil suit between the
+parties. Needless to say that the court, seized of the said suit, shall decide it
+independently and in accordance with law."
+19. It is the submission of the learned Senior Counsel for respondent No.2-complainant that when
+the material produced is of both civil remedy as well as the remedy under criminal law, then under
+such circumstances, on the basis of the allegation of criminality the criminal proceedings can also be
+initiated. It is his further submission that while exercising the power under Section 482, the Court
+has to be satisfied prima facie about the existence of sufficient ground for proceeding against
+accused and detailed enquiry is not necessary. In this regard, he relied upon the decision in the case
+of Chilkamarthi Venkateshwarlu and Another Vs. State of Andhra Pradesh and Another
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 11
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+- 31 -
+(cited supra), wherein at paragraphs-14 to 16 it has been observed as under:-
+"14. For interference under Section 482, three conditions are to be fulfilled. The
+injustice which comes to light should be of a grave, and not of a trivial character; it
+should be palpable and clear and not doubtful and there should exist no other
+provision of law by which the party aggrieved could have sought relief.
+15. In exercising jurisdiction under Section 482 it is not permissible for the Court to
+act as if it were a trial Court. The Court is only to be prima facie satisfied about
+existence of sufficient ground for proceeding against the accused. For that limited
+purpose, the Court can evaluate materials and documents on record, but it cannot
+appreciate the evidence to conclude whether the materials produced are sufficient or
+not for convicting the accused.
+16. The High Court should not, in exercise of jurisdiction under Section 482, embark
+upon an enquiry into whether the evidence is reliable or not, or whether on a
+reasonable appreciation of
+- 32 -
+the evidence the allegations are not sustainable, for this is the function of the trial
+Judge. This proposition finds support from the judgment of this Court inZandu
+Pharmaceutical Works Ltd. v. Mohd. Sharful Haque1."
+20. It is his further submission that after perusal of the prima facie material if the offence is going to
+be constituted, the correctness or otherwise has to be decided only during the course of trial and not
+at this premature stage. In that light, he relied upon the decision in the case of Kamal Shivaji
+Pokarnekar Vs. State of Maharashtra and Others, (cited supra), wherein at paragraph-9 it has been
+observed as under:-
+"9. Having heard the learned Senior Counsel and examined the material on record,
+we are of the considered view that the High Court ought not to have set aside the
+order passed by the trial court issuing summons to the respondents. A perusal of the
+complaint discloses prima facie, offences that are alleged against the respondents.
+The correctness or otherwise of
+- 33 -
+the said allegations has to be decided only in the trial. At the initial stage of issuance
+of process it is not open to the courts to stifle the proceedings by entering into the
+merits of the contentions made on behalf of the accused. Criminal complaints cannot
+be quashed only on the ground that the allegations made therein appear to be of a
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 12
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+civil nature. If the ingredients of the offence alleged against the accused are prima
+facie made out in the complaint, the criminal proceeding shall not be interdicted.
+21. It is the submission of the learned HCGP that if there is concurrent civil and criminal liability, it
+is not a bar to the criminal proceedings and the Court can proceed with the said aspect. In that light,
+he relied upon the decision in the case of Arun Bhandari Vs. State of U.P & others (cited supra),
+wherein at paragraphs-25 to 35 it has been observed as under:-
+"25. Coming to the facts of the present case, it is luminescent from the FIR that the
+allegations against Respondent 2 do not only pertain to her presence but also about
+her total
+- 34 -
+silence and connivance with her husband and transfer of property using power of
+attorney in favour of Monika Goel. It is also graphically clear that the complainant
+had made allegations that Raghuvendra Singh and his wife Savita Singh, had met him
+at the site, showed the registered agreement and the cash and cheque were given to
+them at that time. It is also mentioned in the FIR that on 28-7-2008, Savita Singh
+had received the possession of the said plot and on the same day it was transferred in
+the name of Monika Goel. It is also reflectible that on 28-2-2007 Raghuvendra Singh
+and Savita Singh had got prepared and registered two documents in the office of the
+Sub-Registrar consisting one agreement to sell in favour of Raghuvendra Singh and
+another general power of attorney in favour of the wife. The allegation of collusion by
+the husband and wife has clearly been stated. During the investigation, as has been
+stated earlier, many a fact emerged but the same were ignored and a final report was
+submitted. In the protest petition the complainant had asseverated everything in
+detail about what emerged during
+- 35 -
+the course of investigation. The learned Chief Judicial Magistrate after perusal of the
+case diary and the FIR has expressed the view that a case under Sections 406 and 420
+IPC had been made out against both the accused persons. The learned Sessions
+Judge, after referring to the ingredients and the role ascribed, concurred with the
+same. The High Court declined to accept the said analysis on the ground that it was
+mere presence and further there was no privity of contract between the complainant
+and Respondent 2.
+26. At this stage, we may usefully note that sometimes a case may apparently look to
+be of civil nature or may involve a commercial transaction but such civil disputes or
+commercial disputes in certain circumstances may also contain ingredients of
+criminal offences and such disputes have to be entertained notwithstanding they are
+also civil disputes. In this context, we may reproduce a passage from Mohd. Ibrahim
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 13
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+v. State of Bihar [(2009) 8 SCC 751 : (2009) 3 SCC (Cri) 929] : (SCC p. 754, para 8)
+- 36 -
+"8. This Court has time and again drawn attention to the growing tendency of the
+complainants attempting to give the cloak of a criminal offence to matters which are
+essentially and purely civil in nature, obviously either to apply pressure on the
+accused, or out of enmity towards the accused, or to subject the accused to
+harassment. Criminal courts should ensure that proceedings before it are not used for
+settling scores or to pressurise parties to settle civil disputes. But at the same time, it
+should be noted that several disputes of a civil nature may also contain the
+ingredients of criminal offences and if so, will have to be tried as criminal offences,
+even if they also amount to civil disputes. (See G. Sagar Suri v. State of U.P.[(2000) 2
+SCC 636 : 2000 SCC (Cri) 513] and Indian Oil Corpn. v. NEPC India Ltd.[(2006) 6
+SCC 736 : (2006) 3 SCC (Cri) 188] )"
+27. In this context we may also usefully refer to a paragraph from All Cargo Movers (India) (P) Ltd.
+v. Dhanesh Badarmal Jain [(2007) 14 SCC 776 : (2009) 1 SCC (Cri)
+- 37 -
+947 : AIR 2008 SC 247] : (SCC pp. 781-82, para 16) "16. ... Where a civil suit is pending and the
+complaint petition has been filed one year after filing of the civil suit, we may for the purpose of
+finding out as to whether the said allegations are prima facie correct, take into consideration the
+correspondences exchanged by the parties and other admitted documents. It is one thing to say that
+the court at this juncture would not consider the defence of the accused but it is another thing to say
+that for exercising the inherent jurisdiction of this Court, it is impermissible also to look to the
+admitted documents. Criminal proceedings should not be encouraged, when it is found to be mala
+fide or otherwise an abuse of the process of the court. Superior courts while exercising this power
+should also strive to serve the ends of justice."
+28. In Rajesh Bajaj v. State (NCT of Delhi) [(1999) 3 SCC 259 : 1999 SCC (Cri) 401 : AIR 1999 SC
+1216] , while dealing with a case where the High Court had quashed an FIR, this Court opined that
+the facts narrated in the
+- 38 -
+complaint petition may reveal a commercial transaction or a money transaction, but that is hardly a
+reason for holding that the offence of cheating would elude from such a transaction. Proceeding
+further, the Bench observed thus:
+(SCC p. 263, para 11) "11. The crux of the postulate is the intention of the person who
+induces the victim of his representation and not the nature of the transaction which
+would become decisive in discerning whether there was commission of offence or not.
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 14
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+The complainant has stated in the body of the complaint that he was induced to
+believe that the respondent would honour payment on receipt of invoices, and that
+the complainant realised later that the intentions of the respondent were not clear.
+He also mentioned that the respondent after receiving the goods had sold them to
+others and still he did not pay the money. Such averments would prima facie make
+out a case for investigation by the authorities."
+29. We have referred to the aforesaid decisions in the field to highlight about the role
+- 39 -
+of the court while dealing with such issues. In our considered opinion the present case falls in the
+category which cannot be stated at this stage to be purely civil in nature on the basis of the admitted
+documents or the allegations made in the FIR or what has come out in the investigation or for that
+matter what has been stated in the protest petition. We are disposed to think that prima facie there
+is an allegation that there was a guilty intention to induce the complainant to part with money. We
+may hasten to clarify that it is not a case where a promise initially made could not be lived up to
+subsequently. It is not a case where it could be said that even if the allegations in entirety are
+accepted, no case is made out. Needless to emphasise, the High Court, while exercising power under
+Article 226 of the Constitution or Section 482 CrPC, has to adopt a very cautious approach.
+30. In CBI v.Rav iShankar Srivastava [(2006) 7 SCC 188 : (2006) 3 SCC (Cri) 233] the Court, after
+referring to Janata Dal v. H.S. Chowdhary [(1992) 4 SCC 305 : 1993 SCC
+- 40 -
+(Cri) 36] and Raghubir Saran v. State of Bihar [AIR 1964 SC 1 : (1964) 1 Cri LJ 1] , has observed that
+the powers possessed by the High Court under Section 482 CrPC are very wide and the very
+plenitude of the power requires great caution in its exercise. The Court must be careful to see that its
+decision in exercise of this power is based on sound principles and such inherent powers should not
+be exercised to stifle a legitimate prosecution. This Court has further stated that it is not proper for
+the High Court to analyse the case of the complainant in the light of all probabilities in order to
+determine whether a conviction would be sustainable and on such premises arrive at a conclusion
+that the proceedings are to be quashed. It has been further pronounced that it would be erroneous to
+assess the material before it and conclude that the complaint could not be proceeded with. The
+Bench has opined that the meticulous analysis of the case is not necessary and the complaint has to
+be read as a whole and if it appears that on consideration of the allegations in the light of the
+statement made on oath of the
+- 41 -
+complainant that the ingredients of the offence or offences are disclosed and there is no material to
+show that the complaint is mala fide, frivolous or vexatious, in that event there would be no
+justification for interference by the High Court.
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 15
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+31. In R. Kalyani v. Janak C. Mehta [(2009) 1 SCC 516 : (2009) 1 SCC (Cri) 567] , after referring to
+the decisions in Hamida v. Rashid [(2008) 1 SCC 474 :
+(2008) 1 SCC (Cri) 234] and State of Orissa v. Saroj Kumar Sahoo [(2005) 13 SCC 540 : (2006) 2
+SCC (Cri) 272] , this Court eventually culled out the following propositions:
+(R. Kalyani case [(2009) 1 SCC 516 : (2009) 1 SCC (Cri) 567] , p. 523, para 15) "15.
+Propositions of law which emerge from the said decisions are:
+(1) The High Court ordinarily would not exercise its inherent jurisdiction to quash a
+criminal proceeding and, in particular, a first information report unless the
+allegations contained therein, even if given face value and
+- 42 -
+taken to be correct in their entirety, disclosed no cognizable offence.
+(2) For the said purpose the Court, save and except in very exceptional circumstances, would not
+look to any document relied upon by the defence.
+(3) Such a power should be exercised very sparingly. If the allegations made in the FIR disclose
+commission of an offence, the Court shall not go beyond the same and pass an order in favour of the
+accused to hold absence of any mens rea or actus reus.
+(4) If the allegation discloses a civil dispute, the same by itself may not be a ground to hold that the
+criminal proceedings should not be allowed to continue."
+It is worth noting that it was observed therein that one of the paramount duties of the superior court
+is to see that a person who is absolutely innocent is not subjected to prosecution and humiliation on
+the basis of a false and wholly untenable complaint.
+32. Recently in Gian Singh v. State of Punjab [(2012) 10 SCC 303 : (2012) 4 SCC
+- 43 -
+(Civ) 1188 : (2013) 1 SCC (Cri) 160 : (2012) 2 SCC (L&S) 988] a three-Judge Bench has observed
+that: (SCC pp. 339-40, para 55) "55. In the very nature of its constitution, it is the judicial obligation
+of the High Court to undo a wrong in course of administration of justice or to prevent continuation
+of unnecessary judicial process. This is founded on the legal maxim quando lex aliquid alicui
+concedit, conceditur et id sine qua res ipsa esse non potest. The full import of which is whenever
+anything is authorised, and especially if, as a matter of duty, required to be done by law, it is found
+impossible to do that thing unless something else not authorised in express terms be also done, may
+also be done, then that something else will be supplied by necessary intendment. Ex debito justitiae
+is inbuilt in such exercise; the whole idea is to do real, complete and substantial justice for which it
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 16
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+exists. The power possessed by the High Court under Section 482 of the Code is of wide amplitude
+but requires exercise with great caution and circumspection."
+- 44 -
+33. Applying the aforesaid parameters we have no hesitation in coming to hold that neither the FIR
+nor the protest petition was mala fide, frivolous or vexatious. It is also not a case where there is no
+substance in the complaint. The manner in which the investigation was conducted by the officer who
+eventually filed the final report and the transfer of the investigation earlier to another officer who
+had almost completed the investigation and the entire case diary which has been adverted to in
+detail in the protest petition prima facie makes out a case against the husband and the wife
+regarding collusion and the intention to cheat from the very beginning, inducing the appellant to
+hand over a huge sum of money to both of them. Their conduct of not stating so many aspects,
+namely, the power of attorney executed by the original owner, the will and also the sale effected by
+the wife in the name of Monika Singh on 28-7-2008 cannot be brushed aside at this stage.
+34. Therefore, we are disposed to think that the High Court, while exercising the
+- 45 -
+extraordinary jurisdiction, had not proceeded on the sound principles of law for quashment of order
+taking cognizance. The High Court has been guided by the non-existence of privity of contract and
+without appreciating the factual scenario has observed that the wife was merely present. Be it noted,
+if the wife had nothing to do with any of the transactions with the original owner and was not aware
+of the things, possibly the view of the High Court could have gained acceptation, but when the wife
+had the power of attorney in her favour and was aware of execution of the will, had accepted the
+money along with her husband from the complainant, it is extremely difficult to say that an innocent
+person is dragged to face a vexatious litigation or humiliation. The entire conduct of Respondents 2
+and 3 would show that a prima facie case is made out and allegations are there on record in this
+regard that they had the intention to cheat from the stage of negotiation. That being the position, the
+decision in Hridaya Ranjan Prasad Verma [(2000) 4 SCC 168 : 2000 SCC (Cri) 786 : AIR 2000 SC
+2341] which is commended
+- 46 -
+to us by Mr Sharma, learned Senior Counsel, to which we have adverted to earlier, does not really
+assist the respondents and we say so after making the factual analysis in detail.
+35. In view of our aforesaid analysis we allow the appeal, set aside the order [Criminal
+Miscellaneous WP No. 69 of 2011, order dated 29-1-2011 (All)] passed by the High Court and direct
+the Magistrate to proceed in accordance with law. However, we may clarify that we may not be
+understood to have expressed any opinion on the merits of the case one way or the other and our
+observations must be construed as limited to the order taking cognizance and nothing more than
+that. The learned Magistrate shall decide the case on its own merits without being influenced by any
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 17
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+of our observations as the same have been made only for the purpose of holding that the order of
+cognizance is prima facie valid and did not warrant interference by the High Court."
+22. It is trite law that in exercise of the power by the High Court under Section 482 of Cr.P.C., it
+cannot
+- 47 -
+undertake a detailed examination of the facts contained in FIR by acting as an appellate Court and
+draw its conclusion. It is only when no prima facie cognizable case is made out on its mere reading,
+then under such circumstances, it can exercise its power, otherwise it cannot quash the proceedings.
+In that light, I want to rely upon the decision in the case of Chirag M. Pathak & Others Vs. Dollyben
+Kantilal patel & Others, reported in (2018)1 SCC 330, wherein at paragraphs- 23, 24 and 31 it has
+been observed as under:-
+"23. The High Court, in exercise of its powers under Section 482 of the Code, cannot undertake a
+detailed examination of the facts contained in the FIRs by acting as an appellate court and draw its
+own conclusion. It is more so when investigation in other societies is not yet complete.
+24. In our considered opinion, it is only when on reading the FIR, a sheer absurdity in the
+allegations is noticed and when no prima facie
+- 48 -
+cognizable case is made out on its mere reading due to absurdity in the allegations or when facts
+disclose prima facie cognizable case and also disclose remarkable identity between the two FIRs as if
+the first FIR is filed second time with no change in allegations then the court may, in appropriate
+case, consider it proper to quash the second FIR. Such is not the case here.
+25. xxx xxx xxx
+26. xxx xxx xxx
+27. xxx xxx xxx
+28. xxx xxx xxx
+29. xxx xxx xxx
+30. xxx xxx xxx
+31. In view of the foregoing discussion, we cannot concur with the reasoning and the conclusion
+arrived at by the High Court in the impugned judgment [Kantilal Ambalal Patel v.State of Gujarat,
+2013 SCC OnLine Guj 8799] . The appeals thus succeed and are allowed. The impugned judgment
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 18
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+[Kantilal Ambalal Patel v. State of Gujarat, 2013 SCC OnLine Guj 8799] is set aside."
+- 49 -
+23. It is also trite law that if there are serious triable allegations in the complaint, it is a matter to be
+investigated into. Under such circumstances, the Court cannot exercise its extraordinary jurisdiction
+for quashing the proceedings. In that light, I want to rely upon the decision in the case of Pramod
+Suryabhan Pawar Vs. State of Maharashtra & Another, reported in (2019) 9 SCC 608, wherein at
+paragraphs-6 to 8 it has been observed as under:-
+"6. Section 482 is an overriding section which saves the inherent powers of the court
+to advance the cause of justice. Under Section 482 the inherent jurisdiction of the
+court can be exercised (i) to give effect to an order under CrPC; (ii) to prevent the
+abuse of the process of the court; and (iii) to otherwise secure the ends of justice. The
+powers of the court under Section 482 are wide and the court is vested with a
+significant amount of discretion to decide whether or not to exercise them. The court
+should be guarded in the use of its extraordinary jurisdiction to quash an FIR or
+criminal
+- 50 -
+proceeding as it denies the prosecution the opportunity to establish its case through
+investigation and evidence. These principles have been consistently followed and
+reiterated by this Court. In Inder Mohan Goswami v. State of Uttaranchal [Inder
+Mohan Goswami v. State of Uttaranchal, (2007) 12 SCC 1 : (2008) 1 SCC (Cri) 259] ,
+this Court observed: (SCC p. 10, paras 23-24) "23. This Court in a number of cases
+has laid down the scope and ambit of courts' powers under Section 482 CrPC. Every
+High Court has inherent powers to act ex debito justitiae to do real and substantial
+justice, for the administration of which alone it exists, or to prevent abuse of the
+process of the court.
+Inherent power under Section 482 CrPC can be exercised:
+(i) to give effect to an order under the Code;
+(ii) to prevent abuse of the process of the court, and
+(iii) to otherwise secure the ends of justice.
+24. Inherent powers under Section 482 CrPC though wide have to be exercised sparingly, carefully
+and with great caution and only when
+- 51 -
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 19
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+exercise is justified by the tests specifically laid down in this section itself. Authority of the court
+exists for the advancement of justice. If any abuse of the process leading to injustice is brought to
+the notice of the court, then the court would be justified in preventing injustice by invoking inherent
+powers in absence of specific provisions in the statute."
+7. Given the varied nature of cases that come before the High Courts, any strict test as to when the
+court's extraordinary powers can be exercised is likely to tie the court's hands in the face of future
+injustices. This Court in State of Haryana v. Bhajan Lal [State of Haryana v. Bhajan Lal, 1992 Supp
+(1) SCC 335 : 1992 SCC (Cri) 426] conducted a detailed study of the situations where the court may
+exercise its extraordinary jurisdiction and laid down a list of illustrative examples of where quashing
+may be appropriate. It is not necessary to discuss all the examples, but a few bear relevance to the
+present case. The Court in Bhajan Lal [State of Haryana v.Bhajan Lal, 1992 Supp (1) SCC 335 :
+- 52 -
+1992 SCC (Cri) 426] noted that quashing may be appropriate where: (SCC pp.
+378-79, para 102) "102. ... (1) Where the allegations made in the first information
+report or the complaint, even if they are taken at their face value and accepted in
+their entirety do not prima facie constitute any offence or make out a case against the
+accused.
+(2) Where the allegations in the first information report and other materials, if any, accompanying
+the FIR do not disclose a cognizable offence, justifying an investigation by police officers under
+Section 156(1) of the Code except under an order of a Magistrate within the purview of Section
+155(2).
+*** (7) Where a criminal proceeding is manifestly attended with mala fide and/or where the
+proceeding is maliciously instituted with an ulterior motive for wreaking vengeance on the accused
+and with a view to spite him due to private and personal grudge."
+8. In deciding whether to exercise its jurisdiction under Section 482, the Court does
+- 53 -
+not adjudicate upon the veracity of the facts alleged or enter into an appreciation of competing
+evidence presented. The limited question is whether on the face of the FIR, the allegations constitute
+a cognizable offence. As this Court noted in Dhruvaram Murlidhar Sonar v. State of Maharashtra
+[Dhruvaram Murlidhar Sonar v. State of Maharashtra, (2019) 18 SCC 191 : 2018 SCC OnLine SC
+3100] , (Dhruvaram Sonar): (SCC para 13) "13. It is clear that for quashing the proceedings,
+meticulous analysis of factum of taking cognizance of an offence by the Magistrate is not called for.
+Appreciation of evidence is also not permissible in exercise of inherent powers. If the allegations set
+out in the complaint do not constitute the offence of which cognizance has been taken, it is open to
+the High Court to quash the same in exercise of its inherent powers."
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 20
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+24. I want to rely upon one more decision of the Hon'ble Apex Court in the case of XYZ Vs. State of
+Gujarat & Another, reported in (2019) 10 SCC 337,
+- 54 -
+wherein at paragraphs-14 and 16 it has been observed as under:-
+"14. Having heard the learned counsel for the parties and after perusing the
+impugned order and other material placed on record, we are of the view that the High
+Court exceeded the scope of its jurisdiction conferred under Section 482 CrPC, and
+quashed the proceedings. Even before the investigation is completed by the
+investigating agency, the High Court entertained the writ petition, and by virtue of
+interim order [Kenal Vrajmohan Shah v. State of Gujarat, 2018 SCC OnLine Guj 432]
+granted by the High Court, further investigation was stalled. Having regard to the
+allegations made by the appellant/informant, whether the 2nd respondent by clicking
+inappropriate pictures of the appellant has blackmailed her or not, and further the
+2nd respondent has continued to interfere by calling Shoukin Malik or not are the
+matters for investigation. In view of the serious allegations made in the complaint, we
+are of the view that the High Court should not have made a
+- 55 -
+roving inquiry while considering the application filed under Section 482 CrPC.
+Though the learned counsel have made elaborate submissions on various contentious
+issues, as we are of the view that any observation or findings by this Court, will affect
+the investigation and trial, we refrain from recording any findings on such issues.
+From a perusal of the order of the High Court, it is evident that the High Court has
+got carried away by the agreement/settlement arrived at, between the parties, and
+recorded a finding that the physical relationship of the appellant with the 2nd
+respondent was consensual. When it is the allegation of the appellant, that such
+document itself is obtained under threat and coercion, it is a matter to be
+investigated. Further, the complaint of the appellant about interference by the 2nd
+respondent by calling Shoukin Malik and further interference is also a matter for
+investigation. By looking at the contents of the complaint and the serious allegations
+made against 2nd respondent, we are of the view that the High Court has committed
+error in quashing the proceedings.
+- 56 -
+15. xxx xxx xxx
+16. Though the learned Senior Counsel Shri Mukul Rohatgi relied on the judgment of
+this Court dated 21-8-2019 in Pramod Suryabhan Pawar v. State of Maharashtra
+[Pramod Suryabhan Pawar v. State of Maharashtra, (2019) 9 SCC 608 : (2019) 3 SCC
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 21
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+(Cri) 903] , but we are of the view that the said judgment would not render any
+assistance to support his case. Whether in a given case power under Section 482 is to
+be exercised or not, depends on the contents of the complaint, and the material
+placed on record. In that view of the matter, we are of the view that it is a fit case to
+set aside the order passed by the High Court and allow the investigating agency to
+proceed with the further investigation in accordance with law.
+It is made clear that we have not expressed any opinion on the merits of the complaint, and it is
+open to the investigating agency and competent court, to proceed in accordance with law."
+25. It is also trite law that minute consideration of the evidence and the defence put forth by the
+parties has
+- 57 -
+to be tested after appreciating the evidence during the trial and at the premature stage, the Court
+cannot test the defence on the basis of the allegations made in the complaint. In that light, I want to
+rely upon the decision in the case of Central Bureau of Investigation Vs. Arvind Khanna, reported in
+(2019)10 SCC 686, wherein at paragraphs-17 and 18 it has been observed as under:-
+"17. After perusing the impugned order and on hearing the submissions made by the
+learned Senior Counsel on both sides, we are of the view that the impugned order
+[Arvind Khanna v. CBI, 2015 SCC OnLine Del 13651 :
+(2015) 153 DRJ 350] passed by the High Court is not sustainable. In a petition filed
+under Section 482 CrPC, the High Court has recorded findings on several disputed
+facts and allowed the petition. Defence of the accused is to be tested after
+appreciating the evidence during trial. The very fact that the High Court, in this case,
+went into the most minute details, on the allegations made by the appellant CBI, and
+the
+- 58 -
+defence put forth by the respondent, led us to a conclusion that the High Court has exceeded its
+power, while exercising its inherent jurisdiction under Section 482 CrPC.
+18. In our view, the assessment made by the High Court at this stage, when the matter has been
+taken cognizance of by the competent court, is completely incorrect and uncalled for."
+26. I also want to rely upon the decision in the case of Dr.Lakshman Vs. State of Karnataka &
+Others, reported in (2019)9 SCC 677, wherein at paragraph-8, it has been observed as under:-
+"8. It is not seriously disputed by the parties with regard to the entering of the
+agreements for procuring the land in favour of the appellant in Ballur Village, Anekal
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 22
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+Taluk, Bangalore Urban District and the respondents have received the amount of Rs
+9 crores by way of demand drafts and cheques. It is the specific case of the appellant
+that there are
+- 59 -
+schedules mentioned to the agreements as per which the respondents have agreed to
+procure of Ballur Village apart from other lands. In a petition under Section 482
+CrPC it is fairly well settled that it is not permissible for the High Court to record any
+findings, wherever there are factual disputes. Merely on the ground that there is no
+pagination in the schedule, the High Court has disbelieved such schedule to the
+agreements. It is the specific case of the appellant that the lands covered by Survey
+Nos. 115 and 117 of Ballur Village were sold even prior to the first agreement, as such
+the respondents have committed an act of cheating. It is also the specific case of the
+appellant that two cheques were issued by the respondent-accused by way of security
+for the amount of Rs 9 crores which is advance but the account of such cheques was
+closed even prior to entering into the agreement itself. The second complaint filed by
+the appellant is self- explanatory and he is forcefully made to sign the sale deed which
+were executed subsequently for the lands covered by Survey
+- 60 -
+Nos. 115 and 117 of Ballur Village. Mere filing of the suits for recovery of the money
+and complaint filed under Section 138 of the NI Act by itself is no ground to quash
+the proceedings in the complaints filed by the appellant herein. When cheating and
+criminal conspiracy are alleged against the accused, for advancing a huge sum of Rs 9
+crores, it is a matter which is to be tried, but at the same time the High Court has
+entered into the disputed area, at the stage of considering the petitions filed under
+Section 482 CrPC. It is fairly well settled that power under Section 482 CrPC is to be
+exercised sparingly when the case is not made out for the offences alleged on the
+reading of the complaint itself or in cases where such complaint is filed by way of
+abuse of the process. Whether any schedules were appended to the agreement or not,
+a finding is required to be recorded after full-fledged trial. Further, as the contract is
+for the purpose of procuring the land, as such the same is of civil nature, as held by
+the High Court, is also no ground for quashing. Though the contract is of civil nature,
+if there is an element of cheating
+- 61 -
+and fraud it is always open for a party in a contract, to prosecute the other side for the
+offences alleged. Equally, mere filing of a suit or complaint filed under Section 138 of
+the NI Act, 1881 by itself is no ground to quash the proceedings. While considering
+the petition under Section 482 CrPC, we are of the view that the High Court also
+committed an error that there is a novation of the contract in view of the subsequent
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 23
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+agreement entered into on 8-11-2012. Whether there is novation of contract or not
+and the effect of such entering into the contract is a matter which is required to be
+considered only after trial but not at the stage of considering the application under
+Section 482 CrPC."
+27. It is not the duty of the Court to see only on the face of reading of the complaint and FIR whether
+the allegations constitute cognizable offence or not and it should not adjudicate upon the veracity of
+offence alleged and it cannot appreciate the other aspects. In that light, I want to rely upon
+paragraphs-6 to 8 of the
+- 62 -
+decision in the case of Pramod Suryabhan Pawar Vs. State of Maharashtra & Another (cited supra),
+which are already extracted above.
+28. Keeping in view ratio laid down in the aforesaid decisions and on perusal of the records, it
+indicates that there is prima facie material as against the petitioners- accused Nos.1 to 5 and that is a
+matter which requires to be investigated into by the Investigating Agency. It is well settled
+proposition of law that remedy under criminal law is not barred if the allegations disclose a criminal
+offence. In that light, I want to rely upon the decision in the case of Indian Oil Corporation Vs.
+NEPC India Limited & Others, wherein at paragraphs-11 and 12 it has been observed as under:-
+"11. The High Court by a common judgment dated 23-3-2001 allowed both the
+petitions and quashed the two complaints. It accepted the second ground urged by
+the respondents herein, but rejected the first ground. The said
+- 63 -
+order of the High Court is under challenge in these appeals. On the rival contentions
+urged, the following points arise for consideration:
+(i) Whether existence or availment of civil remedy in respect of disputes arising from
+breach of contract, bars remedy under criminal law?
+(ii) Whether the allegations in the complaint, if accepted on face value, constitute any
+offence under Sections 378, 403, 405, 415 or 425 IPC?
+Re: Point (i)
+12. The principles relating to exercise of jurisdiction under Section 482 of the Code of Criminal
+Procedure to quash complaints and criminal proceedings have been stated and reiterated by this
+Court in several decisions. To mention a few--Madhavrao Jiwajirao Scindia v. Sambhajirao
+Chandrojirao Angre [(1988) 1 SCC 692 : 1988 SCC (Cri) 234] , State of Haryana v. Bhajan Lal [1992
+Supp (1) SCC 335 : 1992 SCC (Cri) 426] , Rupan Deol Bajaj v. Kanwar Pal Singh Gill [(1995) 6 SCC
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 24
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+194 : 1995 SCC (Cri) 1059] , Central Bureau of Investigation v.
+- 64 -
+Duncans Agro Industries Ltd. [(1996) 5 SCC 591 : 1996 SCC (Cri) 1045] , State of Bihar v. Rajendra
+Agrawalla [(1996) 8 SCC 164 : 1996 SCC (Cri) 628] , Rajesh Bajaj v. State NCT of Delhi [(1999) 3
+SCC 259 : 1999 SCC (Cri) 401] , Medchl Chemicals & Pharma (P) Ltd. v. Biological E. Ltd. [(2000) 3
+SCC 269 : 2000 SCC (Cri) 615] , Hridaya Ranjan Prasad Verma v. State of Bihar [(2000) 4 SCC 168 :
+2000 SCC (Cri) 786] , M. Krishnan v. Vijay Singh [(2001) 8 SCC 645 : 2002 SCC (Cri) 19] and Zandu
+Pharmaceutical Works Ltd. v. Mohd. Sharaful Haque [(2005) 1 SCC 122 : 2005 SCC (Cri) 283] . The
+principles, relevant to our purpose are:
+(i) A complaint can be quashed where the allegations made in the complaint, even if
+they are taken at their face value and accepted in their entirety, do not prima facie
+constitute any offence or make out the case alleged against the accused.
+For this purpose, the complaint has to be examined as a whole, but without examining
+- 65 -
+the merits of the allegations. Neither a detailed inquiry nor a meticulous analysis of the material nor
+an assessment of the reliability or genuineness of the allegations in the complaint, is warranted
+while examining prayer for quashing of a complaint.
+(ii) A complaint may also be quashed where it is a clear abuse of the process of the court, as when
+the criminal proceeding is found to have been initiated with mala fides/malice for wreaking
+vengeance or to cause harm, or where the allegations are absurd and inherently improbable.
+(iii) The power to quash shall not, however, be used to stifle or scuttle a legitimate prosecution. The
+power should be used sparingly and with abundant caution.
+(iv) The complaint is not required to verbatim reproduce the legal ingredients of the offence alleged.
+If the necessary factual foundation is laid in the complaint, merely on the ground that a few
+ingredients have not been stated in detail, the proceedings should not be quashed.
+- 66 -
+Quashing of the complaint is warranted only where the complaint is so bereft of even the basic facts
+which are absolutely necessary for making out the offence.
+(v) A given set of facts may make out: (a) purely a civil wrong; or (b) purely a criminal offence; or (c)
+a civil wrong as also a criminal offence. A commercial transaction or a contractual dispute, apart
+from furnishing a cause of action for seeking remedy in civil law, may also involve a criminal
+offence. As the nature and scope of a civil proceeding are different from a criminal proceeding, the
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 25
+Yogesh Agarwal vs State Of Karnataka on 24 September, 2020
+mere fact that the complaint relates to a commercial transaction or breach of contract, for which a
+civil remedy is available or has been availed, is not by itself a ground to quash the criminal
+proceedings. The test is whether the allegations in the complaint disclose a criminal offence or not."
+29. Keeping in view the law laid down by the Hon'ble Apex Court and on perusal of the facts on
+hand,
+- 67 -
+though it indicates that civil suit has been filed before the Bombay High Court wherein injunction
+has been granted and a Commissioner has also been appointed, when it is specifically alleged that
+intellectual property has been stolen by the petitioners and the same has been made use of for the
+purpose of their Company "Onsurity Technologies Private Limited", a fair investigation requires to
+be done in this behalf. When both the remedies are available, one under the civil and another under
+the criminal law and allegations constitute an offence, then under such circumstances, it is not a
+case to quash the proceedings. It is trite law that on plain reading of the contents of the complaint, if
+no case is made out and the investigation and trial are not going to serve any purpose, then under
+such circumstances, the Court can quash the proceedings. The Court can also quash the proceedings
+if there is an abuse of process of law. In that light, if the entire facts and material are perused, there
+is a prima facie material as against the
+- 68 -
+petitioners-accused for having committed the offence. There is no abuse of process of law to show
+that civil dispute has been given a cloak of criminal offence. It appears that no mala fides have been
+alleged except saying that only with an intention to tarnish the success of the Company established
+by the petitioners, the complaint has been filed.
+Taking into consideration of the aforesaid facts and circumstances of the case and the proposition of
+law, I am of the considered opinion that the petitioners-accused have not made out any grounds to
+quash the proceedings. Hence, petition being devoid of merits is liable to be dismissed and
+accordingly, the same stands dismissed.
+Sd/-
+JUDGE *ck/-
+Indian Kanoon - http://indiankanoon.org/doc/102389372/ 26

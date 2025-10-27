@@ -1,0 +1,555 @@
+M/S Ib Track Solutions Pvt Ltd vs State Of Karnataka on 17 October, 2022
+M/S Ib Track Solutions Pvt Ltd vs State Of Karnataka on 17
+October, 2022
+Author: M. Nagaprasanna
+Bench: M. Nagaprasanna
+1
+IN THE HIGH COURT OF KARNATAKA AT BENGALURU
+DATED THIS THE 17TH DAY OF OCTOBER, 2022 R
+BEFORE
+THE HON'BLE MR. JUSTICE M. NAGAPRASANNA
+CRIMINAL PETITION No.8125 OF 2022
+BETWEEN:
+1 . M/S ib TRACK SOLUTIONS PVT LTD.,
+353, GROUND FLOOR, 14TH CROSS
+ESHWAR LAYOUT
+BENGALURU - 560 038
+SHOWN IN FIR AS
+M/S ib TRACK SOLUTIONS PVT LTD.,
+INDIRANAGAR, BENGALURU CITY
+KARNATAKA.
+2 . SHRI SUDHENDRA DHAKANIKOTE
+AGED ABOUT 61 YEARS
+S/O LATE SH. D.NARAYANA RAO
+DIRECTOR
+M/S ib TRACK SOLUTIONS PVT LTD.,
+557, 17TH CROSS ROAD, 2ND STAGE
+INDIRANAGAR
+BENGALURU - 560 038.
+... PETITIONERS
+(BY SRI PRASANNA KUMAR P., ADVOCATE)
+AND:
+1. STATE OF KARNATAKA
+BY INDIRANAGAR POLICE STATION
+HALASURU SUB-DIVISION
+2
+Indian Kanoon - http://indiankanoon.org/doc/191316093/ 1
+M/S Ib Track Solutions Pvt Ltd vs State Of Karnataka on 17 October, 2022
+REPRESENTED BY ITS
+STATE PUBLIC PROSECUTOR
+HIGH COURT OF KARNATAKA
+BUILDING
+OPP. VIDHANA SOUDHA
+DR.B.R.AMBEDKAR VEEDHI
+BENGALURU - 560 001.
+2. MR.SUNIL S.PATIL
+SENIOR INTELLIGENCE OFFICER
+DIRECTORATE OF REVENUE INTELLIGENCE
+ZONAL UNIT, BENGALURU.
+... RESPONDENTS
+(BY SRI K.S.ABHIJITH, HCGP FOR R1;
+SRI M.N.KUMAR, CGSC, FOR R2)
+THIS CRIMINAL PETITION IS FILED UNDER SECTION 482 OF
+CR.P.C., PRAYING TO QUASH THE FIR IN CR.NO.172/2019 DATED
+16.07.2019 BY THE 1st RESPONDENT/POLICE AS AGAINST THE
+PETITIONERS HEREIN/ACCUSED NO.1 AND 2 FOR THE OFFENES
+P/U/S 66V, 72A OF I.T ACT AND SEC.406, 420, 34 OF IPC PENDING
+ON THE FILE OF THE I ACMM, NRUPATUNGA ROAD, BANGALORE
+(PRODUCED VIDE ANNEXURE-A).
+THIS CRIMINAL PETITION HAVING BEEN HEARD AND
+RESERVED FOR ORDERS ON 30.09.2022, COMING ON FOR
+PRONOUNCEMENT THIS DAY, THE COURT MADE THE FOLLOWING:-
+3
+ORDER
+The petitioners are before this Court calling in question registration of crime in Crime No.172 of
+2019 on 16-07-2019 for offences punishable under Sections 66C and 72A of the Information
+Technology Act, 2000 and Sections 406, 420 and 34 of the IPC and pending before the 1st
+Additional Chief Metropolitan Magistrate, Bangalore City.
+2. Heard Sri P.Prasanna Kumar, learned counsel appearing for the petitioners, Sri K.S.Abhijith,
+learned High Court Government Pleader for respondent No.1 and Sri M.N.Kumar, learned Central
+Government Standing Counsel appearing for respondent No.2.
+Indian Kanoon - http://indiankanoon.org/doc/191316093/ 2
+M/S Ib Track Solutions Pvt Ltd vs State Of Karnataka on 17 October, 2022
+3. Brief facts leading to the filing of the present petition, as borne out from the records, are as
+follows:-
+1st petitioner - M/s ib Track Solutions Private Limited ('Company' for short), a
+Company registered under the Companies Act, 1956 is associated with procuring and
+supplying of e-seals with Radio Frequency Identification ('RFID') technology for
+exporters from India. The 2nd petitioner is the Director of the 1st
+petitioner/Company. The 1st petitioner/Company claims to have procured unique
+technology which was the first of its kind for the purpose of exporting cargo with
+tamperproof seals. The said seals were made to maintain highest level of safety and
+security. The seals were manufactured by M/s Leghorn Group SRL, Italy and the
+Company is the authorized distributor of the said seals and the seals are claimed to
+have been certified by the International Standard Organization (ISO) as high-grade
+e-seal for containers and M/s Leghorn Group is said to be the pioneer in the field of
+manufacture and supply of e-seals across the world. RFID is an automatic
+identification mechanism which is attached to a container and can be accurately read
+by a handheld device that is operated by a Customs Officer at the relevant port gate.
+4. The Union Government intended to implement electronic sealing of cargo by exporters under a
+self-sealing procedure and in pursuance of the same by circulars called upon various vendors for
+supply of such seals. The said circulars sought for supply of RFID tamperproof onetime bolt seal.
+The circulars called upon vendors to supply e-seals with the technology support such as mobile or
+web applications in order to reduce use of paper. The Company participated in the vendor approval
+process and custom officials were responsible with regard to verification of details of shipping and
+integrity of e-seals. The Company claims to have empanelled as an authorized vendor after detailed
+scrutiny and due diligence.
+5. In terms of the procedure so stipulated in the Circulars, an exporter who intends to ship goods has
+to mandatorily place the goods sought to be exported into the container and lock the said container
+with e-seals provided by the authorized vendor. Upon locking with e-seal, the exporter must feed
+shipping details into the website of the authorized vendor Company. Once the vehicle with the
+containers along with e-seals reaches the port gate, the Custom Officer must physically check the
+serial number of the RFID e-seal and cross-verify with other details. If the serial numbers match, the
+Customs Officer must read the e-seal to examine whether the same has been tampered with,
+through the application of the vendor on the handheld device. This is the broad procedure for the
+container to pass through the port gate after checking with e-seals.
+6. The Company claims to have been following all the procedure laid down in the Circulars. The
+Neptune e-seal which is distributed by the Company was proved to be unbreakable without
+physically breaking the stem of the said seal. It was alleged that on certain occasions the seals
+though not tampered appeared to be tampered and corrective measures were immediately taken. On
+23-10-2018 the Directorate General of Analytics and Risk Management, Central Board of Indirect
+Taxes and Customs issued a letter directing the Company not to sell RFID e-seals manufactured by
+M/s Leghorn Group, Italy until further orders. Again on 08-11-2018 the office of the Directorate
+Indian Kanoon - http://indiankanoon.org/doc/191316093/ 3
+M/S Ib Track Solutions Pvt Ltd vs State Of Karnataka on 17 October, 2022
+General temporarily suspends empanelment of the 1st petitioner/Company and subsequently
+terminates the contract in terms of letters dated 25-03-2019 and 03-04-2019. The Directorate
+General did not stop at that. A crime in Crime No.172 of 2019 comes to be registered on 16-07-2019
+for offences punishable under Sections 66C and 72A of the Information Technology Act, 2000 and
+Sections 406, 420 and 34 of the IPC. The Company and the Director/2nd petitioner are arrayed as
+accused Nos. 1 and 2.
+7. The allegation in the complaint was that the Company was one of the vendors of RFID e-seals. On
+verification it was discovered that e-seals supplied by the Company were passing customs clearances
+even when it was not in a locked condition. It was further alleged that e-seals were tampered
+regularly and they were being scanned at a distance of few meters without being in locked condition
+and e-mails of the Company indicated that they had switched off the tampering alerts that led the
+containers with tampered seals also to get exported. On these facts, it was alleged that the Company
+had intentionally submitted the reports which had serious ramification on the economy and security
+of the nation.
+8. It appears that accused No.3, as the Managing Director of the Company, had approached this
+Court calling in question the aforementioned FIR in Criminal Petition No.8197 of 2019. A
+co-ordinate Bench of this Court by its order dated 13.06.2022 allowed the petition and quashed the
+FIR insofar as the said Managing Director was concerned on the ground that he had no role to play
+in the corporate affairs of the Company and the documents produced by him were not controverted.
+If at all any one is responsible, it was either the Company or the Director. The present petition is
+preferred on the ground that the co-ordinate Bench has quashed the proceedings against the
+Managing Director and, therefore, the issue stands covered by the said judgment and accordingly,
+the petitioners seek quashment of proceedings in the case at hand as well. It is for that purpose the
+present petition is preferred.
+9. The learned counsel appearing for the petitioners though would admit that economy and security
+of the nation were involved in the entire transaction but contends that it is the Company that is
+responsible and not the Director and with regard to the Managing Director the FIR is already
+quashed by a co-ordinate Bench. Therefore, he would submit that without any role being attributed
+to the 2nd petitioner/Director, no proceedings should be permitted to continue and therefore, seeks
+quashment of proceedings as is done by a co-ordinate Bench.
+10. On the other hand, at the outset, the learned Central Government Standing Counsel appearing
+for the 2nd respondent/Directorate of Revenue Intelligence ('DRI') would submit that the decision
+of co-ordinate Bench was a judgment rendered without hearing DRI, as DRI was not even
+represented to bring the facts before the Court. The allegations against the petitioners are very
+serious concerning economy and security of the nation and, therefore, the matter should be heard
+on its merits as the Company and the present director were all part of the decision making to switch
+off the radio tampering alert and therefore, the cargo would pass muster without scanning.
+10.1. He would submit that the investigation revealed that seals supplied by Company were not
+tamper proof and had tampering rate as high as 10% in a single day and the Company has
+Indian Kanoon - http://indiankanoon.org/doc/191316093/ 4
+M/S Ib Track Solutions Pvt Ltd vs State Of Karnataka on 17 October, 2022
+consciously and unanimously taken a decision to switch off the feature to detect tampered e-seals in
+various ports and it had provided false data/report in respect of result of reading e-seals and had
+submitted a wrong data report to the Government even after knowing that such declaration was
+false and nations security was at threat. He would submit that it is a matter of investigation.
+10.2. The learned Central Government Standing Counsel would contend that steps are being taken
+to file necessary application to recall the order passed by the co-ordinate Bench. As per the records,
+the DRI had not even been notified before rendering the judgment by the co-ordinate Bench. He
+would further emphasize that revenue loss is one among the possibilities arising out tampering of
+seals, but the major concern is the risk to the national security as maritime containers need to be
+secure and locked to prevent pilferage and tampering of the goods while on its way to its destination.
+Seal integrity, according to the learned counsel, is so essential to ensure that contraband goods -
+arms, ammunition and drugs - are not crossing the borders.
+11. I have given my anxious consideration to the submissions made by the respective learned counsel
+and perused the material on record.
+12. The afore-narrated facts are not in dispute and are therefore, not reiterated. The Company was
+in-charge of manufacture of RFID e-seals and tampering alert was in the control of the Company in
+which the 2nd petitioner is the Director. It becomes germane to notice the Circulars issued by
+Government of India in the Department of Revenue of the Central Board of Excise and Customs
+with regard to the export procedure and sealing of containerized cargo from time to time. The
+Circular of 01-07-2017 with regard to sealing of containers reads as follows:
+"9(vii) The exporter shall seal the container with the tamper proof electronic seal of
+standard specification. The electronic seal should have a unique number which
+should be declared in the Shipping Bill. Before sealing the container, the exporter
+shall feed the data such as name of the exporter, IEC code, GSTIN number,
+description of the goods, tax invoice number, name of the authorized signatory (for
+affixing the e- seal) and Shipping Bill number in the electronic seal.
+Thereafter, the container shall be sealed with the same electronic seal before leaving the premises.
+viii. The exporter intending to clear export goods on self clearance (without employing a Customs
+Broker) shall file the Shipping Bill under digital signature.
+ix. All consignments in self-sealed containers shall be subject to risk based criteria and intelligence,
+if any, for examination/inspection at the port of export. At the port/ICD as the case may be, the
+customs officer would verify the integrity of the electronic seals to check for tampering if any,
+enroute. The Risk Management System (RMS) is being suitably revamped to improvise the
+interdiction/examination norms. However, random or intelligence based selection of such
+containers for examination/scanning would continue.
+10. Board has decided that the above revised procedure regarding sealing of containers shall be
+effective from 1.09.2017. A future date has been prescribed since the returns under GST have been
+Indian Kanoon - http://indiankanoon.org/doc/191316093/ 5
+M/S Ib Track Solutions Pvt Ltd vs State Of Karnataka on 17 October, 2022
+permitted to be filed by 10.09.2017 and also with the purpose to give enough time to the
+stakeholders to adapt to the new procedures. Therefore, as a measure of facilitation, the existing
+practice of sealing of the container with a bottle seal under Central Excise supervision or otherwise
+would continue. The extant circulars shall stand modified on 1-09-2017 to the extent the earlier
+procedure is contrary to the revised instructions given in this circular.
+11. Suitable public notices may be issued in this regard. Difficulty faced, if any, may be brought to
+the notice of the Board."
+(Emphasis supplied) Electronic sealing was implemented on 28-08-2017 for containers by exporters
+under self-sealing procedure prescribed. Clauses of the circular which are germane are extracted
+hereunder for the purpose of quick reference and they read as under:
+"4. Application, Record Keeping and Data Retrieval System:
+(a) It is clarified that the information sought from the exporter in para-9 (vii) of the
+circular 26/2017 - Customs shall now be read as -
+- IEC (Importer Exporter Code)
+- Shipping Bill Number
+- Shipping Bill Date
+- e-seal number
+- Date of sealing
+- Time of sealing
+- Destination Customs Station for export.
+- Container Number.
+- Trailer - Truck Number.
+It is further clarified that the information need not be mounted "in the electronic seal" but tagged to
+the seal using a 'web/mobile application' to be provided by the vendor of the RFID seals. Data once
+uploaded by the exporter should not be capable of being overwritten or edited.
+(b) All vendors will be required to transmit information in para (a) above to RMD and the respective
+destination ports/ICDs of export declared by the exporter. The arrangements for transmission of
+data may be worked out in consultation with the RMD and nodal Customs Officer at each ICD/Port.
+Indian Kanoon - http://indiankanoon.org/doc/191316093/ 6
+M/S Ib Track Solutions Pvt Ltd vs State Of Karnataka on 17 October, 2022
+(c) Al vendors shall be required to make arrangements for reading/scanning of RFID one-time-Bolt
+seals at the Customs Ports/ICDs at their own cost, whether through handheld readers or fixed
+readers.
+(d) The integrity of the RFID seal would be verified by the Customs Officer at the port/ICD by using
+the reader- scanners which are connected to Data Retrieval System of the vendor.
+(e) Since all ICDs/ports where containerized cargo is handled would require reader scanners,
+Principal Commissioners or Commissioners exercising administrative control over such ports/ICDs
+shall notify the details of the nodal officers for te smooth operation of this system.
+(f) The transaction history of the self-sealing should be visible to the exporters for their reference.
+(g) The vendor shall also undertake to integrate the information stored on the data retrieval server
+with ICEGATE at his own cost on a date and manner to be specified by the Directorate General of
+Systems, New Delhi.
+5. The new self-sealing procedure shall come into effect from 1-10-2017. Till then the existing
+procedure shall continue. All field formations are advised to immediately notify an officer of the
+rank of Superintendent to act as the nodal officer for the self-sealing procedure. He shall be
+responsible for coordination of the arrangements for installation of reader-scanners, whether fixed
+or hand-held."
+(Emphasis supplied) Further, a circular comes to be issued only with regard to RFID tamper proof,
+one-time-bolt containers seals and the clauses that are germane in the said circular dated
+20-09-2017 are as follows:
+"3. In order to ensure that electronic seals deployed are of a reliable quality, the
+Board has adopted international standards laid down under ISO 17712:2013 for high
+security seals and prescribed that vendors intending to offer RFID seals should
+furnish certifications required under the ISO standard (para-3 of Circular
+No.36/2017 dated 28-08-2017 refers).
+3.1. To ensure uniformity in acceptance of the certificates submitted by vendors,
+required under ISO 17712:2013, it has been decided that all vendors proposing to
+offer RFID Tamper Proof One- Time Bold Container Seals to exporters for
+self-sealing, must submit self-attested certificates from seal manufacturers to the
+Director (Customs) CBEC, North Block, New Delhi before commending sales. Where
+the certification is found to comply with the requirements of the ISO standard, the
+names of such vendors shall be put up on the Board's website (www.cbee.gov.in) for
+ease of reference of the trade and field formations, as soon as they are received.
+3.2. The vendors shall also produce a contract or communication between the vendor
+and manufacturer, to serve as a link document and undertake that the seals for which
+Indian Kanoon - http://indiankanoon.org/doc/191316093/ 7
+M/S Ib Track Solutions Pvt Ltd vs State Of Karnataka on 17 October, 2022
+ISO certifications are submitted are the same seals pressed into service.
+3.3.Any time a vendor changes his manufacturer-supplier, he shall provide the
+documentation referred in para-3 of circular 36/2017-Customs to the CBEC, before
+offering the seals for sale.
+3.4. Certifications have also been sought regarding the type/specification of the
+web-hosted application. While each vendor may develop and design their own
+web-enabled application, the data elements prescribed under para-4 (a) of Circular
+36/2017- Customs have to be incorporated. For the purposes of consistency in
+process of communication with the customs station and the RMD, each vendor shall
+provide information as specified in para-4(b) of Circular 36/2917-Customs to the
+department by email in excel format or any other format that may be specified by any
+field formation or RMD. This would permit ease of consolidation of multiple feeds at
+the customs station and data integration. All field formations are devised to
+communicate the designation based email addresses to the vendors, once the list of
+placed on the website as mentioned at para 3.1 above.
+3.5. As a measure of data integrity and security of sealing, vendors are also required
+to ensure that the Tag Identification (TID) number is captured in their data base and
+the IEC code of the exporter is linked to the same at the time of sale of the seals.
+Upon reading at the Port/ICD, the software application shall ensure that the seal's
+identity is checked with its TID. Beyond this prescribed minimum feature, vendors
+will remain free to build upon any other features of RFID system for enhancing
+security/functionalities."
+(Emphasis supplied) On 23-10-2018 the Competent Authority flagged certain concerns with regard
+to the electronic seals used on export containers. Those concerns were communicated to the
+companies one of whom was the 1st petitioner/Company. The concerns were as follows:
+"2. On the basis of the above mentioned letter, the JNCH, Nhava Sheva has
+undertaken the testing/ examination of e-seal of following two vendors who are
+procuring the RFID e-seals from M/s Leghorn Group, Italy:
+] i. M/s IB Track Solutions Pvt.Ltd.,Bengaluru. ii. M/s Great Eastern Id Tech
+Pvt.Ltd.,Gurgaon, Haryana.
+3. The examination revealed that in case of M/s IB Track Solutions Pvt.Ltd.,
+Bengaluru RFID reader can read the e-seal data (export data tagged with e-seal)
+without locking the male and female parts of the e-seal. Similarly, in case of M/s
+Great Eastern ID Tech Pvt. Ltd., Gurgaon, Haryana, it was informed by their
+Business Development Manager that their company's e-seal can also be read without
+locking the male and female parts of the e-seal.
+Indian Kanoon - http://indiankanoon.org/doc/191316093/ 8
+M/S Ib Track Solutions Pvt Ltd vs State Of Karnataka on 17 October, 2022
+Additional Director General, DRI, Mumbai has also corroborated the findings of the JNCH, Nhava
+Sheva.
+4. The reports of JNCH, Nhava Sheva and ADG, DRI have been critically examined. The RFID
+e-seals provided/ supplied by M/s Leghorn Group, Italy have been found to have not complied with
+the security requirements. This being a serious security issue, it has been decided that the use of the
+RFID e-seals procured from the M/s Leghorn Group, Italy is not permitted till further orders. In
+addition to the above mentioned two vendors, M/s Leghorn Group, Italy is also supplying RFID
+e-seals to M/s Perfect RFID Technologies Ltd.
+5. In view of the above, you are directed not to sell RFID e-seals procured from M/s Leghorn Group,
+Italy to the exporters till further orders and recall the sold but not used RFID e-seals immediately
+from the exporters to whom it has been sold."
+(Emphasis supplied) The communication was clear that the DRI has critically examined RFID
+e-seals supplied by M/s Leghorn Group, Italy and they have been found to be compromising in
+security requirements and was a serious issue and therefore, stopped all seals made by M/s Leghorn
+Group. Later, the crime come to be registered and a search is made in the office of the Company and
+at the time the seals are seized and were sent to their examination where it was found that since
+March 2018 the testing commenced and approximately 832 seals of the Company were faulty. The
+tamper status of the seals was covered up as the tamper alarm had been switched off.
+13. Statements of the 2nd petitioner/accused No.2 and one Sri.Arjun Gorur were recorded by the
+Investigating Officer. The statements recorded by the Investigating Officer of the DRI of the 2nd
+petitioner assume significance. In the statement recorded what are clearly discerned are found in
+questions 15 to 24 and they read as follows:
+"Q.15: How & why did you switch off Tamper alert Notifications without any
+directions from any Department or any legal directions?
+Ans.15: We had switched off the Tamper alert Notifications on our own by making
+changes in the back end software since these e-seals were sub-standard and were not
+as per the prescribed stipulations. As detailed in the said e-mail correspondence, we
+were aware that there were various cases pointed out by the Customs Department
+where broken seals are being read as Non Tampered. We could not keep hiding from
+the issue being caused by the seals procured by us. The switching off of Tamper alert
+Notifications from 4th June, 2018 was a temporary measure till the issues are
+addressed by M/s Leghorn, but unfortunately, we were still getting such seals and till
+date no alternative operations have been finalized, as clearly mentioned in the said
+email.
+Q.16: When the Tamper alert Notifications is off, can you identify the e-seals which
+are tampered with? Can the Customs Department identify the tampered e-seals when
+the alert Notifications off?
+Indian Kanoon - http://indiankanoon.org/doc/191316093/ 9
+M/S Ib Track Solutions Pvt Ltd vs State Of Karnataka on 17 October, 2022
+Ans.16: We can identify the e-seals which are tampered with even though the Tamper
+alert Notifications are switched off from the back end. But the Customs Department
+cannot identify this because the Tamper alert Notifications is off.
+Q.17: Please peruse the Print outs of Emails taken from your dump of Email id
+(sudhendra@ibtrack.net) taken during the Mahazar dated 24-10-2018 sent from
+abhilash@ibtrack.net to sudhendra@ibtrack.net & venu@ibtrack.net regarding
+Tamper Report and offer your comments on the same?
+Ans.17: I have perused the print out of above referred emails and affixed my dated
+signature on them as a proof of having perused the same. In this regard, I would like
+to inform that the email contain daily/periodic report of number of e-seals tampered.
+Q.18: Please refer to your reply to Q.12 above. You have stated that the percentage of
+tampered seals is about 10% during the period September, 2018. This fact was known
+to you. Does the Customs Department know about this fact? Have you informed the
+Customs Department or anyone else about such switching off of Tamper alert
+Notifications or about such tampered e- seals not coming to the knowhow of the
+Customs?
+Ans.18: The Customs Department does not know about this fact since we had
+switched off the Tamper alert Notifications. Further, we had not informed the
+Customs Department or anyone else in the Government or anyone else, about such
+switching off of Tamper alert Notifications or about such tampered e-seals not
+coming to the knowhow of the Customs.
+Q.19: From the above, it appears that consignments with e-
+seals, shown as not tampered have been exported out of India, but the e-seals were
+actually tampered as per your records, during this period. Please confirm.
+Ans.19: The e-seals were tampered as per our records but they were shown as not
+tampered as per Customs records, and such consignments have been exported out of
+India during the period from June 2018 to October, 2018.
+Q.20: Who took the decision of switching off of the Tamper alert Notifications on
+your known?
+Ans.20: Our entire Board of Directors are aware of this decision and it was a decision
+by the Board.
+Q.21: Is there any written communication between you and the Customs Department
+or any other Department about such turning off of the Tamper alert Notifications?
+Indian Kanoon - http://indiankanoon.org/doc/191316093/ 10
+M/S Ib Track Solutions Pvt Ltd vs State Of Karnataka on 17 October, 2022
+Ans.21: No, there is no written communication between us and the Customs
+Department or any other Department about such turning off.
+Q.22: It is possible to show that the tampered e-seals were also non-tampered, by
+manipulating the reader, your software or the server?
+Ans.22: Yes by manipulating the reader or the software, we can show that even
+tampered e-seals are not tampered. Server only stores these data and any
+manipulation of the server will not help this purpose.
+Q.23: Please submit the complete details of the e-seals tampered as per your data but
+not so as per Customs, because of such Switching off of Tamper alert Notifications,
+along with the details of the containers, part of exports, details of consignments, the
+customers and suppliers of the said consignments.
+Ans.23: I do not have these details readily available with us but I understand to
+submit the details to you by 2.11.2018.
+Q.24: Do you have anything more to say?
+Ans.24: I hereby admit that M/s IB Track Solutions Pvt.
+Ltd. has intentionally turned off the Tamper Notifications that will generally be sent
+to the Customs and the Exporters on detection of tampering of e-seals by the readers
+at ports as there were technical issues with the e-seals procured by us from Leghorn
+Group and supplied to various customers. This was done considering the business
+interest of M/s IB Track Solutions Pvt. Ltd."
+(Emphasis added) To question No.15 of the Investigating Officer, the admission is, the Company
+had switched off the tamper alert notifications on its own by making changes in the back end
+software since e-seals were sub-standard and were not as per the prescribed stipulations. Yet again,
+to question No.20 answering the question with regard to who took the decision of switching off
+tamper alert notifications, the answer is that the entire Board of Directors are aware of the said
+decision and it was a decision by the Board. Again at question No.24, the answer of the 2nd
+petitioner is that he admits that the Company had intentionally turned off the tamper notifications
+which will generally be sent to the Customs and the Exporters on detection of tampering of e-seals.
+This was done considering the business interest of the Company. With these admissions in the
+statement rendered by the 2nd petitioner, the contention of the learned counsel appearing for the
+petitioners that the 2nd petitioner has got nothing to do with the issue pales into insignificance. If
+all the members of the Board - Directors, Managing Director and every other member - were aware
+of the deliberate switching off tampering signals, it cannot be said that the Company alone is
+responsible. The Directors or the Managing Director, as the case would be, were also responsible for
+their acts and the entire Board was aware of what has happened.
+Indian Kanoon - http://indiankanoon.org/doc/191316093/ 11
+M/S Ib Track Solutions Pvt Ltd vs State Of Karnataka on 17 October, 2022
+14. Such containers passing muster without getting scanned through the customs can result in a
+catastrophic effect to the security of the nation. Security could be economic, defence or even
+narcotic. What passes through the container if not detected can definitely pose a serious threat to
+any of these to the nation. The answers given by the 2nd petitioner would shock the conscience of
+the Court, at what he says that "they did it in their business interest". Such business houses
+generating vested interest of business cannot be permitted to 'sacrifice the interest of the nation', as
+the security of the nation and its interest, economic or otherwise, is paramount in comparison to any
+vested interest of any business house in the nation. Any fact of security of the nation should not be
+permitted to be compromised 'come what may'.
+15. The petitioners are alleged of compromising security of the container which contains what ought
+to be known to the Department, if not known and would passes muster, even if it is a narcotic drug,
+the menace of the threat looms large in that sector or that facet. Therefore, finding no merit in the
+contention that nothing has happened for the last 3 years and a co-ordinate Bench obliterating the
+proceedings against accused No.3 are of no assistance to the learned counsel appearing for the
+petitioners. The issue in the lis is shrouded with admissions and certain seriously disputed questions
+of fact, which will have to be thrashed out only in a full blown proceeding. It is rather surprising as
+to why the DRI has not proceeded further and filed its final report is a serious matter of the kind. It
+is for the DRI to conclude the investigation, if not already concluded and take the proceeding to its
+logical end. Reference being made to the judgment of the Apex Court in the case of KAPTAN SINGH
+v. STATE OF UTTAR PRADESH1 becomes apposite. The Apex Court holds as follows:
+"9.1. At the outset, it is required to be noted that in the present case the High Court in
+exercise of powers under Section 482 CrPC has quashed the criminal proceedings for
+the offences under Sections 147, 148, 149, 406, 329 and 386 IPC. It is required to be
+noted that when the High Court in exercise of powers under Section 482 CrPC
+quashed the criminal proceedings, by the time the investigating officer after
+recording the statement of the witnesses, statement of the complainant and collecting
+the evidence from the incident place and after taking statement of the independent
+witnesses and even statement of the accused persons, has filed the charge-sheet
+before the learned Magistrate for the offences under Sections 147, 148, 149, 406, 329
+and 386 IPC and even the learned Magistrate also took the cognizance. From the
+impugned judgment and order [Radhey Shyam Gupta v. State of U.P., 2020 SCC
+OnLine All 914] passed by the High Court, it does not appear that the High Court
+took into consideration the material collected during the investigation/inquiry and
+even the statements recorded. If the petition under Section 482 CrPC was at the stage
+of FIR in that case the allegations in the FIR/complaint only are required to be
+considered and whether a cognizable offence is disclosed or not is required to be
+considered. However, thereafter when the statements are recorded, evidence is
+collected and the charge-sheet is filed after conclusion of the investigation/inquiry
+the matter stands on different footing and the Court is required to consider the
+material/evidence collected during the investigation. Even at this stage also, as
+observed and held by this Court in a catena of decisions, the High Court is not
+required to go into the merits of the allegations and/or enter into the merits of the
+Indian Kanoon - http://indiankanoon.org/doc/191316093/ 12
+M/S Ib Track Solutions Pvt Ltd vs State Of Karnataka on 17 October, 2022
+case as if the High Court is exercising the appellate jurisdiction and/or conducting
+the trial. As held by this Court in Dineshbhai Chandubhai Patel [Dineshbhai
+Chandubhai (2021) 9 SCC 35 Patel v. State of Gujarat, (2018) 3 SCC 104 : (2018) 1
+SCC (Cri) 683] in order to examine as to whether factual contents of FIR disclose any
+cognizable offence or not, the High Court cannot act like the investigating agency nor
+can exercise the powers like an appellate court. It is further observed and held that
+that question is required to be examined keeping in view, the contents of FIR and
+prima facie material, if any, requiring no proof. At such stage, the High Court cannot
+appreciate evidence nor can it draw its own inferences from contents of FIR and
+material relied on. It is further observed it is more so, when the material relied on is
+disputed. It is further observed that in such a situation, it becomes the job of the
+investigating authority at such stage to probe and then of the court to examine
+questions once the charge-sheet is filed along with such material as to how far and to
+what extent reliance can be placed on such material.
+9.2. In Dhruvaram Murlidhar Sonar [Dhruvaram Murlidhar Sonar v. State of Maharashtra, (2019)
+18 SCC 191 :
+(2020) 3 SCC (Cri) 672] after considering the decisions of this Court in Bhajan Lal
+[State of Haryana v. Bhajan Lal, 1992 Supp (1) SCC 335 : 1992 SCC (Cri) 426] , it is
+held by this Court that exercise of powers under Section 482 CrPC to quash the
+proceedings is an exception and not a rule. It is further observed that inherent
+jurisdiction under Section 482 CrPC though wide is to be exercised sparingly,
+carefully and with caution, only when such exercise is justified by tests specifically
+laid down in the section itself. It is further observed that appreciation of evidence is
+not permissible at the stage of quashing of proceedings in exercise of powers under
+Section 482 CrPC. Similar view has been expressed by this Court in Arvind Khanna
+[CBI v. Arvind Khanna, (2019) 10 SCC 686 :
+(2020) 1 SCC (Cri) 94] , Managipet [State of Telangana v. Managipet, (2019) 19 SCC
+87 : (2020) 3 SCC (Cri) 702] and in XYZ [XYZ v. State of Gujarat, (2019) 10 SCC 337 :
+(2020) 1 SCC (Cri) 173] , referred to hereinabove.
+9.3. Applying the law laid down by this Court in the aforesaid decisions to the facts of the case on
+hand, we are of the opinion that the High Court has exceeded its jurisdiction in quashing the
+criminal proceedings in exercise of powers under Section 482 CrPC.
+10. The High Court has failed to appreciate and consider the fact that there are very serious triable
+issues/allegations which are required to be gone into and considered at the time of trial. The High
+Court has lost sight of crucial aspects which have emerged during the course of the investigation.
+The High Court has failed to appreciate and consider the fact that the document i.e. a joint notarised
+affidavit of Mamta Gupta Accused 2 and Munni Devi under which according to Accused 2 Ms
+Mamta Gupta, Rs 25 lakhs was paid and the possession was transferred to her itself is seriously
+disputed. It is required to be noted that in the registered agreement to sell dated 27- 10-2010, the
+Indian Kanoon - http://indiankanoon.org/doc/191316093/ 13
+M/S Ib Track Solutions Pvt Ltd vs State Of Karnataka on 17 October, 2022
+sale consideration is stated to be Rs 25 lakhs and with no reference to payment of Rs 25 lakhs to Ms
+Munni Devi and no reference to handing over the possession. However, in the joint notarised
+affidavit of the same date i.e. 27-10-2010 sale consideration is stated to be Rs 35 lakhs out of which
+Rs 25 lakhs is alleged to have been paid and there is a reference to transfer of possession to Accused
+2. Whether Rs 25 lakhs has been paid or not the accused have to establish during the trial, because
+the accused are relying upon the said document and payment of Rs 25 lakhs as mentioned in the
+joint notarised affidavit dated 27-10-2010. It is also required to be considered that the first
+agreement to sell in which Rs 25 lakhs is stated to be sale consideration and there is reference to the
+payment of Rs 10 lakhs by cheques. It is a registered document. The aforesaid are all triable
+issues/allegations which are required to be considered at the time of trial. The High Court has failed
+to notice and/or consider the material collected during the investigation.
+11. Now so far as the finding recorded by the High Court that no case is made out for the offence
+under Section 406 IPC is concerned, it is to be noted that the High Court itself has noted that the
+joint notarised affidavit dated 27-10-2010 is seriously disputed, however as per the High Court the
+same is required to be considered in the civil proceedings. There the High Court has committed an
+error. Even the High Court has failed to notice that another FIR has been lodged against the accused
+for the offences under Sections 467, 468, 471 IPC with respect to the said alleged joint notarised
+affidavit. Even according to the accused the possession was handed over to them. However, when
+the payment of Rs 25 lakhs as mentioned in the joint notarised affidavit is seriously disputed and
+even one of the cheques out of 5 cheques each of Rs 2 lakhs was dishonoured and according to the
+accused they were handed over the possession (which is seriously disputed) it can be said to be
+entrustment of property. Therefore, at this stage to opine that no case is made out for the offence
+under Section 406 IPC is premature and the aforesaid aspect is to be considered during trial. It is
+also required to be noted that the first suit was filed by Munni Devi and thereafter subsequent suit
+came to be filed by the accused and that too for permanent injunction only. Nothing is on record
+that any suit for specific performance has been filed. Be that as it may, all the aforesaid aspects are
+required to be considered at the time of trial only.
+12. Therefore, the High Court has grossly erred in quashing the criminal proceedings by entering
+into the merits of the allegations as if the High Court was exercising the appellate jurisdiction
+and/or conducting the trial. The High Court has exceeded its jurisdiction in quashing the criminal
+proceedings in exercise of powers under Section 482 CrPC.
+13. Even the High Court has erred in observing that original complaint has no locus. The aforesaid
+observation is made on the premise that the complainant has not placed on record the power of
+attorney along with the counter filed before the High Court. However, when it is specifically stated
+in the FIR that Munni Devi has executed the power of attorney and thereafter the investigating
+officer has conducted the investigation and has recorded the statement of the complainant, accused
+and the independent witnesses, thereafter whether the complainant is having the power of attorney
+or not is to be considered during trial.
+14. In view of the above and for the reasons stated above, the impugned judgment and order
+[Radhey Shyam Gupta v. State of U.P., 2020 SCC OnLine All 914] passed by the High Court
+Indian Kanoon - http://indiankanoon.org/doc/191316093/ 14
+M/S Ib Track Solutions Pvt Ltd vs State Of Karnataka on 17 October, 2022
+quashing the criminal proceedings in exercise of powers under Section 482 CrPC is unsustainable
+and the same deserves to be quashed and set aside and is accordingly quashed and set aside. Now,
+the trial is to be conducted and proceeded further in accordance with law and on its own merits. It is
+made clear that the observations made by this Court in the present proceedings are to be treated to
+be confined to the proceedings under Section 482 CrPC only and the trial court to decide the case in
+accordance with law and on its own merits and on the basis of the evidence to be laid and without
+being influenced by any of the observations made by us hereinabove. The present appeal is
+accordingly allowed."
+(Emphasis supplied)
+16. In the light of the facts obtaining in the case at hand and the judgment of the Apex Court (supra),
+I do not find any merit to interfere or interdict the investigation, against the petitioners, as any
+interference would amount to putting a premium on the acts of the petitioners, for having
+compromised the security of the nation, which act sans countenance.
+17. In the result, the Criminal Petition lacking merit, is dismissed.
+Consequently, I.A.No.1/2022 also stands dismissed.
+Sd/-
+JUDGE bkp/CT:MJ
+Indian Kanoon - http://indiankanoon.org/doc/191316093/ 15
